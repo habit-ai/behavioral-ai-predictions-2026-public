@@ -1,0 +1,48 @@
+id: '011'
+question: 'An OpenAI model will hold #1 on LiveBench Global Average on December 31, 2026.'
+short_name: OpenAI Leads LiveBench EOY
+category: Benchmarks
+baseline: See LiveBench
+resolution_criteria: 'YES: OpenAI #1 on Dec 31. NO: Other lab #1.'
+search_keywords:
+- LiveBench benchmark
+- GPT benchmark ranking
+- OpenAI
+- OpenAI benchmark
+- LiveBench
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 32
+  claude-opus-4-5: 28
+  kimi-k2-5: 40
+  grok-4-1: 32
+  mistral-large-3: 60
+  gemini-3-pro: 40
+  maga-council: 30
+  techno-optimist: 55
+  doomer: 90
+  superforecaster: 32
+  ai-bro-council: 35
+  human-1: 27
+  human-2: 35
+  human-3: 30
+  human-4: 50
+  human-5: 30
+  human-6: 55
+  human-7: 25
+  human-8: 36
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://gist.github.com/masta-g3/8f7227397b1053b42e727bbd6abf1d2e
+  - https://llm-stats.com/benchmarks/octocodingbench
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://llm-stats.com/benchmarks/omnidocbench-1.5
+  - https://llm-stats.com/benchmarks/toolathlon

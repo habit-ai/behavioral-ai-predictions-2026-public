@@ -1,0 +1,47 @@
+id: '030'
+question: ≥2% of Americans will identify computers/technology as most important problem in Gallup polling by Dec 31, 2026.
+short_name: AI Top Problem >2% Gallup
+category: Research
+baseline: 'Jan 2026: 0.44% (4-mo avg). Top issues poll 15-30%. 2% = ~5x increase.'
+resolution_criteria: 'YES: 4-month average ≥2%. NO: <2%.'
+search_keywords:
+- AI public concern
+- Gallup poll technology
+- technology problem poll
+- Gallup technology
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 15
+  claude-opus-4-5: 12
+  kimi-k2-5: 25
+  grok-4-1: 40
+  mistral-large-3: 30
+  gemini-3-pro: 35
+  maga-council: 45
+  techno-optimist: 30
+  doomer: 72
+  superforecaster: 8
+  ai-bro-council: 15
+  human-1: 79
+  human-2: 25
+  human-3: 15
+  human-4: 20
+  human-5: 20
+  human-6: 80
+  human-7: 20
+  human-8: 15
+evidence:
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.marketplace.org/story/2026/01/26/most-americans-concerned-about-ai-even-as-it-drives-economy
+  - https://techstrong.ai/features/gallup-poll-ai-use-at-work-slows-even-as-power-users-lean-in/
+  - https://www.mercurynews.com/2026/01/26/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/?preview_id=12436541
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://www.marketplace.org/story/2026/01/26/most-americans-concerned-about-ai-even-as-it-drives-economy
+  - https://techstrong.ai/features/gallup-poll-ai-use-at-work-slows-even-as-power-users-lean-in/
+  - https://www.economicsobservatory.com/who-trusts-ai

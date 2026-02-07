@@ -1,0 +1,49 @@
+id: '027'
+question: A meta-review/systematic review will conclude significant association between AI use and decreased critical thinking.
+short_name: AI Critical Thinking Meta-Review
+category: Research
+baseline: Individual studies suggest effects. METR 2025 RCT found AI slowed devs by 19%. No meta-review yet.
+resolution_criteria: 'YES: Meta-review finds significant negative association. NO: None. IF no meta-review is written the
+  question is voided (no point penalty either way).'
+search_keywords:
+- AI thinking study
+- AI cognitive impact
+- AI critical thinking
+- Meta
+- AI cognitive effects
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 28
+  kimi-k2-5: 40
+  grok-4-1: 48
+  mistral-large-3: 35
+  gemini-3-pro: 48
+  maga-council: 45
+  techno-optimist: 35
+  doomer: 18
+  superforecaster: 25
+  ai-bro-council: 40
+  human-1: 77
+  human-2: 45
+  human-3: 50
+  human-4: 80
+  human-5: 80
+  human-6: 90
+  human-7: 45
+  human-8: 60
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.sciencedirect.com/science/article/abs/pii/S0747563225002262
+  - https://www.bbc.co.uk/sounds/play/w3ct722s
+  - https://www.nature.com/articles/s44387-025-00063-1
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.sciencedirect.com/science/article/abs/pii/S0747563225002262
+  - https://www.leavenworthecho.com/premium/theconversation/stories/artificial-metacognition-giving-an-ai-the-ability-to-think-about-its-thinking,160940?
+  - https://www.thepromptindex.com/title-ai-metacognition-and-the-verification-bottleneck-a-3-wave-look-at-how-humans-solve-problems-with-ai.html

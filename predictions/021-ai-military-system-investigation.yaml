@@ -1,0 +1,46 @@
+id: '021'
+question: An AI system for military decisions will become subject of congressional hearing, UN discussion, or major investigation.
+short_name: AI Military System Investigation
+category: AI Safety
+baseline: No major hearing on specific system yet.
+resolution_criteria: 'YES: Formal hearing/investigation on specific system. NO: None.'
+search_keywords:
+- autonomous weapons
+- AI warfare
+- AI military
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 70
+  claude-opus-4-5: 42
+  kimi-k2-5: 35
+  grok-4-1: 52
+  mistral-large-3: 50
+  gemini-3-pro: 78
+  maga-council: 35
+  techno-optimist: 30
+  doomer: 85
+  superforecaster: 42
+  ai-bro-council: 50
+  human-1: 22
+  human-2: 75
+  human-3: 50
+  human-4: 10
+  human-5: 70
+  human-6: 60
+  human-7: 55
+  human-8: 30
+evidence:
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://www.eweek.com/news/china-autonomous-drone-swarms-ai-weapons/
+  - https://www.frost.com/growth-opportunity-news/aerospace-defense/defense-industry/top-growth-opportunities-reshaping-global-military-power-in-2026-and01_tg02_top10gosad2026_jan26_cim-ms/
+  - https://timesofindia.indiatimes.com/science/inside-chinas-ai-army-drones-learn-to-hunt-and-kill-like-natures-predators/articleshow/127500814.cms
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.eweek.com/news/china-autonomous-drone-swarms-ai-weapons/
+  - https://www.thetimes.com/world/russia-ukraine-war/article/kill-chains-future-warfare-human-ai-wwntgxbtr
+  - https://timesofindia.indiatimes.com/science/inside-chinas-ai-army-drones-learn-to-hunt-and-kill-like-natures-predators/articleshow/127500814.cms

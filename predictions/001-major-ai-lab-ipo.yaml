@@ -1,0 +1,49 @@
+id: '001'
+question: At least one major AI lab (OpenAI, Anthropic, xAI, Mistral, Cohere) will file for or complete an IPO in 2026.
+short_name: Major AI Lab IPO
+category: AI Industry
+baseline: As of Jan 2026, none have gone public.
+resolution_criteria: 'YES: S-1 filing or IPO completed. NO: No filing by Dec 31, 2026.'
+search_keywords:
+- xAI
+- Mistral
+- Cohere
+- OpenAI
+- Anthropic
+- IPO
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 20
+  claude-opus-4-5: 30
+  kimi-k2-5: 25
+  grok-4-1: 85
+  mistral-large-3: 40
+  gemini-3-pro: 28
+  maga-council: 65
+  techno-optimist: 65
+  doomer: 85
+  superforecaster: 28
+  ai-bro-council: 30
+  human-1: 78
+  human-2: 75
+  human-3: 75
+  human-4: 65
+  human-5: 30
+  human-6: 20
+  human-7: 45
+  human-8: 70
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html
+  - https://businessengineer.ai/p/microsoft-in-the-ai-stack
+  - https://forgeglobal.com/cohere_ipo/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html
+  - https://businessengineer.ai/p/microsoft-in-the-ai-stack
+  - https://forgeglobal.com/cohere_ipo/

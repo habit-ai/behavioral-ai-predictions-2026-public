@@ -1,0 +1,47 @@
+id: 029
+question: METR's 2026 uplift study will show AI tools speed up experienced developers (>1.0x speedup).
+short_name: 'METR: AI Speeds Up Devs'
+category: Research
+baseline: '2025 METR RCT: 19% slowdown (~0.81x) when devs used AI on real open-source issues.'
+resolution_criteria: 'YES: >1.0x speedup. NO: ≤1.0x. Ambiguous if no study.'
+search_keywords:
+- AI coding productivity
+- METR benchmark
+- METR developer
+- AI developer uplift
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 70
+  claude-opus-4-5: 45
+  kimi-k2-5: 55
+  grok-4-1: 65
+  mistral-large-3: 30
+  gemini-3-pro: 72
+  maga-council: 80
+  techno-optimist: 65
+  doomer: 96
+  superforecaster: 35
+  ai-bro-council: 65
+  human-1: 88
+  human-2: 35
+  human-3: 35
+  human-4: 60
+  human-5: 80
+  human-6: 70
+  human-7: 55
+  human-8: 15
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.tabulamag.com/p/metr-ai-study-of-developer-productivity
+  - https://www.darioamodei.com/essay/the-adolescence-of-technology
+  - https://www.syncfusion.com/blogs/post/ai-code-editors-2026
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.tabulamag.com/p/metr-ai-study-of-developer-productivity
+  - https://www.darioamodei.com/essay/the-adolescence-of-technology
+  - https://www.syncfusion.com/blogs/post/ai-code-editors-2026

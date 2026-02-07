@@ -1,0 +1,41 @@
+id: '033'
+question: Best AI automation rate on RLI will exceed 15% by December 31, 2026.
+short_name: Remote Labor Index >15%
+category: AI Capabilities
+baseline: 'Jan 2026: Opus 4.5 3.75%, Manus 2.5%, Sonnet 4.5 2.1%. RLI = 240 real Upwork projects.'
+resolution_criteria: 'YES: Any AI >15%. NO: Best ≤15%.'
+search_keywords:
+- 'Best AI automation rate on RLI will exceed 15% by '
+- RLI benchmark
+- Remote Labor Index
+- AI Upwork automation
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 20
+  kimi-k2-5: 30
+  grok-4-1: 62
+  mistral-large-3: 45
+  gemini-3-pro: 30
+  maga-council: 75
+  techno-optimist: 50
+  doomer: 11
+  superforecaster: 22
+  ai-bro-council: 40
+  human-1: 62
+  human-2: 30
+  human-3: 15
+  human-4: 50
+  human-5: 50
+  human-6: 30
+  human-7: 20
+  human-8: 10
+evidence:
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market
+  - https://www.prnewswire.com/news-releases/rsm-survey-shows-middle-market-firms-investing-in-ai-and-skills-training-as-hiring-challenges-persist-302672726.html
+  - https://www.prnewswire.com/news-releases/robotic-process-automation-market-to-reach-usd-20-79-billion-by-2032-as-enterprises-redesign-ai-driven-operating-models-mmr-statistics-302672701.html

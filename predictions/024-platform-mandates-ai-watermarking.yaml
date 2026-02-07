@@ -1,0 +1,47 @@
+id: '024'
+question: A major social media platform will implement mandatory AI watermarking for all AI-generated content uploaded.
+short_name: Platform Mandates AI Watermarking
+category: AI Safety
+baseline: 'As of Jan 2026: No major platform mandates technical watermarking. Current policies require voluntary disclosure
+  labels (Meta, TikTok, YouTube). C2PA standard exists but adoption is optional. EU AI Act requires disclosure but implementation
+  details pending.'
+resolution_criteria: 'YES: Mandatory watermarking (not voluntary). NO: No mandate.'
+search_keywords:
+- AI watermarking
+- AI content detection
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 30
+  claude-opus-4-5: 22
+  kimi-k2-5: 25
+  grok-4-1: 62
+  mistral-large-3: 65
+  gemini-3-pro: 40
+  maga-council: 35
+  techno-optimist: 20
+  doomer: 77
+  superforecaster: 15
+  ai-bro-council: 25
+  human-1: 23
+  human-2: 55
+  human-3: 65
+  human-4: 70
+  human-5: 60
+  human-6: 10
+  human-7: 25
+  human-8: 5
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.zdnet.com/article/ai-image-fake-signs-free-detectors/
+  - https://www.diplomacy.edu/blog/certifying-humanity-labeling-content-amid-ai-flood/
+  - https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.tomsguide.com/ai/tired-of-being-flagged-by-ai-i-started-watermarking-my-writing-to-prove-im-human
+  - https://www.diplomacy.edu/blog/certifying-humanity-labeling-content-amid-ai-flood/
+  - https://www.zdnet.com/article/ai-image-fake-signs-free-detectors/

@@ -1,0 +1,45 @@
+id: '006'
+question: A humanoid robot for home/consumer use will ship >500,000 units globally in 2026.
+short_name: Consumer Humanoid >500K Units
+category: AI Industry
+baseline: Consumer humanoids (Unitree H1, Figure, 1X NEO) shipped <10K total.
+resolution_criteria: 'YES: >500K units confirmed. NO: Below threshold.'
+search_keywords:
+- humanoid robot
+- consumer robot
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 15
+  claude-opus-4-5: 8
+  kimi-k2-5: 8
+  grok-4-1: 12
+  mistral-large-3: 30
+  gemini-3-pro: 12
+  maga-council: 65
+  techno-optimist: 35
+  doomer: 88
+  superforecaster: 2
+  ai-bro-council: 18
+  human-1: 1
+  human-2: 25
+  human-3: 5
+  human-4: 10
+  human-5: 10
+  human-6: 10
+  human-7: 1
+  human-8: 2
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260
+  - https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/
+  - https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.techloy.com/figure-ais-helix-02-completes-4-minute-autonomous-kitchen-task-setting-new-humanoid-robotics-benchmark/
+  - https://www.humanoidsdaily.com/news/fauna-robotics-exits-stealth-with-sprout-a-soft-bodied-humanoid-for-the-messy-reality-of-shared-spaces
+  - https://robohorizon.com/en-us/news/2026/01/fauna-robotics-unveils-sprout-a-humanoid-platform-built-for-people/

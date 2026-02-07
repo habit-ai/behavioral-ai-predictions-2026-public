@@ -1,0 +1,49 @@
+id: '040'
+question: A book disclosed as primarily AI-written (>50%) will reach NYT bestseller or Amazon top 100 in 2026.
+short_name: AI Book Bestseller
+category: AI Capabilities
+baseline: 'As of Jan 2026: AI-assisted books exist but no disclosed primarily-AI-written book (>50%) has hit NYT bestseller
+  list or Amazon top 100. Amazon requires AI disclosure since 2023. Several AI-generated books sold but none achieved major
+  bestseller status.'
+resolution_criteria: 'YES: Disclosed AI book reaches NYT/Amazon top 100. NO: None.'
+search_keywords:
+- AI book NYT
+- AI book
+- AI author bestseller
+- AI written book
+- AI authored
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 40
+  claude-opus-4-5: 12
+  kimi-k2-5: 15
+  grok-4-1: 15
+  mistral-large-3: 20
+  gemini-3-pro: 20
+  maga-council: 40
+  techno-optimist: 50
+  doomer: 98
+  superforecaster: 12
+  ai-bro-council: 30
+  human-1: 8
+  human-2: 55
+  human-3: 25
+  human-4: 50
+  human-5: 60
+  human-6: 60
+  human-7: 15
+  human-8: 20
+evidence:
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://chipublib.bibliocommons.com/v2/record/S980C11688219
+  - https://www.penguinrandomhouse.com/books/782388/how-to-ai-by-christopher-mims/
+  - https://janefriedman.com/links-of-interest-jan-28-2026/
+- date: '2026-02-01'
+  summary: Found 2 articles
+  sources:
+  - https://www.penguinrandomhouse.com/books/782388/how-to-ai-by-christopher-mims/
+  - https://janefriedman.com/links-of-interest-jan-28-2026/

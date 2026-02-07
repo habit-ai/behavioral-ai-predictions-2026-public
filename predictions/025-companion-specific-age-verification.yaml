@@ -1,0 +1,47 @@
+id: '025'
+question: A major general AI platform will introduce age verification specifically for companion/relationship-style AI interactions
+  or features.
+short_name: Companion-Specific Age Verification
+category: AI Safety
+baseline: OpenAI age prediction aims to reduce risk of teens having access to "grown-up" features, but only limits sexual
+  or violent roleplay, other forms of companionship still enabled (Jan 2026). Apps the likes of Character.AI or Replika does
+  not apply, only general use AI chat platforms. GUARD Act proposed.
+resolution_criteria: 'YES: Companion-specific age restrictions. NO: Only general restrictions.'
+search_keywords:
+- A major general AI platform will introduce age ver
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 40
+  claude-opus-4-5: 38
+  kimi-k2-5: 40
+  grok-4-1: 55
+  mistral-large-3: 70
+  gemini-3-pro: 58
+  maga-council: 70
+  techno-optimist: 25
+  doomer: 89
+  superforecaster: 38
+  ai-bro-council: 30
+  human-1: 12
+  human-2: 60
+  human-3: 75
+  human-4: 100
+  human-5: 70
+  human-6: 80
+  human-7: 50
+  human-8: 20
+evidence:
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.it-ts.co.uk/tech-insight-openai-brings-age-prediction-to-chatgpt-consumer-accounts
+  - https://mashable.com/article/open-ai-age-prediction-teens
+  - https://en.tempo.co/read/2083001/meta-pauses-teen-access-to-ai-characters-amid-scrutiny
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://mashable.com/article/open-ai-age-prediction-teens
+  - https://www.rg-cs.co.uk/openai-brings-age-prediction-to-chatgpt-consumer-accounts/
+  - https://www.mayerbrown.com/en/insights/publications/2026/01/global-privacy-watchlist

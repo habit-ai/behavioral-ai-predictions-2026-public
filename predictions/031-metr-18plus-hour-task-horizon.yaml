@@ -1,0 +1,47 @@
+id: '031'
+question: Best AI model will achieve time horizon of 18+ hours on METR task suite by December 31, 2026.
+short_name: METR 18+ Hour Task Horizon
+category: AI Capabilities
+baseline: 'Dec 2025: Opus 4.5 at ~4hr 49min (highest). GPT-5.1-Codex-Max ~2h 53m. Doubling ~4-5 months recently.'
+resolution_criteria: 'YES: ≥18hr 50%-time horizon. NO: <18 hours.'
+search_keywords:
+- METR task
+- METR benchmark
+- AI task horizon
+- AI agent benchmark
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 30
+  claude-opus-4-5: 40
+  kimi-k2-5: 65
+  grok-4-1: 78
+  mistral-large-3: 40
+  gemini-3-pro: 55
+  maga-council: 90
+  techno-optimist: 55
+  doomer: 81
+  superforecaster: 52
+  ai-bro-council: 20
+  human-1: 87
+  human-2: 80
+  human-3: 70
+  human-4: 50
+  human-5: 50
+  human-6: 70
+  human-7: 50
+  human-8: 10
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://identosphere.net/web3/
+  - https://www.greaterwrong.com/users/daniel-kokotajlo
+  - https://aievaluation.substack.com/p/2026-january-ai-evaluation-digest
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://metr.org/
+  - https://www.greaterwrong.com/users/daniel-kokotajlo
+  - https://aievaluation.substack.com/p/2026-january-ai-evaluation-digest

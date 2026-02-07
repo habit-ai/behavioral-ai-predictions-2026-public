@@ -1,0 +1,50 @@
+id: '014'
+question: 'A model from lab other than OpenAI, Anthropic, or Google will hold #1 on LiveBench on December 31, 2026.'
+short_name: Other Lab Leads LiveBench EOY
+category: Benchmarks
+baseline: See LiveBench
+resolution_criteria: 'YES: Non-big-three model #1 on Dec 31. NO: Big three holds #1.'
+search_keywords:
+- Google
+- Anthropic
+- LiveBench benchmark
+- OpenAI
+- model benchmark ranking
+- LiveBench
+- AI benchmark
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 27
+  claude-opus-4-5: 20
+  kimi-k2-5: 5
+  grok-4-1: 8
+  mistral-large-3: 20
+  gemini-3-pro: 10
+  maga-council: 35
+  techno-optimist: 5
+  doomer: 94
+  superforecaster: 21
+  ai-bro-council: 10
+  human-1: 11
+  human-2: 10
+  human-3: 10
+  human-4: 20
+  human-5: 10
+  human-6: 40
+  human-7: 25
+  human-8: 5
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://llm-stats.com/benchmarks/livebench?tab=discussions
+  - https://llm-stats.com/benchmarks/livebench-20241125?tab=discussions
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://llm-stats.com/benchmarks/livebench?tab=discussions
+  - https://llm-stats.com/benchmarks/livebench-20241125?tab=discussions

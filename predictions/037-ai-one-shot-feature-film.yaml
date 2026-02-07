@@ -1,0 +1,55 @@
+id: '037'
+question: AI be able to generate a feature length high-quality film based on one prompt (one-shot)
+short_name: AI One-Shot Feature Film
+category: AI Capabilities
+baseline: 'As of Jan 2026: AI video generators (Sora, Runway, Kling) produce clips up to ~1-5 minutes. No demonstration of
+  coherent 90+ minute narrative from single prompt. Current workflow requires extensive scene-by-scene prompting, human editing,
+  and stitching.'
+resolution_criteria: 'YES: A single AI system produces a 90+ minute narrative film from one initial text prompt (no iterative
+  prompting or human scene-by-scene direction). Minor human post-processing (color grading, sound mixing) is allowed; human-directed
+  scene editing, re-prompting, or stitching separately-generated segments is NOT allowed.
+
+  NO: No such film demonstrated by Dec 31, 2026.'
+search_keywords:
+- AI film
+- Sora feature length
+- AI movie generation
+- AI feature film
+- AI generated video
+- AI movie
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 20
+  claude-opus-4-5: 4
+  kimi-k2-5: 5
+  grok-4-1: 10
+  mistral-large-3: 30
+  gemini-3-pro: 4
+  maga-council: 35
+  techno-optimist: 40
+  doomer: 8
+  superforecaster: 3
+  ai-bro-council: 5
+  human-1: 3
+  human-2: 40
+  human-3: 5
+  human-4: 35
+  human-5: 10
+  human-6: 75
+  human-7: 10
+  human-8: 1
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.prnewswire.com/news-releases/ai-generated-feature-films-have-arrivedearlier-than-predicted-302669437.html
+  - https://www.animationmagazine.net/2026/01/frame-forward-ai-animated-film-fest-reveals-trio-of-finalists/
+  - https://studio.aifilms.ai/blog/sora-2-runway-gen-4-solve-jitter-problem-2026
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.prnewswire.com/news-releases/ai-generated-feature-films-have-arrivedearlier-than-predicted-302669437.html
+  - https://www.cnet.com/tech/services-and-software/best-ai-video-generators/
+  - https://gigazine.net/gsc_news/en/20260127-google-dear-upstairs-neighbors/

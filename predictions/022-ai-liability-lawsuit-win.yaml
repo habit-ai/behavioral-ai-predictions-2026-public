@@ -1,0 +1,45 @@
+id: '022'
+question: A court will rule for plaintiff holding AI company liable for psychological or physical harm in 2026.
+short_name: AI Liability Lawsuit Win
+category: AI Safety
+baseline: Multiple lawsuits filed (Character.AI wrongful death). No ruling for plaintiffs yet.
+resolution_criteria: 'YES: Judgment or settlement with liability admission. NO: None.'
+search_keywords:
+- AI liability
+- AI lawsuit
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 28
+  kimi-k2-5: 45
+  grok-4-1: 42
+  mistral-large-3: 30
+  gemini-3-pro: 45
+  maga-council: 45
+  techno-optimist: 25
+  doomer: 93
+  superforecaster: 22
+  ai-bro-council: 35
+  human-1: 76
+  human-2: 55
+  human-3: 55
+  human-4: 70
+  human-5: 80
+  human-6: 60
+  human-7: 40
+  human-8: 30
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.techpolicy.press/breaking-down-a-class-action-lawsuit-filed-over-grok-undressing-controversy/
+  - https://cyberscoop.com/grok-undressed-victims-file-class-action-lawsuit-against-xai-elon-musk/
+  - https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.techpolicy.press/breaking-down-a-class-action-lawsuit-filed-over-grok-undressing-controversy/
+  - https://cyberscoop.com/grok-undressed-victims-file-class-action-lawsuit-against-xai-elon-musk/
+  - https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/

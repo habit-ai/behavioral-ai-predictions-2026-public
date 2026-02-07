@@ -1,0 +1,49 @@
+id: '012'
+question: 'An Anthropic model (Claude) will hold #1 on LiveBench Global Average on December 31, 2026.'
+short_name: Anthropic Leads LiveBench EOY
+category: Benchmarks
+baseline: See LiveBench
+resolution_criteria: 'YES: Anthropic #1 on Dec 31. NO: Other lab #1.'
+search_keywords:
+- Claude
+- Anthropic
+- LiveBench benchmark
+- Anthropic benchmark ranking
+- LiveBench
+- Claude benchmark
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 23
+  claude-opus-4-5: 25
+  kimi-k2-5: 25
+  grok-4-1: 42
+  mistral-large-3: 30
+  gemini-3-pro: 25
+  maga-council: 25
+  techno-optimist: 15
+  doomer: 10
+  superforecaster: 22
+  ai-bro-council: 30
+  human-1: 27
+  human-2: 15
+  human-3: 25
+  human-4: 50
+  human-5: 60
+  human-6: 45
+  human-7: 25
+  human-8: 38
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.facebook.com/groups/DeepNetGroup/posts/2717607568632108/
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://www.vals.ai/benchmarks/lcb
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.facebook.com/groups/DeepNetGroup/posts/2717607568632108/
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://www.vals.ai/benchmarks/lcb

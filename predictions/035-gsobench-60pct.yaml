@@ -1,0 +1,47 @@
+id: '035'
+question: Best Hack-Adjusted Opt@1 on GSOBench will exceed 60% by December 31, 2026.
+short_name: GSOBench >60%
+category: AI Capabilities
+baseline: 'Jan 2026: GPT-5.2+OpenHands 26.5%, Opus 4.5+OpenHands 24.5%. GSO = 102 codebase optimization tasks.'
+resolution_criteria: 'YES: Any AI >60%. NO: Best ≤60%.'
+search_keywords:
+- GSOBench
+- codebase optimization
+- Best Hack-Adjusted Opt@1 on GSOBench will exceed 6
+- AI code optimization
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 45
+  claude-opus-4-5: 18
+  kimi-k2-5: 25
+  grok-4-1: 48
+  mistral-large-3: 35
+  gemini-3-pro: 40
+  maga-council: 65
+  techno-optimist: 65
+  doomer: 90
+  superforecaster: 20
+  ai-bro-council: 35
+  human-1: 67
+  human-2: 30
+  human-3: 25
+  human-4: 50
+  human-5: 50
+  human-6: 15
+  human-7: 25
+  human-8: 80
+evidence:
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - http://bsdimp.blogspot.com/
+  - http://grepolis.blogspot.com/
+  - http://geoffburns.blogspot.com/
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - http://bsdimp.blogspot.com/
+  - http://grepolis.blogspot.com/
+  - http://geoffburns.blogspot.com/

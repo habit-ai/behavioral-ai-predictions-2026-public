@@ -1,0 +1,52 @@
+id: 038
+question: A feature length film with significant disclosed AI-generated content will receive nomination at major festival/award.
+short_name: AI Film Festival Nomination
+category: AI Capabilities
+baseline: 'As of Jan 2026: AI-assisted films have screened at festivals (e.g., Sundance, SXSW sidebar events) but no official
+  competition nomination for a film with disclosed significant AI-generated content at major festivals (Cannes, Venice, Oscars,
+  etc.)'
+resolution_criteria: 'YES: Nomination for film with disclosed AI content. NO: None.'
+search_keywords:
+- Cannes AI
+- AI film
+- AI film festival
+- AI movie nomination
+- Oscar AI
+- AI generated video
+- AI movie
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 25
+  kimi-k2-5: 25
+  grok-4-1: 40
+  mistral-large-3: 35
+  gemini-3-pro: 25
+  maga-council: 65
+  techno-optimist: 35
+  doomer: 83
+  superforecaster: 25
+  ai-bro-council: 20
+  human-1: 1
+  human-2: 65
+  human-3: 45
+  human-4: 40
+  human-5: 10
+  human-6: 5
+  human-7: 55
+  human-8: 1
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://variety.com/2026/film/news/sundance-ai-doc-1236641352/
+  - https://deadline.com/2026/01/runway-ai-festival-adding-new-categories-1236700233/
+  - https://www.screendaily.com/news/nouvelle-vague-leads-nominations-for-frances-2026-cesar-awards/5213125.article
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.sundance.org/blogs/2026-sundance-film-festival-producers-celebration-honors-two-producers-with-sundance-institute-amazon-mgm-studios-producers-awards/
+  - https://woodburynewsnet.org/6292/arts-entertainment/26-exciting-movies-coming-out-in-2026/
+  - https://nilefm.com/news/article/12050/the-academy-sets-the-stage-2026-oscars-date-officially-announced

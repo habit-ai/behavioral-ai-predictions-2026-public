@@ -1,0 +1,45 @@
+id: '005'
+question: A country will report ≥5% annual GDP growth with AI cited as primary contributor in 2026.
+short_name: AI 5%+ GDP Growth Country
+category: AI Industry
+baseline: No country has attributed significant GDP growth to AI. US GDP ~2.5% in 2024-2025.
+resolution_criteria: 'YES: Official report credits AI for ≥5% growth. NO: None.'
+search_keywords:
+- AI economic growth
+- AI GDP impact
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 10
+  claude-opus-4-5: 8
+  kimi-k2-5: 10
+  grok-4-1: 5
+  mistral-large-3: 35
+  gemini-3-pro: 6
+  maga-council: 10
+  techno-optimist: 40
+  doomer: 65
+  superforecaster: 4
+  ai-bro-council: 10
+  human-1: 3
+  human-2: 25
+  human-3: 5
+  human-4: 40
+  human-5: 10
+  human-6: 80
+  human-7: 10
+  human-8: 2
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.bankofcanada.ca/publications/mpr/mpr-2026-01-28/global-economy/
+  - https://capitalanalyticsassociates.com/5-reasons-why-tech-led-business-investment-is-pulling-the-us-economy-forward-in-2026/
+  - https://www.etftrends.com/artificial-intelligence-content-hub/ai-spending-hit-56-gdp-2030-alger-projects/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.ainvest.com/news/rebound-economy-ai-driven-growth-wave-2026-strategic-opportunities-innovation-led-sectors-2601/
+  - https://thefinanser.com/2026/01/is-ai-bigger-than-the-industrial-revolution-the-white-house-thinks-so
+  - https://www.forbesindia.com/article/budget-2026/ai-council-growth-outlook-us-tariffs-key-takeaways-from-economic-survey/2990819/1

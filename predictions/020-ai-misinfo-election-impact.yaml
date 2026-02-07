@@ -1,0 +1,46 @@
+id: '020'
+question: AI-generated misinformation will be officially cited as materially affecting a national election or triggering formal
+  investigation.
+short_name: AI Misinfo Election Impact
+category: AI Safety
+baseline: Deepfakes appeared in elections but no official attribution of material impact.
+resolution_criteria: 'YES: Official finding of material election impact. NO: None.'
+search_keywords:
+- AI misinformation
+- AI election
+- deepfake election
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 45
+  claude-opus-4-5: 32
+  kimi-k2-5: 40
+  grok-4-1: 68
+  mistral-large-3: 55
+  gemini-3-pro: 65
+  maga-council: 28
+  techno-optimist: 40
+  doomer: 80
+  superforecaster: 35
+  ai-bro-council: 30
+  human-1: 17
+  human-2: 30
+  human-3: 35
+  human-4: 20
+  human-5: 70
+  human-6: 60
+  human-7: 55
+  human-8: 40
+evidence:
+- date: '2026-02-01'
+  summary: Found 2 articles
+  sources:
+  - https://www.rstreet.org/commentary/ai-and-elections-what-to-watch-for-in-2026/
+  - https://www.powerofusnewsletter.com/p/when-ai-can-fake-majorities-democracy
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://www.rstreet.org/commentary/ai-and-elections-what-to-watch-for-in-2026/
+  - https://www.facebook.com/KFYRtv/posts/nd-ag-wrigley-joins-34-states-demanding-action-on-ai-deepfakesfull-story-httpsww/1337402891758695/
+  - https://courthousenews.com/hawaiis-deepfake-law-struck-down-over-free-speech-concerns/

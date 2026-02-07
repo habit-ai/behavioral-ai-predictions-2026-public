@@ -1,0 +1,48 @@
+id: '004'
+question: ChatGPT will have 1 billion weekly active users as of December 31, 2026.
+short_name: ChatGPT 1B WAU
+category: AI Industry
+baseline: 'As of Jan 2026: ~800M WAU (up from 300M Dec 2024, 400M Feb 2025).'
+resolution_criteria: 'YES: ≥1B WAU confirmed. NO: Below 1B.'
+search_keywords:
+- ChatGPT users
+- ChatGPT 1 billion
+- ChatGPT growth
+- ChatGPT
+- ChatGPT WAU
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 55
+  claude-opus-4-5: 50
+  kimi-k2-5: 60
+  grok-4-1: 60
+  mistral-large-3: 60
+  gemini-3-pro: 91
+  maga-council: 85
+  techno-optimist: 85
+  doomer: 78
+  superforecaster: 58
+  ai-bro-council: 55
+  human-1: 91
+  human-2: 75
+  human-3: 85
+  human-4: 98
+  human-5: 60
+  human-6: 80
+  human-7: 55
+  human-8: 98
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users
+  - https://aakashgupta.medium.com/the-chatgpt-app-store-has-900m-weekly-users-heres-how-to-build-for-it-99a7dcde81ef
+  - https://dorukkasoglu.medium.com/chatgpt-just-made-3-4-billion-on-mobile-changed-the-app-store-forever-f3b3086eabb4
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://digiday.com/marketing/as-chatgpts-growth-slows-ads-look-like-the-next-risky-move/
+  - https://aakashgupta.medium.com/the-chatgpt-app-store-has-900m-weekly-users-heres-how-to-build-for-it-99a7dcde81ef
+  - https://fourweekmba.com/chatgpt-health-launches-230-million-users-ask-health-questions-weekly/

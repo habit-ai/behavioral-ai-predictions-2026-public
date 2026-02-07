@@ -1,0 +1,48 @@
+id: '016'
+question: An AI system will be credited with solving a Millennium Prize Problem in 2026.
+short_name: AI Solves Millennium Prize
+category: Benchmarks
+baseline: 6 problems unsolved. AlphaProof solved 4/6 IMO 2024 problems. No Millennium Prize solution.
+resolution_criteria: 'YES: Clay Institute accepts AI solution. NO: None.'
+search_keywords:
+- AI math proof
+- AlphaProof
+- An AI system will be credited with solving a Mille
+- Clay Institute
+- Millennium Prize
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 2
+  claude-opus-4-5: 3
+  kimi-k2-5: 2
+  grok-4-1: 4
+  mistral-large-3: 10
+  gemini-3-pro: 8
+  maga-council: 15
+  techno-optimist: 5
+  doomer: 75
+  superforecaster: 1
+  ai-bro-council: 1
+  human-1: 6
+  human-2: 20
+  human-3: 5
+  human-4: 20
+  human-5: 50
+  human-6: 10
+  human-7: 10
+  human-8: 15
+evidence:
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://www.nature.com/articles/s42256-025-01164-x
+  - https://www.nature.com/articles/s41586-025-09962-4
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://www.nature.com/articles/s42256-025-01164-x
+  - https://www.nature.com/articles/s41586-025-09962-4

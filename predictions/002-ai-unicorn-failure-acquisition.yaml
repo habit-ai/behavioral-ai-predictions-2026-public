@@ -1,0 +1,45 @@
+id: '002'
+question: At least one AI company valued >$1B will file for bankruptcy, shut down, or be acquired at >50% discount to peak
+  valuation in 2026.
+short_name: AI Unicorn Failure/Acquisition
+category: AI Industry
+baseline: No major AI lab has failed.
+resolution_criteria: 'YES: Bankruptcy, shutdown, or >50% discount acquisition. NO: No such event.'
+search_keywords:
+- 'At least one AI company valued >$1B will file for '
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 55
+  claude-opus-4-5: 55
+  kimi-k2-5: 35
+  grok-4-1: 45
+  mistral-large-3: 30
+  gemini-3-pro: 32
+  maga-council: 30
+  techno-optimist: 55
+  doomer: 92
+  superforecaster: 62
+  ai-bro-council: 65
+  human-1: 3
+  human-2: 70
+  human-3: 85
+  human-4: 10
+  human-5: 60
+  human-6: 40
+  human-7: 65
+  human-8: 5
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/
+  - https://fintool.com/news/anthropic-350-billion-funding-round
+  - https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.reuters.com/world/asia-pacific/neocloud-startup-palebluedot-valued-1-billion-b-capital-led-round-2026-01-28/
+  - https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/
+  - https://fintool.com/news/anthropic-350-billion-funding-round

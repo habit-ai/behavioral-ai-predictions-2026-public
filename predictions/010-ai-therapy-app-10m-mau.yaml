@@ -1,0 +1,50 @@
+id: '010'
+question: 'In 2026 ''How People Are Using GenAI'' report, Therapy/Companionship will remain #1 use case.'
+short_name: AI Therapy App 10M MAU
+category: AI Industry
+baseline: '2025 Zao-Sanders: Therapy/Companionship rose #2→#1.'
+resolution_criteria: 'YES: #1 in 2026 survey. NO: Falls to #2 or lower.'
+search_keywords:
+- Zao-Sanders
+- therapy AI usage
+- mental health AI
+- AI companion use
+- GenAI use case
+- AI therapy
+- AI companion
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 50
+  claude-opus-4-5: 55
+  kimi-k2-5: 55
+  grok-4-1: 72
+  mistral-large-3: 45
+  gemini-3-pro: 60
+  maga-council: 75
+  techno-optimist: 80
+  doomer: 70
+  superforecaster: 52
+  ai-bro-council: 60
+  human-1: 89
+  human-2: 75
+  human-3: 65
+  human-4: 30
+  human-5: 70
+  human-6: 80
+  human-7: 60
+  human-8: 75
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.journalijar.com/uploads/2026/01/6979b48b78dd4_IJAR-55352.pdf
+  - https://www.citizen.org/article/
+  - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.journalijar.com/uploads/2026/01/6979b48b78dd4_IJAR-55352.pdf
+  - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
+  - https://link.springer.com/article/10.1186/s12889-026-26283-x

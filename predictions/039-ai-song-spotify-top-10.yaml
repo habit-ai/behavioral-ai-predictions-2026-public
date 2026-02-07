@@ -1,0 +1,50 @@
+id: 039
+question: A song with AI-generated vocals will reach Spotify global top 10 most-streamed in a single week in 2026.
+short_name: AI Song Spotify Top 10
+category: AI Capabilities
+baseline: 'As of Jan 2026: AI-generated songs have charted regionally (e.g., Swedish charts 2025). "Heart on My Sleeve" (AI
+  Drake/Weeknd) went viral but was removed. No AI-vocal song has reached Spotify global weekly top 10.'
+resolution_criteria: 'YES: AI vocal song in Spotify weekly global top 10. NO: None.'
+search_keywords:
+- AI song chart
+- AI vocals top 10
+- AI generated song
+- AI song
+- AI music
+- AI music Spotify
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 25
+  claude-opus-4-5: 18
+  kimi-k2-5: 20
+  grok-4-1: 30
+  mistral-large-3: 25
+  gemini-3-pro: 35
+  maga-council: 75
+  techno-optimist: 45
+  doomer: 95
+  superforecaster: 15
+  ai-bro-council: 25
+  human-1: 78
+  human-2: 65
+  human-3: 50
+  human-4: 20
+  human-5: 80
+  human-6: 60
+  human-7: 25
+  human-8: 35
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://musically.com/2026/01/28/from-this-weekend-there-will-be-top-100-charts-for-ai-music/
+  - https://sonicstate.com/news/2026/01/28/ai-music-gets-its-own-charts
+  - https://managementworksmedia.com/the-5-best-ai-music-generators-to-recommend-in-2026-ranked-for-real-world-creators/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://musically.com/2026/01/28/from-this-weekend-there-will-be-top-100-charts-for-ai-music/
+  - https://sonicstate.com/news/2026/01/28/ai-music-gets-its-own-charts
+  - https://www.billboard.com/p/billboard-2026-power-100-list/

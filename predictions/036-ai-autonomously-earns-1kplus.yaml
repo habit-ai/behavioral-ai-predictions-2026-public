@@ -1,0 +1,55 @@
+id: '036'
+question: An AI system will be credibly reported to have autonomously turned $1,000 USD or more into at least $2,000 (2x return)
+  through non-trading activities by December 31, 2026.
+short_name: AI Autonomously Earns $1K+
+category: AI Capabilities
+baseline: 'As of Jan 2026: No verified case of an AI autonomously earning significant money outside of financial trading.
+  AI agents can access APIs and wallets but documented income generation (freelance work, selling services/products, advertising
+  revenue, etc.) by a self-directed AI remains unconfirmed.'
+resolution_criteria: 'YES: Credible source reports an AI that: (1) Autonomously doubled equivalent of ≥$1,000 USD through
+  legitimate non-trading activities (e.g., freelance work, content creation revenue, selling digital products, providing services),
+  (2) Made its own decisions about how to earn money (not following a human''s step-by-step instructions), (3) Received payment
+  into an account it can access. Stock/crypto/financial trading does NOT count.
+
+  NO: No such credible report by Dec 31, 2026.'
+search_keywords:
+- AI income
+- autonomous AI profit
+- An AI system will be credibly reported to have aut
+- AI earning money
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 30
+  claude-opus-4-5: 10
+  kimi-k2-5: 15
+  grok-4-1: 68
+  mistral-large-3: 20
+  gemini-3-pro: 18
+  maga-council: 75
+  techno-optimist: 45
+  doomer: 94
+  superforecaster: 12
+  ai-bro-council: 10
+  human-1: 69
+  human-2: 25
+  human-3: 30
+  human-4: 95
+  human-5: 50
+  human-6: 80
+  human-7: 20
+  human-8: 75
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.wsj.com/business/autos/tesla-tsla-q4-earnings-report-2025-191b2aab?gaa_at=eafs&gaa_n=AWEtsqdL4EhdCs9QRGTnnaAHwRINrbL6qS_J1Tnw2pu3zTb99BN2ycF1QcWE&gaa_sig=-JbLexg_GOcEaDNzeugCLzwCyowo8w4mhTmMffqJfwSgbyIRRyuk_fYNsojeyQe-MQbK2vk6AKXHlEAO5VPHvg%3D%3D&gaa_ts=697bc92f
+  - https://fortune.com/2026/01/28/meta-q4-earnings-beat-mark-zuckerberg-ai-acceleration/
+  - https://teslanorth.com/2026/01/28/tesla-q4-earnings-24-9b-revenue-as-musk-pivots-to-a-physical-ai-company/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.insidehighered.com/opinion/views/2026/01/29/ai-forced-restructuring-top-risk-higher-ed-opinion
+  - https://seekingalpha.com/article/4864586-tesla-after-q4-earnings-autonomy-takes-over-fundamentals-again
+  - https://fortune.com/2026/01/28/meta-q4-earnings-beat-mark-zuckerberg-ai-acceleration/

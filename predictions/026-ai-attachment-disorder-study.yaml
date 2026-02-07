@@ -1,0 +1,47 @@
+id: '026'
+question: A peer-reviewed study will document clinical cases of problematic attachment to AI companions in 2026.
+short_name: AI Attachment Disorder Study
+category: Research
+baseline: Anecdotal reports growing. No clinical case documentation.
+resolution_criteria: 'YES: Peer-reviewed clinical publication. NO: None.'
+search_keywords:
+- AI relationship disorder
+- AI companion addiction
+- AI attachment
+- A peer-reviewed study will document clinical cases
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 55
+  claude-opus-4-5: 42
+  kimi-k2-5: 35
+  grok-4-1: 82
+  mistral-large-3: 50
+  gemini-3-pro: 75
+  maga-council: 75
+  techno-optimist: 45
+  doomer: 92
+  superforecaster: 45
+  ai-bro-council: 55
+  human-1: 81
+  human-2: 75
+  human-3: 85
+  human-4: 100
+  human-5: 80
+  human-6: 80
+  human-7: 70
+  human-8: 75
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
+  - https://www.nature.com/articles/s41598-026-37352-x
+  - https://www.citizen.org/article/counterfeit-companionship-big-tech-ai-chatbots/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
+  - https://www.nature.com/articles/s41598-026-37352-x
+  - https://link.springer.com/article/10.1186/s12889-026-26283-x

@@ -1,0 +1,51 @@
+id: 009
+question: An AI therapy/mental health app will reach >10 million MAU in 2026.
+short_name: 'Therapy/Companionship Remains #1'
+category: AI Industry
+baseline: Woebot shut down consumer app (Jun 2025). Wysa has 'more than 5 million' users, similar to that of BetterHelp as
+  a reference (which requires 35k licensed therapists).
+resolution_criteria: 'YES: AI therapy app >10M MAU. NO: None reaches threshold.'
+search_keywords:
+- AI therapy app
+- mental health AI
+- Wysa
+- AI counseling
+- AI therapy
+- AI companion
+- AI mental health
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 45
+  claude-opus-4-5: 38
+  kimi-k2-5: 45
+  grok-4-1: 38
+  mistral-large-3: 50
+  gemini-3-pro: 55
+  maga-council: 55
+  techno-optimist: 75
+  doomer: 82
+  superforecaster: 32
+  ai-bro-council: 35
+  human-1: 58
+  human-2: 30
+  human-3: 20
+  human-4: 70
+  human-5: 30
+  human-6: 60
+  human-7: 55
+  human-8: 10
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12834449/
+  - https://www.jmir.org/2026/1/e79677/
+  - https://blog.mylifenote.ai/best-apps-for-anxiety/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.jmir.org/2026/1/e79677/
+  - https://www.inyourarea.co.uk/news/why-your-smartphone-might-be-your-digital-therapist-but-is-that-a-good-thing
+  - https://blog.mylifenote.ai/best-apps-for-anxiety/

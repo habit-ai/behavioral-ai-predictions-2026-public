@@ -1,0 +1,47 @@
+id: '017'
+question: A major AI lab will adopt/reference a benchmark measuring AI's psychological/behavioral impacts on users.
+short_name: Behavioral Benchmark Adopted
+category: Benchmarks
+baseline: No such benchmark used by labs.
+resolution_criteria: 'YES: Major lab references in model card/safety report. NO: None. IF no meta-review is written the question
+  is voided (no point penalty either way).'
+search_keywords:
+- A major AI lab will adopt/reference a benchmark me
+- AI safety benchmark
+- AI behavioral benchmark
+- AI psychological impact
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 40
+  claude-opus-4-5: 18
+  kimi-k2-5: 30
+  grok-4-1: 40
+  mistral-large-3: 65
+  gemini-3-pro: 52
+  maga-council: 45
+  techno-optimist: 70
+  doomer: 88
+  superforecaster: 28
+  ai-bro-council: 40
+  human-1: 71
+  human-2: 45
+  human-3: 35
+  human-4: 30
+  human-5: 60
+  human-6: 5
+  human-7: 40
+  human-8: 50
+evidence:
+- date: '2026-02-01'
+  summary: Found 3 articles
+  sources:
+  - https://scale.com/leaderboard/humanitys_last_exam
+  - https://scale.com/leaderboard/adversarial_robustness
+  - https://scale.com/leaderboard/vtb
+- date: '2026-02-01'
+  summary: Found 2 articles
+  sources:
+  - https://scale.com/leaderboard/humanitys_last_exam
+  - https://scale.com/leaderboard/adversarial_robustness

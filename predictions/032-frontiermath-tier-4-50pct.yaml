@@ -1,0 +1,47 @@
+id: '032'
+question: Best AI performance on FrontierMath Tier 4 will exceed 50% by December 31, 2026.
+short_name: FrontierMath Tier 4 >50%
+category: AI Capabilities
+baseline: 'Jan 2026: GPT-5.2 Pro 29.2% on Tier 4. Gemini 3 Pro ~18.75%. Tier 4 = 50 hardest problems.'
+resolution_criteria: 'YES: Any AI >50%. NO: Best ≤50%.'
+search_keywords:
+- FrontierMath benchmark
+- AI math benchmark
+- FrontierMath
+- math problem solving AI
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 25
+  claude-opus-4-5: 38
+  kimi-k2-5: 35
+  grok-4-1: 35
+  mistral-large-3: 30
+  gemini-3-pro: 45
+  maga-council: 85
+  techno-optimist: 60
+  doomer: 87
+  superforecaster: 32
+  ai-bro-council: 30
+  human-1: 82
+  human-2: 60
+  human-3: 40
+  human-4: 50
+  human-5: 50
+  human-6: 55
+  human-7: 55
+  human-8: 35
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://epochai.substack.com/p/introducing-frontiermath-open-problems
+  - https://epochai.substack.com/p/ai-math-capabilities-could-be-jagged
+  - https://www.mdpi.com/2504-2289/10/1/38
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://epochai.substack.com/p/ai-math-capabilities-could-be-jagged
+  - https://www.nature.com/articles/s41586-025-09962-4
+  - https://warsawainews.substack.com/p/warsawai-news-19-25012026

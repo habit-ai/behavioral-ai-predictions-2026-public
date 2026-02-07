@@ -1,0 +1,46 @@
+id: '007'
+question: An AI-native wearable device will sell >10 million units in 2026.
+short_name: AI Wearable 10M Units
+category: AI Industry
+baseline: Meta Ray-Ban glasses ~2M in 2025. Humane AI Pin, Rabbit R1 <100K combined.
+resolution_criteria: 'YES: >10M units. NO: Below threshold.'
+search_keywords:
+- smart glasses
+- AI wearable
+- AI device
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 30
+  claude-opus-4-5: 22
+  kimi-k2-5: 40
+  grok-4-1: 75
+  mistral-large-3: 40
+  gemini-3-pro: 24
+  maga-council: 45
+  techno-optimist: 70
+  doomer: 12
+  superforecaster: 18
+  ai-bro-council: 20
+  human-1: 5
+  human-2: 30
+  human-3: 45
+  human-4: 55
+  human-5: 30
+  human-6: 30
+  human-7: 30
+  human-8: 60
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.androidauthority.com/samsung-ar-glasses-launch-timeline-3636208/
+  - https://www.theverge.com/gadgets/869955/samsung-ar-glasses-are-coming-this-year
+  - https://www.wired.com/story/google-smart-glasses-software-style/
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.androidauthority.com/samsung-ar-glasses-launch-timeline-3636208/
+  - https://www.theverge.com/gadgets/869955/samsung-ar-glasses-are-coming-this-year
+  - https://www.wired.com/story/google-smart-glasses-software-style/

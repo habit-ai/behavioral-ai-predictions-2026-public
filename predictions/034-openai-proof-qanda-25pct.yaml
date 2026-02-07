@@ -1,0 +1,47 @@
+id: '034'
+question: Best AI performance on OpenAI-Proof Q&A will exceed 25% by December 31, 2026.
+short_name: OpenAI-Proof Q&A >25%
+category: AI Capabilities
+baseline: 'Jan 2026: GPT-5.1-Codex-Max 8%, GPT-5.2 3%. Benchmark = 20 internal OpenAI bottlenecks.'
+resolution_criteria: 'YES: Any AI >25%. NO: Best ≤25%.'
+search_keywords:
+- OpenAI Proof
+- AI benchmark internal
+- OpenAI bottleneck
+- OpenAI
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 40
+  claude-opus-4-5: 18
+  kimi-k2-5: 20
+  grok-4-1: 22
+  mistral-large-3: 60
+  gemini-3-pro: 35
+  maga-council: 45
+  techno-optimist: 55
+  doomer: 79
+  superforecaster: 18
+  ai-bro-council: 45
+  human-1: 88
+  human-2: 70
+  human-3: 25
+  human-4: 40
+  human-5: 50
+  human-6: 30
+  human-7: 15
+  human-8: 5
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://www.programming-helper.com/tech/openai-gpt-5-gpt-5-2-unified-architecture-reasoning-2026-ai-breakthrough
+  - https://www.financialcontent.com/article/tokenring-2026-1-28-the-era-of-slow-ai-how-openais-o1-and-o3-are-rewriting-the-rules-of-machine-intelligence
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://www.programming-helper.com/tech/openai-gpt-5-gpt-5-2-unified-architecture-reasoning-2026-ai-breakthrough
+  - https://www.financialcontent.com/article/tokenring-2026-1-28-the-era-of-slow-ai-how-openais-o1-and-o3-are-rewriting-the-rules-of-machine-intelligence

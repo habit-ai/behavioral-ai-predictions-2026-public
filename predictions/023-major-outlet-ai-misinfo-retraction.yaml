@@ -1,0 +1,44 @@
+id: '023'
+question: A major news org (NYT, BBC, CNN, etc.) will retract a story after discovering AI-generated misinformation.
+short_name: Major Outlet AI Misinfo Retraction
+category: AI Safety
+baseline: Minor outlets fooled by AI content. No major outlet retraction citing AI misinfo yet.
+resolution_criteria: 'YES: Major outlet retracts citing AI misinfo. NO: None.'
+search_keywords:
+- A major news org (NYT, BBC, CNN, etc.) will retrac
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 60
+  claude-opus-4-5: 35
+  kimi-k2-5: 30
+  grok-4-1: 78
+  mistral-large-3: 60
+  gemini-3-pro: 88
+  maga-council: 65
+  techno-optimist: 35
+  doomer: 5
+  superforecaster: 18
+  ai-bro-council: 45
+  human-1: 77
+  human-2: 65
+  human-3: 40
+  human-4: 95
+  human-5: 80
+  human-6: 30
+  human-7: 40
+  human-8: 70
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.cnn.com/2026/01/28/politics/false-claims-trump-administration
+  - https://www.nytimes.com/issue/todaysinyt/2026/01/28/todays-new-york-times-international-edition
+  - https://www.thetimes.com/comment/register/article/corrections-and-clarifications-the-times-x9nbft5tq?gaa_at=eafs&gaa_n=AWEtsqdV0AJAoOFVeGnJPwffhgj5tVZL3MwDq3yQLkYdMseTmdKJihNG8foM&gaa_sig=v9u4Jl81aQtPIe8-djOiNzhFoXgl7aPxLwtiu1aoYyABHoPZaGy2QUdJ_NaL0dRuLNcQDgm6qfTb8SxCT-e2yA%3D%3D&gaa_ts=697aa455
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.cnn.com/2026/01/28/politics/false-claims-trump-administration
+  - https://www.cnn.com/2026/01/28/politics/democrats-ice-demands-government-shutdown-risk
+  - https://www.justice-integrity.org/metoo-news-all/metoo-news-posts

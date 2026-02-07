@@ -1,0 +1,49 @@
+id: 028
+question: A meta-review/systematic review will find significant relationship between AI companion use and loneliness.
+short_name: AI Companions & Loneliness Meta-Review
+category: Research
+baseline: Individual studies emerging. No meta-review published yet.
+resolution_criteria: 'YES: Meta-review finds significant relationship. NO: None. IF no meta-review is written the question
+  is voided (no point penalty either way).'
+search_keywords:
+- AI loneliness
+- Meta
+- AI companion loneliness
+- AI companion study
+- AI isolation research
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 45
+  claude-opus-4-5: 22
+  kimi-k2-5: 35
+  grok-4-1: 52
+  mistral-large-3: 40
+  gemini-3-pro: 55
+  maga-council: 55
+  techno-optimist: 40
+  doomer: 84
+  superforecaster: 22
+  ai-bro-council: 35
+  human-1: 78
+  human-2: 45
+  human-3: 85
+  human-4: 80
+  human-5: 80
+  human-6: 80
+  human-7: 40
+  human-8: 10
+evidence:
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://link.springer.com/article/10.1186/s12889-026-26283-x
+  - https://www.citizen.org/article/counterfeit-companionship-big-tech-ai-chatbots/
+  - https://tech.yahoo.com/ai/articles/disruptive-innovation-key-building-world-100000058.html
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://link.springer.com/article/10.1186/s12889-026-26283-x
+  - https://www.citizen.org/article/counterfeit-companionship-big-tech-ai-chatbots/
+  - https://tech.yahoo.com/ai/articles/disruptive-innovation-key-building-world-100000058.html

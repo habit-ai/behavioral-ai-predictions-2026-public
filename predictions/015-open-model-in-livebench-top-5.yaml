@@ -1,0 +1,47 @@
+id: '015'
+question: An open-weights model will be in top 5 on LiveBench Global Average on December 31, 2026.
+short_name: Open Model in LiveBench Top 5
+category: Benchmarks
+baseline: See LiveBench
+resolution_criteria: 'YES: Open model in top 5. NO: All top 5 closed.'
+search_keywords:
+- LiveBench
+- LiveBench benchmark
+- open weights model
+- open source AI benchmark
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 65
+  claude-opus-4-5: 48
+  kimi-k2-5: 35
+  grok-4-1: 55
+  mistral-large-3: 40
+  gemini-3-pro: 65
+  maga-council: 80
+  techno-optimist: 60
+  doomer: 20
+  superforecaster: 55
+  ai-bro-council: 70
+  human-1: 20
+  human-2: 55
+  human-3: 70
+  human-4: 50
+  human-5: 40
+  human-6: 20
+  human-7: 25
+  human-8: 1
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livebench-20241125?tab=discussions
+  - https://llm-stats.com/benchmarks/livebench?tab=discussions
+  - https://llm-stats.com/benchmarks/livecodebench
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livebench-20241125?tab=discussions
+  - https://llm-stats.com/benchmarks/livebench?tab=discussions
+  - https://llm-stats.com/benchmarks/livecodebench

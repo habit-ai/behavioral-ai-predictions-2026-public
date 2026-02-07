@@ -1,0 +1,49 @@
+id: '013'
+question: 'A Google model (Gemini) will hold #1 on LiveBench Global Average on December 31, 2026.'
+short_name: Google Leads LiveBench EOY
+category: Benchmarks
+baseline: See LiveBench
+resolution_criteria: 'YES: Google #1 on Dec 31. NO: Other lab #1.'
+search_keywords:
+- Gemini benchmark
+- Google
+- LiveBench benchmark
+- LiveBench
+- Google AI benchmark ranking
+- Gemini
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 18
+  claude-opus-4-5: 27
+  kimi-k2-5: 30
+  grok-4-1: 18
+  mistral-large-3: 35
+  gemini-3-pro: 25
+  maga-council: 15
+  techno-optimist: 25
+  doomer: 85
+  superforecaster: 25
+  ai-bro-council: 25
+  human-1: 35
+  human-2: 45
+  human-3: 35
+  human-4: 50
+  human-5: 30
+  human-6: 60
+  human-7: 25
+  human-8: 20
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://llm-stats.com/models/compare/gemini-2.0-flash-vs-qwen-2.5-72b-instruct
+  - https://www.tomsguide.com/ai/i-replaced-chatgpt-with-alibabas-new-reasoning-model-for-a-day-heres-what-qwen3-max-thinking-does-better
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://www.vals.ai/benchmarks/lcb
+  - https://llm-stats.com/benchmarks/livecodebench
+  - https://www.geeky-gadgets.com/misleading-ai-model-benchmarks-tests/

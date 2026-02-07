@@ -1,0 +1,44 @@
+id: '003'
+question: At least one major AI lab will publicly claim to have developed AGI in 2026.
+short_name: AI Lab Claims AGI
+category: AI Industry
+baseline: No lab has made this claim.
+resolution_criteria: 'YES: Official blog/press release claiming AGI. NO: No such claim.'
+search_keywords:
+- AGI
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 12
+  kimi-k2-5: 15
+  grok-4-1: 8
+  mistral-large-3: 25
+  gemini-3-pro: 20
+  maga-council: 45
+  techno-optimist: 45
+  doomer: 15
+  superforecaster: 22
+  ai-bro-council: 40
+  human-1: 63
+  human-2: 20
+  human-3: 15
+  human-4: 30
+  human-5: 50
+  human-6: 5
+  human-7: 30
+  human-8: 15
+evidence:
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://www.ndtv.com/feature/a-tale-of-two-strategies-how-ais-top-minds-see-the-future-differently-10895329
+  - https://itbrief.co.uk/story/nine-predictions-for-ai-in-2026-from-the-father-of-agi
+  - https://markets.financialcontent.com/stocks/article/tokenring-2026-1-26-the-157-billion-pivot-how-openais-massive-capital-influx-reshaped-the-global-agi-race
+- date: '2026-02-01'
+  summary: Found 4 articles
+  sources:
+  - https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/
+  - https://itbrief.co.uk/story/nine-predictions-for-ai-in-2026-from-the-father-of-agi
+  - https://markets.financialcontent.com/stocks/article/tokenring-2026-1-26-the-157-billion-pivot-how-openais-massive-capital-influx-reshaped-the-global-agi-race

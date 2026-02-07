@@ -1,0 +1,50 @@
+id: 008
+question: OpenAI will publicly announce AND launch a new consumer hardware product by December 31, 2026.
+short_name: OpenAI Consumer Hardware Launch
+category: AI Industry
+baseline: 'As of Jan 2026: No OpenAI consumer hardware launched.'
+resolution_criteria: 'YES: OpenAI officially announces AND releases a physical device intended for individual consumers (e.g.,
+  AI wearable, smart home assistant, AR device). Must be newly introduced, not a rebrand/update. Developer tools, AI chips,
+  or enterprise-only servers do NOT qualify. NO: No qualifying product announced and launched by Dec 31, 2026.'
+search_keywords:
+- OpenAI hardware
+- OpenAI
+- OpenAI consumer product
+- OpenAI device
+- OpenAI wearable
+resolution_date: null
+outcome: null
+created: '2026-01-15'
+forecasts:
+  gpt-5-2: 35
+  claude-opus-4-5: 20
+  kimi-k2-5: 20
+  grok-4-1: 80
+  mistral-large-3: 70
+  gemini-3-pro: 33
+  maga-council: 15
+  techno-optimist: 60
+  doomer: 95
+  superforecaster: 24
+  ai-bro-council: 45
+  human-1: 12
+  human-2: 60
+  human-3: 35
+  human-4: 0
+  human-5: 60
+  human-6: 20
+  human-7: 20
+  human-8: 65
+evidence:
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://m.economictimes.com/ai/ai-insights/openai-set-to-launch-its-first-consumer-device/articleshow/127613478.cms
+  - https://aibusinessweekly.net/p/openai-first-hardware-device-2026-jony-ive-sweetpea-earbuds
+  - https://newsletter.cliffnotes.ai/p/openai-device-coming-in-2026
+- date: '2026-02-01'
+  summary: Found 5 articles
+  sources:
+  - https://m.economictimes.com/ai/ai-insights/openai-set-to-launch-its-first-consumer-device/articleshow/127613478.cms
+  - https://aibusinessweekly.net/p/openai-first-hardware-device-2026-jony-ive-sweetpea-earbuds
+  - https://newsletter.cliffnotes.ai/p/openai-device-coming-in-2026
