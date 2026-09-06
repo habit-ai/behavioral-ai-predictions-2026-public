@@ -37,6 +37,8 @@ forecasts:
   human-6: 5
   human-7: 55
   human-8: 1
+  human-9: 70
+  human-10: 20
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -50,3 +52,551 @@ evidence:
   - https://www.sundance.org/blogs/2026-sundance-film-festival-producers-celebration-honors-two-producers-with-sundance-institute-amazon-mgm-studios-producers-awards/
   - https://woodburynewsnet.org/6292/arts-entertainment/26-exciting-movies-coming-out-in-2026/
   - https://nilefm.com/news/article/12050/the-academy-sets-the-stage-2026-oscars-date-officially-announced
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://worldaifilmfestival.com/
+  - https://www.worldaicannes.com/en-gb/program/cannes-neurons.html
+  - https://www.worldaicannes.com/en-gb/program/conferences-grand-public/session-detail.4159.230951.%C3%A9change-avec-elie-nebot-insights-sur-le-artefact-ai-film-festival-avec-mk2.html
+  - https://www.rfi.fr/en/culture/20260205-from-tiktok-and-ai-to-colonial-abuses-film-festival-highlights-african-vision
+  - https://www.worldaicannes.com/en-gb/about/frequently-asked-questions.html
+  relevance: WEAK_YES, because while the evidence mentions AI film festivals and AI in film contexts, it doesn't definitively
+    show a specific AI-generated film receiving a mainstream film award nomination.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.imdb.com/news/ni65294139/
+  relevance: 'MODERATE: Article [10] reports that "Ancestra," a film blending live action with AI-generated imagery, will
+    premiere at the Tribeca Film Festival (a major festival), and explicitly mentions the film uses "gen AI tech," providing
+    concrete evidence of a disclosed AI-generated film receiving a major festival premiere/nomination.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://deadline.com/2025/12/oscars-ai-films-ahimsa-all-heart-1236643196/
+  relevance: 'STRONG: Article explicitly states that AI films ''Ahimsa'' & ''All Heart'' qualified for and received Oscar
+    nominations in 2026, directly meeting the prediction criteria of AI-generated content films receiving major award nominations
+    with disclosure.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a feature-length film with significant disclosed AI-generated content
+    receiving nomination at a MAJOR festival/award (Cannes, Venice, Oscars, BAFTA). The baseline explicitly states this has
+    not occurred as of Jan 2026. Articles 10-11 cover BAFTA and Oscar nominations from Jan 2026 but provide no detail confirming
+    AI-disclosed films in their nomination lists. Without verified nomination lists, we cannot confirm the prediction has
+    resolved YES.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.filmawards.ai/Cannes-Edition/
+  - https://worldaifilmfestival.com/
+  - https://www.eventbrite.com/e/ai-film-awards-cannes-2026-third-edition-tickets-1980824363995
+  - https://filmfreeway.com/aifilmawards2025
+  - https://deadline.com/2026/02/thanksgiving-day-frame-forward-ai-animated-film-festival-1236726809/
+- date: '2026-03-01'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://deadline.com/2025/12/oscars-ai-films-ahimsa-all-heart-1236643196/
+  relevance: 'MODERATE: Article [10] ("The Oscars Opened Its Doors To AI — Now Proudly Machine-Generated Films Are Being Put
+    To Voters") provides direct evidence that AI-generated films have qualified for Oscar consideration. The headline explicitly
+    states that "Machine-Generated Films" (''Ahimsa'' & ''All Heart'') are "Being Put To Voters" at the Oscars 2026. This
+    directly addresses the resolution criteria—these appear to be feature-length films with disclosed AI generation that have
+    achieved nomination eligibility at a major award body (the Oscars). However, the article content is truncated and doesn''t
+    fully confirm: (1) whether these are feature-length vs. short films, (2) whether they have been formally nominated vs.
+    merely qualified/submitted, and (3) explicit disclosure language. The headline strongly suggests YES resolution, but the
+    fragmentary content leaves minor verification gaps.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.joblo.com/oscars-ai/
+  trajectory_signal: Article [7] signals MODERATE momentum TOWARD_YES by showing the Oscars is actively formalizing AI disclosure
+    policies (a necessary infrastructure step). Multiple articles ([0], [1], [2], [3], [5], [6]) document the proliferation
+    of dedicated AI film festivals and awards (WAiFF at Cannes, 1 Billion Followers Summit, Runway's AI Festival, AI for Good
+    Film Festival, Bionic Awards, Frame Forward) indicating growing institutional recognition and legitimacy of AI filmmaking
+    as a category. This ecosystem expansion creates plausible pathways for disclosed AI films to reach major festival nominations.
+    However, these are specialized AI festivals, not traditional major festivals/awards—they signal trajectory but not yet
+    resolution.
+- date: '2026-03-08'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of a feature-length film with disclosed significant AI-generated content
+    receiving an official competition nomination at a major festival (Cannes, Venice, Berlin, Oscars, etc.). Article [4] (Tropfest
+    2026, ABC News, 2026-03-05) mentions an AI-generated film screening at Tropfest but does not specify: (a) whether it''s
+    feature-length, (b) whether AI content is officially disclosed in submission materials, (c) whether it received a competition
+    nomination versus just screening, or (d) whether Tropfest qualifies as a "major" festival per resolution criteria. The
+    content provided is incomplete headline-only material that cannot confirm nomination status. Articles [0-3, 5-11] describe
+    newly created AI-specific festivals and awards (World AI Film Festival, 1 Billion Followers Summit, Silicon Valley AI
+    Film Festival, Runway AIF, etc.) but these are dedicated AI film competitions, not major traditional festivals. These
+    do not satisfy the resolution criteria requiring nomination at established major festivals like Cannes, Venice, Berlin,
+    or the Oscars.'
+  trajectory_sources:
+  - http://www.abc.net.au/news/2026-03-05/tropfest-ai-film-sparks-filmmaker-anger/106417734
+  trajectory_signal: Article [4] provides weak directional signal that AI films are entering mainstream festival circuits
+    (Tropfest screening), suggesting growing acceptance and potential momentum toward broader festival participation. However,
+    without confirmation of official competition nomination status or festival tier, this represents only preliminary movement
+    toward resolution conditions. The proliferation of AI-dedicated festivals ([0-3, 5-11]) indicates industry momentum in
+    AI filmmaking but channels activity away from traditional major festivals rather than toward them.
+- date: '2026-03-15'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a feature-length film with disclosed significant AI-generated content
+    receiving a nomination at a major festival/award. The prediction requires a concrete nomination announcement to resolve
+    YES. No such nomination has been identified in the articles provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://studio.aifilms.ai/blog/academy-ceo-oscars-ai-eligibility-2026
+  - https://prtimes.jp/main/html/rd/p/000000028.000120274.html
+- date: '2026-03-22'
+  summary: 1 relevant article, 7 trajectory signals
+  sources:
+  - https://www.newsbreak.com/the-spun-510012/4550742224295-oscar-nominated-ai-sci-fi-film-from-star-wars-director-hits-netflix
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.petitesaffiches.fr/actualites,069/economie,045/a-cannes-l-ia-passe-derriere-la,41329.html
+  - https://www.larevuedudigital.com/festival-du-film-ia-de-cannes-5500-films-recus-pour-ledition-des-21-et-22-avril-2026/
+  - https://www.prnewswire.com/news-releases/the-largest-ai-film-competition-highlights-emerging-trends-in-global-ai-filmmaking-302717810.html
+  - https://variety.com/2026/digital/markets-festivals/ai-generated-film-raphael-mbc-ci-hong-kong-filmart-slate-1236686079/
+  - https://www.nc.press/news/articleView.html?idxno=610295
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a feature-length film with significant disclosed AI-generated content
+    receiving nomination at a major festival/award. The baseline context specifies major festivals (Cannes, Venice, Oscars)
+    — not Sundance or SXSW sidebars. Articles [1-3, 5-7, 9] discuss "The AI Doc," a documentary about AI, but this is NOT
+    a film with disclosed AI-generated content in its production — it''s a film about AI as subject matter. This is a critical
+    distinction that fails the resolution criteria. Article [10] concerns a Ryan Gosling narrative film project with no mention
+    of AI-generated content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://businesssolutionsct.com/article/keith-zhang-launches-soulscape-2026-the-ai-film-revolution-with-the-matrix-legends
+  - https://twp.ai/4ixgdU
+  trajectory_signal: 'Articles [4] and [8] signal forward momentum:'
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a feature-length film with disclosed significant AI-generated content
+    receiving a nomination at a major festival (Cannes, Venice, Oscars, etc.). Article [2] describes Philippe Shangti''s fully
+    AI-produced film "Remember the Future: 2320" premiering in Andorra—this has disclosed AI content but was a premiere in
+    a small venue, not a major festival nomination. Article [6] mentions "Amba''s Revenge" as an AI-supported Telugu feature,
+    but provides no information about festival nominations. Articles [8] and [10] reference "Jesus Returns" with AI-produced
+    trailer, but this is at the crowdfunding stage, not a completed feature with festival consideration. The resolution criteria
+    explicitly require nomination at major festivals; none of the articles evidence this outcome.'
+  trajectory_sources:
+  - https://time.news/cannes-marche-du-film-2026-ai-creator-economy-immersive-tech-focus/
+  - https://yesicannes.com/fr/5-500-films-80-pays-world-ai-film-festival-explose-tous-records-138629
+  - https://www.elrisala.com/cannes-marche-du-film-announces-program-with-focus-on-creators-ai/
+  trajectory_signal: 'Articles [0], [1], and [4] signal growing institutional momentum toward AI cinema at major venues. Cannes
+    Marché du Film is dedicating multiple initiatives to AI content (Creator Economy Summit, returning AI for Talent Summit,
+    innovation programming) for May 2026. The World AI Film Festival is staging a second edition with record submissions (5,500
+    films from 80 countries) on April 21-22, 2026—immediately before Cannes. Monaco is launching its inaugural AI film festival
+    in June. This ecosystem development suggests infrastructure is crystallizing around AI cinema at prestigious venues. However,
+    these articles show preparatory/market focus rather than actual competition nominations yet. The trajectory points toward
+    potential YES resolution, but the baseline constraint remains: no official competition nomination has occurred at major
+    festivals as of April 5, 2026.'
+- date: '2026-04-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a feature-length film with disclosed significant AI-generated content
+    receiving a nomination at a major festival (Cannes, Venice, Oscars, etc.). Article [1] mentions a short film "D''ombre
+    et de lumière" created with AI by Lyon filmmaker Fabien Loïacono "heading to Cannes," but (a) it is explicitly a SHORT
+    film, not feature length, and (b) the article only claims it will be "exposed" (shown) at Cannes, not nominated for competition.
+    Articles [6] and [7] describe AI film festival awards at WAIFF 2026 Kyoto, but this is a specialized AI film festival,
+    not a major mainstream festival (Cannes, Venice, Oscars). Article [0] discusses advertising submissions to Cannes Lions
+    (an advertising festival), not film festival nominations. Articles [3], [4], [8], [9], [10] cover Cannes 2026 lineup but
+    contain no mention of AI-generated content. Article [11] headline claims "AI is in Oscar-winning films" but content is
+    inaccessible/corrupted, making verification impossible.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.lyoncapitale.fr/actualite/cinema-un-court-metrage-lyonnais-cree-avec-lia-en-route-pour-cannes-et-los-angeles
+  - https://www.festival-cannes.com/en/2026/live-watch-the-announcement-of-the-official-selection-2026/
+  trajectory_signal: 'Two signals suggest directional movement toward YES: (1) Article [1] shows a Lyon filmmaker''s AI-created
+    short heading to Cannes exposition/screening (not competition), suggesting festival acceptance of AI work is expanding.
+    (2) Article [11]''s headline (though unverified) indicates AI content may now be appearing in Oscar-winning films, suggesting
+    the industry''s acceptance barrier is lowering. These represent momentum that AI-generated films are reaching major festival
+    venues, though neither yet satisfies the specific nomination-at-major-festival criterion.'
+- date: '2026-04-19'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence that a feature-length film with significant disclosed AI-generated
+    content has received a nomination at a major festival (Cannes, Venice, Oscars, etc.) in the competition sections. Articles
+    [0-8] discuss new AI-focused festivals (World A.I. Film Festival, Astana AI Film Festival) and general Cannes 2026 lineups,
+    but these are distinct from the major festival competition nominations specified in the resolution criteria. The Cannes
+    Directors'' Fortnight and Critics'' Week lineups [2-4] are announced with no mention of disclosed AI-generated content
+    in nominated films. Article [11] concerns content creators at Cannes Lions (advertising festival), not film festival nominations.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.therecord.com/business/ai-rendered-val-kilmer-debuts-in-as-deep-as-the-grave-trailer/article_d219b4b1-2459-5ffd-b765-a9430955c04a.html
+  trajectory_signal: 'Article [9] is the only substantive trajectory signal: "As Deep as the Grave" is an indie film with
+    disclosed AI-rendered content (Val Kilmer recreation) that debuted its trailer at CinemaCon on April 15, 2026. This demonstrates
+    (1) a feature film with significant, publicly disclosed AI generation now exists and is in distribution pipeline, and
+    (2) filmmakers are openly acknowledging the AI content rather than hiding it. This directionally increases the probability
+    that such a film could receive nomination at a major festival going forward, though it has not yet been nominated at Cannes,
+    Venice, or Oscar submissions as of this article''s publication. The existence of dedicated AI film festivals [0, 5-6,
+    8] also signals institutional legitimization, though these are separate from "major festivals" per the criteria.'
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://variety.com/2026/film/news/memory-of-princess-mumbi-ai-istanbul-festival-1236725769/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.el-balad.com/16918090
+  - https://kotaku.com/bitcoin-thriller-billing-itself-as-first-studio-quality-ai-generated-movie-pete-davidson-gal-gadot-2000688877
+- date: '2026-05-03'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a feature-length film with disclosed significant AI-generated
+    content has received a nomination at a major festival (Cannes, Venice, Oscars, etc.). Article [0] mentions a "six-minute
+    film" at "Cannes AI Film Awards"—but this is a SHORT film at a specialized AI festival, not a feature-length film at a
+    major mainstream festival. The Oscars articles [1, 6] explicitly show the Academy actively BANNING AI from eligible performances
+    and screenplays for the 2027 Awards—this is movement AWAY from the resolution criteria. Cannes articles [2, 3, 8, 9] confirm
+    the main Cannes Film Festival banned AI from its Palme d''Or competition. The Reply AI Film Festival articles [5, 7] are
+    about SHORT films in a specialized festival, not feature-length nominations at major festivals.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.onmanorama.com/entertainment/entertainment-news/2026/04/29/kottayam-filmmaker-ai-short-the-light-film-awards-ai-cannes-2026.html
+  - https://aipressa.com/ai-technology/cannes-ai-film-festival-debuts-amid-controversy-over-copyright-and-creativity/
+  - https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future
+  trajectory_signal: 'Articles [2, 3] show a dedicated World AI Film Festival (WAIFF) has launched at Cannes as a separate
+    sidebar event, and [5, 7] indicate growing institutional support for AI film festivals (third edition of Reply AI Film
+    Festival). This signals growing INFRASTRUCTURE for AI film recognition, but critically: (1) these are specialized AI-only
+    festivals, not integration into mainstream competition; (2) the major festivals are actively EXCLUDING AI films from prestige
+    categories; (3) the Oscars just hardened rules AGAINST AI eligibility. The trajectory shows AI cinema growing as a parallel
+    ecosystem, not penetrating major festival nominations. This momentum actually points TOWARD_NO for the resolution, as
+    major institutions are drawing clearer boundaries rather than opening doors to disclosed AI films.'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a nomination at a major festival/award for a film with disclosed
+    significant AI-generated content. Article [3] explicitly states that Cannes 2026 has BANNED 100% AI films from official
+    competition ("bannit les films 100% IA de la compétition officielle"), which directly contradicts the resolution path.
+    This is critical: the festival with the highest profile for this prediction has formally closed the nomination pathway.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://deadline.com/2026/05/open-ai-produced-animated-family-film-critterz-cannes-1236879586/
+  - https://www.digitaltrends.com/movies/hollywoods-first-ai-assisted-animated-film-critterz-is-heading-to-cannes-right-as-the-industry-draws-its-lines/
+  - https://news-factory.app/news/agc-studios-unveils-aiassisted-animated-feature-critterz-at-cannes
+  trajectory_signal: 'Articles [0], [5], [7] signal that AI-assisted films with disclosed AI content are entering mainstream
+    production and commercial distribution pipelines (Critterz at Cannes Market with $30M budget, human-led creative teams).
+    This shows industry momentum toward AI integration. However, this momentum is occurring AGAINST the backdrop of Article
+    [3]''s critical finding: Cannes has formally prohibited 100% AI films from official competition, and both Cannes and the
+    Academy have "tightened rules on AI-generated content" (Article [7]). The trajectory suggests festival gatekeepers are
+    actively restricting rather than enabling nomination pathways for AI films, moving the prediction TOWARD_NO resolution.'
+- date: '2026-05-17'
+  summary: 6 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mail.filmfestivals.com/blog/cannes/history_making_ai_feature_film_hell_grind_to_be_screened_during_cannes_film_festival_created_entirely_on_the
+  - https://variety.com/2026/film/news/ai-debate-cannes-demi-moore-1236749700/
+  - https://www.france24.com/en/culture/20260512-cannes-film-festival-opens-grappling-with-ai-and-hollywood
+  - https://www.topcelev.co.kr/news/articleView.html?idxno=3656
+  - https://rollingstoneindia.com/im-popo-koreas-first-ai-generated-feature-film-explores-the-dark-side-of-ai/
+- date: '2026-05-24'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://futurism.com/artificial-intelligence/cannes-not-showing-ai-generated-movie
+  relevance: NONE
+  trajectory_sources:
+  - https://thenextweb.com/news/soderbergh-lennon-documentary-ai-meta-cannes
+  - https://abcnews.com/Entertainment/wireStory/steven-soderbergh-ai-documentary-john-lennon-talk-133043666
+- date: '2026-05-31'
+  summary: 3 relevant articles, 5 trajectory signals
+  sources:
+  - https://variety.com/2026/film/festivals/tribeca-festival-ai-film-dreams-of-violets-fountain-0-1236759724/
+  - https://deadline.com/2026/05/ai-film-dreams-of-violets-tribeca-festival-premiere-1236921663/
+  - https://www.the-independent.com/arts-entertainment/films/news/ai-generated-film-tribeca-dreams-of-violet-b2984749.html
+  relevance: 'STRONG: Articles 5, 6, and 9 provide DIRECT evidence that resolves the prediction YES. "Dreams of Violets" —
+    a fully AI-generated feature film (75 minutes) with disclosed AI generation — has been accepted for premiere at Tribeca
+    Festival (June 10, 2026), which is a major festival meeting the resolution criteria. Multiple sources confirm: (1) it
+    is feature-length, (2) fully AI-generated by Fountain 0, (3) the AI generation is disclosed/public, and (4) Tribeca Festival
+    is a major festival comparable to Cannes/Venice/Oscars tier. Article 9 explicitly states it is "the first AI-generated
+    live-action film accepted into a film festival." Article 5 notes this is "the first full-length, live-action film generated
+    by AI to be accepted by a major film festival."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theglobeandmail.com/culture/film-and-tv/film/article-at-cannes-hollywoods-war-against-ai-is-over-and-the-robots-won/
+  - https://cryptobriefing.com/higgsfield-ai-hell-grind-cannes-film/
+  - https://english.elpais.com/culture/2026-05-27/the-contradiction-of-ai-in-cinema-creators-fear-it-but-the-market-and-the-industry-embrace-it.html
+  - https://www.newz.com/how-seedance-20-and-ai-films-at-cannes-challenge-production-norms/
+  - https://www.thewrap.com/creative-content/movies/ai-movie-trailer-dreams-of-violets-iran-tribeca/
+  trajectory_signal: Articles 1-4 and 7 show broader momentum toward AI film acceptance at major festivals. Cannes 2026 featured
+    multiple AI films screened at the market (Hell Grind, Seedance 2.0 projects), indicating institutional acceptance is expanding.
+    Article 2 signals a cultural shift ("Hollywood's war against AI is over"). Article 7 mentions Steven Soderbergh's "The
+    Last Interview" with AI-generated imagery. This represents TRAJECTORY_TOWARD_YES momentum, showing AI film acceptance
+    is accelerating across multiple major festivals. However, articles 10 and 12 clarify that Hell Grind screened at Cannes
+    Market (not official festival competition), which did NOT meet criteria—supporting that Tribeca's acceptance of Dreams
+    of Violets is genuinely the first major festival nomination/official selection of a disclosed AI film.
+- date: '2026-06-07'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.filmofilia.com/tribeca-ai-film-raises-hard-questions-about-witnessing-220522/
+  - https://fstoppers.com/artificial-intelligence/fully-ai-generated-feature-premiering-tribeca-industry-out-excuses-902765
+  relevance: 'STRONG: Articles 7 and 8 provide direct evidence satisfying resolution criteria. Both confirm that "Dreams of
+    Violets," a fully AI-generated 75-minute docudrama directed by Ash Koosha, has been programmed into the official lineup
+    of Tribeca Festival (a major festival) scheduled for June 10, 2026. Article 8 explicitly states it will "premiere" at
+    Tribeca during its 25th edition, and Article 7 confirms Tribeca Festival has "programmed Dreams of Violets as a Special
+    Event." The film is confirmed to have disclosed AI generation (described as "fully AI-generated"). Tribeca is a recognized
+    major festival meeting the criteria scope. This constitutes a nomination/programming decision at a major festival with
+    disclosed significant AI-generated content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ajupress.com/view/20260604130070050
+  - https://pivot.uz/full-length-ai-film-debuted-at-cannes-covered-by-wsj-bbc-and-variety-created-by-higgsfield-ai-team-led-by-kazakhstani-director-aytore-zholdaskali/
+  - https://www.newsglobenow.com/new370335.html
+  - https://www.irishtimes.com/culture/film/2026/06/03/i-dont-think-christopher-nolan-will-make-another-300m-movie-is-ai-drama-dreams-of-violets-the-future-of-film-making/
+  - https://www.france24.com/en/tv-shows/arts24/20260605-ai-feature-film-on-iran-s-protest-movement-makes-festival-history
+  trajectory_signal: 'Articles 2, 3, 4, 5, 6 show significant momentum toward YES. Multiple full-length AI films (Hell Grind—95
+    minutes, Dreams of Violets—75 minutes, The Reborns: Cinderella) have debuted or screened at major festival venues (Cannes,
+    Tribeca) with disclosed AI generation in late May 2026. Articles 3 and 4 document "Hell Grind" premiering at Cannes Marché
+    du Film with major media coverage (WSJ, BBC, Variety). Articles 5 and 6 describe Dreams of Violets as "the first fully-AI
+    feature accepted at a major film festival" and confirm it "makes festival history." This indicates rapid acceleration
+    in AI feature film acceptance at established festival infrastructure, suggesting the prediction''s threshold is actively
+    being crossed across multiple major venues.'
+- date: '2026-06-14'
+  summary: 5 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.vanityfair.com/story/first-fully-ai-movie-to-screen-at-a-festival-has-nearly-glitch-free-tribeca-debut
+  - https://www.aol.com/entertainment/filmmaker-ash-koosha-made-tribeca-234811318.html
+  - https://pagesix.com/2026/06/09/hollywood/a-first-time-filmmaker-just-made-a-feature-length-movie-using-ai-for-just-2k-why-the-controversial-tech-is-dividing-hollywood/
+  - https://www.eonline.com/news/1432858/tribeca-festival-dreams-of-violets-ash-koosha-made-ai-movie-for-s2-000
+  - https://www.news18.com/videos/movies/ai-generated-film-dreams-of-violets-makes-historic-debut-at-tribeca-festival-n18g-10148560.html
+  relevance: 'STRONG: Multiple articles (3, 5, 6, 7, 8) provide DIRECT evidence that "Dreams of Violets" — a feature-length
+    film with disclosed significant AI-generated content — has screened at Tribeca Festival (June 10, 2026), which is a major
+    festival. Articles 5, 6, 7 explicitly confirm this is "the first feature-length movie completely generated by AI to screen
+    at a major film festival." Article 3 (Vanity Fair) states it was "accepted to a major festival" and screened at Tribeca.
+    Critically, the baseline context states the prediction resolves YES upon "nomination for film with disclosed AI content"
+    at major festivals (Cannes, Venice, Oscars, etc.). However, the articles describe SCREENING/PREMIERE at Tribeca, not explicit
+    NOMINATION for competition. This is a critical gap: screening ≠ official competition nomination. The articles do not clarify
+    whether "Dreams of Violets" received an official competition nomination or merely screened in a section. This distinction
+    is essential for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://variety.com/2026/film/features/i-saw-hell-grind-ai-generated-film-cannes-shocking-realistic-1236770720/
+  - https://ohsem.me/2026/06/global-filmmakers-are-leveraging-kling-ai-to-push-the-boundaries-of-storytelling-cannes-panel-presents/
+  - https://www.northheadlines.com/minimax-hailuo-showcases-ai-powered-creative-vision-at-cannes-during-waiff-2026/
+  - https://blondfrombirth.org/article/cannes-film-market-2026-creator-economy-virtual-production-ai-innovations
+  trajectory_signal: Articles 0, 1, 2, 4 show directional momentum toward the prediction's resolution. Article 0 mentions
+    "I Saw Hell Grind" premiered at Cannes (though screening vs. nomination status unclear). Articles 1, 2, 4 show multiple
+    AI films and AI filmmaking being showcased at Cannes 2026 during various panels and market events, indicating growing
+    institutional acceptance and presence of AI-generated content at major festivals. This signals trajectory TOWARD_YES,
+    but none constitute actual nomination evidence yet.
+- date: '2026-06-21'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://businessdoceurope.com/post-truth-first-ai-generated-feature-to-be-awarded-by-an-international-jury/
+  relevance: 'MODERATE: Article [5] provides direct evidence meeting resolution criteria: "Post Truth" by Alkan Avcıoğlu won
+    "Best Art Feature Film" at the 42nd Asolo Art Film Festival (Italy), described as "the first time an AI-generated feature
+    has been awarded in a juried competition at an established international film festival." This is a feature-length film
+    with disclosed AI generation receiving an official award/nomination at an established international festival. However,
+    critical gap: Asolo Art Film Festival is not among the tier-1 "major festivals" specified in baseline (Cannes, Venice,
+    Oscars). Resolution criteria ask for nomination at "major festival/award" — the article demonstrates the threshold has
+    been crossed at *an* established festival, but leaves ambiguity about whether Asolo qualifies as "major" in the prediction''s
+    intent. The claim of "first AI-generated feature" awarded suggests this is genuine progress, not a repackaging of prior
+    events.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thefappeningnewz.pages.dev/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future
+  - https://adsknews.autodesk.com/en/views/ai-in-filmmaking-at-cannes-2026/
+  - https://myatlantis.org/article/ai-generated-feature-film-at-cannes-is-this-the-future-of-cinema-hell-grind-review
+  - https://www.fintechbiznews.com/fintech-technology/ai-films-at-miff-open-new-horizons-of-storytelling
+  trajectory_signal: 'Articles [1, 2, 4, 6] show significant momentum toward resolution:'
+- date: '2026-06-28'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://ascartists.org/article/tribeca-2026-ai-generated-film-dreams-of-violets-to-premiere
+  relevance: 'MODERATE: Article [7] provides direct evidence of an AI-generated feature film ("Dreams of Violets") premiering
+    at Tribeca 2026, a major festival. However, the article excerpt is incomplete and does not explicitly confirm: (1) whether
+    this is an official competition nomination vs. premiere/screening, (2) whether AI content is "significantly disclosed"
+    in official materials, or (3) the full feature length confirmation. The headline states "premiere" but the resolution
+    criteria requires "nomination at major festival/award" — premiere/screening may not satisfy this unless it''s a competition
+    nomination. Critical gap: verification that this constitutes an official competition nomination rather than just a festival
+    screening.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bennettstgallery.com/article/ai-generated-feature-film-at-cannes-is-this-the-future-of-cinema-hell-grind-review
+  - https://webmusicplay.com/article/ai-in-film-the-cannes-debate-creative-revolution-or-existential-threat
+  - https://www.cartoonbrew.com/festivals/annecy-danse-macabre-ai-hisko-hulsing-marcel-jean-263638.html
+  - https://variety.com/2026/film/festivals/shanghai-2026-takeaways-debut-directors-ai-1236786902/
+  trajectory_signal: 'Articles [0], [1], [5], [6] show directional momentum toward resolution:'
+- date: '2026-07-05'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://lavelectronics.com/article/ai-generated-film-dreams-of-violets-makes-history-at-tribeca-festival-2026-full-story
+  - https://snuqvir.com/article/ai-makes-history-dreams-of-violets-premieres-at-tribeca-film-festival
+  - https://filmandpen.com/production/ai-impact-film-production-new-frontiers
+  relevance: 'STRONG: Articles [5], [6], and [7] provide direct evidence of resolution. ''Dreams of Violets''—a fully AI-generated
+    feature film (75 minutes, directed by Ash and Pooya Koosha)—has been accepted and premiered at Tribeca Festival 2026 (July
+    2026). The articles explicitly state the film is "fully AI-generated" and "created entirely using AI," meeting the "significant
+    disclosed AI-generated content" criterion. Tribeca is a major festival matching the resolution scope (alongside Cannes,
+    Venice, Oscars). The film achieved official acceptance and premiere status, satisfying the nomination criterion. Minor
+    content gap: articles don''t explicitly detail the exact nature/percentage of AI generation, but the repeated "fully AI-generated"
+    language and directed credits establish sufficient disclosure for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.magnific.com/blog/magnific-at-cannes-lions-2026/
+  - https://newshub.medianet.com.au/2026/07/omni-international-ai-film-festival-announces-winners-from-more-than-3800-global-entries/160496/
+  - https://www.minimax.io/news/imagination-is-productivity
+  - https://www.iths.edu.rs/2026/07/01/ai-filmfest-serbia-2026-announces-official-quarter-finalists-and-honorable-mentions/
+  trajectory_signal: Articles [0], [1], [2], [3] signal strong momentum in the AI film ecosystem. Cannes Lions 2026 hosted
+    Magnific (AI company) as official partner with AI film premieres; OMNI International AI Film Festival received 3,800+
+    entries; World AI Film Festival (WAIFF 2026) operated in Cannes with major corporate backing (MiniMax); AI FilmFest Serbia
+    2026 processed 1,700+ submissions from 126 countries. These represent infrastructure maturation and growing institutional
+    legitimacy for AI film festivals. However, these are specialized AI festivals, not traditional major festivals. They signal
+    ecosystem growth and normalize AI filmmaking but don't themselves constitute the resolution event.
+- date: '2026-07-12'
+  summary: 1 relevant article, 7 trajectory signals
+  sources:
+  - https://royalvegasnodeposit.com/article/ai-generated-film-dreams-of-violets-premieres-at-tribeca-a-revolutionary-storytelling-experience
+  relevance: 'STRONG: Article [6] (published 2026-07-11, within preferred date range) provides DIRECT evidence that resolves
+    the prediction toward YES. It reports that ''Dreams of Violets'', described as a "fully AI-generated" film with disclosed
+    AI content, has been programmed into Tribeca Film Festival''s "official lineup." Tribeca is explicitly a major festival
+    per the resolution criteria. The article confirms: (1) feature-length film format, (2) significant disclosed AI-generated
+    content, (3) nomination/programming at a major festival (Tribeca). This meets all resolution criteria. Note: Article [7]
+    covers the same event but was published 2026-06-19, outside the preferred date range, though it corroborates the Tribeca
+    programming.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://au.headtopics.com/news/ai-generated-wildlife-documentary-wins-international-prize-85288020
+  - https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/
+  - https://www.nme.com/news/film/ai-actress-tilly-norwood-will-make-her-debut-in-coming-of-age-story-misaligned-3955468
+  - https://www.euronews.com/culture/2026/07/07/misaligned-controversial-ai-generated-actress-tilly-norwood-to-make-feature-film-debut
+  - https://variety.com/2026/film/news/tilly-norwood-new-movie-hollywood-concerns-ai-actors-1236806826/
+  trajectory_signal: Articles [2, 3, 4, 8, 9] (published 2026-07-06 to 2026-07-07) report that 'Misaligned', a feature film
+    starring AI actress Tilly Norwood with disclosed AI content, has been announced and is in production. These represent
+    TRAJECTORY signals showing momentum toward potential future nominations at major festivals, but do NOT yet constitute
+    a nomination/programming at a major festival. Article [1] (2026-07-06) mentions an AI-generated documentary winning a
+    prize at "Omni international AI film festival," but this is not a major festival per baseline criteria (Cannes, Venice,
+    Oscars, etc.) and appears to be a short documentary rather than feature-length. The 'Misaligned' coverage signals growing
+    industry acceptance and pipeline activity that could lead to future nominations.
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of nomination at a major festival/award ceremony. The resolution criteria
+    require a specific nomination (Cannes, Venice, Oscars, etc.) in competition or official program. All reviewed articles
+    describe screenings, premieres, or festival participation but do NOT establish nominations. Article [0] explicitly states
+    Cannes "Says It Never Screened" — contradicting the headline''s implication. Articles [5-7] discuss Tribeca premiere of
+    "Dreams of Violets" but premiere ≠ nomination. Articles [1] reviews Hell Grind at Cannes Market but market screenings
+    are not official competition nominations. The critical gap: None of these articles confirm the film was officially nominated
+    for an award at a major festival''s main competition or selection.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://vuink.com/post/pvarq-d-dpbz/hell-grind-the-95-minute-ai-feature-cannes-2026-says-it-never-screened
+  - https://ifofwbc.org/article/ai-generated-feature-film-at-cannes-is-this-the-future-of-cinema-hell-grind-review
+  - https://thelmawhisnant.com/article/ai-revolution-in-filmmaking-tribeca-premieres-dreams-of-violets-first-fully-ai-generated-movie
+  - https://letterandlogosource.com/article/ai-generated-movie-dreams-of-violets-premieres-at-tribeca-a-revolutionary-filmmaking-approach
+  - https://ponyexpeditions.com/article/ai-generated-film-dreams-of-violets-premieres-at-tribeca-a-revolutionary-storytelling-experience
+  trajectory_signal: 'Strong directional momentum toward YES resolution:'
+- date: '2026-07-26'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://lavelectronics.com/article/ai-generated-film-dreams-of-violets-makes-history-at-tribeca-festival-2026-full-story
+  - https://impactofinal.org/article/ai-revolution-in-filmmaking-tribeca-premieres-dreams-of-violets-first-fully-ai-generated-movie
+  relevance: 'MODERATE: Articles [5] and [8] both report that "Dreams of Violets," a fully AI-generated film, has been selected/premiered
+    at Tribeca Festival 2026. Tribeca is a major festival meeting the resolution criteria. However, critical verification
+    gaps exist: (1) The articles don''t explicitly state whether this is an official competition nomination vs. a premiere/showcase
+    selection—Tribeca has multiple tracks with different prestige levels; (2) Neither article provides confirmation that the
+    AI generation was "disclosed" in official festival materials; (3) The content appears duplicated across [5] and [8], suggesting
+    potential aggregation rather than independent corroboration. Without confirmation that this constitutes an official competition
+    nomination (the resolution specifically requires "nomination at major festival"), the evidence is suggestive but incomplete.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.siamnewsnetwork.net/pr-news/hong-kong-ai-international-film-festival-opens-with-2026-white-paper-and-new-framework-for-ai-native-cinema/
+  - https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/
+  - https://blexmedia.com/filmmaker-jai-harris-completes-mirrored-america-rebirth-of-a-nation-a-feature-film-made-entirely-with-generative-ai/
+  - https://gjyhnews.com/an-ai-filmmakers-bold-vision-odysseus-the-fall-sparks-debate-on-the-future-of-cinema/
+  trajectory_signal: 'Multiple signals indicate strong directional momentum toward YES: [1] "Hell Grind" premiered at Cannes
+    Film Festival''s Marché du Film in May 2026 (marketplace, not competition, but major festival presence). [3] "Gods Don''t
+    Give Gifts" is securing theatrical distribution (Oct 30, 2026 wide release), demonstrating AI films moving into mainstream
+    distribution channels. [7] "Mirrored America" completed as a full-length AI feature. [10] "Odysseus: The Fall" (135 minutes)
+    announced as a major AI-generated feature film project. These show: (a) AI films increasingly accessing festival infrastructure,
+    (b) feature-length AI works being produced at scale, (c) growing industry legitimacy. The trajectory is clearly TOWARD_YES,
+    though none of these yet confirm official competition nominations at the major festivals (Cannes competition, Venice competition,
+    Oscars, etc.).'
+- date: '2026-08-02'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of resolution. The prediction requires "nomination at major festival/award"
+    for a feature-length film with "significant disclosed AI-generated content." Articles [0-4] describe the Reply AI Film
+    Festival, which is a specialized AI-only festival (not a major festival like Cannes/Venice/Oscars in the traditional sense)
+    and appears focused on shorts, not feature-length films. Article [5] describes "Be Brave," a 90-minute documentary selected
+    for an "out of competition slot" at Venice 83—not an official competition nomination, and it''s a documentary rather than
+    a feature narrative film. This does not satisfy the criteria. Critical gap: None of these articles confirm nomination
+    in an official competition category at a major festival for a disclosed-AI feature film.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://studio.aifilms.ai/blog/be-brave-carrozzini-ai-documentary-venice-83
+  - https://www.carolineprogress.com/14596-gossip-goblins-ai-feature-film-hits-theaters-this-fall/
+  - https://www.parasocialmagazine.com/entertainment/gossip-goblin-brings-a-fully-ai-feature-to-theaters/
+  - https://www.newsbreak.com/newsnation-2045693/4793790538635-first-ai-generated-feature-film-in-us-to-hit-theaters-this-fall
+  trajectory_signal: 'Articles [6, 7, 8] report that "Gods Don''t Give Gifts" by Zack London is a fully AI-generated feature
+    film coming to US theaters October 30, 2026. This is significant momentum: a feature-length, disclosed-AI film entering
+    theatrical distribution. Article [5] shows "Be Brave," an AI-assisted documentary, gaining Venice slot recognition (albeit
+    out-of-competition). These signal growing mainstream visibility and acceptance of AI films at major venues. However, neither
+    film has yet received an official competition nomination at a major festival. The trajectory is clearly TOWARD_YES—theatrical
+    releases of disclosed-AI features increase probability of subsequent major festival nominations—but criteria are not yet
+    met as of article publication dates (late July 2026).'
+- date: '2026-08-09'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://kentpro2.com/article/ai-revolution-in-filmmaking-tribeca-premieres-dreams-of-violets-first-fully-ai-generated-movie
+  relevance: 'STRONG: Article [10] provides direct evidence that "Dreams of Violets," a fully AI-generated feature film, premiered
+    at Tribeca Film Festival (a major festival explicitly mentioned in the resolution criteria). The article explicitly describes
+    it as "First Fully AI-Generated Movie" premiering at "the prestigious Tribeca Film Festival." This directly satisfies
+    the resolution criteria: a feature-length film with significant disclosed AI-generated content receiving a nomination/premiere
+    at a major festival. Tribeca is one of the top-tier festivals globally and clearly qualifies as "major." The disclosure
+    is explicit in the headline and article framing. One potential gap: the article uses "premiere" rather than explicitly
+    stating "nomination" — however, festival premieres typically involve selection/nomination into official programs, which
+    should constitute the event triggering YES resolution. The article date (2026-08-08) is within the preferred recent window.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/
+  trajectory_signal: Article [5] shows "Asphalt Guerrilla" (Edgar Pêra) premiering at Locarno Film Festival (2026-08-10) with
+    blended "real history, fiction and AI" — this signals directional movement toward broader acceptance of AI-incorporating
+    films at major festivals, though it describes AI as one component among others rather than "significant" AI-generated
+    content. Articles [7-8] document Higgsfield completing a 95-minute fully AI-generated feature film in 14 days, demonstrating
+    technical capability for feature-length AI cinema production and public release of complete workflows—momentum toward
+    feasibility of such films reaching festivals. These trajectory signals support an environment where the YES resolution
+    is increasingly plausible, though [5] itself remains ambiguous on whether AI content is "significant" vs. incidental.
+- date: '2026-08-16'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://avoremon.com/article/ai-generated-film-dreams-of-violets-premieres-at-tribeca-festival-2026-revolutionizing-cinema
+  relevance: 'MODERATE: Article [7] provides direct evidence for resolution YES: "Dreams of Violets," a fully AI-generated
+    film, premiered at Tribeca Festival 2026, described as "the first of its kind to be showcased at a major film festival."
+    Tribeca is a major festival (tier-1 equivalent to Cannes/Venice/Oscars scope). The article explicitly states the film
+    is "fully AI-generated" and was "accepted" by the festival, satisfying the nomination/selection criteria. However, critical
+    gap: The article does not explicitly confirm the AI generation was "disclosed"—it reports the AI origin as public knowledge,
+    but doesn''t state whether the production formally disclosed this in official submission materials or festival materials.
+    This is a minor evidentiary gap since the headline and public reporting clearly identifies AI generation, suggesting disclosure
+    occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/higgsfield-announces-two-ai-sci-fi-films-at-cannes-with-the-robot-alicia-as-21180737
+  - https://www.filmink.com.au/public-notice/filmmakers-ai-property-films-reach-official-selection-at-the-australian-ai-film-awards/
+  - https://eu.36kr.com/en/p/3935935754288256
+  - https://www.globaltimes.cn/page/202608/1368005.shtml
+  trajectory_signal: 'Articles [0], [1], [3], [5] show directional momentum toward YES but do not constitute direct evidence:'
+- date: '2026-08-23'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of nomination at major festivals (Cannes official competition, Venice,
+    Oscars). Article [0] mentions Cannes Marché du Film (business market, not official competition). Resolution criteria require
+    formal "nomination" at major festival/award, which remains unmet as of this evidence set. Criteria gap: must show official
+    competition nomination or award consideration announcement, not just screening or market presence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.thewrap.com/creative-content/movies/create-ai-movies-for-free-higgsfield-academy/
+  - https://www.semafor.com/article/08/19/2026/ai-startup-produces-fully-ai-generated-feature-length-film
+  - https://lifestyle.kotaradio.com/story/358744/ten-finalists-announced-for-the-reply-ai-film-festival-the-international-competition-bringing-together-cinema-and-artificial-intelligence/
+  - https://en.sedaily.com/society/2026/08/18/gyeongbuk-ai-film-festival-draws-3403-entries-from-97
+  - https://biz.heraldcorp.com/article/10844579
+  trajectory_signal: 'Multiple signals suggest momentum TOWARD YES: (1) Higgsfield AI producing disclosed'
+- date: '2026-08-30'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://b-empiremagazine.com/en/venice-be-brave-ai-diesel-august-29-2026/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hackernoon.com/cannes-drew-the-line-on-ai-films-that-same-week-5500-of-them-arrived-in-town-anyway
+  - https://milehlghresources.com/article/critterz-ai-assisted-animated-movie-cannes-market-premiere
+  - https://www.northheadlines.com/minimax-hailuo-showcases-ai-powered-creative-vision-at-cannes-during-waiff-2026-2/
+  - https://integrishsv.com/article/heaven-in-the-ai-era-alex-proyas-s-sci-fi-vision-ex-machina-studios-x-k5-at-cannes-market
+- date: '2026-09-06'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://variety.com/2026/film/global/francesco-carrozzini-venice-artificial-intelligence-brave-1236846518/
+  - https://msnbctv.news/venice-critics-week-film-trailer-for-the-end-of-times-trauma-ai/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hcntimes.com/the-end-of-times-colombian-filmmakers-bibiana-rojas-gomez-and-juan-david-cardenas-use-ai-hallucinations-to-imagine-life-beyond-capitalism/
+  - https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/

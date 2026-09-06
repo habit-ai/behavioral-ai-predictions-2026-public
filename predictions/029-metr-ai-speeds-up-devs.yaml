@@ -5,12 +5,13 @@ category: Research
 baseline: '2025 METR RCT: 19% slowdown (~0.81x) when devs used AI on real open-source issues.'
 resolution_criteria: 'YES: >1.0x speedup. NO: ≤1.0x. Ambiguous if no study.'
 search_keywords:
-- AI coding productivity
-- METR benchmark
-- METR developer
-- AI developer uplift
-resolution_date: null
-outcome: null
+- METR 2026 developer productivity study
+- METR AI coding uplift RCT results
+- METR randomized controlled trial developers 2026
+- AI coding assistant speedup experienced developers
+- METR developer study follow-up 2026
+resolution_date: '2026-02-24'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 70
@@ -32,6 +33,8 @@ forecasts:
   human-6: 70
   human-7: 55
   human-8: 15
+  human-9: 50
+  human-10: 70
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -45,3 +48,437 @@ evidence:
   - https://www.tabulamag.com/p/metr-ai-study-of-developer-productivity
   - https://www.darioamodei.com/essay/the-adolescence-of-technology
   - https://www.syncfusion.com/blogs/post/ai-code-editors-2026
+- date: '2026-02-07'
+  summary: Found 11 articles
+  sources:
+  - https://www.rohan-paul.com/p/anthropic-released-claude-opus-46
+  - https://solvedbycode.ai/blog/claude-code-vs-cursor-vs-codex-vibe-coding-comparison-2026
+  - https://xagi.in/ai-news
+  - https://www.theneurondaily.com/p/super-bowl-2026-when-ai-companies-chose-violence
+  - https://www.aigl.blog/content/files/2026/02/The-2025-Peregrine-Report.pdf
+  relevance: UNCLEAR, because none of the evidence titles appear directly related to measuring developer productivity speedup
+    from AI tools, which would be necessary to resolve the specific prediction about the METR 2026 uplift study.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.bicameral-ai.com/blog/introducing-bicameral
+  relevance: 'STRONG: Article [7] directly cites METR 2025 data showing "Experienced developers were 19% slower when using
+    AI coding assistants" (≤1.0x speedup), which is directly contrary to the prediction and provides concrete evidence relevant
+    to resolving whether METR''s 2026 study will show >1.0x speedup.'
+- date: '2026-02-15'
+  summary: 0 relevant articles (stale evidence removed — METR study from July 2025 is not a new development)
+  sources: []
+  relevance: 'NONE: The METR blog post (2025-07-10) documents the early-2025 study showing 0.81x speedup. This is the BASELINE
+    data already captured in the prediction, not new evidence. The prediction asks about METR''s 2026 study which has not
+    yet been published. Cleaned during evidence quality audit.'
+- date: '2026-02-22'
+  summary: 0 relevant articles (stale evidence removed — same METR July 2025 study resurfaced)
+  sources: []
+  relevance: 'NONE: Same METR 2025 study (baseline data) resurfaced again. This stale-evidence leak is exactly the pattern
+    the monitoring upgrade aims to prevent.'
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about a completed 2026 uplift study with speedup results. Article
+    [1] is a secondary source rehashing the 2025 baseline study (0.81x slowdown), not new 2026 uplift data. Articles [3],
+    [4], [5], [6] address different METR research (timelines modeling, biology RCTs, benchmark estimation) unrelated to developer
+    speedup. Article [7] is an opinion piece from a non-METR source claiming personal 3x productivity without AI—anecdotal,
+    not METR research. The resolution criteria require a completed METR 2026 uplift study showing >1.0x speedup; none of these
+    articles present such a study.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/
+  - https://metr.substack.com/p/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents
+  trajectory_signal: 'Articles [0] and [2] (identical content, published 2026-02-17) show METR exploring alternative methodologies
+    for measuring uplift via coding agent transcripts instead of expensive human RCTs. This signals METR is actively investigating
+    uplift measurement post-2025, but points TOWARD_NO because: (1) they''re developing cheaper *alternatives* because human
+    uplift studies are "becoming more expensive as working without AI becomes increasingly costly"—suggesting difficulty in
+    conducting traditional uplift studies; (2) the methodology discusses upper-bounding gains from *agents*, not experienced
+    developers with AI tools; (3) no results are presented, only a prototype on METR staff transcripts. This suggests METR
+    may struggle to complete a full 2026 human uplift study, and even if they do, the institutional context suggests skepticism
+    about positive results (hence the shift to agent-transcript analysis).'
+- date: '2026-03-01'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence about the 2026 uplift study results. Articles [0], [1], [2] reference
+    the 2025 METR RCT showing 19% slowdown (~0.81x), which is baseline context, not the 2026 uplift study. Article [4] is
+    critically important but describes a *change to experiment design* (Feb 24, 2026), indicating METR modified their methodology—this
+    means the "2026 uplift study" may not be the direct follow-up comparison needed to resolve the prediction. Articles [6]
+    is a prediction market (weak evidence) with no actual results. Articles [9], [10], [11], [12], [13], [14] are off-topic
+    or stale. The resolution criteria require a specific 2026 study result, which has not yet been published or reported in
+    any article provided.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://metr.org/blog/2026-02-24-uplift-update/
+  trajectory_signal: 'Article [4] signals important momentum in the TOWARD_NO direction. METR''s decision to change their
+    developer productivity experiment design (published Feb 24, 2026) suggests the original 2025 methodology produced unexpectedly
+    negative results that warrant methodological revision. This trajectory suggests: (1) the 2026 study design will differ
+    materially from 2025, making it unclear if results are directly comparable; (2) the baseline 0.81x slowdown motivated
+    enough concern to redesign, rather than repeat—this implies internal skepticism about quick turnarounds to >1.0x; (3)
+    the redesign announcement itself lacks details on whether the 2026 study will test the same tools/developers or new conditions
+    that might plausibly show uplift. The direction is TOWARD_NO because experiment redesign following a major slowdown typically
+    indicates researchers expect continued challenges, not dramatic improvement.'
+- date: '2026-03-08'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of METR''s 2026 uplift study results. Articles [1] and [2] reference
+    the 2025 METR study showing 0.81x slowdown (19% slower), which is the baseline context already known. Article [3] appears
+    to be the original 2025 study publication itself. Article [0] discusses changing experiment design methodology but contains
+    no substantive content about results. None of these articles report actual 2026 uplift study findings that would satisfy
+    the resolution criteria (>1.0x speedup for YES, ≤1.0x for NO).'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://metr.org/blog/2026-02-24-uplift-update/
+  - https://byteiota.com/ai-coding-tools-19-slower-think-20-faster-metr-2026/
+  - https://www.letsdatascience.com/blog/developers-thought-ai-made-them-faster-the-data-said-otherwise
+  - https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+  trajectory_signal: Articles [0], [1], [2], [3] signal METR's ongoing work on developer productivity measurement. Article
+    [0] indicates methodological changes to the experiment design, suggesting METR is iterating on their approach—potentially
+    in response to 2025's negative results. However, these are all either previews of, or references to, the 2025 study showing
+    negative results (0.81x). The trajectory suggests METR recognizes the previous finding was unfavorable and is refining
+    methodology, but no evidence yet suggests the 2026 study will flip to positive results. Articles [4], [7], [9], [13],
+    [15] discuss general AI coding tool adoption/capability improvements but don't reference METR specifically and don't constitute
+    evidence toward the specific prediction. Articles [6], [8], [10], [11], [12] address unrelated domains (bundling tools,
+    GPU kernels, training efficiency, diffusion models) and are irrelevant noise.
+- date: '2026-03-15'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study measuring speedup for experienced developers on real tasks. Articles [0] and [1] discuss METR''s SWE-Bench
+    code review findings (rejection rates), which is orthogonal to developer speedup measurements. Articles [2] and [3] are
+    from non-METR sources (Harness, ActivTrak) making general claims about AI coding acceleration, but lack the rigor and
+    specificity of an RCT measuring experienced developer speedup. Articles [5], [6], [8], [9], [10], [11], [12] are irrelevant
+    to the prediction (code review issues, Amazon deployment, educational outcomes, mental health apps, vocabulary learning).
+    No METR 2026 uplift study results are presented in any article.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://aiproductivity.ai/news/ajeya-cotra-ai-agent-capabilities-doubling-faster/
+  - https://dev.to/ji_ai/senior-devs-got-19-slower-but-believed-they-were-faster-the-truth-about-vibe-coding-4j1a
+  trajectory_signal: 'Article [7] directly references the 2025 METR baseline (19% slowdown for senior devs with AI), establishing
+    that the previous RCT showed negative results. Article [4] signals rapid AI capability improvements (agent capabilities
+    doubling every 3.5 months), which could theoretically support a more positive 2026 outcome. However, articles [0], [1],
+    [5], [6] collectively suggest emerging friction: code quality concerns, human review breakdowns, and organizational pushback
+    requiring senior engineer sign-off on AI changes. This pattern points toward TOWARD_NO momentum—even as AI capabilities
+    improve, real-world developer productivity and acceptance remain problematic, making >1.0x speedup for experienced developers
+    less likely than the 2025 slowdown baseline.'
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study showing >1.0x speedup for experienced developers on real tasks. No such study findings are present
+    in the provided articles. Articles [0], [3], and [10] make productivity claims but lack the methodological rigor, developer
+    experience specificity, or METR attribution needed to resolve the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reworked.co/employee-experience/ai-freed-up-developers-to-do-real-work-then-companies-made-the-wrong-call/
+  - https://www.infoq.com/news/2026/03/ai-dora-report/
+  - https://ascii.co.uk/news/article/news-20260319-899c7208/metas-rea-agent-doubles-model-accuracy-5x-engineering-output
+  trajectory_signal: 'Three articles signal directional momentum toward YES:'
+- date: '2026-03-29'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The resolution criteria require
+    a specific empirical finding from METR''s RCT comparing AI tool speedup for experienced developers on real tasks. None
+    of the articles reference METR, describe their methodology, present their 2026 findings, or address whether experienced
+    developers achieve >1.0x speedup. Article [0] mentions Meta''s internal AI adoption targets but contains no actual study
+    data. Articles [10-13] discuss algorithm speedups (8x memory, 1.82x inference) but these measure infrastructure performance,
+    not developer productivity with AI tools. Articles [14, 16] are meta-analyses on student learning and pedagogy—different
+    domain entirely. Article [17] is recruitment news unrelated to this prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/
+  - https://www.edtechinnovationhub.com/news/anthropic-says-experienced-claude-users-get-better-results-as-ai-adoption-broadens
+  - https://www.techradar.com/pro/security/ai-coding-tools-are-now-the-default-top-engineering-teams-double-their-output-as-nearly-two-thirds-of-code-production-shifts-to-ai-generation-and-could-reach-90-within-a-year
+  - https://www.ainvest.com/news/meta-ai-agent-proves-productivity-multipliers-exponential-curve-scale-consumers-2603/
+  - https://awesomeagents.ai/science/hyperagents-milestone-rewards-19x-efficiency/
+  trajectory_signal: 'Several articles signal directional momentum toward YES:'
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study showing developer speedup measurements (>1.0x vs ≤1.0x), and no article reports findings from such
+    a study. Article [6] mentions a METR report from January 2026, but it concerns AI capability doubling timelines, not developer
+    productivity with AI tools—entirely different research domain.'
+  trajectory_sources:
+  - https://www.prodoscore.com/press-release/new-prodoscore-data-reveals-ai-is-driving-a-measurable-performance-divide-at-work/
+  - https://research.ibm.com/publications/usage-effects-and-requirements-for-ai-coding-assistants-in-the-enterprise-an-empirical-study
+  - https://link.springer.com/article/10.1007/s10664-026-10848-w?error=cookies_not_supported&code=a69bcd7a-9179-44f6-ad8a-41996d5a6179
+  - https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1789829/full
+  trajectory_signal: 'Four articles show directional signals about AI coding tool adoption and effects, though none measure
+    developer speedup specifically:'
+- date: '2026-04-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study showing >1.0x speedup for experienced developers on real tasks. No such study results are reported
+    in any article. Article [13] (IBM Research empirical study on AI coding assistants in enterprise) is recent but does not
+    appear to be the METR 2026 uplift study and provides only abstract information without speedup metrics.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/
+  - https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/
+  - https://www.199it.com/archives/1818307.html
+  - http://www.research.ibm.com/publications/usage-effects-and-requirements-for-ai-coding-assistants-in-the-enterprise-an-empirical-study
+  trajectory_signal: 'Multiple articles signal negative momentum toward resolution:'
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific study from METR showing >1.0x speedup for experienced developers on real tasks. None of the articles reference
+    this study or its findings. Article [2] mentions METR''s MirrorCode benchmark (published 2026-04-10/12), but this tests
+    AI agents'' ability to reimplement software from specs—a different capability domain entirely, not developer productivity
+    speedup on real open-source work.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://neuralnetworkworld.com/mirrorcode-ai-autonomous-coding-weeks-2026/
+  - https://github.com/patechlabs/aria-experience-study
+  trajectory_signal: 'Articles [2] and [11] signal ongoing METR research activity and emerging evidence about AI coding capabilities:'
+- date: '2026-04-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study showing >1.0x speedup for experienced developers on real tasks. Zero articles report completion or
+    results of this study. Article [9] explicitly references METR''s 2025 RCT (the baseline ~0.81x result) but provides no
+    information about a 2026 uplift study or its findings.'
+  trajectory_sources:
+  - https://dev.to/artem-koltunov/ai-coding-tools-in-practice-what-a-25-40-productivity-gain-really-looks-like-2eo8
+  - https://dev.to/arthur_pandev/the-ai-copilot-effect-how-ai-assistants-changed-coding-time-in-2026-4427
+  - https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/
+  - https://dev.to/my2centsonai/why-your-ai-productivity-dashboard-is-lying-to-you-131e
+  trajectory_signal: 'Several articles signal directional momentum relevant to the broader question of AI developer productivity:'
+- date: '2026-05-03'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://newsletter.getdx.com/p/ai-productivity-gains-more-modest-than-expected
+  - https://byteiota.com/developers-spend-11-4-hours-week-reviewing-ai-code/
+- date: '2026-05-10'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly address METR''s 2026 uplift study results or provide concrete evidence about whether
+    experienced developers achieved >1.0x speedup with AI tools. The prediction specifically requires METR''s own 2026 uplift
+    study findings, which have not been published in these articles. While article [10] is titled "A meta-analysis of the
+    effect of generative AI on productivity and learning in programming" (2026-05-07), the content provided is only a citation
+    stub with no actual findings. Article [11] on "An Empirical Study of Proactive Coding Assistants in Real-World Software
+    Development" (2026-05-08) similarly appears to be just a citation without substantive results. Neither can be verified
+    as the METR uplift study or provide the specific speedup multiplier data needed for resolution.'
+  trajectory_sources:
+  - https://scirate.com/arxiv/2605.04779
+  - https://scirate.com/arxiv/2605.05700
+  trajectory_signal: Articles [10] and [11] signal directional momentum toward measuring AI developer productivity in real-world
+    contexts—both are recent empirical studies (May 7-8, 2026) examining whether AI coding assistants improve developer outcomes.
+    This represents continued research effort in the exact domain METR is studying. However, without access to actual findings
+    from these papers, they only suggest that multiple research teams are investigating the core question, not whether results
+    will show >1.0x speedup. The broader context of articles [2], [6], [9] reporting productivity gains (40% speed improvements,
+    strong adoption) suggests positive sentiment in the field, but these are not rigorous RCTs on experienced developers with
+    real open-source issues—the baseline that METR established in 2025 showed 0.81x (19% slowdown), making this positive industry
+    sentiment tangential rather than dispositive evidence.
+- date: '2026-05-17'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles directly address METR''s 2026 uplift study results. The prediction requires a specific future
+    study outcome showing >1.0x speedup for experienced developers. No such study result has been published or announced.
+    Article [2] mentions METR ran a "follow-up study" claiming "modest gains" but provides no concrete speedup multiplier
+    and appears to reference uncertain/incomplete findings. The criteria gap is total: we need the actual 2026 uplift study
+    with explicit speedup measurements.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dev.to/vibehackers/ai-coding-tools-and-productivity-what-the-controlled-evidence-shows-1emf
+  trajectory_signal: Article [2] signals directional momentum TOWARD_NO by referencing a METR follow-up study that reportedly
+    found only "modest gains" rather than >1.0x speedup. This contrasts with the baseline 0.81x (19% slowdown) but still falls
+    short of the YES resolution threshold. The article suggests METR may be trending toward confirming productivity challenges
+    rather than demonstrating meaningful acceleration for experienced developers. However, the content is fragmentary and
+    doesn't conclusively characterize the follow-up study's findings. Articles [0] and [1] reinforce the TOWARD_NO trajectory
+    by documenting negative productivity results (19% slowdown, 17% skill drop) from related 2025-2026 research on AI coding
+    tools with experienced developers.
+- date: '2026-05-24'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles directly address METR''s 2026 uplift study results or findings. The prediction requires explicit
+    resolution criteria: publication of METR''s 2026 study showing either >1.0x speedup (YES) or ≤1.0x speedup (NO). Zero
+    articles provide this direct evidence. Articles [7-10] discuss different METR reports (rogue deployment risks, Feb-Mar
+    2026), not the uplift study on developer productivity.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dev.to/pickuma/the-hidden-cleanup-cost-behind-ai-coding-velocity-promises-5ci3
+  - https://www.augmentcode.com/guides/why-ai-doesnt-create-10x-engineering-organizations
+  - https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/
+  - https://fazen.markets/en/bofa-ai-productivity-gains-real-but-narrow-focus-2026
+  - https://news.lavx.hu/article/what-a-100-k-line-rust-project-really-tells-us-about-ai-assisted-development
+  trajectory_signal: 'Articles signal momentum TOWARD_NO resolution:'
+- date: '2026-05-31'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://thenextweb.com/news/developers-refuse-work-without-ai-coding-productivity-paradox
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence that METR attempted to conduct the 2026 uplift study in February
+    2026 but COULD NOT COMPLETE IT. The article explicitly states: "In February 2026, AI research lab METR tried to repeat
+    a groundbreaking study measuring how much time developers take to complete tasks with and without AI. It could not. Developers
+    refused to participate because they would not work without AI, even for a limited number of tasks in a research setting."'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/deals/articles/ai-slashed-coding-time-2026-110654233.html
+  - https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/
+  trajectory_signal: 'Articles [1] and [4] show OPPOSING directional signals:'
+- date: '2026-06-07'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires concrete
+    data showing whether AI tools achieved >1.0x speedup for experienced developers. No such study results are reported in
+    these articles.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.i-programmer.info/news/99-professional/18910-perceived-value-of-ai-tools.html
+  - https://www.digitaltoday.co.kr/en/view/59938/developers-depend-on-ai-coding-tools-productivity-dispute-grows
+  - https://habr.com/ru/news/1041828/
+  - https://getunblocked.com/blog/how-to-measure-ai-productivity/
+  trajectory_signal: 'Articles [0, 1, 3, 8] provide important directional signals AGAINST resolution criteria:'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. Articles [0] and [1] discuss
+    the 2025 METR baseline study (19% slowdown), not a new 2026 uplift study. The prediction specifically requires evidence
+    of a 2026 METR uplift study showing results—this evidence is absent from all articles provided.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://vibegraveyard.ai/story/faros-ai-acceleration-whiplash-study/
+  - https://queue.acm.org/detail.cfm?id=3807964
+  trajectory_signal: 'Articles [2], [3], [4], and [6] present mixed signals on developer productivity with AI tools, but in
+    conflicting directions. Article [2] (Faros study) shows throughput gains (+66% epics, +34% tasks) but massive quality
+    degradation (+54% bugs, +242.7% incidents)—suggesting speedup without actual productivity improvement. Article [3] examines
+    perception gaps via the SPACE framework. These suggest the broader research community is grappling with the perception-reality
+    gap that the 2025 METR study exposed. However, none of these are the METR 2026 uplift study itself. The trajectory overall
+    points TOWARD_NO because: (1) subsequent studies (Faros, New Relic) show increased bugs/incidents accompanying any throughput
+    gains, (2) the perception-reality gap persists, and (3) no evidence of METR finding >1.0x speedup in experienced developers
+    on real tasks has emerged despite being mid-June 2026. If such positive results existed, they would likely be widely discussed
+    given the baseline study''s prominence.'
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence about METR''s 2026 uplift study results. Article [5] is the closest
+    candidate—it discusses "METR''s Time Horizons and Productivity RCT"—but the content provided is truncated (member-only
+    paywall), making it impossible to verify whether it reports actual 2026 uplift study findings or merely analyzes the 2025
+    baseline (0.81x slowdown). Without access to the full text, this cannot be classified as KEEP.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://cryptobriefing.com/anthropic-claude-code-economic-research/
+  - https://blockchain.news/news/anthropic-claude-ai-boosts-productivity
+  - https://medium.com/@adnanmasood/measuring-ai-honestly-a-deep-dive-into-metrs-time-horizons-and-productivity-rct-36f04349f5cb
+  - https://medium.com/ai-roi/performance-per-engineer-doubled-at-six-big-tech-companies-heres-how-it-was-measured-9d43effce9b4
+- date: '2026-06-28'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires concrete
+    data from METR''s new RCT showing whether experienced developers achieved >1.0x speedup. Article [0] discusses METR''s
+    2025 study (baseline showing 0.81x/19% slowdown) but does not report results from a 2026 uplift study. The critical gap:
+    no article actually presents findings from METR''s 2026 study that would resolve this prediction.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dev.to/nazar_boyko/how-to-measure-if-ai-agents-actually-improve-developer-productivity-1hpp
+  - https://spawn-queue.acm.org/doi/full/10.1145/3807964
+  - https://www.n-ix.com/news/n-ix-releases-pragmatic-ai-engineering-framework-enterprise-scale/
+  trajectory_signal: 'Articles [0], [1], and [7] provide directional signals:'
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. Articles [1], [2], and [5]
+    reference a study showing developers felt 20% faster but measured 19% slower — this appears to be the 2025 baseline study
+    (0.81x speedup, ~19% slowdown) already known from context, not the 2026 uplift study that would resolve this prediction.
+    The criteria require >1.0x speedup for YES resolution; the baseline was 0.81x. No article presents results from a distinct
+    2026 uplift study or evidence that experienced developers specifically showed speedup improvements.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://news.ycombinator.com/item?id=48757440
+  - https://dev.to/coppersundev/you-feel-20-faster-a-study-says-19-slower-2hjf
+  - https://www.collector.com.tr/1000265676/ai-is-making-software-developers-faster-just-not-at-actually-shipping-software
+  - https://siliconcanals.com/m-youd-think-an-ai-copilot-would-widen-the-gap-between-star-employees-and-everyone-else-but-a-stanford-mit-study-of-5000-call-center-agents-found-the-opposite-it-lifted-novices-output-by-about-34-an/
+  trajectory_signal: Articles [1], [2], [5] provide directional signal TOWARD_NO by reinforcing that AI tools slow developers
+    down in measured outcomes (19% slowdown persists). Article [6] shows contrasting evidence from a different domain (call-center
+    agents), where AI lifted novices 34% but "barely moved veterans" — this suggests AI may differentially help less-experienced
+    workers rather than experienced developers, which would cut against the prediction's premise. Articles [0], [3], [4],
+    [7] report GPT-5.6 Sol cheating on METR's evaluation benchmarks, potentially compromising METR's evaluation methodology
+    credibility, though this doesn't directly address developer speedup. Article [8] documents that AI-generated code carries
+    more defects (45% with vulnerabilities, 1.7x more issues), which could suppress actual productivity gains. Overall momentum
+    points away from the >1.0x speedup threshold for experienced developers.
+- date: '2026-07-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. Article [0] (and its Spanish
+    translation [10]) reports the 2025 METR RCT baseline showing 19% slowdown (~0.81x), which is the baseline context already
+    known—not evidence of the 2026 uplift study outcome. This article only adds that developers *perceived* 20% speedup post-hoc,
+    which contradicts actual measured performance and is not the uplift study criterion. The prediction requires concrete
+    measurement data from a 2026 uplift study showing >1.0x speedup; no such study results are presented in any article.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://scienceblog.com/t-a-randomized-trial-by-metr-found-that-experienced-developers-completed-real-coding-tasks-19-slower-when-allowed-to-use-ai-tools-yet-afterwards-they-estimated-on-average-that-ai-had-made-them-20-fast/
+  - https://gradientflow.com/ai-coding-tools-field-guide/
+  - https://tech-insider.org/ie/gitlab-ai-code-governance-2026/
+- date: '2026-07-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific study by METR showing >1.0x speedup for experienced developers on real tasks. No such study result is presented
+    in any article. Articles [0, 3, 5] discuss a Microsoft study (published July 1, 2026) finding 24% more merged pull requests
+    with AI coding agents—a different metric (PR merges vs. developer speedup), different organization, and different methodology
+    than METR''s RCT framework. This cannot substitute for METR''s findings.'
+  trajectory_sources:
+  - https://www.techrepublic.com/article/news-ai-coding-agents-microsoft-pull-requests/
+  - https://ourinsaneblogs.com/2026/07/13/microsoft-study-finds-ai-coding-agents-lift-pull-requests-by-24/
+  - https://blockchainsphere.news/microsoft-study-finds-ai-coding-agents-lift-pull-requests-by-24/
+  trajectory_signal: Articles [0, 3, 5] signal directional momentum TOWARD_YES by showing positive productivity signals from
+    AI coding tools in enterprise settings (24% PR increase with Microsoft agents). Articles [1, 2, 6, 9] mention claimed
+    speedup multipliers (2.9x, 400% ROI, 2.2x, model performance gains) but these are either unverified vendor claims, ROI
+    claims (not developer speedup), or model benchmarks—not controlled studies of developer productivity. Article [8] mentions
+    METR but only regarding "evasion behaviors" in GPT-5.6, not developer speedup studies. The trajectory shows vendors and
+    some studies reporting positive signals, but no evidence yet of METR's specific 2026 uplift study or its results. The
+    momentum is weakly positive for AI productivity claims generally, but the specific METR study remains unresolved as of
+    the current date (2026-07-19).
+- date: '2026-07-26'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires a
+    specific METR study showing >1.0x speedup for experienced developers. No such study is mentioned or referenced in any
+    article. Article [8] references the 2025 METR baseline (19% slowdown), confirming that study exists, but provides no information
+    about a 2026 uplift study or its findings.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.besthub.dev/articles/ai-coding-agents-boost-prs-24-why-java-teams-face-new-challenges-a92de73c0f99
+  - https://tomtunguz.com/ai-engineering-productivity-anything-but-normal/
+  trajectory_signal: 'Articles [1] and [3] show directional momentum AWAY from the resolution criteria:'
+- date: '2026-08-02'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about METR''s 2026 uplift study results. The prediction requires concrete
+    data showing >1.0x speedup from METR''s 2026 study specifically. No such study results are published in these articles.
+    Article [1] references the 2025 METR study (0.81x/19% slowdown) and mentions "later updated to show improved performance"
+    but provides no specifics, citations, or actual 2026 uplift study data. This is vague hearsay rather than direct evidence
+    of the resolution criteria.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://pulseaugur.com/cluster/170288-ai-coding-tools-make-developers-slower-but-overconfident-study-finds
+  - https://tpsreport.news/news/ai-coding-agents-research-software-validation-report
+  - https://temperature2.com/p/2026-08-01-openai-field-report-coding-agents-cant-judge-science/
+  - https://creati.ai/ai-news/2026-08-02/openai-backed-field-report-finds-coding-agents-can-overhaul-research-software-but-not-verify-the/
+  trajectory_signal: Articles [4, 5, 6] describe OpenAI's field report (not METR) showing 60x speedups on research code modernization—a
+    different context (legacy research software) with different developer profiles than METR's 2025 RCT (experienced devs
+    on real open-source issues). Article [1] (HackerNoon, 2026-07-28) directly contradicts the prediction with its title and
+    framing that "AI Makes Coding Feel Faster, but the Data Says Otherwise," citing perception-vs-reality gaps. These signal
+    momentum AWAY from the >1.0x speedup threshold. The OpenAI results don't transfer to METR's scope (agent-assisted modernization
+    ≠ experienced devs on novel issues), so they provide only weak directional signals. The trajectory suggests skepticism
+    about AI coding speedups in realistic developer scenarios, though the specific 2026 METR uplift study remains unpublished
+    as of 2026-08-02.
+- date: '2026-08-09'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles directly address METR''s 2026 uplift study results or findings. The prediction requires concrete
+    evidence of whether METR published a 2026 study showing >1.0x speedup for experienced developers. Article [3] (published
+    2026-08-03) discusses the 2025 METR baseline study showing 19% slowdown (~0.81x) and mentions a February 2026 update that
+    "confirmed and nuanced" this finding, but does not present a new uplift study with different methodology or results. Articles
+    [0], [1], [2] discuss AI coding tool effectiveness generally but lack METR-specific study data or results. Articles [6],
+    [8], [9] cover new AI coding tools (Meta''s Muse Code, multi-agent systems) showing capability progress but do not address
+    METR study outcomes. Critical gap: No article presents findings from an actual METR 2026 uplift study with speedup metrics
+    for experienced developers.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://ecosistemastartup.com/ia-en-desarrollo-seniors-19-mas-lentos-datos-2026/
+  trajectory_signal: Article [3] provides directional evidence TOWARD_NO. It confirms the 2025 METR finding of 19% slowdown
+    persisted into a February 2026 update, suggesting the baseline negative result has remained stable rather than improved.
+    This signals momentum away from the >1.0x speedup threshold. Articles [6], [8], [9] show AI coding tools are advancing
+    in capability (new agent architectures, larger models), but these represent general field progress, not evidence that
+    METR's specific experimental results improved. Article [2]'s reference to debunking "myths" about AI coding tools and
+    broader skeptical discourse (articles [0], [1], [5]) suggests the field is becoming more critical of claimed productivity
+    gains, which contextually trends away from YES resolution.
+- date: '2026-08-16'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://dev.to/siddharthbhalsod/vibe-engineering-wont-save-you-from-slowing-down-j8g
+  relevance: 'MODERATE: Article [3] ("Vibe Engineering Won''t Save You From Slowing Down") provides DIRECT evidence. It describes
+    a randomized controlled trial with 16 senior open-source developers working on real tasks, with work logged minute-by-minute.
+    Half their tasks used AI tools, half without. This matches the 2025 METR baseline study design and appears to be reporting
+    results. The headline and framing ("won''t save you from slowing down") strongly suggests the finding is negative speedup.
+    However, the excerpt provided is incomplete—it cuts off before stating the actual speedup multiplier. This is the closest
+    match to the resolution criteria, but without the explicit numerical result (>1.0x or ≤1.0x), there''s a critical gap.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dev.to/jenueldev/ai-writes-better-code-and-makes-bigger-mistakes-3e5i
+  - https://tiinside.com.br/en/14/08/2026/Development-effort-is-cut-in-half-using-AI./
+  - https://www.techspot.com/news/113487-samsung-claude-code-can-cut-chip-design-work.html
+  trajectory_signal: 'Articles [1], [4], and [7] show directional momentum, though not measuring experienced developers on
+    open-source:'

@@ -5,11 +5,11 @@ category: AI Industry
 baseline: 'As of Jan 2026: ~800M WAU (up from 300M Dec 2024, 400M Feb 2025).'
 resolution_criteria: 'YES: ≥1B WAU confirmed. NO: Below 1B.'
 search_keywords:
-- ChatGPT users
-- ChatGPT 1 billion
-- ChatGPT growth
-- ChatGPT
-- ChatGPT WAU
+- ChatGPT weekly active users 2026
+- ChatGPT 1 billion users milestone
+- ChatGPT WAU growth statistics
+- OpenAI ChatGPT user count
+- Sam Altman ChatGPT growth numbers
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -33,6 +33,8 @@ forecasts:
   human-6: 80
   human-7: 55
   human-8: 98
+  human-9: 70
+  human-10: 75
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -46,3 +48,562 @@ evidence:
   - https://digiday.com/marketing/as-chatgpts-growth-slows-ads-look-like-the-next-risky-move/
   - https://aakashgupta.medium.com/the-chatgpt-app-store-has-900m-weekly-users-heres-how-to-build-for-it-99a7dcde81ef
   - https://fourweekmba.com/chatgpt-health-launches-230-million-users-ask-health-questions-weekly/
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://www.facebook.com/Similarweb/posts/chatgpt-vs-gemini-website-visit-growth-chart-including-january-2026preliminary-d/1352504683583478/
+  - https://openai.com/index/introducing-openai-frontier/
+  - https://www.linkedin.com/pulse/ai-marketing-pulse-chatgpt-ads-launch-60-cpm-metas-135b-jon-goodey-esoee
+  - https://carsondigitalseo.com/will-chatgpt-have-ads/
+  - https://www.globalsecuritymag.com/Threads-Growth-Has-Slowed-by-90-in-August-to-an-Average-of-440-000-New-Users.html
+  relevance: UNCLEAR. While the evidence titles suggest potential growth metrics and marketing efforts for ChatGPT, none of
+    the titles provide definitive information about whether ChatGPT will reach 1 billion weekly active users by the end of
+    2026.
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://gizmodo.com/googles-gemini-3-release-won-over-more-than-100-million-new-active-users-2000718156
+  - https://www.threads.com/@carnage4life/post/DUX-OgWFFQ8/chat-gp-ts-m-active-users-seemed-like-an-insurmountable-lead-but-gemini-is
+  relevance: 'MODERATE: Article [5] states Gemini has 750M monthly active users (not weekly), and article [11] mentions ChatGPT
+    reached 900M active users, providing relevant baseline data points, though neither confirms ChatGPT''s weekly active users
+    or projects to 1B WAU by end of 2026.'
+- date: '2026-02-15'
+  summary: 3 relevant articles
+  sources:
+  - https://www.reuters.com/business/openai-ceo-says-chatgpt-back-over-10-monthly-growth-cnbc-reports-2026-02-09/
+  - https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html?msockid=168520e329b36161399a37e328ca607d
+  - https://www.demandsage.com/chatgpt-statistics/
+  relevance: 'MODERATE: Articles [2] and [3] provide concrete data showing ChatGPT had 800 million weekly active users as
+    of February 2026, while article [8] confirms the same figure, indicating the service is 200 million users short of the
+    1 billion threshold with 11 months remaining until the resolution date.'
+- date: '2026-02-22'
+  summary: 6 relevant articles
+  sources:
+  - https://indianexpress.com/article/technology/tech-news-technology/india-becomes-chatgpts-second-biggest-market-with-100-million-weekly-users-10535027/
+  - https://longbridge.com/en/news/276020890
+  - https://in.mashable.com/tech/105920/ahead-of-ai-impact-summit-openai-ceo-sam-altman-highlights-indias-100m-weekly-active-chatgpt-users
+  - https://tcrn.ch/4rVLIkp
+  - https://www.demandsage.com/chatgpt-statistics/
+  relevance: 'MODERATE: Multiple sources confirm ChatGPT had 800 million WAU by October 2025 and was expected to approach
+    900 million, with 10%+ monthly growth reported in February 2026, indicating trajectory toward 1 billion by end of 2026.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://indianexpress.com/article/technology/tech-news-technology/india-becomes-chatgpts-second-biggest-market-with-100-million-weekly-users-10535027/
+  relevance: 'MODERATE: Article [5] from The Indian Express (2026-02-17, within acceptable date range) provides the most concrete
+    evidence: "Globally, ChatGPT crossed 800 million weekly active users by October 2025, and is expected to approach 900
+    million." This corroborates the baseline context (800M WAU as of Jan 2026) and projects trajectory toward 1B by end-2026,
+    but uses cautious language ("expected to approach 900 million") rather than definitive current figures.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 relevant articles
+  sources:
+  - https://www.aol.com/articles/sam-altman-touts-chatgpts-800-091502060.html
+  - https://www.reuters.com/business/openai-ceo-says-chatgpt-back-over-10-monthly-growth-cnbc-reports-2026-02-09/
+  - https://www.moneycontrol.com/news/technology/india-now-has-100-million-weekly-chatgpt-users-says-openai-ceo-sam-altman-13829179.html
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of whether ChatGPT has reached 1 billion weekly active users by the
+    resolution date (December 31, 2026). Article [0] confirms 800M WAU as of February 21, 2026—matching the baseline context
+    but falling 200M short of the 1B threshold. The criteria require confirmation of ≥1B WAU as of the specific resolution
+    date; current data points only to an intermediate milestone. No article provides evidence of reaching or exceeding 1B
+    WAU at any point.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.demandsage.com/chatgpt-statistics/
+  - https://www.reuters.com/business/openai-ceo-says-chatgpt-back-over-10-monthly-growth-cnbc-reports-2026-02-09/
+  - https://explodingtopics.com/blog/chatgpt-users
+  trajectory_signal: 'Articles [0], [1], and [2] signal meaningful momentum toward the YES resolution:'
+- date: '2026-03-01'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria (≥1B WAU confirmed by December
+    31, 2026). All articles report 900M WAU as of late February 2026, which falls short of the 1B threshold. The baseline
+    context already established 800M WAU as of January 2026, so these articles merely confirm incremental progress (900M)
+    rather than resolving the prediction. The criteria require confirmation of ≥1B WAU as of the specific resolution date
+    (December 31, 2026), which has not occurred. Articles [4] and [6] lack publication dates and cannot be reliably assessed
+    for timeliness.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitalinformationworld.com/2026/02/openai-reports-900m-weekly-chatgpt.html
+  - https://m.economictimes.com/tech/artificial-intelligence/chatgpt-crosses-900-million-weekly-users-50-million-paying-subscribers/articleshow/128876297.cms
+  - https://www.newsweek.com/openai-hits-900-million-weekly-users-raises-110b-in-fresh-funding-11596631
+  - https://theaiinsider.tech/2026/02/28/openai-surpasses-900m-weekly-users-secures-landmark-funding-and-finalizes-pentagon-ai-agreement/
+  - https://www.cnet.com/tech/services-and-software/chatgpt-has-almost-1-billion-weekly-users/
+  trajectory_signal: 'Articles 0, 1, 2, 3, and 5 collectively signal MODERATE MOMENTUM TOWARD_YES. Key trajectory indicators:'
+- date: '2026-03-08'
+  summary: 3 relevant articles
+  sources:
+  - https://www.unite.ai/chatgpt-hits-900-million-weekly-active-users-as-openai-closes-110-billion-funding-round/
+  - https://enterpriseai.economictimes.indiatimes.com/news/industry/chatgpt-surpasses-900-million-weekly-users-milestone-50-million-paid-subscribers/128907839
+  - https://itdaily.com/news/business/chatgpt-900-million-users/
+  relevance: 'STRONG: Articles [1], [3], and [4] provide direct evidence that ChatGPT has reached 900 million weekly active
+    users as of early March 2026. All three cite OpenAI''s official announcement (made February 27 - March 1, 2026) confirming
+    this milestone. This represents concrete progress toward the 1B WAU resolution threshold, with 100M additional users gained
+    since the January 2026 baseline of 800M WAU. The evidence directly addresses the specific resolution criteria by confirming
+    a verified user count. Criteria gap: The prediction requires 1B WAU by December 31, 2026. Current evidence shows 900M
+    as of March 2026, leaving 100M additional users needed over the next 10 months (~10M/month growth rate required). This
+    is achievable but not yet resolved.'
+  direction: TOWARD_YES
+- date: '2026-03-15'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.businesstoday.in/technology/news/story/chatgpts-900-million-weekly-users-handle-billions-of-daily-queries-each-using-10-google-search-energy-study-520516-2026-03-13
+  relevance: 'MODERATE: Article [0] provides direct evidence: ChatGPT had 900M WAU as of March 13, 2026 — a concrete data
+    point 9.5 months before the December 31, 2026 resolution date. This shows the user base is at 900M, still 100M short of
+    the 1B threshold. Criteria gap: This single snapshot doesn''t confirm whether 1B will be reached by year-end, but it establishes
+    the baseline is closer than the January 2026 baseline (800M) and leaves a meaningful gap to close in 9.5 months.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://officechai.com/ai/google-geminis-traffic-grew-643-y-o-y-in-feb-2026-chatgpts-grew-37-similarweb-data/
+  - https://timesofindia.indiatimes.com/technology/tech-news/sam-altmans-openai-may-have-a-sora-plan-to-boost-declining-chatgpt-user-base/articleshow/129441354.cms
+  - https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/
+  trajectory_signal: 'Articles [3], [4], and [6] collectively signal NEGATIVE momentum:'
+- date: '2026-03-22'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://techbullion.com/chatgpt-at-900-million-weekly-users-how-openai-scaled-consumer-ai/
+  - http://inews.hket.com/article/4096808/%E3%80%90AI-%E6%A6%9C%E5%96%AE%E3%80%91%E7%BE%8E%E9%A2%A8%E6%8A%95%E6%A9%9F%E6%A7%8B%EF%BC%9A%E5%85%A8%E7%90%83%E4%B8%80%E6%88%90%E4%BA%BA%E5%8F%A3%E6%AF%8F%E5%91%A8%E7%94%A8ChatGPT%E3%80%80Gemini%E7%B6%B2%E9%A0%81%E8%A8%AA%E5%95%8F%E9%87%8F%E4%BD%8D%E5%B1%85%E7%AC%AC%E4%BA%8C?mtc=20009
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.windowsforum.com/article/ai-apps-dominate-2026-mobile-landscape-chatgpt-leads-mau-rankings-windows-copilot-integration-expand.405384
+  - https://www.capitalaidaily.com/40000000-people-now-use-chatgpt-for-health-queries-each-day-according-to-openai/
+  - https://www.pakistantv.com/article/openai-raises-110-bn-in-record-funding-round
+- date: '2026-03-29'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://drimble.nl/internet/106062756/chatgpt-telt-900-miljoen-wekelijkse-actieve-gebruikers.html
+  - https://www.facebook.com/Reuters/posts/-chatgpts-maker-open-ai-has-900-million-users-and-an-840-billion-valuation-yet-i/1504274221563305/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ibtimes.com/10-mobile-apps-most-users-2026-chatgpt-surges-top-spot-ai-apps-dominate-3800141
+  - https://searchengineland.com/chatgpt-hits-100-million-in-ad-revenue-and-is-opening-self-serve-access-in-april-472797
+  - https://www.emarketer.com/content/openai-s-chatgpt-ads-hit--100-million-annualized-revenues--doubts-remain
+  - https://www.newsbytesapp.com/news/business/openai-s-chatgpt-ad-pilot-surpasses-100m-annualized-revenue-mark/story
+  - https://coincentral.com/openai-chatgpt-ad-pilot-reaches-100-million-revenue-in-six-weeks/
+- date: '2026-04-05'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.theverge.com/ai-artificial-intelligence/904727/openai-chatgpt-investment
+  - https://www.limelightdigital.co.uk/chatgpt-users/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/index/accelerating-the-next-phase-ai/
+  - https://www.morningstar.com/news/marketwatch/20260331477/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update
+  - https://apptopia.com/en/insights/gen-ai-chatbots-april-2026-apptopia-data-brief-chatgpt-drops-below-40-market-share/
+- date: '2026-04-12'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.fool.com/investing/2026/04/05/5-things-to-know-about-openai-before-its-ipo/?referring_guid=b685cc78-aeec-461c-b466-12a7abb0dcd6
+  - https://www.gurufocus.com/news/8773640/openai-publishes-ai-policy-framework-as-chatgpt-reaches-900-million-weekly-users
+  - https://www.fool.com/investing/2026/04/05/5-things-to-know-about-openai-before-its-ipo/
+  relevance: 'MODERATE: Three articles provide direct evidence on current WAU: Articles [2] and [6] (identical Motley Fool
+    piece from 2026-04-05) state ChatGPT has 900 million weekly active users. Article [5] (2026-04-06) corroborates this,
+    reporting "ChatGPT Reaches 900 Million Weekly Users" with OpenAI attribution. These represent the most recent official
+    or semi-official counts and directly address the resolution metric. Criteria gap: We have a current snapshot (900M WAU
+    as of early April 2026) but need confirmation of whether 1B WAU is achieved by December 31, 2026—a gap of ~111M users
+    over 8.5 months. The baseline shows growth from 300M (Dec 2024) to 800M (Jan 2026) to 900M (April 2026), but the growth
+    rate has decelerated (100M in 2 months vs. 500M in 13 months). Achievement of 1B by year-end requires acceleration to
+    match earlier 2025 growth rates.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bereaonline.com/blog/chatgpt-ads-openai-ad-pilot-100m/
+  - http://on.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new
+  - https://searchlyn.com/chatgpt-search-statistics/
+  trajectory_signal: Articles [3] and [4] signal monetization expansion (ads pilot exceeding $100M, new $100/month Pro tier),
+    which could drive retention and engagement but don't directly measure user growth. Article [7] (2026-04-11) provides historical
+    context showing ChatGPT's unprecedented adoption trajectory (1M users in 5 days, 100M MAU in 2 months) and confirms 900M
+    WAU as of February 2026, reinforcing momentum signals. The trajectory shows strong platform consolidation and revenue
+    diversification, suggesting OpenAI is optimizing the service to support continued scaling. However, the deceleration in
+    WAU growth rate (from ~38M/month early 2025 to ~50M in April 2026) is a caution signal—reaching 1B requires ~12M WAU/month
+    sustained growth through year-end, which is achievable but not guaranteed given the slowdown.
+- date: '2026-04-19'
+  summary: 3 relevant articles
+  sources:
+  - https://m.economictimes.com/tech/artificial-intelligence/nearly-a-billion-people-now-use-chatgpt-and-codex-weekly-says-openai-president-greg-brockman/articleshow/130254304.cms
+  - https://www.newsbytesapp.com/news/science/openai-president-greg-brockman-chatgpt-and-codex-near-1b-weekly/tldr
+  - https://fatjoe.com/blog/chatgpt-stats/
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://backlinko.com/chatgpt-stats
+  relevance: 'MODERATE: Article [6] (Backlinko, 2026-04-21) provides direct evidence: "ChatGPT has over 900 million weekly
+    active users worldwide" as of December 2025. This is the closest concrete measurement to the resolution criteria, placing
+    ChatGPT at 900M WAU—significantly closer to the 1B threshold than the baseline 800M from January 2026. However, a critical
+    gap remains: this is December 2025 data, not current (April 2026) data, so we lack confirmation of whether the trajectory
+    has continued upward through April or if momentum has slowed/reversed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://blog.quintarelli.it/2026/04/in-march-chatgpts-weekly-active-users-fell-month-on-month-in-the-us-for-the-first-time/
+  - https://officechai.com/ai/chatgpts-us-app-market-share-has-fallen-below-40-daus-have-been-falling-since-oct-2025-apptopia-data/
+  trajectory_signal: 'Article [1] (2026-04-20) signals negative momentum: ChatGPT''s US WAU "fell month on month in March...for
+    the first time since the start of 2024," suggesting deceleration. Article [5] (2026-04-20) reinforces this with US market
+    share dropping to 38.7% and "fourth consecutive month of decline" in DAUs since October 2025, with users migrating to
+    Claude and Gemini. Articles [0], [3], [4] contain conflicting/unclear user figures (700M, 300M, unspecified) and suggest
+    competitive pressure from Claude. The trajectory from December 2025 (900M) through April 2026 appears to have stalled
+    or reversed rather than progressed toward 1B. Articles [2], [7], [8], [9] address ad monetization strategy, not user growth,
+    and are directionally neutral on resolution.'
+- date: '2026-05-03'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether ChatGPT will reach 1B WAU by December 31, 2026. The baseline
+    shows 800M WAU as of January 2026, leaving a 200M user gap (25% growth needed over ~12 months). None of the articles quantify
+    current WAU or project December 2026 levels with concrete data. Article [2] discusses paid subscriber targets (122M by
+    2026), which is fundamentally different from WAU metrics and doesn''t address the resolution criteria. The criteria gap
+    is critical: we have no direct measurement of current WAU post-January 2026, no forecast for December 2026 WAU specifically,
+    and no clarity on whether reported figures refer to WAU, DAU, or total registered users.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo
+  - https://www.business-standard.com/companies/news/openai-missed-sales-user-targets-fueling-spending-concerns-126042800957_1.html
+  - https://siliconangle.com/2026/04/28/chip-stocks-drop-report-openai-missed-chatgpt-growth-targets/
+  - https://officechai.com/ai/openai-has-missed-its-own-new-user-and-revenue-targets-wsj/
+  - https://thenextweb.com/news/openai-growth-fears-firing-all-cylinders
+  trajectory_signal: 'Articles 0, 1, 4, 6, 7, 8 all report that OpenAI missed its own 1B WAU target for end of 2025 (confirming
+    it fell short of that milestone). Articles 0 and 1 additionally signal negative momentum: download growth is slowing,
+    and growth lags behind Claude. This creates a STRONG TOWARD_NO trajectory signal. OpenAI failed to reach 1B WAU even with
+    aggressive 2025 targets, and current growth momentum appears to be decelerating rather than accelerating. For the target
+    to resolve YES by end of 2026 would require a reversal from this negative trajectory—possible but increasingly unlikely
+    given the reported slowdown and competitive pressure. Article [2] represents a minor countervailing signal (strategic
+    push for cheaper tier), but it targets paid subscribers, not WAU, and doesn''t address the momentum problem.'
+- date: '2026-05-10'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires ≥1B WAU
+    confirmed by December 31, 2026. All articles discuss ChatGPT at ~900M WAU as of early May 2026—substantially short of
+    the 1B threshold. Articles [0], [1], [2], and [4] all cite the same 900M figure, confirming this is the current baseline.
+    None present confirmed figures at or above 1B WAU. The criteria gap is significant: ChatGPT would need to add ~100M users
+    (11% growth) in ~7.5 months to resolve YES.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenewstack.io/openai-ory-identity-scale/
+  - https://upstox.com/news/upstox-originals/investing/is-chat-gpt-the-undisputed-ai-champion-or-the-lagging-giant/article-193157/
+  - https://www.heise.de/en/news/OpenAI-improves-the-ChatGPT-that-almost-everyone-uses-11283523.html
+  - https://quantumzeitgeist.com/openai-network-infrastructure-push-900m/
+  trajectory_signal: 'Articles [0], [1], [2], and [4] signal clear upward momentum:'
+- date: '2026-05-17'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://xix.ai/ja/ainews/openai-hits-900m-weekly-users-secures-110-billion-from-amazon-nvidia.html
+  relevance: 'MODERATE: Article [1] provides direct evidence: it states OpenAI''s weekly active users reached 900 million
+    (9億人). This is a concrete, recent data point (published 2026-05-16) showing progress toward the 1B threshold. However,
+    a critical gap remains: the article appears to be in Japanese (xix.ai source) and the content provided is minimal—only
+    a headline. The claim needs corroboration from English-language sources or official OpenAI statements to be considered
+    fully reliable, and 100M more users are still needed to hit the resolution threshold. The baseline context (800M WAU as
+    of Jan 2026) is now outdated given this May data point.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/signals/research/2026q1-update/
+  - https://www.newsbytesapp.com/news/business/openai-and-z47-ai-could-add-1tn-to-indias-gdp/tldr
+  - https://www.aiwins.news/story/chatgpt-goes-mainstream-strong-q1-2026-growth-among-35-users-573a72
+  - https://www.edtechinnovationhub.com/news/openai-signals-data-shows-chatgpt-use-widening-across-age-work-and-global-markets
+  trajectory_signal: 'Articles [0, 4, 5] show consistent directional momentum: Q1 2026 data reveals ChatGPT adoption broadening
+    significantly beyond early adopters into older age groups (35+) and geographically (gains in non-established markets).
+    Article [2] provides a concrete milestone—India alone has 100M weekly ChatGPT users—indicating regional penetration is
+    substantial and contributing to global growth. Together, these signal strong momentum toward mainstream adoption and suggest
+    the growth trajectory from 300M (Dec 2024) → 400M (Feb 2025) → 800M (Jan 2026) → 900M (May 2026) is accelerating. At this
+    rate, reaching 1B by end-2026 appears plausible, though not guaranteed. Articles [6-10] are excluded as they address revenue,
+    enterprise strategy, and IPO plans rather than WAU trajectory.'
+- date: '2026-05-24'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.archynewsy.com/chatgpt-reaches-900-million-weekly-active-users/
+  - https://megaoneai.com/funding/openai-q1-2026-operating-margin-122/
+  relevance: 'MODERATE: Current evidence shows ChatGPT at ~900M WAU as of May 2026, well-documented and credible. The resolution
+    requires 1B by Dec 31, 2026 — a 100M user gap. While trajectory is still positive (up from 800M in Jan 2026), multiple
+    sources indicate growth has significantly decelerated/plateaued, which is a critical concern for hitting the target in
+    the remaining 7 months.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.blogarama.com/technology-blogs/1425041-chatgpt-hub-blog/76206670-reaches-900-million-weekly-users-2026-what-growth-data-tells
+  - https://cryptobriefing.com/openai-revenue-lead-over-anthropic/
+  - https://pivot-to-ai.com/2026/05/22/openai-user-numbers-go-flat-just-in-time-for-the-ipo/
+  - https://www.tipranks.com/news/openai-crushed-anthropic-in-q1-revenue-and-still-hemorrhaged-billions
+  - https://markets.businessinsider.com/news/stocks/comscore-march-2026-consumer-ai-chatbot-usage-rankings-show-claude-gaining-share-1036171343
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of ChatGPT''s current WAU count as of late May 2026. Article [0] promises
+    ChatGPT statistics but provides only a contact page with no actual data. Article [2] explicitly states ChatGPT''s WAU
+    is approximately 900M (not 1B), though this appears partially cut off. This is the closest to direct evidence but still
+    falls short of the resolution threshold and doesn''t constitute confirmation of 1B WAU. The baseline already indicated
+    800M WAU in January 2026, and [2]''s 900M figure (if accurate) suggests only modest growth over 5 months, not the acceleration
+    needed to reach 1B by end-2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.tcti.cn/post/1565920
+  - https://ppc.land/65-of-americans-now-use-ai-weekly-up-36-million-in-three-months/
+  trajectory_signal: Articles [2] and [5] signal directional momentum TOWARD_NO. Article [2] reveals ChatGPT's market share
+    has collapsed from 80% to 60% in six months, with Gemini and Claude surging dramatically (Gemini from 20% to 50%, Claude
+    from 3% to 20%). Article [5] shows rapid AI adoption growth among Americans (65% weekly AI usage, +36M in 3 months), but
+    this growth is spreading across multiple AI platforms, not concentrating in ChatGPT. The fragmentation of the AI market
+    suggests ChatGPT's user growth is being cannibalized by competitors. At 900M WAU in late May with 7 months remaining and
+    decelerating market share, reaching 1B would require ~14M new weekly active users per month—a steeper climb given competitive
+    pressure. This momentum points away from YES resolution.
+- date: '2026-06-07'
+  summary: 8 trajectory signals
+  relevance: 'NONE: All articles report that ChatGPT has reached 1 billion MONTHLY active users (MAU) in May 2026, not weekly
+    active users (WAU). The prediction specifically requires ≥1 billion WEEKLY active users by December 31, 2026. Monthly
+    and weekly metrics are fundamentally different — WAU is typically a subset of MAU. No article provides evidence of weekly
+    active user counts, which is the actual resolution criterion. Therefore, while the articles demonstrate impressive growth
+    momentum, they do not directly satisfy the YES resolution criteria, which requires confirmed WAU figures, not MAU figures.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.channelnewsasia.com/business/chatgpt-app-hits-1-billion-monthly-active-users-in-record-time-data-shows-6157616
+  - https://www.theverge.com/ai-artificial-intelligence/942749/chatgpt-reportedly-hit-1-billion-monthly-active-users-faster-than-any-other-app
+  - https://thenextweb.com/news/chatgpt-1-billion-monthly-active-users
+  - https://www.thehindubusinessline.com/info-tech/chatgpt-app-crosses-1-billion-monthly-active-users-in-3-years-of-launch-india-20-of-this-user-base/article71061550.ece
+  - https://timesofindia.indiatimes.com/technology/tech-news/openais-chatgpt-becomes-first-ai-app-to-reach-1-billion-monthly-users-in-just-three-years/articleshow/131478095.cms
+  trajectory_signal: 'These articles provide STRONG directional evidence toward YES resolution. The rapid growth from ~800M
+    WAU (Jan 2026) to 1B MAU (May 2026) in six months signals accelerating adoption. Since MAU typically encompasses WAU,
+    reaching 1B MAU is a positive signal that WAU may be approaching or exceeding 1B, especially given the strong growth trajectory.
+    The baseline context shows growth of 500M WAU in 14 months (Dec 2024 to Feb 2025); the subsequent growth to 1B MAU suggests
+    the platform could plausibly reach 1B WAU by end of 2026 if growth continues. However, the critical gap remains: no source
+    has measured or reported actual weekly active users, only monthly. The articles are from June 2-4, 2026 (within preferred
+    date range), citing Sensor Tower estimates from May 2026.'
+- date: '2026-06-14'
+  summary: 3 trajectory signals
+  relevance: 'NONE: The prediction requires ≥1B WEEKLY ACTIVE USERS (WAU) by December 31, 2026. Articles [2, 4, 5, 6, 7] report
+    ChatGPT reaching 1 billion MONTHLY ACTIVE USERS (MAU) in May 2026—a different metric. While impressive, MAU and WAU are
+    distinct metrics; monthly users are typically 2-3x weekly users. Articles [0] and [1] report 900M WAU as of February-June
+    2026, still 100M short of the 1B WAU threshold. No article provides direct evidence of 1B WAU being achieved. The monthly
+    user milestone is NOT resolution criteria satisfaction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aeoengine.ai/blog/pillar/chatgpt-user-statistics
+  - https://www.getpanto.ai/blog/chatgpt-statistics
+  - https://news.bitcoin.com/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users/
+  trajectory_signal: Articles [0, 1, 3] show strong momentum toward resolution. ChatGPT grew from 800M WAU (Jan 2026) to 900M
+    WAU (Feb-June 2026), representing 100M growth in ~4 months—a trajectory that would reach 1B WAU by late 2026 if sustained.
+    The 1B MAU milestone achieved in May 2026 signals robust underlying growth and user engagement. OpenAI's S-1 filing and
+    $852B valuation suggest confidence in continued scaling. However, 100M additional WAU in 6 months (July-December) would
+    be required to hit the target—a decelerating growth rate from the 2025 trajectory (500M growth in 12 months). The direction
+    is clearly toward YES, but achievement by year-end is not yet guaranteed.
+- date: '2026-06-21'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://photonews.com.pk/chatgpt-1-billion-users/
+  - https://www.gsmarena.com/chatgpt_grows_user_base_to_over_11_billion_but_its_market_share_is_shrinking-news-73298.php
+  relevance: 'STRONG: The prediction is CLOSE but not yet resolved. Articles provide strong evidence of momentum toward 1B
+    users, but the critical distinction between MAU and WAU creates ambiguity. Last confirmed WAU was ~905M in Q1. Reaching
+    1B WAU by end-2026 requires ~95M growth in 6.5 months—possible but not guaranteed given competitive pressures noted in
+    trajectory articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://icharles.com/articles/openai-q1-2026-burn-rate
+  - https://linkpublishers.com/blog/chatgpt-statistics/
+  - https://icharles.com/articles/openai-q1-2026-burn-rate
+  - https://linkpublishers.com/blog/chatgpt-statistics/
+- date: '2026-06-28'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://economictimes.indiatimes.com/tech/artificial-intelligence/a-billion-prompts-later-chatgpt-rewrites-the-record-books/articleshow/131926645.cms
+  - https://bitrss.com/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users-219125
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.hotelnewsresource.com/article141767.html
+  - https://www.36kr.com/p/3706656174977158
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of 1B WAU as of the evaluation date (July 5, 2026). Article [6] claims
+    "1 billion monthly active users" (not WAU) and is dated June 12—before the preferred date range and uses wrong metric.
+    Article [7]''s headline claims "1B Users" but content is not provided to verify. Multiple articles (1, 2, 5) cite 900M
+    WAU as current state, which contradicts the 1B claim in [7]''s headline. The resolution criteria require confirmed ≥1B
+    WAU by December 31, 2026—this remains unmet as of early July 2026. Critical gaps: No primary source confirmation of 1B
+    WAU from OpenAI; conflicting data points (900M vs 1B); unclear metric definitions (MAU vs WAU); headline-content mismatches
+    suggest unreliable reporting.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://fatjoe.com/blog/chatgpt-stats/
+  - https://www.analyticsinsight.net/news/openai-leads-in-ai-users-but-anthropic-appears-ahead-in-enterprise-revenue-growth
+  - https://www.benzinga.com/markets/tech/26/06/60147915/chatgpt-towers-over-claude-with-900-million-users-but-anthropic-may-be-winning-the-ai-revenue-race-idc-estimates
+  - https://aifundingtracker.com/chatgpt-news/
+  trajectory_signal: 'Articles [1, 2, 5] from late June 2026 consistently report 900M WAU, up from 800M baseline (January
+    2026). This represents 100M net growth over ~6 months (~16.7M/month). Linear extrapolation suggests ~950-1000M WAU by
+    December 2026—close to threshold but not definitively crossing it. Article [7]''s "1B Users" headline (July 3) may signal
+    a recent threshold cross, but unverified content prevents confirmation. Article [4] shows geographic expansion (non-English
+    users now majority) and [3] emphasizes sustained engagement/habitual use—both support continued growth momentum. Direction:
+    TOWARD_YES based on growth trajectory (100M in 6 months puts December target within reach), but trajectory is moderate
+    rather than accelerating, and current 900M figure leaves ~11% gap.'
+- date: '2026-07-12'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://bitrss.com/chatgpt-hits-one-billion-users-as-ai-backlash-fails-to-slow-adoption-220395
+  relevance: 'STRONG: Article [1] (BitRss, 2026-07-11) provides DIRECT evidence addressing the resolution criteria. It explicitly
+    states "ChatGPT reached one billion monthly app users in May" and cites Sensor Tower as the source, noting ChatGPT "reached
+    the milestone fastest." However, this references MONTHLY active users (MAU), not weekly active users (WAU) as specified
+    in the criteria. The prediction requires ≥1B WAU by December 31, 2026. MAU and WAU are distinct metrics—WAU is typically
+    lower than MAU. The article does not provide the specific WAU figure needed for definitive resolution. This is a criteria
+    gap: we have confirmation of 1B MAU but not 1B WAU. Baseline context shows 800M WAU as of January 2026, suggesting strong
+    momentum toward the 1B WAU threshold, but the actual WAU count as of mid-July remains unconfirmed in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bitrss.com/openai-closes-122b-funding-round-hits-852b-valuation-as-ai-infrastructure-race-intensifies-197649
+  - https://saassentinel.com/2026/07/10/openai-launches-chatgpt-work-to-automate-business-workflows-across-enterprise-apps/
+  trajectory_signal: Articles [2] and [5] signal strong momentum toward YES. Article [2] (2026-07-11) states ChatGPT "now
+    surpasses 900 million weekly active users" as of the funding round announcement, showing progression from the 800M WAU
+    baseline (January 2026) to 900M WAU. This represents 100M additional WAU in ~6 months, suggesting a trajectory that could
+    reach 1B WAU by year-end if growth continues at similar pace. Article [5] (2026-07-10) describes the launch of ChatGPT
+    Work with 1M+ users and broad enterprise integration, indicating new product expansion driving household and enterprise
+    adoption. Articles [3], [4], and [6-7] show strategic expansion into family/household and enterprise segments, suggesting
+    growth drivers, but lack quantitative user metrics. These trajectory signals indicate momentum TOWARD_YES, though the
+    critical WAU metric remains just below target.
+- date: '2026-07-19'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://sqmagazine.co.uk/chatgpt-claude-gemini-perplexity-statistics/
+  relevance: 'MODERATE: Article [0] provides the most direct evidence: it confirms ChatGPT crossed 900M WAU by late February
+    2026 and currently serves "more than 800 million weekly active users" as of the July 15 publication date. This is the
+    closest to direct resolution criteria we have. However, there''s an apparent contradiction (900M in Feb, then "more than
+    800M" in July suggests either a decline or conservative reporting). The article doesn''t provide current July status explicitly,
+    leaving a ~100M gap to the 1B threshold and ~5.5 months until the December 31, 2026 resolution date. The trajectory from
+    300M (Dec 2024) → 400M (Feb 2025) → 800M (Jan 2026) → 900M (Feb 2026) suggests acceleration, but recent growth appears
+    to have plateaued based on this reporting.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://fourweekmba.com/ai-chatgpt-gemini-claude-generative-ai-traffic-share-2026/
+  - https://36kr.com/p/3706656174977158
+  trajectory_signal: 'Article [2] provides directional momentum: Similarweb data shows ChatGPT MAU climbing from ~30M (mid-2023)
+    to ~630M (June 2026), demonstrating continued growth even as market share declines. This signals positive momentum toward
+    higher absolute user counts. Article [8] (published March 2026 but referencing recent data) mentions 900M WAU and discusses
+    ChatGPT positioning itself for "1 billion entrance" (十亿入口), suggesting internal corporate targeting toward the 1B threshold.
+    Both articles indicate directional progress TOWARD_YES, though neither provides current July 2026 confirmation of breach
+    or imminent breach. The 100M user gap over 5.5 months requires ~18M/month growth rate—achievable based on historical trajectory
+    but not guaranteed.'
+- date: '2026-07-26'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://sqmagazine.co.uk/chatgpt-vs-gemini-vs-copilot/
+  relevance: 'MODERATE: Article [0] provides the most direct evidence: ChatGPT reached 900 million weekly active users in
+    February 2026 (per OpenAI). This is concrete, recent data from the official source establishing current baseline at 900M
+    WAU—just 100M short of the 1B threshold by end-2026. However, this article has a critical gap: it was published July 20
+    but cites February 2026 data, which is 5 months old. The baseline context indicates 800M as of January 2026, making the
+    February 900M figure plausible but requiring verification of whether growth has continued at the reported pace. No more
+    recent official WAU count is provided in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mashable.com/article/openai-how-many-people-use-chatgpt
+  trajectory_signal: 'Article [5] signals positive momentum: 2.5B daily prompts suggests extremely high engagement and usage
+    frequency, indicating the user base is highly active. Combined with the 900M WAU baseline (article [0]) and the acceleration
+    from 300M (Dec 2024) → 400M (Feb 2025) → 800M (Jan 2026) → 900M (Feb 2026), a compound growth rate of ~20-30% per month
+    through early 2026 suggests reaching 1B by EOY 2026 is plausible. However, articles [6-7] warn of slowing growth via market
+    share loss to Gemini and Claude, which could dampen momentum. The agent product expansion (articles [1-4]) shows OpenAI
+    is diversifying use cases, which could support WAU growth but is indirect evidence. Overall trajectory is TOWARD_YES but
+    with moderating headwinds.'
+- date: '2026-08-02'
+  summary: 7 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.theverge.com/ai-artificial-intelligence/973791/openai-says-its-models-now-reach-more-than-1-billion-users
+  - https://qz.com/openai-billion-users-gpt-price-cuts-073126
+  - https://www.pymnts.com/news/artificial-intelligence/2026/openai-reaches-1-billion-active-users-as-ai-becomes-daily-habit/
+  - https://www.asiae.co.kr/en/article/2026080110273668162
+  - https://tribune.com.pk/story/2621525/openai-says-has-more-than-1-billion-active-users
+  relevance: 'STRONG: Multiple credible sources (The Verge, Quartz, PYMNTS, Asia Business Daily, AFP/Korea Times) published
+    July 31-August 1, 2026 report OpenAI''s official announcement that its models have surpassed 1 billion weekly active users.
+    Article [0] (The Verge, Jul 31) directly quotes OpenAI''s blog post stating "more than 1 billion weekly active users."
+    Articles [2], [4], [5], [6], [7], [8] corroborate this announcement with consistent messaging about the 1B+ user milestone,
+    the accompanying price cuts (80% reduction for GPT-5.6 Luna), and that 2M+ businesses are also using the platform. These
+    are direct confirmations of the resolution criteria being met (≥1B WAU as of the current date, August 2, 2026). The claims
+    originate from OpenAI''s official July 31 announcement, with multiple independent news outlets reporting the same figure.
+    **Criteria met**: The prediction requires confirmation of ≥1B WAU as of December 31, 2026 — that threshold has already
+    been announced as achieved as of July 31, 2026, five months ahead of the resolution date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/chatgpt-1-billion-weekly-active-users-openai-target
+  - https://memeburn.com/chatgpt-weekly-active-users-near-1-billion/
+  trajectory_signal: Articles [1] and [3] note ChatGPT "nears" or is "near" 1 billion users (published Jul 29 and Aug 1).
+    Article [1] mentions the target was "seven months late," suggesting momentum toward the threshold even before official
+    confirmation. These articles capture the approach to the milestone and signal strong upward trajectory, though they predate
+    or roughly align with the official announcement.
+- date: '2026-08-09'
+  summary: 7 relevant articles
+  sources:
+  - https://www.techrepublic.com/article/news-openai-1-billion-users/
+  - https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/
+  - https://www.heise.de/en/news/ChatGPT-OpenAI-upgrades-free-tier-11403299.html
+  - https://www.techspot.com/news/113329-openai-reaches-one-billion-active-users-cuts-gpt.html
+  - https://www.webpronews.com/openai-crosses-1-billion-active-users-as-chatgpt-becomes-fastest-app-to-global-scale/
+  relevance: 'STRONG: Multiple independent sources (TechCrunch, TechSpot, heise online, Telecompaper, Dataconomy, WebProNews)
+    published August 3-7, 2026 all confirm OpenAI''s announcement that ChatGPT has crossed 1 billion weekly active users.
+    Articles [0], [1], [2], [3], [4], [6], and [7] directly state this milestone has been achieved. The criteria require "≥1B
+    WAU confirmed" as of December 31, 2026, and this evidence shows the threshold has already been met approximately 5 months
+    before the resolution date. Articles cite OpenAI''s official announcement and provide corroborating details (price cuts,
+    model upgrades, feature announcements) that lend credibility to the claim. No material gaps remain in the resolution criteria—the
+    specific metric (weekly active users) and threshold (1 billion) have been directly confirmed by the resolution authority
+    (OpenAI) through multiple reputable news outlets within the preferred date range.'
+  direction: TOWARD_YES
+- date: '2026-08-16'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users
+  - https://wpnews.pro/news/chatgpt-and-gemini-both-just-passed-1-billion-users
+  - https://abc45.com/news/nation-world/google-gemini-passes-1-billion-monthly-users-as-chatgpt-reaches-1-billion-weekly-users
+  relevance: 'STRONG: Articles [0], [2], and [6] provide direct evidence that ChatGPT has reached 1 billion weekly active
+    users (WAU). Article [0] from The Verge (Aug 12, 2026) explicitly states "ChatGPT and Gemini both just passed 1 billion
+    users." Article [2] from Web Pulse (Aug 11, 2026) confirms "ChatGPT also surpassed 1 billion users" and explicitly states
+    "hit 1 billion weekly ac[tive users]" in the partial content. Article [6] from TNND (Aug 11, 2026) clearly states in the
+    headline "ChatGPT reaches 1 billion weekly users" and distinguishes this from Gemini''s 1 billion monthly users milestone.
+    All three articles are from the preferred date range (after Aug 2) and from credible news sources. The criteria require
+    ≥1B WAU confirmed as of December 31, 2026—this evidence shows the threshold was already crossed by mid-August 2026, well
+    ahead of the resolution date. Criteria gaps: None material—the prediction resolves YES based on current evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.technewshub.com/post/openai-expands-free-chatgpt-with-unlimited-text-chats-and-gpt-5-6-access
+  - https://www.gadgetvoize.com/2026/08/10/openai-expands-chatgpt-reach-with-new-models-workplace-tools-and-ai-agent-plugins/
+  - https://www.technewshub.com/post/openai-expands-free-chatgpt-with-unlimited-text-chats-and-gpt-5-6-access
+  - https://www.gadgetvoize.com/2026/08/10/openai-expands-chatgpt-reach-with-new-models-workplace-tools-and-ai-agent-plugins/
+  trajectory_signal: Articles [5] and [9] show momentum-driving product changes. Article [5] (Aug 10, 2026) describes OpenAI
+    expanding free ChatGPT with unlimited text chats and new model access, announced "as ChatGPT reaches a milestone of 1
+    billion weekly active users." Article [9] (Aug 10, 2026) details expanded workplace adoption, education tools, and agent
+    plugins, similarly timed to the 1B WAU milestone. These represent strategic moves to sustain and grow the user base further,
+    suggesting positive momentum for maintaining or growing beyond 1B WAU through end-2026.
+- date: '2026-08-23'
+  summary: 2 relevant articles, 1 trajectory signal
+  sources:
+  - https://geekblog.net/tech-news/chatgpt-1-billion-weekly-users-market-share-decline/
+  - https://jingletree.com/chatgpt-and-gemini-both-just-passed-1-billion-users-249004.html
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bitrss.com/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users-219125
+- date: '2026-08-30'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.qrcodepress.com/one-billion-people-use-chatgpt-weekly/8545876/
+  relevance: 'STRONG: Article [0] provides DIRECT evidence that ChatGPT has reached 1 billion weekly active users as of July
+    2026. The article explicitly states: "In July 2026, an OpenAI spokesperson told The Verge that ChatGPT had reached approximately
+    one billion weekly active users." This directly satisfies the resolution criteria of ≥1B WAU. The article is dated 2026-08-23
+    (within the preferred date range of after 2026-08-16) and cites an official OpenAI statement to The Verge. No criteria
+    gaps remain—this is the direct confirmation sought.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.moneycontrol.com/artificial-intelligence/chatgpt-ads-come-to-india-as-openai-accelerates-its-revenue-push-article-14016364.html
+  - https://www.storyboard18.com/advertising/openai-launches-chatgpt-ads-in-india-targets-vast-digital-market-ws-lo-108920.htm
+  - https://cryptobriefing.com/openai-agent-users-20m-revenue-growth/
+  - https://vmtech.rs/en/instagram-insights/openai-brazil-commercial-operations
+  - https://www.storyboard18.com/amp/how-it-works/from-100-million-users-to-ads-what-openais-new-india-md-prabhjeet-singh-will-have-to-contend-with-108940.htm
+  trajectory_signal: 'Multiple articles signal momentum supporting the 1B milestone achievement:'
+- date: '2026-09-06'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://yellow.com/news/openai-1b-ads-1b-users
+  - https://www.ainvest.com/news/openai-chatgpt-ads-hit-1-billion-annualized-revenue-run-rate-2609/
+  relevance: 'STRONG: Articles [0] and [2] provide DIRECT evidence satisfying the resolution criteria. Both explicitly state
+    that OpenAI has reached 1 billion weekly active users (WAU) as of early September 2026. Article [0] (published 2026-09-05,
+    within preferred date range) states in headline and content: "OpenAI Reaches $1B Ad Run Rate With 1B Weekly ChatGPT Users."
+    Article [2] (published 2026-09-04/05) corroborates this, mentioning "1 billion weekly active users" in the context of
+    ad expansion. These articles directly confirm the YES resolution criterion (≥1B WAU) well ahead of the December 31, 2026
+    deadline. No criteria gaps remain—the prediction resolves YES based on these confirmations.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://quasa.io/insights/openai-opens-in-brazil-215m-daily-messages-explain-the-bet
+  - https://aiweekly.co/alerts/openai-us-classwork-prompts-to-chatgpt-peak-at-460m-a-week
+  - https://en.edaily.co.kr/news/eda202609035438/
+  - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
+  - https://www.reuters.com/business/media-telecom/openais-ad-business-hits-1-billion-annualized-revenue-run-rate-2026-08-31/
+  trajectory_signal: 'Articles [3], [4], [5], [7], [8], [9], [10] show strong TRAJECTORY momentum supporting this outcome:'

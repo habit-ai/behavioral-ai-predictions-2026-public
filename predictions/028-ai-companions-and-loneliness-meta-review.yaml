@@ -6,13 +6,15 @@ baseline: Individual studies emerging. No meta-review published yet.
 resolution_criteria: 'YES: Meta-review finds significant relationship. NO: None. IF no meta-review is written the question
   is voided (no point penalty either way).'
 search_keywords:
-- AI loneliness
-- Meta
-- AI companion loneliness
-- AI companion study
-- AI isolation research
+- systematic review AI companion loneliness
+- meta-analysis chatbot social isolation
+- AI companion loneliness peer reviewed study
+- social robot loneliness older adults meta-analysis
+- digital companion intervention loneliness review
+- AI friendship app isolation research outcomes
 resolution_date: null
 outcome: null
+resolution_status: void
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 45
@@ -34,6 +36,8 @@ forecasts:
   human-6: 80
   human-7: 40
   human-8: 10
+  human-9: 70
+  human-10: 65
 evidence:
 - date: '2026-02-01'
   summary: Found 4 articles
@@ -47,3 +51,600 @@ evidence:
   - https://link.springer.com/article/10.1186/s12889-026-26283-x
   - https://www.citizen.org/article/counterfeit-companionship-big-tech-ai-chatbots/
   - https://tech.yahoo.com/ai/articles/disruptive-innovation-key-building-world-100000058.html
+- date: '2026-02-07'
+  summary: Found 8 articles
+  sources:
+  - https://www.gabcommunityinstitute.org/post/ai-chatbots-and-digital-companions-are-reshaping-emotional-connection
+  - https://techxplore.com/news/2026-02-ai-powered-companionship-harnessing-music.html
+  - https://arxiv.org/html/2509.22505v2
+  - https://www.ocregister.com/2026/02/03/loneliness-is-the-new-epidemic-can-technology-offer-antidotes/
+  - https://lav01.metalabel.com/release-l007
+  relevance: 'WEAK_YES: While the evidence titles suggest a thematic connection between AI companions and loneliness, they
+    do not definitively prove a meta-review has found a significant relationship, warranting only a cautious "weak yes" assessment.'
+- date: '2026-02-15'
+  summary: 4 relevant articles
+  sources:
+  - https://pubmed.ncbi.nlm.nih.gov/41025480/
+  - https://www.sciencedirect.com/science/article/pii/S2214782925000570
+  - https://www.mdpi.com/2227-9032/13/5/446
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12598933/
+  relevance: 'MODERATE: Articles [5] and [14] appear to be meta-analyses on social robots and loneliness in older adults;
+    articles [8] and [9] are systematic reviews on digital interventions for loneliness—these could contain relevant findings,
+    though the content previews don''t explicitly confirm they address AI companions specifically or report significant relationships.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://www.hbs.edu/ris/download.aspx?name=AI+Companions+Reduce+Loneliness+11.7.2025.pdf
+  relevance: 'NONE: None of these articles are meta-reviews/systematic reviews that synthesize evidence about AI companion
+    use and loneliness; they are individual studies, opinion pieces, blog posts, listicles, and articles about the topic that
+    lack the systematic review methodology required by the resolution criteria.'
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a meta-review/systematic
+    review that specifically examines the relationship between AI companion use and loneliness with statistically significant
+    findings. While several articles appear relevant to AI companions and loneliness (indices 7, 8, 9), the provided content
+    snippets do not contain sufficient detail to confirm whether they constitute published meta-reviews with specific findings
+    on this relationship. Most critically, none of the articles in this batch explicitly state they found a "significant relationship"
+    between AI companion use and loneliness. Article [0] appears to be a meta-analysis but focuses on "digital interventions"
+    broadly rather than specifically AI companions. The resolution criteria remain unmet: we need a published meta-review
+    with explicit findings of statistical significance on AI companion use specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://globalrph.com/2026/02/ai-companions-and-human-connection-how-artificial-intelligence-is-changing-loneliness/
+  - https://www.hbs.edu/ris/download.aspx?name=AI+Companions+Reduce+Loneliness+11.7.2025.pdf
+  - https://www.mdpi.com/2227-9032/13/5/446
+  trajectory_signal: 'Articles 2, 7, and 9 signal momentum toward YES resolution. Article [7] ("AI Companions Reduce Loneliness")
+    appears to be empirical research examining whether AI companion apps are effective at alleviating loneliness—directly
+    addressing the question. Article [9] is explicitly titled as a systematic review of AI applications to reduce loneliness
+    among older adults, suggesting the field is moving toward synthesizing evidence. Article [2] ("AI Companions and Human
+    Connection") appears to examine how AI is changing loneliness. These represent directional progress: individual studies
+    and review articles are accumulating on this specific topic, increasing the likelihood that a formal meta-review with
+    significant findings will eventually be published. The publication activity in February 2026 shows active research momentum
+    in this space, though none have yet crossed the threshold of being a published meta-review with reported significant findings.'
+- date: '2026-03-01'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires a meta-review/systematic
+    review finding a "significant relationship between AI companion use and loneliness." While multiple systematic review/meta-analysis
+    papers are referenced (Articles 0, 1, 2, 3, 5, 12), the content provided is insufficient to verify: (1) whether these
+    are actual published meta-reviews vs. protocols/announcements, (2) what their actual findings are regarding significance
+    of relationships, or (3) whether they specifically address "AI companions" as defined in the resolution criteria. Article
+    0 and 12 reference a meta-analysis on "social robots" (not necessarily AI companions broadly). Article 1 is explicitly
+    labeled a "Protocol" (not a completed review). Articles 2, 3, 5 are systematic reviews but actual findings are not visible
+    in the truncated content. The criteria gap is critical: we need a published meta-review with visible findings explicitly
+    stating whether a significant relationship exists.'
+  trajectory_sources:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12598933/
+  - https://www.medrxiv.org/content/10.1101/2025.06.19.25329905v1.full-text
+  - https://www.sciencedirect.com/science/article/pii/S2214782925000570
+  - https://www.mdpi.com/2227-9032/13/5/446
+  - https://www.nature.com/articles/s41746-023-00979-5
+  trajectory_signal: 'Six articles suggest active research momentum toward producing relevant meta-reviews. Article 1 (medRxiv,
+    2025 date in DOI) shows a protocol for systematic review on AI social robots and loneliness in development. Articles 0,
+    2, 3, 5, 12 appear to be published/near-published systematic reviews or meta-analyses on related topics (social robots,
+    digital interventions, AI applications for loneliness). This indicates the research infrastructure for generating the
+    required meta-review is forming. However, articles 4, 8, 9, 10, 11, 14 (published Feb 22-27, 2026) signal directional
+    momentum AGAINST resolution, reporting findings that AI chatbots/companions may WORSEN mental health and are "no substitute
+    for human connection" — suggesting when meta-reviews do publish, they may find null or negative relationships rather than
+    significant positive ones. This creates tension: trajectory shows meta-reviews are coming, but recent evidence suggests
+    they may resolve the prediction as NO.'
+- date: '2026-03-08'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review on AI companion use and loneliness has been published yet that reports
+    findings. The resolution criteria requires a completed meta-review that finds a significant relationship. Articles [0],
+    [1], [2], and [3] are systematic review/meta-analysis PROTOCOLS or titles indicating reviews are in progress, but none
+    provide actual results or findings. Article [0] is a "protocol" (pre-registration), not a completed review. Articles [1],
+    [2], [3] appear to be published reviews but the provided content is only headers/metadata without access to actual findings
+    or whether they specifically examined AI companions vs. broader digital interventions. Article [15] is a scoping review
+    on social pedagogical agents in education, not specifically on AI companions and loneliness outcomes. Critically: none
+    of the provided content shows actual meta-analytic results establishing a significant relationship between AI companion
+    use and loneliness.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.medrxiv.org/content/10.1101/2025.06.19.25329905v1.full-text
+  - https://www.sciencedirect.com/science/article/pii/S2214782925000570
+  - https://www.mdpi.com/2227-9032/13/5/446
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12598933/
+  - https://www.frontiersin.org/articles/10.3389/frai.2026.1625438/full
+  trajectory_signal: Multiple systematic reviews and meta-analyses on related topics (AI social robots, digital interventions
+    for loneliness, AI applications for older adults, synthetic relationships with AI agents) are either published or in advanced
+    protocol stage as of early 2026. This suggests active research momentum toward synthesizing evidence on AI-based social/emotional
+    technologies and loneliness. The publication of protocols and related reviews indicates the field is moving toward the
+    specific meta-review needed for YES resolution, though none have yet delivered quantitative findings on the focal question.
+    Recent individual studies (articles [6], [7], [8]) on AI chatbots and emotional support adoption (23% turning to AI for
+    emotional support) provide context for why such a meta-review would be timely and likely forthcoming.
+- date: '2026-03-15'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.futura-sciences.com/en/the-more-people-use-chatgpt-the-more-this-hidden-psychological-risk-grows_26958/
+  relevance: 'MODERATE: Article [2] ("Scientists just found a loneliness pattern in ChatGPT users") provides the most direct
+    evidence. It describes two concurrent studies—one by OpenAI analyzing 4+ million interactions with 4,076 user surveys,
+    another by MIT Media Lab (Cathy Fang) with 981 participants across interaction modes—both finding loneliness outcomes
+    associated with ChatGPT/AI companion use. This is TIER 1 evidence of individual studies establishing significant relationships,
+    which is the prerequisite foundation for a meta-review. However, this is NOT YET a meta-review itself—it''s reporting
+    on primary studies. The resolution criteria require "a meta-review/systematic review will find significant relationship,"
+    which has not occurred yet. Article [2] demonstrates the evidence base is accumulating but the actual meta-review has
+    not been published.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://interestingengineering.com/ai-robotics/ai-study-robot-purdue
+  - https://www.usatoday.com/press-release/story/28226/edubrain-ai-survey-finds-many-gen-z-adults-using-ai-for-emotional-support-and-daily-interaction/
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1745837/full
+  - http://www.nature.com/articles/s41746-026-02466-z
+  - https://www.nature.com/articles/s44220-026-00595-8
+  trajectory_signal: 'Articles [6], [7], [12], [13], [14] signal momentum toward resolution:'
+- date: '2026-03-22'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review addressing the specific prediction criteria was found. Article [11]
+    is a systematic review on loneliness interventions (ASSeTS), but its content snippet does not indicate it specifically
+    examines AI companion use or its relationship to loneliness—it appears focused on WHO classification systems for social
+    isolation/loneliness interventions more broadly. Without access to the full text, it cannot be confirmed as meeting resolution
+    criteria. The prediction explicitly requires a meta-review finding a "significant relationship between AI companion use
+    and loneliness" to resolve YES. No such meta-review exists in these articles.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.404media.co/chatgpt-loneliness-study-college-students-random-strangers-texting
+  - https://es.gizmodo.com/chatbots-vs-humanos-el-experimento-que-revela-que-reduce-realmente-la-soledad-en-jovenes-2000227224
+  - https://gizmodo-com.nproxy.org/lonely-people-are-better-off-texting-strangers-than-messaging-a-chatbot-study-finds-2000734594
+  - https://www.psypost.org/emotionally-intelligent-ai-chatbots-improve-mental-health-but-destroy-real-world-social-ties/
+  - https://internationalfinance.com/magazine/technology-magazine/a-deadly-ai-antidote-for-loneliness/
+  trajectory_signal: 'Articles [3, 4, 8] report on individual empirical studies (not meta-reviews) showing that texting strangers
+    reduces loneliness MORE than chatbot interaction—directional evidence suggesting AI companions may have a NEGATIVE or
+    WEAK relationship with loneliness reduction. Article [7] reports chatbots "improve mental health but destroy real-world
+    social ties"—mixed but net-negative framing. Article [9] mentions AI companions have high usage (Character.ai: 185M monthly
+    visitors) and anecdotal reports of harm ("subscription proved fatal"), suggesting growing adoption but concerning outcomes.
+    These individual studies and reports create momentum AWAY from a finding of positive significant relationship, and toward
+    either no relationship or a negative one. However, they are not the meta-review required for resolution. The trajectory
+    suggests if/when a meta-review is conducted, it may find a negative or null relationship rather than significant positive
+    relationship.'
+- date: '2026-03-29'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews specifically examining the relationship between AI companion use
+    and loneliness were found. The resolution criteria explicitly requires a meta-review to find a significant relationship
+    for YES resolution. Without such a meta-review, the prediction cannot resolve YES regardless of individual study findings.
+    Critical gap: The prediction hinges entirely on whether a meta-review will be published and what it concludes—neither
+    condition has been met.'
+  trajectory_sources:
+  - https://bmjopen.bmj.com/content/bmjopen/12/12/e067858.full.pdf
+  - https://www.bps.org.uk/research-digest/chatbot-vs-random-human-which-better-tackling-loneliness
+  - https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/
+  - https://bmjopen.bmj.com/content/bmjopen/15/10/e103893.full.pdf
+  - https://aijourn.com/groundbreaking-study-shows-ai-assisted-mental-health-support-achieves-43-reduction-in-anxiety-symptoms/
+  trajectory_signal: 'Multiple signals show momentum in the underlying research ecosystem that could eventually support a
+    meta-review:'
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews examining the relationship between AI companion use and loneliness
+    were found. The resolution criteria explicitly requires "A meta-review/systematic review will find significant relationship"
+    — this is the only path to YES resolution. Zero articles meet this criterion. Articles [0] and [13] are systematic reviews
+    but address dementia assistive tech and homeless youth mental health respectively, not AI companions and loneliness. No
+    TIER 1 evidence exists.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://businessnewsthisweek.com/business/aalto-university-ai-companions-can-comfort-lonely-users-but-may-deepen-distress-over-time/
+  - https://discovery.researcher.life/article/loneliness-increases-consumers-preference-for-virtual-human-companionship/ed4e15950e303a42b513a067e345ce52
+  trajectory_signal: 'Two articles signal directional momentum toward eventual meta-review resolution:'
+- date: '2026-04-12'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review of AI companion use and loneliness has been published. The resolution
+    criteria explicitly requires a meta-review/systematic review to exist for YES resolution. Article [9] is a living systematic
+    review, but it concerns psilocybin treatment for depression, not AI companions and loneliness — outside scope. Articles
+    [10] and [12] are relevant empirical studies on ICT/digital engagement and mental health outcomes, but they do not constitute
+    meta-reviews of AI companion use specifically, and their content doesn''t clearly address AI companions as the intervention.
+    The critical gap remains: no meta-analytic synthesis of AI companion studies on loneliness has been published.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://prd.ctvnews.ca/vancouver/article/texting-a-stranger-is-better-for-reducing-loneliness-than-an-ai-chatbot-study-finds/
+  - https://bc.ctvnews.ca/vancouver/article/texting-a-stranger-is-better-for-reducing-loneliness-than-an-ai-chatbot-study-finds/
+  - https://www.weau.com/2026/04/06/small-robot-helps-chippewa-valley-senoirs-beat-loneliness-state-leads-nation-results/
+  - https://www.epochtimes.com/b5/26/4/7/n14736482.htm
+  - https://igate.com.ua/news/32933-ii-kompanony-spasayut-ot-odinochestva-no-mogut-uhudshat-psihicheskoe-zdorove
+  trajectory_signal: 'A growing body of individual empirical studies is emerging (published April 2026), all pointing in a
+    consistent direction: AI companions show NO significant positive relationship with loneliness reduction, or may worsen
+    outcomes. Articles [0,1,7] report the UBC study (296 first-semester students) finding AI chatbots ineffective vs. human
+    texting. Articles [4,8] report a University of Aalto study showing AI companions may worsen mental health and increase
+    isolation over time. Articles [2,5,6] report mixed findings: Wisconsin seniors showing positive results with robotic companions,
+    but teenagers finding "comfort at what cost," and critical accountability perspectives highlighting potential harms. This
+    directional momentum—accumulation of studies with predominantly negative or cautionary findings—creates conditions favoring
+    a future meta-review that would likely find NO significant positive relationship (or a significant negative relationship).
+    This signals trajectory TOWARD_NO resolution, but the absence of an actual meta-review means the prediction remains unresolved.'
+- date: '2026-04-19'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review specifically examining the relationship between AI companion use and
+    loneliness has been published. Article [2] is a systematic review, but it addresses AI health chatbots'' medical advice
+    quality, not the AI companion-loneliness relationship. Article [11] is a meta-analysis, but it examines loneliness trends
+    in Japan historically (1983-2023), not AI companion effects. Critical criteria gap: The resolution explicitly requires
+    a meta-review that finds a "significant relationship between AI companion use and loneliness." No article meets this direct
+    evidence threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://www.asiaone.com/singapore/ai-powered-social-robots-improve-emotional-well-being-elderly-children-study
+  - https://us.headtopics.com/news/chatty-robot-helps-seniors-fight-loneliness-through-ai-82130925
+  - https://theconversation.com/ai-companions-can-give-constant-support-but-distort-ideas-about-what-a-relationship-really-is-278284
+  - https://arxiv.org/pdf/2604.06419
+  - https://www.roborhythms.com/teens-hooked-on-ai-chatbots-april-2026/
+  trajectory_signal: Articles [0, 1] show individual studies reporting emotional well-being improvements from AI companions
+    in specific populations (elderly, children). Articles [6, 8, 10] present individual empirical studies on teen AI chatbot
+    dependency showing addiction-like patterns and emotional reliance. Articles [3, 7, 9] present opinion/analysis pieces
+    warning of psychological harms from AI companions. Article [4] is a scholarly analysis of AI companionship user experiences.
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews have been published yet. The resolution criteria explicitly require
+    a meta-review/systematic review finding a significant relationship between AI companion use and loneliness. None of the
+    15 articles constitute such a meta-review. Articles [1], [2], and [12] discuss AI companions being used to address loneliness
+    in specific populations (aging adults, students), but these are individual studies, implementation reports, or discussion
+    pieces—not synthesis reviews. The corpus shows emerging individual research but falls short of the threshold evidence
+    needed for YES resolution.'
+  trajectory_sources:
+  - https://www.fiercehealthcare.com/sponsored/beyond-visit-how-ai-companion-technology-reshaping-outcomes-aging-populations
+  - https://www.timesunion.com/news/article/new-york-robotics-isolation-aging-adults-22216057.php
+  - https://www.mobihealthnews.com/news/anz/ai-companions-developed-lonely-students-australia
+  trajectory_signal: 'Articles [1], [2], and [12] signal moderate momentum TOWARD_YES resolution by demonstrating:'
+- date: '2026-05-03'
+  summary: 16 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review specifically examining the relationship between AI companion use and
+    loneliness has been published. The resolution criteria explicitly requires a meta-review to find a significant relationship
+    for YES resolution. Zero articles in the collection constitute such a meta-review. Articles [13], [14], [12], [16] are
+    systematic/scoping reviews but address different topics (patient concerns about AI in healthcare, NLP applications for
+    social determinants, mental health conversational agents from trauma lens, digital mental health intervention design)
+    — none directly investigate the AI companion-loneliness relationship. The prediction cannot resolve YES or NO based on
+    current evidence; it remains on track to void if no qualifying meta-review is published.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://theconversation.com/how-principles-of-self-compassion-help-fight-loneliness-in-the-age-of-ai-276574
+  - https://arxiv.org/pdf/2604.23601
+  - https://triblive.com/opinion/catherine-thorbecke-ai-is-coming-for-our-aging-parents-ready-or-not/
+  - https://www.tribtoday.com/life/lifecovers/2026/05/loneliness-social-isolation-affecting-seniors-too/
+  - https://hbr.org/2026/05/employees-are-relying-on-ai-for-personal-support-thats-risky
+  trajectory_signal: 'Substantial momentum toward conditions that would support a future meta-review finding a significant
+    relationship:'
+- date: '2026-05-10'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://cikavosti.com/shi-kompanjony-znyzhuyut-samotnist-litnih-lyudej/
+  relevance: 'MODERATE: Article [4] is a meta-analysis/systematic review published 2026-05-09 (within date range) reporting
+    that AI conversational agents and helper robots "statistically significantly improve social [connections]" according to
+    a systematic review and meta-analysis in BMC Geriatrics by Gu, Lefevre, and Yan. This directly satisfies the resolution
+    criteria IF the finding addresses loneliness specifically. However, the content snippet is truncated (Ukrainian text cuts
+    off mid-sentence at "соціальний з..."), making it unclear whether the meta-review specifically found a significant relationship
+    between AI companion USE and LONELINESS, or more broadly social outcomes. This is the closest match to direct criteria
+    but requires verification that loneliness was the outcome measure.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.psypost.org/turning-to-chatbots-when-lonely-may-exacerbate-feelings-of-loneliness-study-finds/
+  - https://ssir.com.br/quando-a-ia-e-sua-amiga/
+  trajectory_signal: Articles [2] and [8] represent active empirical research with contradictory findings on the core relationship—one
+    showing harm, one showing benefit. This suggests momentum toward eventual meta-analysis, but currently the evidence base
+    is mixed. Article [4] appears to be the actual meta-review sought, but content truncation prevents full verification of
+    whether it directly addresses the loneliness outcome.
+- date: '2026-05-17'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles constitute direct evidence of a meta-review/systematic review finding a significant relationship
+    between AI companion use and loneliness. The resolution criteria explicitly require a meta-review publication. No meta-review
+    on this specific topic has been identified in the articles provided. Article [0] discusses expert perspectives on AI chatbots
+    for mental health but is not a meta-review. Article [8] is a qualitative exploratory study at a single university, not
+    a meta-review. Article [11] appears to be a Danish literature study on loneliness interventions generally, but content
+    is insufficient to confirm it addresses AI companions specifically or meets meta-review criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cp24.com/news/canada/2026/05/11/he-was-lonely-after-his-marriage-ended-and-found-himself-on-a-chatbot-but-experts-say-to-beware-of-the-risks/
+  - https://www.nbcpalmsprings.com/2026/05/10/the-illusion-of-intimacy-why-experts-warn-ai-cannot-cure-the-loneliness-epidemic
+  - https://cyberbullying.org/teen-ai-chatbot-harm-national-study
+  - https://techxplore.com/news/2026-05-teens-ai-chatbots-daily.html
+  trajectory_signal: 'Articles [1], [4], [5], [6] show growing momentum toward conditions that could support a future meta-review
+    resolution:'
+- date: '2026-05-24'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews directly addressing the relationship between AI companion use and
+    loneliness were found. The resolution criteria explicitly requires a meta-review/systematic review finding a significant
+    relationship. No article meets this threshold. While article [5] is titled as a "Systematic Review," it addresses cybersecurity/privacy
+    risks of AI chatbots, not the loneliness-relationship question. Articles [4], [9], and [10] are meta-analyses or systematic
+    reviews, but they examine loneliness trends in Japan and IBD correlates—not AI companion use relationships.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.savingadvice.com/articles/2026/05/23/10736775_the-carebot-companion-why-robotic-support-devices-like-paro-are-appearing-more-often-in-home-care-settings.html
+  - https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1687924/full
+  trajectory_signal: Articles [2], [11], and [6] signal directional momentum TOWARD_YES resolution by indicating growing research
+    attention to AI companions and loneliness outcomes. Article [11] is a "pilot study" on "human–AI conversational interaction
+    and its impact on loneliness and wellbeing" published May 21, 2026—this is exactly the type of individual study that precedes
+    meta-review synthesis. Article [2] mentions "Recent studies have shown promise that these bots can ease loneliness" in
+    home care settings. Article [6] from a loneliness researcher warns AI "is about to make it much worse," suggesting the
+    field recognizes this as an important empirical question. Articles [0], [1], [7], [8], [12], [13], [14] show expanding
+    AI companion/chatbot deployment and mental health research, creating an evidence base from which a meta-review could eventually
+    draw. However, no meta-review has yet synthesized these individual findings. The trajectory suggests one may emerge soon,
+    but resolution currently remains contingent on that synthesis actually occurring and finding significance.
+- date: '2026-06-07'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review specifically examining the relationship between AI companion use and
+    loneliness has been identified. The resolution criteria explicitly requires "a meta-review/finds significant relationship"
+    to resolve YES. Zero articles in this batch constitute a meta-review or systematic review of AI companion use and loneliness.
+    Article [10] is a systematic evidence map of LLM clinical interventions broadly, not focused on companions and loneliness
+    specifically. The prediction remains unresolved pending actual meta-review publication.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.thenews.com.pk/latest/1404251-can-ai-cure-loneliness-new-research-says-no
+  - https://www.thestar.com.my/tech/tech-news/2026/05/31/lonely-talking-to-an-ai-chatbot-will-just-make-you-lonelier-research-finds
+  - https://medium.com/@thewero/ai-companions-making-you-lonelier-finland-study-eac7eca25f3b
+  trajectory_signal: Articles [1], [2], and [4] represent individual studies (not meta-reviews) published in late May/early
+    June 2026 finding that AI companion use is associated with *increased* loneliness or fails to reduce it. These are directional
+    signals that IF a meta-review is eventually conducted, the evidence base it synthesizes will likely point toward a significant
+    relationship—but in the negative direction (AI companions associated with worse loneliness outcomes, not better). This
+    momentum is toward YES resolution technically (confirming a significant relationship exists), but the relationship appears
+    to be opposite to what many might intuitively expect. Articles [5], [6], [7] show behavioral trends (Gen Z preferring
+    AI to humans) but are surveys/trend pieces, not outcome studies. Articles [0], [3], [11] concern assistive robots and
+    AI for specific clinical populations (LGBTQ+ youth, rural crisis management), which are narrower domains than general
+    "AI companion" use and loneliness.
+- date: '2026-06-14'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.nature.com/articles/s41746-026-02886-x
+  relevance: 'MODERATE: Article [0] is a systematic review and meta-analysis of AI conversational agents for mental health
+    intervention published 2026-06-12 (within the preferred date range). However, it focuses on CBT-based effectiveness for
+    mental health outcomes, NOT specifically on the relationship between AI companion use and loneliness. The article addresses
+    a related but distinct question—whether AI agents help with mental health via CBT—rather than whether they correlate with
+    loneliness levels. This provides partial evidence of meta-review activity in the AI companion domain but does NOT directly
+    satisfy the resolution criteria, which requires a meta-review finding a significant relationship specifically between
+    AI companion use and loneliness. Critical gap: No evidence this meta-analysis measured or found relationships with loneliness
+    as an outcome variable.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.jmir.org/2026/1/e83871
+  - https://gulfnews.com/world/asia/in-ageing-south-korea-ai-dolls-fill-the-void-of-human-companionship-1.500572373
+  - https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1740539/full
+  trajectory_signal: Articles [1], [3], and [13] show directional momentum toward YES by documenting growing AI companion
+    adoption among vulnerable populations (elderly in South Korea, seniors generally) and emerging research on AI's role in
+    isolation/connection. Article [3] directly addresses the loneliness motivation (3,920 "lonely deaths" in South Korea,
+    AI dolls helping isolated seniors). Article [13] is a real-world study of socially assistive robots detecting depression
+    in older adults—a related outcome in the target population. Article [1] is a scoping review of embodied AI in healthcare.
+    Together, these signal an accelerating research ecosystem examining AI companions' effects on psychosocial outcomes including
+    isolation, which increases probability a dedicated loneliness meta-review will eventually be published. However, none
+    of these articles constitute the required meta-review on the specific loneliness-AI companion relationship.
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review specifically examining the relationship between AI companion use and
+    loneliness was found. The resolution criteria require a meta-review finding a significant relationship — this has not
+    been published. All articles discuss individual studies, anecdotes, or general reviews of digital mental health tools,
+    but none constitute the meta-review specified in the resolution criteria.'
+  trajectory_sources:
+  - https://link.springer.com/article/10.1007/s11920-026-01689-x
+  - https://www.sciencefocus.com/wellbeing/loneliness-research-treatable
+  - https://www.aginguntold.com/2026/06/15/what-keep-mind-about-ai-companions-older-adults/
+  - https://link.springer.com/article/10.1007/s11920-026-01690-4
+  trajectory_signal: 'Several signals indicate momentum toward eventual meta-review publication:'
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review specifically examining the relationship between AI companion use and
+    loneliness has been published. Article [0] is a systematic review on AI for stress management (not loneliness specifically).
+    Article [6] is a systematic review on AI chatbots in chronic disease care (different scope). Neither directly addresses
+    the prediction''s resolution criteria. Articles [1], [3] report empirical results from a single South Jeolla Province
+    trial showing improvements in depression/emotions among elderly with AI companion dogs, but these are individual studies,
+    not meta-reviews. Article [2] describes a telepresence robot trial showing health improvements but does not focus on loneliness
+    as primary outcome. The critical gap: no meta-review/systematic review synthesizing evidence on the AI companion use-loneliness
+    relationship exists yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.asiae.co.kr/en/article/2026062210200189855
+  - https://www.psychologicalscience.org/publications/observer/chatbots-potato-chips.html
+  - https://www.cureus.com/articles/503379-the-role-of-artificial-intelligence-chatbots-in-chronic-disease-care-a-systematic-review-of-current-evidence-and-future-directions?score_article=true
+  - https://www.nature.com/articles/s41598-026-57498-y
+  - https://www.nature.com/articles/s41598-026-59281-5
+  trajectory_signal: 'Strong trajectory signals suggest momentum toward YES resolution:'
+- date: '2026-07-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires a meta-review/systematic review that finds a
+    significant relationship between AI companion use and loneliness. None of the articles presented ARE such a meta-review
+    on this specific topic. Article [3] is a meta-analysis on social interventions in global mental health (different scope),
+    and article [5] is a meta-analysis on attrition in AI-based mental health interventions (different outcome measure). These
+    do not directly address the AI companion-loneliness relationship. Articles [0-2, 4, 6-12] are individual studies, opinion
+    pieces, or narrative reviews discussing AI companions and related mental health outcomes, but they are not meta-reviews
+    and do not constitute resolution evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://link.springer.com/article/10.1186/s12910-026-01510-7
+  trajectory_signal: Article [5] signals MODERATE trajectory momentum. It is a peer-reviewed systematic review and meta-analysis
+    (published 2026-06-29, within preferred date range) examining AI-based mental health interventions in BMC Medical Ethics.
+    While it focuses on attrition rather than loneliness specifically, it demonstrates that rigorous meta-analytic methodology
+    is being applied to AI mental health topics in 2026. This suggests the infrastructure and research momentum exist for
+    a loneliness-specific meta-review to emerge. The broader collection of articles [0-2, 4, 6-12] all address AI companions/chatbots
+    and mental health/relationship outcomes published in June-July 2026, showing an active research ecosystem. This directional
+    evidence suggests growing likelihood that researchers will synthesize findings on AI companion use and loneliness specifically,
+    moving toward YES resolution—though the actual meta-review required for YES hasn't yet been published.
+- date: '2026-07-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews meeting resolution criteria were found. The prediction requires
+    a meta-review/systematic review that finds a significant relationship between AI companion use and loneliness. Article
+    [0] is labeled a "literature review" but only the abstract is provided with no substantive content to verify it meets
+    the meta-review standard or addresses the specific relationship. None of the articles constitute the meta-review needed
+    for YES resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://link.springer.com/article/10.1007/s10209-026-01352-5
+  - https://siliconcanals.com/m-a-mit-openai-study-of-nearly-40-million-chats-found-the-heaviest-chatgpt-users-reported-more-loneliness-dependence-and-less-time-with-real-people-though-researchers-warn-the-link-is-correlation-no/
+  - https://www.psypost.org/ai-chatbots-offer-empathy-but-still-fail-to-cure-loneliness/
+  - https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-claude-and-other-ai-chatbots-may-help-lonely-people-feel-better-but-they-cannot-offer-what-humans-can-yale-professor-warns/articleshow/132320734.cms
+  - https://phys.org/news/2026-07-romantic-relationships-ai-evolve-similar.html
+  trajectory_signal: Strong directional momentum toward resolution YES. Articles [1] and [5] (same study reported twice) present
+    a large-scale MIT-OpenAI empirical study of 40 million chats finding heavy ChatGPT users reported more loneliness and
+    less time with real people—substantial correlational evidence on the core relationship. Article [2] reports a comparative
+    study showing AI chatbots less effective than human contact for addressing loneliness. Articles [3] and [4] address emotional
+    dependence and relationship dynamics with AI systems, contextualizing the loneliness question. Article [0], while incomplete
+    in the excerpt, appears to be a literature review on AI assistants for older adults (a high-loneliness demographic). Together,
+    these signal growing research interest in documenting the AI companion-loneliness relationship and increasing evidence
+    base that a meta-review could synthesize. However, no actual meta-review exists yet—the resolution remains void-pending.
+    The trajectory strongly suggests conditions are ripening for such a review to be commissioned and published.
+- date: '2026-07-19'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: 'MODERATE: Article [11] is a 2026 systematic review and meta-analysis published in Psychological Medicine examining
+    "Autonomous conversational agents for loneliness, social isolation, depression, and anxiety in older people without cognitive
+    impairment." This directly satisfies the resolution criteria as a meta-review specifically addressing the relationship
+    between AI companion use and loneliness. However, the article content provided does not include the actual findings—only
+    author information and metadata. The headline/title does not specify whether the meta-analysis found a significant relationship
+    or null results, creating a critical gap. The resolution criteria requires the meta-review to "find significant relationship"—we
+    cannot confirm from the available content whether this threshold was met. This is direct evidence that a meta-review has
+    been written and published, but incomplete evidence of what it concluded.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://doi.org/10.1186/s12889-024-19153-x
+  - https://doi.org/10.1093/geront/gnaf219
+  - https://doi.org/10.70322/ldmh.2026.10005
+  - https://doi.org/10.1101/2025.10.15.25338078
+  trajectory_signal: Articles [12], [13], [14], [15] represent several meta-analyses and systematic reviews on related topics
+    (relational agents for loneliness across ages, social robots and loneliness in later life, AI chatbots and mental health
+    across lifespan) published in 2024-2026. These show accumulating meta-level research infrastructure and momentum toward
+    systematic synthesis of the AI companion-loneliness relationship, though with varying scopes and publication status (some
+    appear to be preprints or in press). Articles [5] and [6] signal emerging public discourse questioning whether AI companions
+    help or harm loneliness. Articles [1], [4], [8], [9] show increased adoption and research attention on AI companions for
+    mental health/social engagement. This trajectory suggests growing research momentum, but the direction regarding whether
+    companions actually reduce loneliness remains contested—[5] specifically notes ambivalent outcomes ("feels heard...feels
+    a little more alone each week").
+- date: '2026-07-26'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: 'MODERATE: Article [11] is a published systematic review and meta-analysis in Psychological Medicine (2026-01-01)
+    examining "Autonomous conversational agents for loneliness, social isolation, depression, and anxiety in older people
+    without cognitive impairment." This directly addresses the resolution criteria by conducting a meta-analysis on AI companion
+    use and loneliness relationships. However, the content snippet is incomplete—it shows only the title, authors, and metadata
+    without the actual findings or conclusions. Critical gap: We cannot verify from the provided excerpt whether the meta-analysis
+    found a "significant relationship" (YES resolution) or null findings (NO resolution). The article meets the structural
+    criteria (meta-review exists) but we lack the substantive evidence of what it concluded.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://doi.org/10.1186/s12889-024-19153-x
+  - https://doi.org/10.1136/bmjopen-2025-110667
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: Articles [12], [13], and [14] show strong momentum toward YES resolution. Article [12] is an existing
+    systematic review and meta-analysis on "relational agents for loneliness across age groups" published in BMC Public Health
+    (2024-07-06), already established with 18 citations. Article [13] is a registered protocol (2026-03-01) for a systematic
+    review on "artificial agents in loneliness alleviation among older adults" by Ningbo University researchers—indicating
+    an active meta-review in development. Article [14] is a recent scoping review (2026-07-15, within preferred date range)
+    on "human-like conversational agents as social partners" examining "well-being outcomes" in Frontiers in Artificial Intelligence.
+    These collectively signal that multiple meta-review/systematic review efforts are either completed or actively underway
+    specifically examining AI companions and loneliness/wellbeing outcomes. The trajectory strongly suggests additional formal
+    meta-reviews will be published soon, increasing probability of YES resolution.
+- date: '2026-08-02'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: 'MODERATE: Article [10] is a genuine meta-analysis published 2026-01-01 in Psychological Medicine examining "Autonomous
+    conversational agents for loneliness, social isolation, depression, and anxiety in older people without cognitive impairment."
+    This directly addresses the resolution criteria by conducting a systematic review and meta-analysis on AI companion use
+    and loneliness. However, the content snippet does not explicitly state the directionality of findings (whether it found
+    a significant relationship or null results). The title suggests it examined efficacy, but we cannot confirm from the excerpt
+    whether results were statistically significant. This creates a criteria gap: we need verification of whether the meta-analysis
+    actually found a SIGNIFICANT relationship (YES resolution) or no significant relationship (NO resolution).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techtimes.com/articles/322517/20260731/friend-20-adds-speaker-subscription-pendant-that-research-links-deepening-loneliness.htm
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: Multiple recent studies (Aalto 2026 with n=2000, plus emerging scoping reviews) are establishing empirical
+    findings on AI companions and loneliness. The Aalto study specifically documents a negative relationship, which if replicated
+    across multiple studies, could support a future meta-analysis finding significant relationship. However, the current evidence
+    shows mixed directionality—[5] suggests harm, while [1], [4] suggest potential benefits. This creates contradictory signals
+    about what a meta-review would conclude, but confirms active research momentum that makes a meta-review increasingly likely.
+- date: '2026-08-09'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review satisfying the resolution criteria has been published. Articles [0, 1,
+    3, 4, 5] report on individual studies (primarily from Stanford researchers) finding relationships between AI companion
+    use and increased loneliness/reduced well-being in specific populations (vulnerable/isolated users). These are primary
+    studies, not meta-reviews. Article [9] is a published systematic review and meta-analysis on "Autonomous conversational
+    agents for loneliness, social isolation, depression, and anxiety in older people" from Psychological Medicine (2026-01-01),
+    but the abstract does not specify whether it found a "significant relationship" or what direction the findings point.
+    Critically, the resolution requires a meta-review that specifically finds a significant relationship between AI companion
+    use and loneliness—the criteria are extremely narrow. We have individual studies pointing in one direction but no meta-analysis
+    explicitly confirming the relationship yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medicalxpress.com/news/2026-08-ai-companions-worsen-loneliness-vulnerable.html
+  - https://www.news-medical.net/news/20260804/Study-links-AI-companions-to-increased-loneliness-and-lower-well-being.aspx
+  - https://www.techtimes.com/articles/323219/20260805/opening-ai-chatbots-worsens-loneliness-isolated-users-stanford-finds.htm
+  - https://www.phillyvoice.com/ai-companions-chatbots-adult-loneliness-study/
+  - https://www.nature.com/articles/s41562-026-02516-2
+  trajectory_signal: Multiple recent individual studies (Aug 2026) from reputable institutions (Stanford, Nature Human Behaviour)
+    are finding negative associations between AI companion use and loneliness/well-being, particularly for isolated populations.
+    This creates conditions favoring eventual meta-review publication. Article [9] shows a systematic review/meta-analysis
+    already exists on this topic, suggesting the field is consolidating evidence. However, the direction and significance
+    of [9]'s findings remain unclear from the provided content. Articles [11, 12] indicate protocols and scoping reviews are
+    underway, signaling momentum toward formal meta-analyses. The trajectory points TOWARD_YES (more evidence accumulating
+    suggesting negative relationships), but a definitive meta-review explicitly confirming significant relationships has not
+    yet been identified.
+- date: '2026-08-16'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: 'MODERATE: Article [14] is a systematic review and meta-analysis published in Psychological Medicine (2026-01-01)
+    examining "Autonomous conversational agents for loneliness, social isolation, depression, and anxiety in older people
+    without cognitive impairment." This directly matches the resolution criteria—it is a meta-review examining relationships
+    between AI companion use and loneliness. However, the article content provided does not explicitly state the direction
+    or significance of findings (whether relationships were found to be significant or not), creating a critical gap: we cannot
+    determine from the provided excerpt whether this meta-review actually found a "significant relationship" as required for
+    YES resolution. The headline and topic suggest it examined this relationship, but the actual conclusions about significance
+    are not visible in the provided content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.miragenews.com/research-shows-digital-tools-potential-gaps-in-1726939/
+  - https://doi.org/10.1186/s12889-024-19153-x
+  - https://doi.org/10.1136/bmjopen-2025-110667
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: Multiple recent articles signal growing research momentum toward meta-review completion. Article [11]
+    (2026-08-13) reports a "landmark systematic review and meta-analysis" on digital mental health interventions for youth,
+    showing the field is actively producing systematic reviews. Articles [15] (2024-07-06, but published in BMC Public Health)
+    and [18] (2025-09-27, published in The Gerontologist) are prior meta-analyses on related topics (relational agents and
+    social robots for loneliness), establishing precedent. Article [16] (2026-03-01) is a published protocol for a systematic
+    review specifically on "efficacy of artificial agents in loneliness alleviation among older adults," indicating additional
+    meta-reviews are in active development. Article [17] (2026-07-15) is a scoping review on conversational agents and well-being
+    outcomes. This trajectory shows the field is actively synthesizing evidence, with multiple meta-reviews either completed
+    or in pipeline, suggesting YES resolution is plausible but not yet confirmed with visible findings.
+- date: '2026-08-23'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.nature.com/articles/s41746-026-03054-x
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.webpronews.com/ai-chatbots-promise-relief-from-loneliness-studies-show-they-often-make-it-worse/
+  - https://fortune.com/2026/08/16/ai-chatbot-research-loneliness/
+  - https://siliconcanals.com/t-ai-friend-human-peer-loneliness-randomised-study/
+  - https://siliconcanals.com/t-social-chatbots-emotional-isolation-bidirectional-loop/
+- date: '2026-08-30'
+  summary: 1 relevant article, 7 trajectory signals
+  sources:
+  - https://doi.org/10.1017/s0033291725103073
+  relevance: 'MODERATE: Article [10] is a genuine TIER 1 hit — a published systematic review and meta-analysis in Psychological
+    Medicine (2026-01-01) examining "Autonomous conversational agents for loneliness, social isolation, depression, and anxiety
+    in older people without cognitive impairment." This directly addresses the prediction''s core criterion: a meta-review
+    examining the relationship between AI companion use and loneliness. However, critical gaps remain: (1) the publication
+    date appears to be January 2026, outside the preferred 2-week window (2026-08-16 onward), raising questions about timeliness;
+    (2) the article content is truncated—we see only author metadata, not the actual findings or whether they identified a
+    "significant relationship"; (3) the scope is limited to older people without cognitive impairment, not a general population
+    study. Without seeing the full results section stating whether the meta-analysis found statistically significant relationships
+    and in which direction, we cannot definitively confirm this resolves YES, only that it exists and is on-topic.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.mcknightsseniorliving.com/news/can-social-robots-be-effective-long-term-in-dementia-care-heres-where-the-research-stands/
+  - https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/
+  - http://healthmedicinet.com/2026-08-ai-companions-worsen-loneliness-vulnerable-html/
+  - https://spectrum.ieee.org/ollobot-ai-companion-robot
+  - https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern
+  trajectory_signal: 'Articles [1, 3, 4, 5] show active momentum in 2026-08-24/26 across multiple domains (chatbots for loneliness,
+    AI companions'' potential harms, social robots in elderly care, government concerns about emotional dependence). Articles
+    [13, 14] are protocol/narrative reviews published 2026-02-23 and 2026-03-01, signaling that multiple systematic review
+    projects are underway. Article [0] (2026-08-23) discusses research on social robots in dementia care and loneliness reduction.
+    This trajectory suggests: (a) the field is generating empirical studies at scale, (b) multiple review teams are actively
+    conducting syntheses, (c) both positive and negative associations with loneliness are being reported, creating conditions
+    favorable for meta-reviews to emerge. The direction is TOWARD_YES because infrastructure for the meta-review is being
+    built, though no additional completed meta-reviews beyond [10] are confirmed in this batch.'
+- date: '2026-09-06'
+  summary: 3 trajectory signals
+  relevance: 'NONE: The resolution criteria requires a meta-review/systematic review finding a significant relationship between
+    AI companion use and loneliness. No meta-reviews have been published yet. Article [14] is labeled a "systematic scoping
+    review" but covers AI in healthcare education broadly, not AI companions and loneliness specifically—does not meet criteria.
+    The remaining articles are individual studies or surveys, not meta-reviews. Without a meta-review publication, the question
+    cannot resolve YES or NO; it would void.'
+  trajectory_sources:
+  - https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html
+  - https://cybersentinelnews.com/elon-research-centers-ai-companions-may-increase-social-isolation/
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1884079/full
+  trajectory_signal: 'Several recent individual studies show directional momentum toward establishing an evidence base:'

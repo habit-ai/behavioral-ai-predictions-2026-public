@@ -5,9 +5,12 @@ category: AI Industry
 baseline: Meta Ray-Ban glasses ~2M in 2025. Humane AI Pin, Rabbit R1 <100K combined.
 resolution_criteria: 'YES: >10M units. NO: Below threshold.'
 search_keywords:
-- smart glasses
-- AI wearable
-- AI device
+- Meta Ray-Ban smart glasses sales 2026
+- Meta AI glasses shipments units
+- Samsung AR glasses launch sales
+- AI wearable 10 million units sold
+- smart glasses market shipments 2026
+- Rokid AI glasses units
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -31,6 +34,8 @@ forecasts:
   human-6: 30
   human-7: 30
   human-8: 60
+  human-9: 60
+  human-10: 40
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -44,3 +49,512 @@ evidence:
   - https://www.androidauthority.com/samsung-ar-glasses-launch-timeline-3636208/
   - https://www.theverge.com/gadgets/869955/samsung-ar-glasses-are-coming-this-year
   - https://www.wired.com/story/google-smart-glasses-software-style/
+- date: '2026-02-07'
+  summary: Found 11 articles
+  sources:
+  - https://www.csmonitor.com/USA/2026/0202/meta-smart-glasses-ray-ban
+  - https://simplywall.st/stocks/us/media/nasdaq-meta/meta-platforms/news/solos-patent-fight-puts-meta-smart-glasses-and-ai-plans-in-f
+  - https://www.insightnews.com.au/samsung-set-to-enter-growing-smart-glasses-market/
+  - https://defensescoop.com/2026/02/06/meta-ai-glasses-us-military-services-policies/
+  - https://seekingalpha.com/pr/20385958-wearable-devices-wraps-up-successful-2025-fueling-the-smart-glasses-multi-billion-dollar
+  relevance: WEAK_YES. Multiple titles suggest growing momentum in smart glasses/wearables market with AI integration, but
+    no definitive proof of 10M unit sales in 2026 specifically.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.prnewswire.com/news-releases/rokid-ai-glasses-style-now-available-worldwide-surpassing-15-000-units-sold-302676093.html
+  relevance: 'MODERATE: Article [6] provides concrete sales data showing Rokid Ai Glasses Style has surpassed 15,000 units
+    sold as of February 2026, which is directly relevant to tracking progress toward the 10 million unit threshold, though
+    still far below it.'
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://www.eetasia.com/global-ar-glasses-shipments-forecast-to-jump-53-yoy-in-2026/
+  - https://www.businesswire.com/news/home/20250915109534/en/AI-Glasses-Market-Poised-to-Hit-10-Million-Units-in-2026-Omdia-Forecasts
+  relevance: 'MODERATE: Article [6] provides concrete forecast data (950,000 units by 2026), and article [9] explicitly forecasts
+    AI glasses hitting 10 million units in 2026 by Omdia, directly addressing the prediction threshold, though neither confirms
+    actual sales have reached this level yet.'
+- date: '2026-02-22'
+  summary: 3 relevant articles
+  sources:
+  - https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html
+  - https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG
+  - https://iconnect007.com/article/148624/meta-rayban-component-orders-revised-up-twice-boosting-2026-ar-glasses-shipments/148621/pcb
+  relevance: 'MODERATE: Article [5] provides concrete 2025 sales data (7M Meta Ray-Ban units), [6] forecasts AI smart glasses
+    market growth in 2026, and [12] reports increased component orders for Meta Ray-Ban 2026 shipments—all directly relevant
+    to whether >10M AI-native wearables will sell in 2026.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://news.futunn.com/en/post/68827996/meta-ai-glasses-sold-over-7-million-units-last-year
+  - https://www.theverge.com/tech/878184/meta-sold-7-million-smart-glasses-in-2025-thats-triple-2023-and-2024-combined
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://virtual.reality.news/news/ray-ban-smart-glasses-hit-7m-sales-stock-surges-5/
+  - https://www.uploadvr.com/meta-essilorluxottica-sold-7-million-smart-glasses-in-2025/
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://virtual.reality.news/news/ray-ban-smart-glasses-hit-7m-sales-stock-surges-5/
+  - https://www.uploadvr.com/meta-essilorluxottica-sold-7-million-smart-glasses-in-2025/
+  relevance: 'MODERATE: Articles [4] and [5] establish that Ray-Ban Meta glasses achieved 7M units in 2025—strong baseline
+    momentum covering 70% of the threshold. Articles [1] and [3] signal Meta is expanding the wearables portfolio significantly
+    in 2026 with multiple new devices, supporting growth trajectory. However, no article provides explicit 2026 unit projections
+    or sales forecasts needed to definitively resolve the prediction. The evidence is directionally encouraging but leaves
+    the final 10M threshold unconfirmed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://glassalmanac.com/meta-reveals-4-ar-devices-in-2026-why-that-upsets-the-wearables-race/
+  - https://glassalmanac.com/malibu-2-revived-for-2026-with-meta-ai-assistant-why-hardware-strategy-shifts-now/
+  - https://glassalmanac.com/meta-reveals-4-ar-devices-in-2026-why-that-upsets-the-wearables-race/
+  - https://glassalmanac.com/malibu-2-revived-for-2026-with-meta-ai-assistant-why-hardware-strategy-shifts-now/
+- date: '2026-03-01'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >10M AI-native wearable units sold in 2026 YTD (we are only 3 months
+    into 2026). The prediction requires concrete sales data through 2026, which cannot yet exist for the full year. Article
+    [0] claims Meta wants to reach 20M Ray-Ban units "by year end" but lacks publication date and is unverified. Articles
+    [5] and [7] confirm Meta sold 7M smart glasses in 2025 (not 10M+), representing growth from the 2M baseline but still
+    below the threshold. No article documents actual 2026 sales figures year-to-date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://glassalmanac.com/metas-2026-ar-push-reveals-four-models-why-it-matters-today/
+  - https://www.uploadvr.com/meta-essilorluxottica-sold-7-million-smart-glasses-in-2025/
+  - https://www.roadtovr.com/meta-ray-ban-smart-glasses-sales-tripled-2025/
+  - https://omdia.tech.informa.com/pr/2025/sep/ai-glasses-market-poised-to-hit-10-million-units-in-2026-omdia-forecasts
+  - https://www.businesswire.com/news/home/20250915109534/en/AI-Glasses-Market-Poised-to-Hit-10-Million-Units-in-2026-Omdia-Forecasts
+  trajectory_signal: 'Strong directional momentum toward YES:'
+- date: '2026-03-08'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html
+  - https://fintool.com/news/meta-ray-ban-glasses-20-million-production
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://eu.36kr.com/en/p/3699921632112512
+  - https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html
+  - https://cnet.com/news/meta-tops-smart-glasses-market/
+  - https://entelechyasia.com/2025/09/18/global-ai-glasses-shipments-to-top-10m-in-2026/
+  - https://www.lightreading.com/ai-machine-learning/ai-glasses-market-poised-to-hit-10-million-units-in-2026-omdia
+- date: '2026-03-15'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.thefastmode.com/technology-and-solution-trends/47576-global-ai-glasses-shipments-surge-322-in-2025-meta-leads-market-with-85-share
+  - https://www.technewsworld.com/story/ai-glasses-shift-into-momentum-mode-shipments-grow-322-in-2025-180215.html
+  relevance: 'MODERATE: Articles [0] and [5] provide the most direct evidence: both report 322% YoY growth in global AI glasses
+    shipments during 2025. However, critical gaps remain:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://displaydaily.com/smart-glasses-shipments-doubled-in-second-half-of-2025-with-meta-commanding-82-of-the-market/
+  - https://www.cyprus-mail.com/2026/03/09/global-ai-glasses-shipments-surge-in-2025-as-meta-dominates-market
+  - https://mashable.com/article/ces-2026-meta-delays-ray-ban-smart-glasses-international
+  - https://macaonews.org/features/ai-glasses-china-brands-driving-sales-surge/
+  - https://cntechpost.com/2026/03/09/global-ai-glasses-shipments-surge-china-market-accelerate/
+  trajectory_signal: 'The market is clearly accelerating with multiple signals: 322% global growth in 2025, demand-constrained
+    supply at Meta, geographic expansion into China (80% growth), and new competitor entry (Samsung). This suggests the trajectory
+    is TOWARD_YES in directional terms. However, the absolute numbers problem remains: even with continued triple-digit growth
+    rates, reaching 10M units in a single product requires either (1) Meta Ray-Ban scaling from 2M to 10M+ in one year, or
+    (2) emergence of a competing device that captures massive share. The momentum is real but the baseline is low enough that
+    hitting the specific threshold remains uncertain.'
+- date: '2026-03-22'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://glassalmanac.com/ray%e2%80%91ban-meta-smart-glasses-plan-for-20m-units-in-2026-why-it-matters-now/
+  - https://www.ncnonline.net/global-ai-glasses-shipments-reach-8-7-million-units-with-mainland-china-emerging-as-the-fastest-growing-market-omdia/
+  - https://glassalmanac.com/meta-faces-u-s-lawsuit-over-smart-glasses-privacy-after-7-million-sales-in-2025-why-it-matters-now/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.thehansindia.com/technology/tech-news/samsungs-galaxy-glasses-tipped-for-2026-debut-set-to-challenge-metas-smart-eyewear-1057409
+  - https://www.panoxdisplay.com/solution/ai-glasses-display-micro-oled-guide/
+  - https://news.futunn.com/en/post/70085884/domestically-produced-ai-glasses-are-competing-at-awe-with-chinese
+- date: '2026-03-29'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >10M units sold in 2026. Article [0] claims Meta sold "over 7 million
+    AI smart glasses" in 2025 (vs. baseline of ~2M), but this is a single year figure and doesn''t establish 2026 sales. The
+    prescription Ray-Ban launches (articles 1, 2, 5, 6, 7, 8) are product announcements with no unit sales data. Critical
+    gap: We are 3.5 months into 2026 with no concrete 2026 sales figures for any AI wearable reaching 10M units.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.trytechloop.com/blog/consumer-ai-hardware-market-trends-projections
+  - https://www.idc.com/resource-center/press-releases/xr-market-grew-44-4-in-2025-as-smart-glasses-redefine-the-category/
+  - https://dn.com/en-us/news/detail-4224.html
+  trajectory_signal: 'Article [0] (2026-03-24) shows significant market acceleration: Meta Ray-Ban jumped from ~2M (2025 baseline)
+    to 7M+ in 2025, XR market grew 44.4% YoY, and global wearables hit 136.5M units in a single quarter. Article [4] (2026-03-23)
+    corroborates the 44.4% XR growth driven by smart glasses adoption. Article [12] (2026-03-26) reports China''s smart glasses
+    shipments at 2.46M units in 2025 (87.1% YoY growth). The Meta Ray-Ban prescription glasses launches (articles 1, 2, 5,
+    6, 7, 8) signal channel expansion and product diversification to capture broader demographics. Collectively, these suggest
+    strong momentum toward mass adoption, but none establish whether the trajectory reaches 10M units by year-end 2026. The
+    44.4% growth rate applied to Meta''s 7M would suggest ~10M+ by end-2026 if sustained, but this is speculative extrapolation,
+    not confirmed data.'
+- date: '2026-04-05'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether >10M units will be sold in 2026. The prediction resolves
+    in ~8 months (end of 2026), and these articles are from early April 2026, yet none report actual sales figures or unit
+    shipment data. Articles [2], [5], [6] mention IDC data showing "smart glasses shipments reached 9.6" (units unspecified—likely
+    millions) but the sentence is cut off and doesn''t confirm Meta''s share or total projected 2026 volume. Without concrete
+    2026 sales data or credible forecasts specifically for Meta Ray-Ban units through year-end, there is no KEEP-tier evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://glassalmanac.com/ray%e2%80%91ban-meta-adds-two-499-prescription-models-in-2026-why-it-matters-now/
+  - https://glassalmanac.com/ray-ban-meta-adds-prescription-ai-glasses-april-14-499-start-why-it-matters-now/
+  - https://glassalmanac.com/ray%E2%80%91ban-meta-optics-reveal-499-preorders-april-14-release-why-it-matters-now/
+  - https://www.aicerts.ai/news/meta-unveils-ray-ban-ai-glasses-for-prescription-wearers/
+  - https://aijourn.com/rayneo-leads-global-ar-market-with-one-third-share/
+  trajectory_signal: Articles [2], [5], [6], [7] show Meta launching prescription-optimized Ray-Ban AI glasses on April 14,
+    2026 at $499, targeting optical retail distribution—a significant expansion from previous gen-1 models. This removes a
+    major adoption barrier (prescription fitting) and signals serious market push. Article [11] reports RayNeo holding ~33%
+    global AR market share as of April 2026, indicating the AI wearables category is reaching material scale. Article [8]
+    describes the wearable electronics market at an "inflection point" with structural transformation underway.
+- date: '2026-04-12'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://k.sina.com.cn/article_7879848900_1d5acf3c401902w86e.html?from=tech
+  relevance: 'STRONG: Article [3] provides DIRECT evidence: It reports Ray-Ban Meta AI glasses sold 7 million units in 2025
+    (year ended 2025, per EssilorLuxottica Q4 financials released February 2026). This is concrete, third-party verified sales
+    data from the parent company. The prediction requires >10M units in 2026 full year. At 7M in 2025, the device is now at
+    70% of the threshold already, making >10M in 2026 highly plausible. This directly addresses the resolution criteria with
+    verified shipment numbers.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://newspress.co.in/ray-ban-meta-ar-production-to-scale-to-20-million-units-as-smart-glasses-go-mainstream/
+  - https://www.benzinga.com/news/26/04/51650705/meta-reportedly-plans-to-expand-smart-glasses-push-with-new-prescription-ray-ban-models-targeting-bi
+  - https://glassalmanac.com/ray%e2%80%91ban-meta-reveals-499-prescription-models-april-14-why-it-matters-now/
+  - https://www.visionmonday.com/launchpad/frame-collection-1/article/essilorluxottica-and-meta-debut-rayban-meta-optics-expand-ai-glasses-portfolio/
+  trajectory_signal: 'Articles [0], [1], [2], and [4] signal strong momentum TOWARD_YES:'
+- date: '2026-04-19'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.facebook.com/thenextweb/posts/meta-sold-7-million-ai-glasses-apple-noticedmeta-tripled-its-ai-glasses-sales-in/1396876295814486/
+  - https://glassalmanac.com/billions-of-people-wear-glasses-sparks-debate-as-shipments-hit-13-4m-in-2026/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech-insider.org/apple-n50-smart-glasses-meta-ray-ban-2026/
+  - https://www.cnbc.com/amp/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html
+  - https://www.analyticsinsight.net/news/meta-rolls-out-muse-spark-ai-upgrade-for-ray-ban-and-oakley-glasses
+  - https://glassalmanac.com/ray%E2%80%91ban-meta-reveals-two-499-prescription-models-in-2026-why-buyers-should-care/
+  - https://tech-insider.org/apple-n50-smart-glasses-meta-ray-ban-2026/
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://payspacemagazine.com/news/ray-ban-meta-smart-glasses-dominate-in-wearables-market/
+  relevance: 'MODERATE: Article [2] (PaySpace Magazine, 2026-04-21) provides the most direct evidence: Ray-Ban Meta sold 7
+    million units in 2025 with 139% YoY growth, capturing >80% of smart glasses market share. Q1 2026 shows continued momentum
+    with "unprecedented demand" and international expansion. This demonstrates clear trajectory toward the 10M threshold but
+    does NOT yet satisfy the >10M units in 2026 criteria—it only confirms 7M in 2025 and strong momentum in early 2026. The
+    article is recent (within 2 weeks) and corroborates data across sources [0], [5]. Remaining gap: No confirmation of full-year
+    2026 sales totals; prediction requires reaching 10M by end of 2026, and we only have Q1 2026 momentum signals.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://glassalmanac.com/with-the-third-consecutive-quarter-reveals-why-ray%E2%80%91ban-meta-sales-roil-markets-in-april-2026/
+  - https://www.gate.ac/news/detail/huawei-launches-first-ai-glasses-in-china-as-market-grows-322-globally-20471119
+  trajectory_signal: Articles [0] and [8] signal directional progress TOWARD_YES. Article [0] (2026-04-24) confirms Ray-Ban
+    Meta achieved double-digit growth for third consecutive quarter in Q1 2026, with AI-powered units as growth driver—momentum
+    intact post-7M baseline. Article [8] (2026-04-21) reports global AI glasses shipments grew 322% to reach 8.7M units (combining
+    all manufacturers), with Huawei entering market—this suggests Ray-Ban's market dominance (80%+ share) could easily translate
+    to >10M if category sustains growth trajectory. Neither article provides full 2026 year-end forecasts, but the 322% global
+    growth and Ray-Ban's dominant position (7M→? with sustained momentum) creates strong momentum toward YES. Competitive
+    entry (Huawei, Apple signaling late 2026) validates market expansion rather than cannibalization.
+- date: '2026-05-03'
+  summary: 13 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of 2026 unit sales figures needed to resolve the prediction. The resolution
+    criteria requires concrete unit shipment data showing >10'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://biz.chosun.com/en/en-it/2026/04/29/GJ7ZM25PJZHC7IWOCOCFIM7F4M/
+  - https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images
+  - https://glassalmanac.com/ray%E2%80%91ban-meta-reveals-499-price-and-optical-fit-details-in-2026-why-it-matters-now/
+  - https://www.cnet.com/tech/services-and-software/metas-ai-bet-and-the-evolution-of-smart-glasses/
+  - https://moorinsightsstrategy.com/research-notes/meta-ray-ban-display-bridging-the-gap-between-smart-glasses-and-ar/
+- date: '2026-05-10'
+  summary: 3 relevant articles, 1 trajectory signal
+  sources:
+  - https://glassalmanac.com/essilorluxottica-says-7-million-ai-glasses-sold-in-2025-why-it-matters-now/
+  - https://www.cna.com.tw/news/afe/202605070155.aspx
+  - https://crosswisenews.com/ai-glasses-shipments-2026-meta-apple-google/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newsglobenow.com/new349121.html
+  trajectory_signal: Articles [4] and [7] show strong momentum in the AI glasses category with 105% YoY growth projected for
+    2026 and mentions of Apple/Google/Samsung entries. Article [1] reports 87.1% China smart-glasses shipment growth in 2025.
+    This indicates directional movement toward higher volumes, but the trajectory suggests reaching 10M units in 2026 is highly
+    implausible—would require near-tripling from projected levels. More consistent with 2027-2028 timelines for 10M threshold.
+- date: '2026-05-17'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://glassalmanac.com/ray%E2%80%91ban-meta-glasses-show-499-price-and-13-4m-shipments-forecast-in-2026-heres-why/
+  - https://thenextweb.com/news/meta-smart-glasses-privacy-crisis-apple-google-snap
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.conchen-glasses.com/news/ray-ban-meta-smart-sunglasses-continue-to-be-85529188.html
+  - https://www.newsdefused.com/ai-glasses-how-they-change-sight-sharing-and-interaction/
+  - https://www.infoobs.com/article/20260511/71292.html
+- date: '2026-05-24'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://glassalmanac.com/theyre-some-of-the-fastest-growing-consumer-electronics-in-history-sparks-alarm-as-7-million-pairs-sell-in-2026-heres-why/
+  relevance: 'MODERATE: Article [7] provides DIRECT evidence: "7 million pairs sell in 2026" with the product line accounting
+    for "roughly 80% of smart-glass sales." This is the only article presenting concrete 2026 sales data that approaches the
+    10M threshold. However, a critical gap remains: the article does not specify which company/companies these 7M units represent.
+    Given context that Meta Ray-Ban had ~2M in 2025, these 7M likely represent Meta''s 2026 total or a combined market figure.
+    The criteria requires >10M units for a single "AI-native wearable device" (singular), making it unclear whether this represents
+    one product line or aggregated competitors. This ambiguity prevents TIER 1 classification as definitive resolution evidence,
+    but the magnitude is significant.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.androidauthority.com/google-android-xr-sales-forecast-3669734/
+  - https://www.androidheadlines.com/2026/05/samsung-google-smart-glasses-2026-shipment-forecast.html
+  - https://www.uctoday.com/immersive-workplace-xr-tech/meta-smart-glasses-sales-surge-third-party-apps/
+  - https://www.gadgets360.com/wearables/news/google-android-xr-smart-glasses-warby-parker-gentle-monster-2-million-units-sale-prediction-meta-report-11533127
+  trajectory_signal: 'Articles [2, 4, 9] project Google could sell ~2M Android XR glasses in 2026 (analyst forecasts, not
+    confirmed sales). Article [5] reports Meta Ray-Ban sales are "surging" with "momentum" and "third-party apps moving in,"
+    suggesting acceleration beyond 2025''s 2M baseline. Articles [0, 3, 6, 8] document market expansion (geographic, partnerships
+    with Warby Parker/Gentle Monster, Samsung collaboration) indicating ecosystem growth and competitive pressure. Together
+    these signal MODERATE MOMENTUM toward YES: multiple vendors ramping production, expanding distribution, and analyst confidence
+    in 2M+ unit potential per competitor. However, trajectory articles show 2M-level forecasts per vendor, and combined 2026
+    market may not yet hit 10M for a single device line. The 7M figure in [7] is the closest concrete signal to the threshold.'
+- date: '2026-05-31'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.businesstimes.com.sg/companies-markets/meta-plans-ai-pendant-wearables-work-hardware-boost-information-reports
+  - https://www.marketscreener.com/news/meta-targets-10-million-wearable-device-sales-in-the-second-half-of-2026-the-information-ce7f5dd8d98af625
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://glassalmanac.com/theyre-some-of-the-fastest-growing-sparks-outcry-in-2026-what-changes-now/
+  - https://aiweekly.co/alerts/meta-targets-10m-wearables-with-ai-pendant-launch
+  - https://glassalmanac.com/theyre-some-of-the-fastest-growing-sparks-outcry-in-2026-what-changes-now/
+  - https://aiweekly.co/alerts/meta-targets-10m-wearables-with-ai-pendant-launch
+- date: '2026-06-07'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.jfeed.com/tech/meta-ai-wearables-strategy
+  - https://www.oureyeglassworld.com/archives/7016
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://roadtovr.com/meta-meta-smart-glasses-report-ai-pendant/
+  - https://www.asiae.co.kr/en/article/2026060209503433156
+  - https://www.gate.com/news/detail/global-ar-smart-glasses-shipments-surge-98-in-2025-driven-by-metas-ray-ban-20675623
+  - https://webiano.digital/meta-is-trying-to-turn-ai-glasses-into-a-subscription-business/
+  - https://www.telecompaper.com/news/softbank-begins-selling-ray-ban-meta-smart-glasses--1573066
+- date: '2026-06-14'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://memeburn.com/are-you-being-filmed-by-smart-glasses-how-to-spot-hidden-cameras/
+  relevance: 'MODERATE: Article [6] provides the only direct evidence toward resolution criteria: it explicitly states "over
+    7 million AI glasses sold" as of June 10, 2026. This is concrete sales data, though it still falls short of the 10M threshold
+    needed for YES resolution. The article confirms AI-native wearables are achieving substantial commercial scale in 2026,
+    but the gap to 10M units remains material (~3M units or 30%). No articles provide evidence that would trigger NO resolution;
+    all signals point toward the category continuing growth trajectory.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.uploadvr.com/meta-smart-glasses-daily-usage-tripled-year-over-year/
+  - https://bbcbreakingnews.pages.dev/news/articles/cj37z8357e5o
+  - https://glassalmanac.com/three-android-xr-pairs-revealed-may-19-2026-why-buyers-should-care/
+  - https://www.uploadvr.com/gemini-smart-glasses-are-launching-in-fall-to-take-on-ray-ban-meta/
+  - https://gizmodo.com/metas-smart-glasses-are-long-ways-from-their-eureka-moment-2000767574
+  trajectory_signal: 'Multiple articles signal strong momentum toward YES resolution:'
+- date: '2026-06-21'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >10M units sold by an AI-native wearable in 2026. Article [4]/[5]
+    show Meta Ray-Ban at 2M units with a *plan* to reach 10M annually—but this is a capacity/target claim, not actual 2026
+    sales achieved. Article [6] reports Q1 2026 global smart glasses at 3.56M units cumulative (all vendors combined), far
+    below the 10M threshold for a single device. Articles [0], [1], [2], [3], [8], [9] discuss upcoming launches (Samsung,
+    Google H2 2026) and market trends but provide no unit sales data confirming resolution criteria. The prediction requires
+    >10M units for a SINGLE AI-native wearable device in calendar year 2026—we are already in late June 2026 with no device
+    hitting this threshold yet reported.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ximitime.com/global-smart-glasses-shipments-hit-3-56-million-as-xiaomi-joins-97731/
+  - https://www.newsglobenow.com/new383209.html
+  trajectory_signal: 'Articles [6] and [7] signal strong directional momentum toward YES, though trajectory alone cannot resolve
+    the prediction:'
+- date: '2026-06-28'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that >10M units have been sold in 2026 YTD or are forecast to be sold
+    by end of 2026. Articles [0], [3], and [4] announce Meta''s new $299 glasses launch but contain zero sales figures, shipment
+    data, or unit projections. Article [1] states Meta has 84% smart glasses market share but doesn''t quantify total units.
+    Article [8] projects 2031 forecasts (irrelevant to 2026 resolution). Article [9] forecasts only 6.2M XR headwear units
+    for all of 2026 across all manufacturers. The baseline context (Meta Ray-Ban ~2M in 2025) is the only relevant sales anchor,
+    and no 2026 YTD data contradicts or supports crossing 10M threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/wearables/articles/meta-announces-range-smart-glasses-130945390.html
+  - https://thenextweb.com/news/meta-glasses-299-own-brand-smart-glasses-essilorluxottica
+  - https://en.shuziqushi.com/new385721.html
+  - https://www.androidheadlines.com/2026/06/intelligent-eyewear-just-grew-83-and-the-big-players-havent-even-shown-up.html
+  trajectory_signal: 'Moderate momentum signals toward YES resolution:'
+- date: '2026-07-05'
+  summary: 3 relevant articles, 6 trajectory signals
+  sources:
+  - https://www.globalbrandsmagazine.com/smart-glasses-2026/
+  - https://leadership.ng/global-near-eye-display-market-hits-675m-analysts-target-14-5m-shipments-in-2026-report/
+  - https://www.thefastmode.com/technology-and-solution-trends/49387-omdia-ar-glasses-growth-boosts-near-eye-display-market-outlook-2026
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.technewshub.com/post/meta-drops-luxury-branding-for-in-house-budget-smart-glasses-lineup
+  - https://e-commerce.news/story/global-intelligent-eyewear-shipments-jump-83-in-q1
+  - https://siliconvalleyweekly.com/metas-newest-ai-smart-glasses-launch/
+  - https://ecommercenews.in/story/global-intelligent-eyewear-shipments-jump-83-in-q1
+  - https://karsane.com/article/meta-glasses-299-no-ray-ban-kylie-jenner
+- date: '2026-07-12'
+  summary: 1 relevant article, 7 trajectory signals
+  sources:
+  - https://www.globalbrandsmagazine.com/smart-glasses-2026/
+  relevance: 'MODERATE: Article [0] provides direct evidence: IDC forecasts ~13.6M smart glasses units shipping in 2026, which
+    exceeds the >10M threshold. This is the only article that directly addresses whether resolution criteria are met. However,
+    critical gaps remain: (1) "smart glasses" is broader than "AI-native" wearables—the article mentions Meta Ray-Ban (AI-enabled),
+    Samsung, Google, Warby Parker, and Gentle Monster without clarifying which are AI-native; (2) the forecast is for "units
+    to ship" not "units sold," which may differ; (3) no breakdown showing how many of the 13.6M are truly AI-native vs. traditional
+    smart glasses; (4) no confirmation that Meta''s 7M 2025 units will scale to the required volume in 2026. The article suggests
+    momentum toward YES but contains definitional ambiguity about what qualifies as "AI-native."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.modernretail.co/technology/metas-ai-glasses-are-already-among-the-fastest-sellers-at-americas-best-eyeglass-world/
+  - https://www.europesays.com/korea/82389/
+  - https://dymesty.com/blogs/articles/meta-ray-ban-gen-3-connect-2026
+  - https://www.conchen-sunglasses.com/news/meta-launches-ray-ban-meta-gen-2-smart-glasses-85577045.html
+  - https://glassalmanac.com/meta-glasses-reveal-299-price-point-in-2026-why-buyers-should-care-now/
+  trajectory_signal: 'Articles [1, 4, 5, 7, 8] show strong commercial momentum for Meta Ray-Ban glasses specifically: fastest
+    sellers at America''s Best (strong retail signal), 7M units sold in 2025, price reductions to $299 (accessibility expansion),
+    Gen 3 upcoming, geographic expansion into Asia and South Korea with localized features. Articles [3, 10] signal competitive
+    entry and market growth: Samsung Galaxy Glass launching July 22, China''s smart glasses market hitting 4.5M units in 2026,
+    supply chain investment accelerating. This directional evidence points toward market expansion that could push total AI-native
+    wearable sales toward 10M+ threshold. However, these articles document progress toward adoption and competition rather
+    than confirming 2026 unit sales have already crossed 10M.'
+- date: '2026-07-19'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://en.cryptonomist.ch/2026/07/14/essilorluxottica-meta-smart-glasses/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techx.pk/ai-smart-glasses-shipments-322-percent-growth-2025-2026/
+  - https://www.mk.co.kr/en/business/12099231
+  - https://www.conchen-glasses.com/news/meta-ai-glasses-rank-among-fastest-sellers-at-85587938.html
+  - https://glassalmanac.com/meta-reveals-299-ai-glasses-in-2026-why-it-matters-now/
+  trajectory_signal: 'Articles show accelerating momentum across three vectors: (1) Meta executing price-based volume strategy
+    with $299 entry product, (2) rapid retail adoption with bestseller status at major chains, (3) category-level growth acceleration
+    (322% jump in 2025-2026), and (4) competitive entrants (Samsung) entering market. These signals suggest strong momentum
+    toward reaching 10M+ units across the AI-native wearables category. However, they don''t confirm whether *Meta alone*
+    or the *category aggregate* will hit 10M by year-end, and the 7M confirmed figure still requires ~43% additional growth
+    in 5.5 months from July.'
+- date: '2026-07-26'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - http://blogvreality.blogspot.com/2026/02/meta-sold-over-7-million-smart-glasses.html
+  relevance: 'MODERATE: Article [2] provides direct evidence: Meta sold over 7 million Ray-Ban smart glasses in 2025 (per
+    EssilorLuxottica Q4 2025 financial results). This is concrete historical data showing actual units sold. However, a critical
+    criteria gap remains: the prediction requires >10M units sold IN 2026, and this article only covers 2025 performance.
+    We have no direct confirmation yet of 2026 full-year sales figures, though we are currently at 2026-07-26 (mid-year).
+    The trajectory from 2M (early 2025) to 7M (full 2025) suggests momentum toward the 10M threshold, but the prediction requires
+    confirmation of 10M+ units by end of 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thevergetoday.pages.dev/news/613292/meta-ray-ban-2-million-10-million-capacity-subscription-essilor-luxottica-earnings
+  - https://www.khan.co.kr/en/article/202607221111007
+  - https://www.koreaherald.com/article/10816566
+  - https://www.koreaherald.com/article/10820295
+  - https://en.edaily.co.kr/news/eda202607225322/
+  trajectory_signal: 'Multiple articles signal strong momentum toward resolution YES:'
+- date: '2026-08-02'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://techyes.pages.dev/news/613292/meta-ray-ban-2-million-10-million-capacity-subscription-essilor-luxottica-earnings
+  relevance: 'MODERATE: Article [4] provides the only direct evidence toward resolution criteria. It explicitly states Meta
+    Ray-Ban''s sales target: "The plan is to soon sell 10 million a year" (published Feb 2025, reporting on company intentions).
+    However, this is a PLAN/TARGET, not actual 2026 sales data yet. The article also notes current sales were 2 million pairs
+    as of early 2025. This bridges the baseline (2M in 2025) to the 10M threshold but does not confirm achievement of 10M+
+    units in 2026 itself. Critical gap: No article provides actual confirmed unit sales for 2026 year-to-date or full-year
+    projections.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.heise.de/en/news/Demand-for-smart-glasses-Revenue-from-Meta-glasses-nearly-doubled-11383928.html
+  - https://www.androidpolice.com/meta-smart-glasses-are-having-a-huge-moment-but-competition-is-coming/
+  - https://www.techtimes.com/articles/321887/20260728/ai-glasses-revenue-nearly-doubled-q2-essilorluxottica-targets-waveguide-manufacturing.htm
+  - https://au.fashionnetwork.com/news/Essilorluxottica-doubles-ai-glasses-sales-in-second-quarter,1856381.html
+  - https://gizmodo.com/smart-glasses-are-a-hit-even-as-privacy-concerns-pile-up-2000792911
+  trajectory_signal: Multiple articles (0, 1, 2, 3, 5, 7, 8) report Q2 2026 sales momentum showing Ray-Ban Meta glasses revenue
+    "nearly doubled" in Q2 2026 vs Q1. Article [8] reports Q1 2026 had "over 2.25 million devices" across all smart glasses
+    categories (including Meta, Samsung, Google). Article [4] targets "10 million a year" capacity. Article [6] shows Xiaomi
+    launched AI glasses with 50K units sold in first month and potential for "over five million pairs within three years,"
+    indicating broader category momentum. The trajectory shows strong growth acceleration from 2M (2025 baseline) through
+    Q1 2026 (2.25M sector-wide) and continued doubling in Q2. However, these signals indicate PROGRESS TOWARD the 10M threshold
+    rather than confirmation of achievement. At current growth rates, crossing 10M by end of 2026 appears plausible but unconfirmed.
+- date: '2026-08-09'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.smartwearables.io/news/smart-glasses-shipments-surge-83-percent-q1-2026-market-races-toward-10-million-units
+  relevance: 'MODERATE: Article [1] provides DIRECT evidence most relevant to resolution. It explicitly states "the market
+    is on pace to exceed 10 million units shipped in 2026" based on Counterpoint Research data showing 83% YoY growth in Q1
+    2026 and 139% surge in H2 2025. This is a market-level forecast for full-year 2026 shipments. However, critical gap: the
+    prediction specifies "AI-native wearable device" which could be interpreted narrowly, and [1] covers "intelligent eyewear"
+    broadly (including VR, AR, smart glasses). The article doesn''t break down whether the 10M+ projection is driven primarily
+    by AI-native devices or includes legacy/non-AI categories. Meta alone holds 82% share but sold 7M in 2025—if growth continues
+    at current rates, Meta + new entrants (Samsung, Google) could plausibly reach 10M+ in 2026, but this requires extrapolation
+    from Q1 data to full year.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.snowsportsnews.com/newsrepository/2026/august/oakley-and-ray-ban-lead-essilorluxotticas-strong-first-half-as-ai-eyewear-sales-nearly-double/
+  - https://www.ictbusiness.biz/analysis/intelligent-eyewear-market-grew-83-percent-in-1q26
+  - https://www.newsbytesapp.com/news/science/metas-ray-ban-smart-glasses-sales-top-7-million-2025-users-split/tldr
+  - https://www.bastillepost.com/global/article/6055565-chinese-tech-firms-push-smart%e2%80%91glasses-worldwide-reshaping-consumer-ai-experience
+  trajectory_signal: 'Articles [0, 2, 5, 9] show strong momentum:'
+- date: '2026-08-16'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://tech-insider.org/oakley-meta-s-athlete-push-122-degree-fov-ip67-and-garmin-integration/
+  - https://www.gate.com/news/detail/huawei-launches-first-ai-glasses-in-china-as-market-grows-322-globally-20471119
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.sedaily.com/technology/2026/08/14/samsung-apple-enter-ai-glasses-race-as-legal-risks-mount
+  - https://virtual.reality.news/news/meta-ray-ban-smart-glasses-ai-upgrade-adds-threads-and-neural-input/
+- date: '2026-08-23'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >10M unit sales in 2026. Article [1] claims "overall smart eyewear
+    shipments growing 89% to 4 million units" in H1 2026, which would annualize to ~8M units—still below the 10M threshold.
+    Articles [0] and [2] mention 212% YoY growth and Meta''s 84% market dominance but do not state absolute unit counts. None
+    explicitly confirm total 2026 full-year shipments reaching >10M units. The prediction requires FULL-YEAR 2026 data; we''re
+    only at August 23, 2026 (mid-year), so full-year resolution is premature.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://counterpointresearch.com/q1-2026-report.pdf/reports/global-smart-glasses-model-shipments-tracker-h1-2026-update
+  - https://www.androidheadlines.com/2026/08/ai-smart-glasses-shipments-are-up-776-while-vr-headsets-just-collapsed.html
+  - https://counterpointresearch.com/q1-2026-report.pdf/reports/global-smart-glasses-ecosystem-and-market-trends-h1-2026-update
+  - https://www.trendforce.com/news/2026/08/18/news-the-second-half-of-the-ar-glasses-race-begins/
+  - https://virtual.reality.news/news/ai-smart-glasses-market-growth-2026-why-shipments-climb/
+  trajectory_signal: 'Strong momentum signals toward YES:'
+- date: '2026-08-30'
+  summary: 4 relevant articles, 2 trajectory signals
+  sources:
+  - https://cryptobriefing.com/meta-ray-ban-smart-glasses-mainstream-privacy/
+  - https://www.naturalnews.com/2026-08-24-metas-surveillance-glasses-big-techs-bet-privacy-erosion.html
+  - http://blogvreality.blogspot.com/2026/02/meta-sold-over-7-million-smart-glasses.html
+  - https://particle.news/story/rayban-meta-glasses-go-mainstream-as-privacy-and-moderation-questions-grow
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://alto.gab.com/feed/zerohedge/item/388735
+  - https://dedicatedissues.com/150273-2/
+- date: '2026-09-06'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.quantumrun.com/consulting/wearable-technology-trends/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.hamidun.com/en/news/10781/meta-and-essilorluxottica-launch-meta-branded-glasses-26-sty
+  - http://www.9newshd.tv/post/meta-expands-wearable-tech-with-budgetfriendly-ai-smart-glasses
+  - https://eu.36kr.com/en/p/3967816023929097

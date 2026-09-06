@@ -6,7 +6,10 @@ category: AI Industry
 baseline: No major AI lab has failed.
 resolution_criteria: 'YES: Bankruptcy, shutdown, or >50% discount acquisition. NO: No such event.'
 search_keywords:
-- 'At least one AI company valued >$1B will file for '
+- AI startup shutdown bankruptcy
+- AI unicorn acquisition discount
+- AI company failure layoff 2026
+- AI startup collapse valuation
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -30,6 +33,8 @@ forecasts:
   human-6: 40
   human-7: 65
   human-8: 5
+  human-9: 60
+  human-10: 70
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -43,3 +48,501 @@ evidence:
   - https://www.reuters.com/world/asia-pacific/neocloud-startup-palebluedot-valued-1-billion-b-capital-led-round-2026-01-28/
   - https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/
   - https://fintool.com/news/anthropic-350-billion-funding-round
+- date: '2026-02-07'
+  summary: Found 13 articles
+  sources:
+  - https://siliconangle.com/2026/02/04/resolve-ai-raises-125m-1b-valuation-automate-application-maintenance/
+  - https://wellows.com/blog/ai-startups/
+  - https://www.crn.com/news/storage/2026/vast-data-aims-for-1b-round-as-demand-for-ai-infrastructure-surges-report
+  - https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html
+  - https://fundup.ai/blog/january-2026-the-month-ai-became-infrastructure
+  relevance: 'WEAK_YES: While the evidence suggests significant AI investment and activity in 2026, the competitive landscape
+    and economic volatility increase the likelihood of at least one high-valuation AI company facing serious financial challenges.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://themunicheye.com/the-fall-of-humane-ai-pin-a-failed-challenge-to-smartphones-11035
+  relevance: 'MODERATE: Article [4] describes Humane AI Pin''s shutdown, but lacks critical information about whether the
+    company was valued >$1B at peak or if it meets the resolution criteria definitively.'
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - https://spectrosci-befzs.wordpress.com/2026/02/12/the-rise-and-fall-of-higgsfield-in-30-days/
+  relevance: 'STRONG: Article [6] provides concrete evidence of Higgsfield AI, a $1.3B unicorn valued company, experiencing
+    a dramatic collapse within 30 days of funding announcement in January 2026, directly matching the prediction criteria
+    of a >$1B AI company shutdown/failure.'
+- date: '2026-02-22'
+  summary: 2 relevant articles
+  sources:
+  - https://kr-asia.com/pulses/153961
+  - https://codekeeper.co/articles/builderai-collapse-why-you-need-software-escrow
+  relevance: 'STRONG: Articles 6-7 document Builder.ai (valued >$1B at peak, raised $445-500M) entering insolvency in May
+    2025, which is concrete evidence of a >$1B valued AI company experiencing financial failure, though this occurred in 2025
+    rather than 2026.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://ucstrategies.com/news/17-ai-startups-raised-100m-in-49-days-and-2-unicorns-just-vanished/
+  relevance: 'MODERATE: Article [1] reports "Two unicorns burned $686 million and disappeared in 2025" — this directly addresses
+    the prediction criteria of shutdown/failure. However, critical gap: the article states this occurred in 2025, NOT 2026,
+    placing it outside the prediction window. The article does mention "17 AI startups raised $100M+ in 49 days" in early
+    2026, suggesting market concentration and potential stress, but provides no concrete evidence of actual bankruptcy/shutdown/discounted
+    acquisition occurring IN 2026 itself. The headline is sensational but the content doesn''t clearly identify which unicorns
+    "vanished" or provide sufficient detail on their valuations or acquisition prices to verify the >50% discount criterion.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://medium.com/@cowork25/xai-is-collapsing-and-elon-musk-is-crashing-out-4d4fa0bff968
+  - https://ucstrategies.com/news/17-ai-startups-raised-100m-in-49-days-and-2-unicorns-just-vanished/
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying resolution criteria. Article [0] mentions "2 unicorns just
+    vanished" after "burned $686 million" in 2025, but this occurred in 2025, outside the 2026 prediction window, and lacks
+    specifics on whether they meet the >$1B valuation threshold or the acquisition discount criterion. The article does not
+    name these companies or provide acquisition details. Articles [6-10] discuss OpenAI''s $100B fundraise at $830-850B valuation—explicitly
+    moving in the OPPOSITE direction of resolution (massive capital raise, rising valuation). Articles [1-2, 4-5] are either
+    stale rehashes or lack substantive content. Article [3] references "billion losses" and an AI bubble bursting but provides
+    no concrete company bankruptcies, shutdowns, or discount acquisitions meeting criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ucstrategies.com/news/17-ai-startups-raised-100m-in-49-days-and-2-unicorns-just-vanished/
+  - https://medium.com/@yashbatra11111/the-2026-ai-bubble-has-burst-lessons-from-billion-losses-and-what-data-scientists-must-do-next-0b3c2cbeae69
+  trajectory_signal: 'Article [0] signals TOWARD_YES momentum: mentions widespread AI startup capital constraints ("market
+    narrowing to 17 survivors while thousands of startups watch"), documented large cash burn ($686M by two unicorns in 2025),
+    and framing of an AI consolidation wave. This suggests conditions favoring failures. Article [3] signals TOWARD_YES: discusses
+    "AI Bubble Has Burst," "$1.4 billion" losses, margin compression, and flat revenue at major companies—indicating financial
+    distress that could cascade to unicorn-level failures. However, neither article yet documents actual bankruptcies, shutdowns,
+    or discount acquisitions of >$1B-valued companies in 2026. These are early warning signals of momentum toward resolution,
+    not confirmation of it.'
+- date: '2026-03-01'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/
+  relevance: 'MODERATE: Article [4] provides the only DIRECT evidence meeting resolution criteria. Builder.ai, once valued
+    over $1B and Microsoft-backed, is entering insolvency proceedings as of May 2025. This satisfies the "shutdown" criterion
+    and demonstrates a >$1B company has failed. However, this article is from May 2025, outside the preferred date range (after
+    2026-02-15) and predates the current evaluation date of 2026-03-01 by ~10 months. The event has already occurred and been
+    resolved YES, making this historical confirmation rather than forward-looking evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techstartups.com/2026/02/26/c3-ai-lays-off-26-of-workforce-as-losses-widen-and-stock-plunges-17/
+  - https://coincentral.com/c3-ai-ai-stock-falls-22-after-earnings-miss-and-guidance-cut/
+  - https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html
+  trajectory_signal: 'Articles [8, 9, 10] show C3 AI (a public company, likely >$1B market cap historically) experiencing
+    severe distress: 26% workforce layoffs, 22% stock plunge after earnings miss and guidance cut, and revenue significantly
+    below expectations ($53.3M vs $77.6M expected). Published 2026-02-26, these are recent and suggest deteriorating financial
+    health. However, stock decline and layoffs do not yet constitute bankruptcy, shutdown, or acquisition—they signal TRAJECTORY
+    TOWARD_YES but represent pre-resolution warning signs rather than resolution events. C3 AI remains operational and publicly
+    traded, so it has not yet met the threshold.'
+- date: '2026-03-08'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://kr-asia.com/pulses/154355
+  relevance: 'STRONG: Article [5] provides DIRECT evidence satisfying resolution criteria. Builder.ai, valued at $1.5B at
+    peak, filed for Chapter 7 bankruptcy in Delaware (published 2026-03-02, within preferred date range). This is an explicit
+    bankruptcy of a >$1B AI company in 2026, matching the prediction resolution criteria exactly. The article confirms: (1)
+    bankruptcy filing, (2) company was >$1B valued, (3) timing is 2026. No criteria gaps remain for this event.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ideaproof.io/startup-failures-2026
+  - https://flatlogic.com/blog/builder-ai-collapse-startup-red-flags-and-how-to-avoid-them/
+  trajectory_signal: Article [3] discusses Builder.ai's collapse with specific red flags (300% revenue inflation, governance
+    failures, "AI theater"). While the content predates the bankruptcy filing, it signals momentum toward failure and provides
+    context on warning signs. Article [0] mentions "Multiple AI wrapper startups shutting down" in Q1 2026 and reports "$11B
+    Total Funding Lost" across failures, suggesting broader industry stress, though specific company valuations and whether
+    any meet >$1B threshold are not detailed in the excerpt provided.
+- date: '2026-03-15'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a >$1B AI company filing for bankruptcy, shutting down, or being
+    acquired at >50% discount to peak valuation. BuzzFeed [6] mentions nearing bankruptcy but is not primarily an AI company
+    (it pivoted toward AI). The prediction requires concrete resolution of one of three specific outcomes; none have occurred
+    yet based on these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://markets.businessinsider.com/news/stocks/more-layoffs-at-xai-as-elon-musk-cleans-house-ahead-of-ipo-1035929904
+  - https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html
+  - https://electrek.co/2026/03/13/elon-musk-admits-xai-built-wrong-rebuild-tesla-spacex-investment/
+  - https://futurism.com/artificial-intelligence/elon-musk-orders-layoffs-xai-coding
+  - http://thenextweb.com/news/elon-musk-is-tearing-xai-down-to-build-it-back-up
+  trajectory_signal: 'Articles [4, 8, 11, 12, 13] document significant distress at xAI (valued >$1B post-SpaceX acquisition):'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence meeting resolution criteria. BlockFills (articles 5-9) filed for bankruptcy,
+    but it is a crypto trading firm, not an "AI company" — there is no indication it was valued >$1B or that AI was its primary
+    business. The other acquisitions (Cove, Astral, Unacademy) were all at strategic/full valuations, not >50% discounts.
+    No AI company >$1B has met the resolution criteria yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.classcentral.com/report/upgrad-to-acquire-unacademy/
+  - https://www.ainvest.com/news/perplexity-comet-ai-shopping-agent-shut-tactical-loss-7-day-appeal-clock-ticking-2603/
+  trajectory_signal: 'Two signals suggest momentum TOWARD_YES: (1) Unacademy acquisition (article 0) — a once-$3.5B unicorn
+    accepting a 100% share swap (essentially zero cash valuation) represents a severe markdown from peak, signaling that even
+    well-funded AI/edtech companies face existential pressure. This demonstrates the market conditions that could trigger
+    the >50% discount threshold for a true AI company. (2) Perplexity''s Comet AI Shopping Agent shutdown (article 1) — while
+    the company itself hasn''t failed, a major AI company shuttering a product line and facing legal challenges signals operational
+    stress and competitive vulnerability in the AI sector. These are directional indicators of sector fragility rather than
+    direct evidence, but they show conditions enabling the resolution criteria to be met.'
+- date: '2026-04-05'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://economictimes.indiatimes.com/tech/startups/fidelity-marks-down-conversational-ai-platform-gupshups-valuation-by-80-to-278-million/articleshow/129997269.cms
+  relevance: 'NONE: Article [8] provides direct evidence: Fidelity marked down Gupshup''s valuation by 80% to $278 million
+    (published 2026-04-03, within preferred date range). This represents a >50% discount from peak valuation and directly
+    satisfies one resolution criterion. However, critical gaps remain: (1) Gupshup''s peak valuation is not explicitly stated
+    in the excerpt, so we cannot independently verify the 80% represents >50% discount; (2) the article only confirms a valuation
+    markdown, not bankruptcy, shutdown, or acquisition; (3) Gupshup must be confirmed as >$1B at peak to meet the "valued
+    >$1B" criteria. The article headline claims the valuation is NOW $278M, implying peak was significantly higher, but this
+    is not explicitly confirmed in the provided content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.calcalistech.com/ctechnews/article/rj000qzaowx
+  trajectory_signal: Articles [7-8] signal accelerating valuation markdowns across AI companies in early April 2026. Hailo's
+    50%+ decline and Gupshup's 80% markdown suggest a sector-wide correction affecting AI infrastructure/tooling startups.
+    This indicates momentum TOWARD_YES resolution, though neither company clearly satisfies all criteria yet. The pattern
+    suggests conditions for major AI company failures are deteriorating.
+- date: '2026-04-12'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://saassentinel.com/2026/04/05/ai-chip-startup-hailo-plans-spac-merger-after-valuation-falls-50-to-under-500m/
+  - https://index.businessinsurance.com/businessinsurance/article/marketminute-2026-4-6-the-end-of-an-era-court-approves-luminar-technologies-final-wind-down-plan
+  relevance: 'MODERATE: Two articles provide direct evidence satisfying resolution criteria in 2026 YTD. **Hailo Technologies
+    [1]** explicitly documents a $1.2B→<$500M valuation collapse with SPAC acquisition (>50% discount). **Luminar Technologies
+    [5]** confirms bankruptcy/liquidation court approval April 1, 2026, and was a prior unicorn. Together, these represent
+    concrete YES signals. Minor gap: Luminar''s explicit peak valuation >$1B not fully confirmed in truncated text, though
+    context strongly implies it. The prediction likely resolves YES based on Hailo alone.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://autonainews.com/90-of-ai-wrapper-startups-face-2026-closures-as-value-add-strategy-crumbles/
+  - https://www.investmentnews.com/advisor-tech/the-integration-challenge-that-led-vitals-ai-to-shutdown/266028
+  - https://neuralnetworkworld.com/take-two-ai-division-shutdown-gta-vi-2026/
+  - https://thebytedive.com/ai/tencent-ai-lab-dissolution-china-big-tech-pivot/
+  - https://mitsloanindia.com/article/bengaluru-genai-firm-neuropixel-shuts-down-citing-surge-in-big-tech-models
+  trajectory_signal: Articles [0, 2, 3, 4, 6] show broad momentum toward consolidation and closure across the AI sector in
+    Q1 2026, with wrapper startups and smaller GenAI firms facing existential pressure from big tech. This supports directional
+    momentum TOWARD_YES through competitive/financial pressure, though only Hailo and Luminar meet the $1B+ threshold
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires a company valued >$1B to file for bankruptcy,
+    shut down, OR be acquired at >50% discount to peak valuation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://laffaz.com/monarch-tractor-shutdown-praveen-penmetsa/
+  - https://finance.sina.com.cn/wm/2026-04-12/doc-inhuhfpy5345431.shtml
+  trajectory_signal: Articles [1] and [2] show directional momentum TOWARD_YES by demonstrating actual shutdowns and acquisitions
+    of AI-backed startups in the relevant timeframe (April 2026). This signals the market conditions and consolidation patterns
+    are active. However, these are sub-$1B companies, so they don't yet satisfy the prediction's >$1B threshold. The trajectory
+    indicates conditions enabling the predicted outcome (startup failures, acquihires at distressed terms) are occurring,
+    but not yet at the scale specified. Article [4] provides weak contextual signals about OpenAI's challenges (IPO pressures,
+    turbulence) but lacks concrete evidence of a >$1B company failing.
+- date: '2026-04-26'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.insurancejournal.com/news/national/2026/04/20/866475.htm
+  - https://thecheapinvestor.com/2026/04/19/ex-ceo-ex-cfo-of-bankrupt-ai-company-charged-with-fraud/
+  relevance: 'STRONG: Articles [5] and [6] provide DIRECT evidence of resolution criteria satisfaction. iLearningEngines,
+    an AI-driven business automation company, has filed for BANKRUPTCY. The articles confirm the company is "now-bankrupt"
+    and its former executives were indicted for fraud. This directly satisfies the "bankruptcy" prong of the resolution criteria.
+    Critical gap: The articles do not explicitly confirm iLearningEngines was valued >$1B at its peak. However, the fraud
+    charges reference fabricated customer relationships and revenue, suggesting material operations, and the company was founded
+    in 2010 with apparent institutional backing—warranting further verification of peak valuation. The timeline (articles
+    published April 19-20, 2026) falls within the preferred date range.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://fortune.com/2026/04/20/financially-struggling-ai-power-startup-fermi-loses-ceo-reset/
+  - https://www.ainvest.com/news/fermi-stock-plunge-exposes-massive-mispricing-revenue-ai-grid-play-burns-1-1b-loses-tenants-2604/
+  trajectory_signal: 'Articles [2] and [4] show DIRECTIONAL PROGRESS toward YES. Fermi (an AI power/nuclear startup) demonstrates
+    severe distress: CEO/CFO departure, 20-28% stock plunge, $1.1B in cumulative losses, zero revenue, and loss of tenants.
+    Article [4] explicitly notes the company is burning capital at an unsustainable rate. While Fermi has not yet filed for
+    bankruptcy or been acquired at >50% discount, these signals indicate high probability of meeting resolution criteria within
+    months if trends continue. This establishes momentum toward YES, though technical bankruptcy/acquisition has not yet occurred.'
+- date: '2026-05-03'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of bankruptcy, shutdown, or >50% discount acquisition meeting the
+    resolution criteria. The prediction requires a specific AI company valued >$1B to experience one of these three outcomes.
+    While several articles mention financial stress (OpenAI missing targets, Oracle stock down 50%), these represent stock
+    price declines rather than the defined triggering events. Article [1] discusses the AGI agreement between Microsoft and
+    OpenAI becoming "less exclusive," which is a business development, not a triggering event. Article [2] mentions Pentera
+    job cuts but provides no valuation or distress information. The criteria gap is fundamental: we need evidence of actual
+    bankruptcy filing, formal shutdown announcement, or a completed acquisition at >50% discount to peak valuation—not merely
+    poor stock performance or operational challenges.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract
+  - https://thenextweb.com/news/meta-manus-acquisition-unwind-china-deadline-weeks
+  - https://en.sedaily.com/international/2026/04/30/openai-misses-revenue-targets-ipo-plans-falter-amid-data
+  - https://thenextweb.com/news/oracle-openai-wall-street-disconnect
+  - https://seekingalpha.com/article/4896136-the-ai-bubble-is-starting-to-crack
+  trajectory_signal: 'Several articles signal momentum TOWARD_YES by indicating structural stress in the AI ecosystem:'
+- date: '2026-05-10'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.heise.de/en/news/Cologne-AI-translator-DeepL-lays-off-a-quarter-of-its-workforce-11286250.html
+  - https://www.medianama.com/2026/05/223-krutrim-ai-cloud-chip-ai-model-work/
+  - https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/
+  - https://www.businessinsider.com/0g-labs-layoffs-ai-integration-2026-5
+  - https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/
+- date: '2026-05-17'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.36kr.com/p/3762088319484419
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://valueaddvc.com/blog/what-happened-to-the-2021-unicorn-class-tracking-valuations-three-years-later-2026
+  - https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/
+  trajectory_signal: Articles [0] and [1] show directional momentum toward failure within AI/tech cohorts. Article [0] demonstrates
+    broad valuation corrections of 50-65% among 2021 unicorns, creating fertile ground for bankruptcies. Article [1] shows
+    operational distress at a major AI startup but represents pivoting rather than shutdown. Together they suggest sector-wide
+    stress that makes resolution YES more plausible, though neither provides confirmed threshold events.
+- date: '2026-05-24'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://finance.biggo.com/news/b7nCTZ4BX0tZvRTvipmH
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence toward resolution. Kepler Robot (valued >$1B at peak: 1.06 billion
+    yuan) was acquired at ~$106M valuation by Hangzhou Kelin, representing a 90% discount from peak valuation—far exceeding
+    the >50% discount threshold. Published 2026-05-22, within preferred date range. This satisfies resolution criteria: acquisition
+    at >50% discount to peak valuation. However, Kepler is a robotics company, not strictly an "AI company" in the core lab
+    sense, creating minor ambiguity on entity classification. The acquisition is complete/concrete, not speculative.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.calcalistech.com/ctechnews/article/by34n00tjfl
+  - https://www.ynetnews.com/business/article/skkze8ujfx
+  - https://www.businesstimes.com.sg/companies-markets/manus-weighs-raising-us1-billion-unwind-meta-takeover
+  - https://techfundingnews.com/china-said-no-to-metas-2b-deal-now-manus-ai-needs-1b-to-reclaim-what-it-built/
+  trajectory_signal: 'Articles [1], [2], [3], [4] signal significant distress in AI company valuations and deal stability:'
+- date: '2026-05-31'
+  summary: 3 relevant articles
+  sources:
+  - https://economictimes.indiatimes.com/news/company/corporate-trends/from-22-billion-to-zero-success-not-failure-brought-byju-down/articleshow/131345574.cms
+  - https://www.financialexpress.com/business/industry-byjus-consumed-by-success-4252779/
+  - https://news.bloomberglaw.com/ip-law/voice-actors-suit-against-lovo-paused-amid-ai-firms-bankruptcy
+  relevance: STRONG
+  direction: TOWARD_YES
+- date: '2026-06-07'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of bankruptcy, shutdown, or >50% discount acquisition of a >$1B valued
+    AI company. The articles about "fallen unicorns" (0-4, 10) describe valuation declines among 220+ pre-ChatGPT startups,
+    but critically: (1) most of these are non-AI companies (Glossier, Savage X Fenty, AG1, The Farmer''s Dog, Chegg mentioned),
+    (2) valuation declines ≠ bankruptcy/shutdown/acquisition, (3) no specific AI company >$1B is named as having filed for
+    bankruptcy or shut down, (4) the articles discuss general market pressure but not resolution-triggering events. Articles
+    5-9 describe acquisitions (Kumo AI ~$400M, Eigen AI $643M, Neurovia AI) but these are at undisclosed or moderate valuations—not
+    documented as >50% discount acquisitions of companies that previously exceeded $1B valuation. Kumo AI appears to be a
+    younger startup (4 years old per article 7), making prior $1B+ valuation unlikely.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html
+  - https://thenextweb.com/news/ai-startup-valuations-pre-chatgpt-fallen-unicorns
+  - https://techstartups.com/2026/06/01/ai-is-killing-the-unicorns-more-than-220-unicorn-startups-are-now-worth-less-than-half-their-peak-value/
+  - https://www.thenews.com.pk/latest/1404408-220-unicorn-startups-have-lost-their-billion-dollar-status-heres-why
+  - https://businessmodelanalyst.com/ai-boom-fallen-unicorns-pre-chatgpt-startups/
+  trajectory_signal: 'Articles 0-4, 10 show STRONG MOMENTUM toward YES. They document: (1) massive capital concentration in
+    a few mega-labs (OpenAI, Anthropic, xAI), with $250B+ redirected away from pre-ChatGPT models; (2) 220+ unicorns losing
+    billion-dollar status; (3) SaaS and enterprise software companies particularly vulnerable; (4) startups from 2021 worth
+    68% less, those from 2022 down 52%. This creates preconditions for AI company failures: funding scarcity, valuation collapses,
+    and obsolete business models. However, the trajectory articles haven''t yet shown the *actual failure* of a specific AI
+    unicorn. Articles 5-9 show M&A activity (small acquisitions) but don''t evidence the distressed conditions predicted.'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a >$1B valued AI company meeting the resolution criteria (bankruptcy,
+    shutdown, or >50% discount acquisition). Hailo articles show severe distress but no completed transaction yet. Manus articles
+    describe deal unwinding, but this is a forced divestment rather than acquisition at discount or bankruptcy—Meta is the
+    acquirer trying to exit, not the target company in distress.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.calcalistech.com/ctechnews/article/3hmpcioxj
+  - https://techtime.news/2026/06/08/hailo-24/
+  trajectory_signal: 'Articles [0, 1] show Hailo—a former unicorn valued >$1B—in acute financial distress: 50% workforce reduction,
+    funding pressure, and explicitly seeking a buyer or investor. This signals momentum TOWARD_YES by demonstrating that a
+    >$1B AI company can reach critical viability thresholds. However, the company has not yet filed for bankruptcy, shut down,
+    or been acquired. The trajectory is directionally concerning for Hailo''s survival but resolution remains contingent on
+    what happens next (acquisition terms, further deterioration, or stabilization). Articles [2-5] on Manus are less relevant—while
+    they show a $2B deal unwinding, Manus was acquired by Meta and is being forced to divest by geopolitical pressure, not
+    failing due to market or operational factors. This doesn''t demonstrate the prediction mechanism and likely doesn''t satisfy
+    resolution criteria.'
+- date: '2026-06-21'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.thenewstribune.com/news/business/article316183018.html
+  relevance: 'STRONG: Article [5] provides DIRECT evidence of resolution: Lovo Inc., an AI voice cloning firm, has collapsed
+    into Chapter 7 bankruptcy. This satisfies one of the three resolution criteria (bankruptcy). However, a critical criteria
+    gap remains: Lovo''s peak valuation is not stated in the article. The prediction requires "at least one AI company valued
+    >$1B" to meet the bankruptcy/shutdown/acquisition criteria. Lovo''s valuation history is not disclosed, making it impossible
+    to confirm whether it meets the >$1B threshold. This is a material gap that prevents definitive YES resolution despite
+    the bankruptcy being confirmed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/verses-ai-announces-new-strategic-direction-discontinuation-of-ai-operations-and-pursuit-of-strategic-alternatives-302804837.html
+  - https://thenextweb.com/news/yann-lecun-xai-failure-ai-bubble-explosion
+  trajectory_signal: Article [2] and [3] show VERSES AI discontinuing its AI operations and pursuing "strategic alternatives"—language
+    suggesting potential shutdown or restructuring, signaling directional movement toward failure, though not yet meeting
+    bankruptcy/shutdown criteria. Article [4] reports Yann LeCun calling xAI "a failure" with exodus of founding team and
+    hiring difficulties—this signals momentum toward potential future failure but provides no concrete evidence of bankruptcy,
+    shutdown, or acquisition yet. Article [1] shows Swish.ai collapsed and sold for $150 after raising $20M, but this is a
+    sub-$1B company and doesn't meet scope. Articles [9], [11] show positive acquisitions at valuations above prior rounds
+    (Tenstorrent at $8-10B vs $3.2B), moving away from YES. Articles [10], [12] show Manus being bought back at original price
+    ($2B), neutral trajectory. These trajectory signals mixed but weighted toward some momentum in the AI failure space, though
+    mostly sub-$1B companies.
+- date: '2026-06-28'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.portugalresident.com/unbabel-insolvent-after-13-million-prr-funding/
+  - https://devs.com.pt/en/news/ai-startup-unbabel-files-for-insolvency-after-receiving-13-3-m-in-public-funds
+  - https://www.nzherald.co.nz/business/auckland-ai-firm-in-liquidation-after-defaulting-on-500k-callaghan-loan-tech-insider/premium/Z75F2X74OBAWRGFOUKI5XICNMU/
+  relevance: 'STRONG: Unbabel''s insolvency is the strongest evidence but has a critical validation gap—its peak valuation
+    must be confirmed as >$1B. The company''s description as a prominent unicorn-track firm and "one of Portugal''s best-known
+    AI companies" suggests it likely met the threshold, but this remains unverified in the articles provided. Auckland firm
+    lacks valuation data entirely. Resolution hinges on confirming Unbabel''s peak valuation exceeded $1B.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ad-hoc-news.de/boerse/news/ueberblick/verses-ai-halted-cash-at-68-000-and-a-90-day-rescue-clock-starts/69643772
+  - https://headlinesbriefing.com/private-markets/sifted/unlikely-ai-faces-exodus-as-losses-mount-1d777cf1
+  trajectory_signal: '[2, 6] signal momentum toward YES resolution:'
+- date: '2026-07-05'
+  summary: 6 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.calcalistech.com/ctechnews/article/j3fqlk88j
+  - https://www.moneyweb.co.za/news/companies-and-deals/prosus-slashes-valuation-of-ai-hit-subsidiary-by-more-than-half/
+  - https://devs.com.pt/en/news/tech-fallout-the-1-3-million-state-claim-against-bankrupt-unbabel
+  - https://xix.ai/ainews/yuppai-closes-after-securing-33m-from-a16z-cryptos-chris-dixon.html
+  - https://inc42.com/buzz/udaans-creditors-initiate-bankruptcy-proceedings-against-its-parent-in-singapore/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thefinancialwire.com/the-founder-of-ai-shopping-app-nate-raised-42-million-but-prosecutors-say-the-ai-was-really-workers-overseas/
+  - https://findnstart.com/blogs/why-most-ai-startups-will-die-in-the-next-18-months
+  - https://londoninsider.co.uk/city-headhunter-behind-ftse-executive-hires-collapses-following-costly-ai-platform-bet/
+- date: '2026-07-12'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://thefinancialwire.com/the-former-leaders-of-a-1-4-billion-ai-startup-were-charged-with-faking-almost-all-of-its-sales/
+  - https://theportugalpost.com/posts/unbabel-founder-fights-13m-state-recovery-demand-in-lisbon-court
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://english.mathrubhumi.com/amp/news/kerala/talrop-shuts-down-kochi-tech-layoffs-k0sxb3xc
+  - https://entrepreneurloop.com/picsee-startup-shut-down-mayank-bidawatka-koo-returns-capital/
+- date: '2026-07-19'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.massdevice.com/vicarious-surgical-shut-down-liquidation-robotics-developer/
+  relevance: 'STRONG: Article [2] provides DIRECT evidence toward YES resolution. Vicarious Surgical''s board has formally
+    voted to shut down and liquidate the company, with a shareholder approval meeting scheduled for July 21, 2026. This is
+    a concrete shutdown action meeting the resolution criteria. However, a critical gap remains: **the article does not confirm
+    Vicarious Surgical was valued >$1B at its peak**. The content states it is a "struggling surgical robotics developer"
+    but provides no valuation history. If peak valuation was ≤$1B, this would NOT satisfy resolution criteria despite being
+    a shutdown. Article [7] is a duplicate of [2] with minimal additional content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ainvest.com/news/hyundai-325-million-boston-dynamics-buyout-cheap-softbank-exiting-bullish-seal-2607/
+  - https://www.bizjournals.com/baltimore/news/2026/07/15/galen-robotics-bankruptcy-auction-sale-altza.html
+  trajectory_signal: Article [3] signals MODERATE downward trajectory. Boston Dynamics' sale by SoftBank to Hyundai for $325M
+    represents a significant down-round (Boston Dynamics was previously valued at $4.5B+ at SoftBank's 2017 acquisition).
+    The article characterizes this as "SoftBank exiting, not a bullish seal," suggesting forced liquidation of a struggling
+    asset. This shows momentum toward distressed M&A in the robotics/AI space but does not yet meet the >50% discount criterion
+    for resolution and involves a non-US acquirer. Article [6] shows Galen Robotics entered bankruptcy with assets selling
+    for $110K after a $15M raise, but this company was never $1B+ valued. Both signal sector weakness and distressed conditions
+    affecting AI-adjacent companies but fall short of direct resolution criteria.
+- date: '2026-07-26'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.calcalistech.com/ctechnews/article/sje9qxgrgg
+  - https://www.roboticsintl.com/article/vicarious-surgical-shuts-down-after-burning-through-300m-spac-windfall
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://theinsight.asia/z-ai-sheds-more-than-38-billion-in-market-value-in-two-day-stock-rout/
+  - https://theinsight.asia/z-ai-sheds-more-than-38-billion-in-market-value-in-two-day-stock-rout/
+  trajectory_signal: 'Article [9] (Zhipu/Z.AI, 2026-07-21): Chinese foundation model developer lost 60% from peak valuation
+    over two days, shedding $38.3B in market value. This signals momentum toward YES by demonstrating that even large, publicly-traded
+    AI companies face severe valuation collapse. However, Zhipu remains operational (no bankruptcy/shutdown announced), so
+    this does not yet meet resolution criteria. The trajectory shows increasing fragility in AI valuations and suggests other
+    >$1B companies could be vulnerable.'
+- date: '2026-08-02'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://www.korean-vibe.com/news/newsview.php?ncode=1065578214236693
+  relevance: 'MODERATE: Article [5] provides DIRECT evidence: Supertone, an AI audio company acquired by HYBE, is being liquidated.
+    However, critical gaps remain: (1) Supertone''s peak valuation is not stated—we cannot verify if the acquisition/liquidation
+    represents a >50% discount to peak valuation; (2) Supertone''s current/past valuation relative to the $1B threshold is
+    unclear—it may not have been valued >$1B at acquisition or at peak, which would disqualify it from resolution criteria;
+    (3) liquidation is confirmed but bankruptcy status is not explicitly stated. The evidence is directionally relevant but
+    insufficient to definitively satisfy resolution criteria without valuation confirmation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://betakit.com/sonder-brand-bought-out-of-bankruptcy-by-travelai/
+  trajectory_signal: 'Article [1] signals trajectory momentum: "Sonder brand bought out of bankruptcy by TravelAI" indicates
+    AI-adjacent companies entering distress cycles, though Sonder''s core business model (hospitality/real estate) is not
+    primarily AI-focused, limiting relevance. Articles [2], [6] show financial stress in the AI investment ecosystem (Aschenbrenner''s
+    hedge fund losses), but these are investor/fund collapses rather than AI company failures. Articles [3], [4] show operational
+    disruption (Pathfinder AI''s data center plan derailed by founder dispute; Amazon''s AGI division layoffs/lab shutdown)
+    but not company-level bankruptcy/shutdown/deep-discount acquisition. Articles [7-11] show healthy M&A activity at or above
+    valuation levels (Cyera acquiring Oasis Security, Okta acquiring Permiso), moving AWAY from resolution. Overall trajectory
+    is mixed but slightly TOWARD_YES given Supertone evidence, though most activity indicates sector resilience.'
+- date: '2026-08-09'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/
+  - https://fortune.com/2026/08/05/bending-spoons-italian-unicorn-startup-airtale-ipo/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.globes.co.il/en/article-hailo-lays-off-50-of-workforce-1001545273
+  - https://en.globes.co.il/en/article-hailo-lays-off-50-of-workforce-1001545273
+  trajectory_signal: Article [0] (Hailo layoffs, Aug 6) signals financial distress at an edge AI chipmaker cutting 50% of
+    workforce with investors writing off losses. This shows directional momentum TOWARD_YES (financial deterioration of an
+    AI company), but Hailo is not yet resolved — no bankruptcy, shutdown, or acquisition announced. This represents a warning
+    signal of potential future failure rather than concrete evidence of resolution criteria being met.
+- date: '2026-08-16'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI company >$1B meeting the resolution criteria (bankruptcy,
+    shutdown, or >50% discount acquisition).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html
+  - https://www.afr.com/street-talk/canva-s-60b-price-tag-hit-with-29pc-discount-on-secondary-market-20260812-p60nnc
+  trajectory_signal: 'Articles [7] and [12] provide directional signals suggesting mounting pressure on AI companies:'
+- date: '2026-08-23'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://entrackr.com/exclusive/exclusive-krafton-backed-bobble-ai-enters-insolvency-process-after-failing-to-repay-debt-12394222
+  - https://www.calcalistech.com/ctechnews/article/rykdmfevfl
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.straitstimes.com/business/singapore-based-job-search-platform-snaphunt-winds-up-after-funding-delay-leaves-it-short-of-cash
+  - https://www.straitstimes.com/business/singapore-based-job-search-platform-snaphunt-winds-up-after-funding-delay-leaves-it-short-of-cash
+- date: '2026-08-30'
+  summary: 2 relevant articles, 1 trajectory signal
+  sources:
+  - https://startupfortune.com/softbank-is-negotiating-to-buy-majority-control-of-humanoid-maker-1x-at-a-6-billion-discount/
+  - https://vector.news/starved-of-compute-poolside-sold-itself-to/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/manus-meta-acquisition-blocked-china-independent-data-deletion
+  trajectory_signal: 'Articles [2], and tangentially [10-11] (Unitree), show market stress in AI sector. Unitree''s 45% post-IPO
+    plunge signals valuation pressure but doesn''t meet >50% discount criteria (stock dropped from peak, not acquired). Broader
+    trend: distressed M&A activity in AI (per [5]) and compute resource scarcity as failure vector.'
+- date: '2026-09-06'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Article [0] describes Unacademy (edtech, not primarily
+    AI-focused) selling at 94% discount, but Unacademy does not meet the criteria as a >$1B valued "AI company" — it was an
+    edtech platform. Article [5/6/7/8] describe Hugging Face being acquired by Nvidia at $12.9B, which is a positive acquisition
+    at premium valuation, not a distressed sale meeting criteria. Article [3/10/11] cover Manus resuming independence after
+    Meta deal collapse — not a bankruptcy, shutdown, or discounted acquisition. Article [12] describes OpenAI walking away
+    from a Cursor deal but Cursor was acquired by SpaceX at $60B (not a distressed outcome).'
+  trajectory_sources:
+  - https://business-news-today.com/teneo-ai-revenue-collapsed-71-now-its-cost-base-is-nearly-halved-and-every-spain-job-is-ending/
+  - https://www.cryptonexa.com/rain-ai-patent-acquisition-salvages-openais-neuromorphic-bet-after-takeover-collapses/
+  trajectory_signal: Articles [2] and [9] provide directional signals of AI company distress. Teneo.ai's 71% revenue collapse
+    and severe restructuring indicates MODERATE momentum TOWARD_YES by showing a >$1B-valued AI company under extreme financial
+    stress. However, the company remains operating independently rather than filing for bankruptcy, shutting down, or being
+    acquired — criteria not yet met. Rain AI's near-total shutdown (averted only by patent acquisition) similarly shows TOWARD_YES
+    momentum, but again falls short of meeting explicit resolution criteria. These are warning signals of potential future
+    bankruptcies/acquisitions, not current resolution events.

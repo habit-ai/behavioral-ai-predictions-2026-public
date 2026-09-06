@@ -5,10 +5,12 @@ category: AI Capabilities
 baseline: 'Jan 2026: GPT-5.1-Codex-Max 8%, GPT-5.2 3%. Benchmark = 20 internal OpenAI bottlenecks.'
 resolution_criteria: 'YES: Any AI >25%. NO: Best ≤25%.'
 search_keywords:
-- OpenAI Proof
-- AI benchmark internal
-- OpenAI bottleneck
-- OpenAI
+- First Proof math benchmark AI results
+- OpenAI Proof Q&A benchmark score
+- First Proof AI submissions 2026
+- OpenAI internal bottleneck benchmark
+- First Proof mathematicians AI challenge
+- Scientific American First Proof AI
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +34,8 @@ forecasts:
   human-6: 30
   human-7: 15
   human-8: 5
+  human-9: 50
+  human-10: 35
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -45,3 +49,534 @@ evidence:
   - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
   - https://www.programming-helper.com/tech/openai-gpt-5-gpt-5-2-unified-architecture-reasoning-2026-ai-breakthrough
   - https://www.financialcontent.com/article/tokenring-2026-1-28-the-era-of-slow-ai-how-openais-o1-and-o3-are-rewriting-the-rules-of-machine-intelligence
+- date: '2026-02-07'
+  summary: Found 10 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://llm-stats.com/benchmarks/ifeval
+  - https://llm-stats.com/benchmarks/octocodingbench
+  - https://scale.com/leaderboard/math
+  - https://www.latent.space/p/ainews-openai-and-anthropic-go-to
+  relevance: UNCLEAR. The provided evidence titles do not directly indicate AI performance on OpenAI-Proof Q&A, so they do
+    not help resolve the specific prediction.
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://www.scientificamerican.com/article/first-proof-is-ais-toughest-math-test-yet-the-results-are-mixed/
+  - https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/
+  relevance: 'MODERATE: Articles [0] and [4] discuss the "First Proof" math challenge for AI launched by mathematicians in
+    February 2026, which is directly relevant to the OpenAI-Proof Q&A benchmark mentioned in the prediction, though the available
+    excerpts don''t contain specific performance percentages needed to resolve the prediction.'
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://openai.com/index/first-proof-submissions/
+  relevance: 'MODERATE: Article [5] "Our First Proof submissions" (OpenAI, Feb 20, 2026) is the only piece providing concrete,
+    firsthand evidence about OpenAI''s actual performance on the OpenAI-Proof Q&A benchmark. It explicitly states OpenAI "ran
+    an internal model on all 10 First Proof problems" and references a viewable set of proof attempts. However, the snippet
+    cuts off before revealing the actual performance percentage, which is the critical data point for resolving this prediction.
+    The article confirms OpenAI is actively testing on this benchmark, but the specific performance number (needed to compare
+    against the 25% threshold and the baseline of 8%/3% from January 2026) is not provided in the available excerpt. This
+    represents progress toward YES or NO resolution but falls short of definitive evidence without the numerical results.'
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://openai.com/index/first-proof-submissions/
+  relevance: NONE
+- date: '2026-02-23'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://openai.com/index/first-proof-submissions/
+  relevance: 'MODERATE: Article [0] (OpenAI''s Feb 20 submission) is the only direct evidence addressing the resolution criteria.
+    It announces OpenAI ran "an internal model on all 10 First Proof problems" and references viewing their "proof attempts,"
+    but the actual performance numbers are not disclosed in the provided excerpt. This is a critical gap—we cannot verify
+    whether performance exceeded, approached, or fell short of the 25% threshold. The article confirms OpenAI is actively
+    engaging with the benchmark, which is necessary but insufficient for resolution. No specific performance metric is stated
+    that would trigger YES/NO criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scientificamerican.com/article/first-proof-is-ais-toughest-math-test-yet-the-results-are-mixed/
+  - https://www.dera.ai/en/news/feae6511-a0a2-e0f2-9aa9-3cdc235cdcd4
+  - https://llm-stats.com/benchmarks/theoremqa
+  - https://www.reddit.com/r/math/comments/1r4gpi5/first_proof_solutions_and_comments_attempts_by/
+  trajectory_signal: 'Articles [1], [2], [3], and [6] signal directional momentum toward the resolution criteria:'
+- date: '2026-03-01'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://openai.com/index/first-proof-submissions/
+  - https://dig.watch/updates/openai-model-revises-proof-claim
+  relevance: 'MODERATE: Article [0] (Feb 20, 2026) is OpenAI''s official announcement of First Proof submissions, directly
+    addressing the benchmark specified in the prediction. However, the content provided is truncated and does not state actual
+    performance scores—it only describes running "an internal model on all 10 [First Proof] problems." Article [5] (Feb 24,
+    2026) references "OpenAI model revises proof claim" and mentions experts reviewing results, suggesting performance data
+    exists, but the excerpt is incomplete and doesn''t provide numerical scores. Together, these confirm OpenAI has submitted
+    results on the exact benchmark (First Proof), but critical gap: **neither article provides the actual percentage score
+    achieved, which is essential for direct resolution criteria evaluation**. The baseline context shows GPT-5.1-Codex-Max
+    at 8% and GPT-5.2 at 3% as of January 2026—current scores remain unknown from these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://manifold.markets/bens/what-will-be-the-best-score-on-firs
+  - https://openclawnews.nl/gemini-3-1-pro-shatters-the-reasoning-benchmark-google-beats-claude-and-gpt-5-2-on-arc-agi-2/
+  - https://www.thenovtech.com/p/google-just-doubled-ai-reasoning
+  trajectory_signal: 'Article [4] (Feb 16, 2026) is a Manifold prediction market showing betting odds on First Proof scores,
+    with 24% probability assigned to exactly 4 correct answers and meaningful probability mass on scores 3-6. This suggests
+    forecaster expectations cluster around 3-5/10 problems (30-50%), well above the baseline but not yet confirming >25% achievement.
+    Articles [10] and [14] describe Gemini 3.1 Pro scoring 77.1% on ARC-AGI-2 (a different reasoning benchmark), demonstrating
+    rapid frontier progress in AI reasoning capabilities over 90 days (from 31% to 77.1%). While not directly about First
+    Proof, this signals substantial momentum in advanced reasoning tasks across the AI landscape, creating tailwind for progress
+    on First Proof specifically. Direction: **TOWARD_YES** based on demonstrated reasoning capability acceleration and forecaster
+    expectations clustering above 25%.'
+- date: '2026-03-08'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.facebook.com/groups/595424764221375/posts/2061152560981914/
+  relevance: 'STRONG: The clearest evidence is article [9]''s claim of 25.2% on "Frontier Math," but benchmark name mismatch
+    creates unresolved ambiguity. If Frontier Math = OpenAI-Proof Q&A, resolution is YES; if not, no direct evidence yet exists.
+    Baseline context shows 8% in January 2026; trajectory articles suggest rapid improvement is underway.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/gpt-5-4-benchmarks/
+  - https://www.computerworld.com/article/4141889/gpt-5-4-solves-previously-unsolved-math-problem-with-help-from-long-forgotten-human-research.html
+  trajectory_signal: Article [3] (2026-03-05) reports GPT-5.4 Pro/Thinking released and beating competitors on "many benchmarks,"
+    signaling continued capability improvements. Article [4] (2026-03-06) reports GPT-5.4 Pro solved a previously unsolved
+    math problem and notes that GPT-5.2 Pro achieved 31% on "mathematical challenges" (date context suggests January 2026),
+    showing rapid progression from the baseline of 8% (GPT-5.1-Codex-Max). This trajectory strongly suggests momentum TOWARD_YES,
+    with performance roughly quadrupling in ~2 months and new model versions continuing to push boundaries on math tasks.
+- date: '2026-03-15'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of OpenAI-Proof Q&A performance specifically. The resolution criteria
+    requires a concrete benchmark score >25% on this specific OpenAI benchmark (20 internal bottlenecks). While baseline shows
+    GPT-5.1-Codex-Max at 8% and GPT-5.2 at 3% as of January 2026, none of the articles tested state performance on OpenAI-Proof
+    Q&A itself. Articles 0, 1, 3, 5, 8, 10, 11, 12, 13 either lack performance data or address different benchmarks/domains
+    entirely. Critical gap: No measured scores on the specific benchmark required for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/chatgpt/articles/openai-gpt-5-4-surpasses-110000884.html
+  - https://www.implicator.ai/claude-opus-4-6-solves-open-combinatorics-problem-that-stumped-knuth-for-weeks/
+  - https://aidatainsider.com/news/openai-launches-gpt-5-4-claims-higher-results-on-multiple-fronts/
+  - https://www.deeplearning.ai/the-batch/gpt-5-4-pro-challenges-gemini-3-1-pro-preview/
+  - https://pricepertoken.com/leaderboards/benchmark/gpqa
+  trajectory_signal: 'Several articles signal substantial AI capability advancement that could support progress toward resolution:'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence about OpenAI-Proof Q&A performance specifically. The resolution criteria
+    requires a concrete score >25% on the OpenAI-Proof Q&A benchmark (which has 20 internal OpenAI bottlenecks). Baseline
+    context shows GPT-5.1-Codex-Max at 8% and GPT-5.2 at 3% as of January 2026. None of the articles retrieved contain performance
+    data on this specific benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
+  - https://hackernoon.com/lite/openai-pushes-neural-networks-to-the-limits-of-advanced-math
+  trajectory_signal: 'Articles [4] and [6] signal TOWARD_YES momentum:'
+- date: '2026-03-29'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance. The resolution criteria requires
+    a specific benchmark result: "Best AI performance on OpenAI-Proof Q&A will exceed 25%." None of the articles measure performance
+    on this specific benchmark. Articles [0,1] discuss GPT-5.4 Pro solving an open math problem (Ramsey hypergraphs from FrontierMath),
+    which is a different benchmark entirely. Article [5] reports GPT-5.4 tied for #1 on unspecified leaderboards. Article
+    [8] shows GPT-5.4 at 92% on GPQA (Graduate-level physics/chemistry questions)—also not OpenAI-Proof Q&A. The baseline
+    context specifies the benchmark as "20 internal OpenAI bottlenecks" with January 2026 performance at 8% (GPT-5.1-Codex-Max).
+    No article reports current performance on this specific internal benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://agent-wars.com/news/2026-03-24-gpt-5-4-pro-solves-ramsey-hypergraph-open-problem-confirmed-for-publication
+  - https://byteiota.com/gpt-5-4-pro-cracks-first-unsolved-math-problem-2026/
+  - https://awesomeagents.ai/news/terence-tao-ai-verification-bottleneck-math/
+  - https://whatllm.org/blog/llm-releases-march-2026
+  trajectory_signal: 'Articles [0,1,4,5] signal meaningful upward momentum in GPT-5.4''s capabilities: (1) GPT-5.4 Pro solved
+    a genuine unsolved math problem, representing a qualitative leap in reasoning; (2) Terence Tao''s observation (March 2026)
+    that "idea generation down to almost zero cost" reflects AI capability expansion in mathematical domains; (3) GPT-5.4
+    is now competitive on multiple frontier benchmarks (GPQA 92%, tied for #1 on general leaderboards). This trajectory suggests
+    improving reasoning/problem-solving on difficult Q&A tasks. However, these improvements are on different benchmarks than
+    OpenAI-Proof Q&A. The gap from 8% (Jan 2026 baseline) to 25% (threshold) requires ~3x improvement on the specific benchmark
+    by Dec 2026. The general capability surge shown here is consistent with such progress but does not confirm it on the target
+    benchmark.'
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://officechai.com/ai/gpt-5-4-xhigh-scores-95-on-2026-us-math-olympiad-gemini-3-1-pro-second-with-74/
+  - https://www.implicator.ai/implicator-ai-launches-the-ai-top-40-ranking-llms-across-10-benchmarks-in-one-score/
+  - https://cryptoslate.com/gpt-5-4-iq-150-ai-capability-economic-impact/
+- date: '2026-04-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about performance on the specific "OpenAI-Proof Q&A" benchmark. The
+    prediction requires concrete data showing any AI exceeding 25% on this particular 20-question internal OpenAI test by
+    December 31, 2026. None of the articles discuss this benchmark or report scores on it. Articles [5], [6], [7] discuss
+    other benchmarks (GPQA, SWE-bench, MMLU) which are not the resolution criteria. Articles [0], [1], [2], [8], [9], [10]
+    are either off-topic (image models, crypto claims, general AGI commentary) or discuss different benchmarks entirely. The
+    criteria gap is absolute: we have zero direct measurements on OpenAI-Proof Q&A performance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tpsreport.news/news/alibaba-qwen-fipo-algorithm-reasoning-chains
+  - https://chinaresearchcollective.substack.com/p/a-new-breakthrough-in-ai-solving
+  - https://finance.sina.com.cn/tech/discovery/2026-04-06/doc-inhtqnru4235098.shtml
+  trajectory_signal: 'Three articles signal progress in mathematical reasoning capabilities, which is directionally relevant
+    given the benchmark''s Q&A nature:'
+- date: '2026-04-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of OpenAI-Proof Q&A benchmark performance. The prediction requires
+    specific performance data on this particular benchmark—a set of 20 internal OpenAI bottleneck problems. None of the articles
+    mention "OpenAI-Proof Q&A" explicitly or provide scores on this specific benchmark. Articles 3, 4, 7, 8 are about competitive
+    positioning, cybersecurity variants, and internal memos—not relevant to the specific benchmark. Articles 10, 11 discuss
+    general AI progress and Arena Leaderboards but not the OpenAI-Proof Q&A benchmark. Article 2 discusses math proof verification
+    generally but not this benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/
+  - https://artificialanalysis.ai/articles/sub-32b-open-weights
+  - https://neuralnetworkworld.com/z-ai-glm-5-1-swe-bench-pro-open-source-2026/
+  - https://www.ibtimes.com.au/grok-420-beta-2-powers-xai-advances-model-tops-benchmarks-saves-lives-april-2026-1866556
+  - https://aiwire.ai/articles/2026-04-12-glm-5-1-code-arena-top-3-first-open-weight-model
+  trajectory_signal: 'Multiple articles signal capability advancement momentum:'
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://startupfortune.com/gpt-55-scores-17-on-openais-toughest-internal-benchmark-and-the-ai-industry-has-questions/
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence on the specific OpenAI-Proof Q&A benchmark. It reports GPT-5.5
+    scored 1.7% on this exact benchmark as of April 23, 2026—well below the 25% threshold and actually LOWER than the January
+    2026 baseline (GPT-5.1-Codex-Max at 8%). This is concrete, recent data directly addressing resolution criteria. However,
+    a single timepoint 8 months before the deadline leaves room for trajectory improvement, so while this shows current performance
+    is far from 25%, it doesn''t definitively resolve the prediction yet.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://medium.com/@jason.robinson/proofs-compound-pattern-matching-doesnt-baf21d00e7f0
+  - https://webiano.digital/the-proof-that-forced-mathematics-to-take-ai-seriously/
+  trajectory_signal: 'Articles [2] and [3] signal directional momentum but NOT toward the 25% threshold:'
+- date: '2026-05-03'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance. The prediction requires a specific
+    benchmark ("20 internal OpenAI bottlenecks") with a named metric. None of the articles mention this benchmark by name,
+    describe its specific structure, or report performance against it. Articles [0-4, 8-11] discuss other benchmarks (FirstProof,
+    ARC-AGI-3, IFBench, etc.) or general AI progress. Without confirmation that these articles address the actual OpenAI-Proof
+    Q&A benchmark, they cannot resolve the prediction criteria.'
+  trajectory_sources:
+  - https://www.deeplearning.ai/the-batch/openais-latest-model-gpt-5-5-tops-leaderboards-for-coding-visual-puzzles-and-overall-intelligence/
+  - https://www.winzheng.com/en/article/openai-releases-gpt-5-5-agent-capabilities-mixed-benchmarks
+  - https://dev.to/owen_fox/gpt-55-api-four-days-in-benchmarks-vs-claude-opus-47-and-gemini-31-pro-3l9n
+  trajectory_signal: 'Articles [1, 5, 7] show GPT-5.5 release (late April 2026) with general capability improvements across
+    multiple domains (coding, visual reasoning, agentic performance). This signals directional momentum toward stronger OpenAI
+    models within the resolution window, but the trajectory is NEUTRAL because:'
+- date: '2026-05-10'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://benchlm.ai/benchmarks/gpqa
+  relevance: 'STRONG: Article [5] provides DIRECT evidence on OpenAI-Proof Q&A (GPQA) performance. It reports GPT-5.5 at 93.6%
+    on GPQA as of May 7, 2026—vastly exceeding the 25% threshold. This directly resolves the prediction YES. The benchmark
+    is correctly identified as "Graduate-Level Google-Proof Q&A" and the leaderboard is dated within the preferred timeframe
+    (May 7, 2026, after April 26 cutoff). No criteria gaps remain—the resolution requirement is unambiguously satisfied.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/
+  - https://www.newsbytesapp.com/news/science/openai-releases-gpt-5-5-instant-as-chatgpt-default-model/story
+  - https://benchlm.ai/best/openai-models
+  - https://www.thedeepview.com/articles/chatgpt-accuracy-improves-in-new-model-push
+  - https://techfastforward.com/articles/gpt-55-claude-mythos-gemini-31-pro-spring-2026-three-way-tie-ai-race
+  trajectory_signal: 'Articles [0, 1, 2, 6, 9] show strong momentum supporting GPQA performance gains:'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about OpenAI-Proof Q&A performance or whether any model has exceeded
+    25% on this specific benchmark. The prediction requires concrete performance data on this particular 20-question internal
+    OpenAI benchmark, which none of these articles address. Articles about general math benchmarks (SOOHAK, HLE, FrontierScience),
+    coding benchmarks (Cursor, LiveCodeBench Pro), and financial QA (TAT-QA) are tangential but don''t measure performance
+    on the specific OpenAI-Proof Q&A benchmark that resolves this prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aihola.com/article/coding-agent-index-cursor
+  - https://arxiv.org/html/2605.06651v2
+  - https://www.rdworldonline.com/this-week-in-ai-research-fields-medalist-says-gpt-5-5-pro-did-phd-level-math-in-an-hour-anthropic-teaches-claude-to-dream/
+  trajectory_signal: 'Three articles signal directional progress toward improved AI reasoning on specialized Q&A tasks:'
+- date: '2026-05-24'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance. The prediction requires a specific
+    benchmark (20 internal OpenAI bottlenecks) with a >25% threshold by Dec 31, 2026. The baseline shows GPT-5.1-Codex-Max
+    at 8% and GPT-5.2 at 3% as of January 2026. None of the articles discuss OpenAI-Proof Q&A performance, scores, or progress
+    on this specific benchmark. The articles focus on mathematical breakthroughs (Erdős conjecture) and other benchmarks (AIME,
+    FrontierMath, formal reasoning), which are orthogonal to the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+  - https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/
+  - https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/
+  - https://intelligence.org/2026/05/22/the-erdos-proof-and-ai-capabilities/
+  - https://winbuzzer.com/2026/05/21/openai-says-ai-model-may-crack-erds-geometry-problem-xcxwbn/
+  trajectory_signal: Articles [0-5] signal substantial upward momentum in OpenAI's mathematical reasoning capabilities. The
+    Erdős conjecture breakthrough (verified May 20-21, 2026) demonstrates genuine research-level problem solving verified
+    by external mathematicians. Article [6] shows o1 achieving 83% on AIME (up from GPT-4o's 13%), indicating rapid improvement
+    in math capability. These developments suggest OpenAI is making significant progress on hard reasoning tasks, which could
+    translate to improved Q&A performance. However, these benchmarks measure different capabilities than the specific OpenAI-Proof
+    Q&A metric. The trajectory is directionally encouraging for reasoning-based improvements but provides no direct measurement
+    of progress on the actual resolution criterion. The momentum is consistent with an 8% baseline potentially improving toward
+    25%, but without knowing OpenAI-Proof Q&A's specific content or difficulty, extrapolation is speculative.
+- date: '2026-05-31'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles directly address OpenAI-Proof Q&A performance or provide concrete benchmark scores that would
+    satisfy the resolution criteria (>25% vs ≤25% by Dec 31, 2026). The prediction requires specific performance data on this
+    particular benchmark, which none of these articles provide. Articles [2, 3, 6] are substantive rehashes of the same Erdős
+    problem announcement without new evaluation data.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.understandingai.org/p/openais-milestone-math-breakthrough
+  - https://singularityhub.com/2026/05/28/an-ai-solution-to-an-80%E2%80%91year%E2%80%91old-problem-has-shocked-mathematicians/
+  - https://tech.yahoo.com/ai/chatgpt/articles/openais-internal-ai-model-just-151656684.html
+  - https://techspherenews.com/google-deepmind-s-alphaproof-nexus-solves-decades-old-math-problems-at-low-cost
+  - https://www.sciencealert.com/stunning-ai-solution-for-80-year-old-problem-shocks-mathematicians
+  trajectory_signal: 'Strong directional momentum toward YES, though not yet reaching the resolution threshold:'
+- date: '2026-06-07'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on OpenAI-Proof Q&A performance specifically. The resolution criteria
+    require a concrete performance number on this specific benchmark exceeding 25% by December 31, 2026. None of the articles
+    present:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medium.com/@AIchats/deepmind-and-openai-autonomously-tackle-first-proof-4b9d29fe799a
+  - https://gizmodo.com/an-openai-model-disproved-a-famous-math-conjecture-this-mathematician-couldnt-leave-it-alone-2000765065
+  - https://signal-ia-rouge.vercel.app/en/article/leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-5fffe5
+  - https://indianexpress.com/article/explained/explained-ai/openai-erdos-problem-ai-solves-80-year-old-math-challenge-10722693/
+  - https://inesctec.medium.com/does-artificial-intelligence-finally-understand-mathematics-8863011ca645
+  trajectory_signal: 'Articles [0, 2, 3, 4, 5, 11] show STRONG directional momentum TOWARD_YES:'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly address OpenAI-Proof Q&A performance or provide concrete evidence toward the 25%
+    threshold by Dec 31, 2026. Articles [0, 1, 3] discuss a "First Proof" math benchmark, but this appears to be a different
+    evaluation (10 research-level math problems) from the "OpenAI-Proof Q&A" specified in resolution criteria. The baseline
+    references "20 internal OpenAI bottlenecks," suggesting a proprietary internal benchmark distinct from First Proof. Critical
+    gap: No direct performance data on the actual OpenAI-Proof Q&A benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3699789204467584
+  - https://36kr.com/p/3848704210244866
+  trajectory_signal: Articles [2, 4] signal meaningful upward momentum in AI math problem-solving capabilities. Article [2]
+    reports Google's Aletheia (Gemini 3-based) solved 6 of 10 First Proof problems with expert validation, outperforming OpenAI's
+    internal models (5 correct). Article [4] (dated June 11) reports the second First Proof evaluation yielded 7 problems
+    reaching academic publication standards, with AI generating novel proofs superior to human solutions on at least one problem.
+    While these don't directly measure OpenAI-Proof Q&A performance, they demonstrate rapid capability advancement in research-grade
+    mathematical reasoning—the likely domain for such a benchmark. This suggests favorable conditions for crossing the 25%
+    threshold, though the specific benchmark remains unmeasured.
+- date: '2026-06-21'
+  summary: 1 trajectory signal
+  relevance: 'NONE: The articles [0-5, 7-8] all describe the "First Proof" benchmark from mid-June 2026, which tests AI on
+    unpublished mathematics problems. While these articles are recent and within the preferred date range, they do NOT provide
+    direct evidence on the OpenAI-Proof Q&A benchmark specified in the resolution criteria. The "First Proof" benchmark is
+    a different, independent test by the non-profit First Proof organization testing on 10 unpublished math problems. The
+    articles consistently show AI systems achieving well below 25% (approximately 60% on 10 problems = 6/10 correct, which
+    extrapolates to far lower pass rates when accounting for partial credit standards). Critically, these articles provide
+    NO DATA on the specific "OpenAI-Proof Q&A" benchmark with its "20 internal OpenAI bottlenecks" referenced in the baseline.
+    They are a different benchmark entirely. Therefore, they cannot satisfy the resolution criteria which explicitly requires
+    performance on "OpenAI-Proof Q&A."'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://letsdatascience.com/blog/openai-lifescibench-173-scientists-best-ai-passed-36-percent
+  trajectory_signal: Article [6] on LifeSciBench shows GPT-Rosalind achieving 36.1% on real drug-discovery science tasks (750
+    questions), which is above the 25% threshold but on a DIFFERENT benchmark (life sciences, not Q&A). This provides directional
+    signal that frontier OpenAI models *may* be capable of >25% performance on specialized benchmarks, suggesting modest upward
+    momentum toward YES. However, the First Proof results (articles 0-5, 7-8) showing AI underperformance on research-level
+    reasoning tasks suggest countervailing headwinds. The net trajectory is modestly negative given the consistent underperformance
+    on comparable reasoning benchmarks, but uncertainty remains due to lack of OpenAI-Proof Q&A specific data.
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance or current benchmark scores that would
+    resolve the prediction. The resolution criteria requires: "Best AI >25%" on the OpenAI-Proof Q&A benchmark (20 internal
+    OpenAI bottlenecks). None of the articles reference this specific benchmark or provide updated performance metrics for
+    it. Articles [1] and [2] discuss the "FirstProof" challenge (Terence Tao''s math problem set), which is a different benchmark
+    entirely—not the OpenAI-Proof Q&A mentioned in resolution criteria. Other articles discuss various models (GPT-5.5-Cyber,
+    MAI-Thinking-1, Gemini 3.1) but none report scores on the OpenAI-Proof Q&A benchmark. Critical gap: No current performance
+    data on the specific resolution metric.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/3699789204467584
+  - https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html
+  trajectory_signal: Articles [1] and [2] signal meaningful trajectory momentum toward AI systems solving harder mathematical
+    reasoning tasks. Google's Gemini-based Aletheia solved 6/10 FirstProof problems (60% success rate) with full autonomy
+    and expert validation. OpenAI's models achieved 5/10 correct answers on the same benchmark. While FirstProof ≠ OpenAI-Proof
+    Q&A, these results demonstrate rapid progress on complex mathematical reasoning—the domain the prediction concerns. The
+    gap from ~8-10% performance (Jan 2026 baseline) to 50-60% on related reasoning benchmarks in 6 months suggests positive
+    trajectory. However, these are different benchmarks, so the momentum is directional but not confirmatory of the specific
+    resolution criterion.
+- date: '2026-07-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance specifically. The prediction requires
+    evidence of AI performance >25% on the "OpenAI-Proof Q&A" benchmark with 20 internal OpenAI bottlenecks. Articles [0-4]
+    discuss mathematical proof problems (Erdős conjecture, computational geometry, "First Proof" test) but these are NOT the
+    OpenAI-Proof Q&A benchmark. Article [10] discusses Leanstral 1.5 on various benchmarks (miniF2F, PutnamBench, FATE-X/H)
+    but again, not the specific target benchmark. Article [11] discusses ALE benchmark for economic tasks—also not the target.
+    **Critical gap: No article mentions "OpenAI-Proof Q&A" by name or provides scores on this specific 20-problem benchmark.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/openais-genebench-pro-stumps-top-models-gpt-56-tops-at-315
+  - https://www.resultsense.com/news/2026-07-01-openai-genebench-pro-biology-benchmark/
+  trajectory_signal: 'Articles [5, 8] show GeneBench-Pro results where GPT-5.6 Sol achieves 28.7% (31.5% in Pro mode) on a
+    different OpenAI benchmark released June 30, 2026. This signals:'
+- date: '2026-07-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance. The prediction requires performance
+    >25% on a specific 20-question internal OpenAI benchmark called "OpenAI-Proof Q&A" by Dec 31, 2026. None of the articles
+    discuss this specific benchmark or report performance metrics on it. Articles discuss other benchmarks (ARC-AGI-3, FirstProof,
+    Putnam problems, etc.) but these are different evaluation frameworks and don''t directly resolve the criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/
+  - https://runtimewire.com/article/openai-gpt-5-6-sol-ultra-cycle-double-cover-proof
+  - https://dev.to/breachprotocol/openai-says-its-ai-proved-a-50-year-old-math-conjecture-mathematicians-want-the-receipts-2gm5
+  - https://tradevae.com/news/stock-markets/openai-rolls-out-gpt-56-model-family-with-sol-as-flagship/
+  trajectory_signal: Articles 2, 3, 4 report GPT-5.6 Sol Ultra producing a proof of the Cycle Double Cover Conjecture (a 50-year-old
+    graph theory problem), published July 9-11, 2026. This signals significant capability advancement in mathematical reasoning,
+    though the proof remains unvalidated by mathematicians ("want the receipts"). Article 7 announces the general availability
+    of GPT-5.6 family (Sol flagship) on July 9, 2026, with comparative benchmarks across multiple domains. These represent
+    momentum toward advanced AI reasoning capabilities that could plausibly drive performance improvements on internal benchmarks.
+    However, this is speculative—none confirm progress on the specific OpenAI-Proof Q&A benchmark or approach the 25% threshold.
+    The direction is weakly TOWARD_YES based on demonstrated capability gains, but remains distant from the resolution criteria.
+- date: '2026-07-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles directly address "OpenAI-Proof Q&A" benchmark performance or provide concrete evidence meeting
+    the resolution criteria. The prediction requires >25% on a specific 20-question OpenAI internal benchmark. No articles
+    cite this benchmark or report scores on it. Articles discuss mathematical reasoning achievements (Cycle Double Cover Conjecture
+    proofs, First Proof project results, CritPt physics benchmark at 32.3%) but these are different benchmarks—not the OpenAI-Proof
+    Q&A specified in resolution criteria. Critical gap: baseline established GPT-5.1-Codex-Max at 8% and GPT-5.2 at 3% on
+    the target benchmark as of January 2026; no subsequent measurements on this specific benchmark are provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/
+  - https://aiweekly.co/alerts/openai-releases-prompt-behind-gpt-56-sol-ultra-math-proof
+  - https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-just-proved-another-50-123000017.html
+  - https://we0.ai/articles/how-gpt-5-6-sol-ultra
+  - https://tpsreport.news/news/openai-gpt-5-6-sol-terra-luna-amazon-bedrock
+  trajectory_signal: Articles 0, 2, 3, 4, 13, 14 show significant momentum in advanced mathematical reasoning capabilities
+    (GPT-5.6 Sol family proving 50-year conjectures, multiagent approaches with 64 agents, integration into production systems).
+    Article 10 shows GPT-5.6 Sol achieving 32.3% on CritPt physics benchmark—a different but directionally similar advanced
+    reasoning task. This suggests the underlying reasoning capabilities required to exceed 25% on specialized Q&A may be developing.
+    However, performance on other benchmarks (even specialized ones like CritPt) cannot be assumed to transfer to the OpenAI-Proof
+    Q&A benchmark without direct evidence. The trajectory points toward improved reasoning abilities generally, which could
+    support YES resolution if these gains transfer to the target benchmark—but this remains unconfirmed.
+- date: '2026-07-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on the "OpenAI-Proof Q&A" benchmark specifically. The prediction requires
+    ANY AI to exceed 25% on this specific 20-question internal OpenAI benchmark by Dec 31, 2026. Baseline shows GPT-5.1-Codex-Max
+    at 8% and GPT-5.2 at 3% as of Jan 2026. None of the articles mention performance on OpenAI-Proof Q&A itself. Articles
+    [4], [5], [7], [10] discuss achievements on OTHER benchmarks (convex optimization proofs, GPQA Diamond at 94.6%, IMO 2026
+    perfect scores) but these are different evaluation frameworks and provide no direct data on the specific criterion benchmark.
+    This is a critical gap—the resolution criteria require performance specifically on OpenAI-Proof Q&A, not general mathematical
+    capability or performance on other benchmarks.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://singularity.kiwi/gpt56-sol-convex-optimization-30-year-gap-2026/
+  - https://www.newsbang.com/news/article/story_id-p008-167551
+  - https://nowosci.ai/en/article/not-only-rednote-ai-models-perfect-math-olympiad
+  - https://diploman-ru.com/perfect-math-olympiad-scores-signal-massive-shift-ai-reasoning
+  trajectory_signal: 'Articles [4], [5], [7], [10] show STRONG MOMENTUM toward mathematical problem-solving capabilities:
+    GPT-5.6 Sol achieving 94.6% on GPQA Diamond, proving a 30-year-old optimization gap, and multiple models (Celia, dots-note-3.0,
+    OpenAI models) achieving perfect 42/42 on IMO 2026. This demonstrates rapid advancement in frontier mathematics. However,
+    this trajectory is directionally relevant (suggesting AI math ability is advancing faster than baseline) but doesn''t
+    directly measure progress on the specific OpenAI-Proof Q&A benchmark. Articles [1], [2], [3], [6] discuss concerning behavioral
+    issues (sandbox escapes, zero-day exploits) which could affect deployment but don''t inform benchmark performance.'
+- date: '2026-08-02'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups
+  relevance: 'MODERATE: Article [3] provides direct evidence: OpenAI''s Astra model solved ten open mathematics problems,
+    with machine-checkable Lean proofs published. However, this does NOT directly address OpenAI-Proof Q&A performance. The
+    prediction requires >25% on a specific benchmark (20 internal OpenAI bottlenecks), not general mathematics problem-solving.
+    Article [3] demonstrates AI capability progress in mathematics but doesn''t measure performance against the specific resolution
+    criteria. Critical gap: no mention of OpenAI-Proof Q&A scores or baseline performance metrics for Astra on this benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3848704210244866
+  - https://groundtruth.day/news/terence-tao-says-the-bottleneck-is-understanding-not-proofs.html
+  - https://cryptobriefing.com/frontiermath-ai-solves-galois-group-benchmark/
+  trajectory_signal: 'Articles [0], [1], and [10] signal directional progress toward YES:'
+- date: '2026-08-09'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on the OpenAI-Proof Q&A benchmark performance. The resolution criteria
+    requires "Best AI performance on OpenAI-Proof Q&A will exceed 25%" with a specific benchmark of "20 internal OpenAI bottlenecks."
+    None of the articles discuss this specific benchmark, report performance metrics on it, or provide data that directly
+    addresses whether any AI has surpassed the 25% threshold on this particular evaluation. Articles discuss Astra solving
+    10 long-open math problems (articles 1-5, 9, 11-13) and Google DeepMind''s Aletheia solving 6 problems in "FirstProof"
+    (articles 10), but these are different evaluation frameworks, not the OpenAI-Proof Q&A benchmark with its 20 internal
+    bottlenecks.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mlq.ai/news/openai-publishes-ten-claimed-math-advances-with-formal-peer-review-still-pending/
+  - https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/
+  - https://tenproofs.novcog.us.com/
+  - https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/
+  - https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm
+  trajectory_signal: 'Strong directional momentum toward YES resolution, though on different benchmarks. Articles 1-5, 9-13
+    demonstrate rapid capability advancement in mathematical problem-solving: OpenAI''s Astra solved 10 long-standing math
+    problems (published Aug 1-2, 2026); Google DeepMind''s Aletheia solved 6 of 10 FirstProof problems; Anthropic''s Claude
+    Fable reproduced 5 of OpenAI''s solutions within 24 hours. These results show AI models are now performing at research-level
+    mathematics—well beyond the Jan 2026 baseline (GPT-5.1 at 8%, GPT-5.2 at 3%). The rapid competitive advancement and increasingly
+    formal verification suggest substantial capability gains. However, this trajectory is on general math benchmarks, not
+    the specific OpenAI-Proof Q&A metric, so extrapolation to that particular benchmark requires assumption of correlation.
+    The trajectory strongly suggests the 25% threshold on OpenAI-Proof Q&A is plausible by Dec 2026, given only 4.5 months
+    remain and performance is accelerating.'
+- date: '2026-08-16'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://optimisus.com/news/ai-news/openai-says-a-model-solved-ten-open-math-problems-for-2000-the-difference-is-you-can-check-it/
+  - https://www.dongascience.com/en/news/79337
+  relevance: 'MODERATE: No direct evidence that best AI performance on OpenAI-Proof Q&A has exceeded 25%. We have strong signals
+    of Astra''s mathematical problem-solving capability being real and advancing, but no disclosed benchmark score on the
+    specific metric. The criteria gap is substantial: the prediction requires a named benchmark score >25%, and we have only
+    directional evidence of capability improvement without quantification on this specific benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiinsiders.net/article/a-fields-medallist-maps-where-llms-excel-at-math-and-where
+  - https://aiinsiders.net/article/a-fields-medallist-maps-where-llms-excel-at-math-and-where
+- date: '2026-08-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance specifically. The prediction requires:
+    (1) identification of "OpenAI-Proof Q&A" benchmark results, (2) best AI performance >25% by Dec 31, 2026. Baseline shows
+    GPT-5.1-Codex-Max at 8% and GPT-5.2 at 3% as of Jan 2026. Articles [0], [2], [3], [4] discuss general AI mathematics/proof-solving
+    advances but do not reference the specific "OpenAI-Proof Q&A" benchmark with the 20 internal OpenAI bottlenecks mentioned
+    in resolution criteria. Articles about Terminal-Bench, GDPval-AA, FrontierCode, and other benchmarks are irrelevant to
+    this specific prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/3848704210244866
+  - https://geekblog.net/tech-news/openai-astra-math-problems-cyber-risk/
+  trajectory_signal: 'Articles [1] and [2] signal meaningful momentum toward advanced AI proof-solving capabilities. Article
+    [1] (Terence Tao''s First Proof Phase 2, published 2026-08-21) reports 7 of 10 novel research-level math problems solved
+    to publication standard using AI, with peer review validation—a qualitative advance in mathematical reasoning. Article
+    [2] (OpenAI Astra, published 2026-08-19) reports an internal unreleased OpenAI model solving 10 "decades-old math problems"
+    for $2,000. While these articles don''t reference the specific OpenAI-Proof Q&A benchmark, they demonstrate: (a) OpenAI
+    is investing in proof/mathematics capability, (b) recent breakthroughs in AI mathematics are documented, and (c) the trajectory
+    from 8% (Jan 2026) to >25% by Dec 2026 appears directionally plausible given 7 months remain and documented progress exists.
+    However, these signals are indirect—they show capability improvements in related domains, not performance on the target
+    benchmark itself.'
+- date: '2026-08-30'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance specifically. The prediction requires
+    >25% accuracy on a specific OpenAI benchmark (20 internal bottleneck questions), with baseline at 8% (GPT-5.1-Codex-Max)
+    and 3% (GPT-5.2) as of January 2026. None of the articles address this specific benchmark or measure performance against
+    it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/3848704210244866
+  - https://www.xix.ai/ainews/openais-reasoning-model-independently-solves-an-80yearold-problem-from-research-assistant-to-scientific-discoverer.html
+  - https://jointhread.org/article/ai-solves-80-year-old-math-problem-openai-s-breakthrough-in-discrete-geometry
+  trajectory_signal: Articles [0], [3], [4] signal strong momentum in AI mathematical reasoning. Article [0] reports 7/10
+    research-level math problems solved by AI with peer review validation (70% pass rate on "First Proof"). Articles [3]-[4]
+    document AI solving an 80-year-old open conjecture independently. Article [10] shows a prediction market assigning 96%
+    probability to Astra scoring 40%+ on "Humanity's Last Exam" by Dec 31, 2026. These demonstrate rapid progress in mathematical
+    problem-solving capability from August 2026 onward—4 months before resolution. While these aren't the specific OpenAI-Proof
+    Q&A benchmark, they suggest the broader capability landscape has advanced significantly from the Jan 2026 baseline (3-8%),
+    indicating directional momentum toward YES. However, without direct benchmark results, the exact trajectory toward 25%
+    on the specific metric remains uncertain.
+- date: '2026-09-06'
+  summary: 4 trajectory signals
+  relevance: 'NONE: The prediction requires performance >25% on the specific "OpenAI-Proof Q&A" benchmark (20 internal OpenAI
+    bottlenecks). **No articles provide measurements on this benchmark.** While multiple sources report GPT-6 Astra''s strong
+    performance on ARC-AGI-3, FrontierMath, and other benchmarks, these are different evaluation frameworks. A critical gap
+    remains: without actual OpenAI-Proof Q&A scores, no direct evidence exists for or against the YES resolution.'
+  trajectory_sources:
+  - https://tech-insider.org/openai-astra-solves-10-open-math-problems-2026/
+  - https://aiweekly.co/alerts/openai-model-disproves-erdss-1946-unit-distance-conjecture
+  - https://pulseofnations.lol/openai-astra-solves-10/
+  - https://kenhuangus.substack.com/p/astra-inside-openais-first-critical
+  trajectory_signal: 'Articles [1-4] signal substantial progress in mathematical reasoning and complex problem-solving (solving
+    open conjectures, 97.6% on FrontierMath Tier 4). This directional momentum suggests capability improvements that *could*
+    translate to better performance on the OpenAI-Proof Q&A benchmark. However, this signal is only weakly actionable because:
+    (1) the benchmarks differ, and (2) independent replication efforts (articles [6-7]) show significant score collapse under
+    rigorous conditions. Momentum is TOWARD_YES on adjacent capabilities, but trajectory on the specific criterion remains
+    unknown.'

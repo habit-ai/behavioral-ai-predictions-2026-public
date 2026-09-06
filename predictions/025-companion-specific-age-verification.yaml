@@ -8,7 +8,10 @@ baseline: OpenAI age prediction aims to reduce risk of teens having access to "g
   not apply, only general use AI chat platforms. GUARD Act proposed.
 resolution_criteria: 'YES: Companion-specific age restrictions. NO: Only general restrictions.'
 search_keywords:
-- A major general AI platform will introduce age ver
+- ChatGPT age verification companion
+- Claude age restriction companion
+- Gemini companion age gate
+- AI platform companion age verification 2026
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +35,8 @@ forecasts:
   human-6: 80
   human-7: 50
   human-8: 20
+  human-9: 70
+  human-10: 30
 evidence:
 - date: '2026-02-01'
   summary: Found 3 articles
@@ -45,3 +50,570 @@ evidence:
   - https://mashable.com/article/open-ai-age-prediction-teens
   - https://www.rg-cs.co.uk/openai-brings-age-prediction-to-chatgpt-consumer-accounts/
   - https://www.mayerbrown.com/en/insights/publications/2026/01/global-privacy-watchlist
+- date: '2026-02-07'
+  summary: Found 3 articles
+  sources:
+  - https://natlawreview.com/article/br-privacy-security-download-february-2026
+  - https://www.proof.com/blog/what-2026-market-conditions-say-about-the-future-of-trust-identity
+  - https://www.aol.com/articles/meta-pauses-teen-access-ai-020733066.html
+  relevance: 'WEAK_YES: The evidence suggests growing regulatory and platform attention to youth online safety in AI, which
+    could motivate age-specific verification for companion AI interactions.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.wpr.org/news/chatbots-age-verification-companionship-minors-wisconsin-assembly-chatgpt
+  relevance: 'MODERATE: Article [3] directly reports Wisconsin lawmakers exploring age verification requirements specifically
+    for companionship chatbots, which is concrete evidence of regulatory action toward companion-specific restrictions.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.aol.com/articles/meta-pauses-teen-access-ai-020733066.html
+  relevance: 'MODERATE: Article [1] reports Meta pausing teen access to AI characters, which demonstrates a major platform
+    implementing age-based restrictions specifically for companion/relationship-style AI features, directly relevant to YES
+    resolution.'
+- date: '2026-02-15'
+  summary: 3 relevant articles
+  sources:
+  - https://aidevdayindia.org/blogs/how-does-character-ai-age-verification-work/character-ai-parental-guide-safety-review-2026.html
+  - https://www.wpr.org/news/chatbots-age-verification-companionship-minors-wisconsin-assembly-chatgpt
+  - https://optinspire.org/ai-safety-just-got-real-a-parents-guide-to-the-new-chatbot-laws/
+  relevance: 'MODERATE: Article [5] describes Character AI''s companion-specific age verification (18+ for "Mature" content),
+    article [8] documents Wisconsin lawmakers proposing age verification specifically for "companionship chatbots," and article
+    [9] mentions California''s January 2026 law establishing guardrails on "digital companions"—all directly addressing companion-specific
+    rather than general AI restrictions.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://parents-together.org/character-ai-just-became-the-first-major-ai-chatbot-platform-to-go-18/
+  relevance: 'STRONG: Article [10] directly confirms Character AI became the first major AI chatbot platform to restrict access
+    to adults only (18+) specifically for its companion chatbot service, which is concrete evidence of companion-specific
+    age verification implementation.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification SPECIFICALLY
+    for companion/relationship-style interactions. Article [0] (published 2026-02-04, outside preferred range) describes OpenAI''s
+    age prediction for limiting "sexual or violent roleplay" — which matches the baseline context already established as NOT
+    meeting resolution criteria (only general restrictions, not companion-specific). The resolution requires companion-specific
+    age restrictions as a NEW development beyond what OpenAI already announced.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.transparencycoalition.ai/news/new-survey-finds-overwhelming-support-for-protecting-kids-online
+  - https://techmonk.economictimes.indiatimes.com/news/quick-bytes/the-uk-is-moving-to-regulate-private-ai-chats-audit-your-age-checks-now-/128445361
+  - https://hackr.io/blog/online-platforms-biometric-id-verification-system
+  trajectory_signal: 'Three articles signal momentum toward companion-specific age restrictions:'
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced **companion-specific**
+    age verification. The resolution criteria requires restrictions specifically targeting "companion/relationship-style AI
+    interactions or features" — not general age restrictions on sexual/violent content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-naughty-chats-openai-spicier-language-leaked-10555453/
+  - https://openai.com/index/our-approach-to-age-prediction/
+  - https://piunikaweb.com/2026/02/27/chatgpt-citron-mode-adult-mode-code-reveal/
+  trajectory_signal: Articles 3, 4, 11 signal momentum toward adult-oriented AI features (OpenAI's "Adult Mode," "Citron Mode,"
+    "Naughty Chats"). This creates potential **trajectory toward YES** by establishing the category of "adult-specific AI
+    features" that could later become companion-specific. However, current implementations remain general (sexual content)
+    rather than companion-specific. Article 4's explicit preservation of teen companionship access actually signals trajectory
+    **toward NO** on the specific resolution criteria. The overall momentum is toward age-gating adult experiences, which
+    *could* eventually include companion-specific restrictions, but hasn't yet.
+- date: '2026-03-08'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced age verification *specifically*
+    for companion/relationship-style interactions. The baseline context (OpenAI''s January 2026 age prediction limiting only
+    sexual/violent roleplay, not other companionship forms) remains the operative fact. Articles [10] and [11] indicate OpenAI
+    is delaying ChatGPT''s "adult mode" again as of March 7, 2026, but this does not constitute introduction of companion-specific
+    restrictions. The prediction requires companion-specific age verification; general age verification does not meet criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.timesnownews.com/technology-science/after-social-media-ban-australia-planning-to-block-chatgpt-and-gemini-for-kids-under-16-all-details-article-153732678
+  - https://www.idropnews.com/news/australia-ai-age-verification-crackdown-2026/260582/
+  - https://ibtimes.com/australia-set-block-ai-chatbots-without-age-verification-3798172
+  - https://www.medianama.com/2026/03/223-australia-ai-platforms-app-stores-action-age-checks/
+  - https://9to5mac.com/2026/03/02/australia-may-push-apple-to-block-ai-apps-under-new-age-verification-rules/
+  trajectory_signal: Articles [4, 6, 7, 8, 9] show Australia implementing broad age verification requirements for AI chatbots
+    by March 9, 2026, with regulatory pressure on app stores and potential fines for non-compliance. This signals momentum
+    toward stricter age controls in the AI space. However, these are *general* age verification requirements across all AI
+    services, not companion-specific restrictions. The trajectory moves toward age verification infrastructure becoming standard,
+    which could facilitate companion-specific restrictions if platforms choose to implement them, but currently represents
+    regulatory pressure for general (not companion-targeted) measures. This creates enabling conditions for YES resolution
+    but has not yet achieved it.
+- date: '2026-03-15'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced age verification *specifically
+    for companion/relationship-style AI interactions*. The baseline context explicitly states that OpenAI''s January 2026
+    age prediction system only restricts "sexual or violent roleplay" while "other forms of companionship still enabled" —
+    meaning it does NOT meet the resolution criteria for YES. Articles [0-4] discuss OpenAI''s general age prediction and
+    delayed "adult mode," neither of which constitutes companion-specific restrictions. Article [5] describes Chai AI (a dedicated
+    companion platform, explicitly excluded by criteria: "only general use AI chat platforms") implementing age verification.
+    Articles [6-7] reference Australian regulatory requirements for "AI chatbots" broadly but provide insufficient detail
+    on whether restrictions are companion-specific. The prediction requires a companion-specific policy from a major general
+    platform (ChatGPT, Claude, Gemini, Copilot). This has not occurred.'
+  trajectory_sources:
+  - https://builtin.com/articles/age-prediction-ai-safety
+  - https://llmbase.ai/news/openai-teen-safety-framework-balances-privacy-protection-with-age-based-content-controls/
+  - http://f-st.co/R6Bod8q
+  - https://www.theguardian.com/technology/2026/mar/09/openai-delays-adult-mode-for-chatgpt-to-focus-on-work-of-higher-priority
+  - https://news18.com/tech/chatgpt-adult-mode-faces-new-delays-with-more-important-projects-in-focus-9952127.html
+  trajectory_signal: 'Several signals suggest regulatory and safety momentum: (1) OpenAI implementing age prediction systems
+    with behavioral signals [0-1]; (2) Multiple delayed "adult mode" announcements indicating internal prioritization of age-gating
+    work [2-4]; (3) Chai AI (smaller dedicated platform) rolling out formal age verification APIs [5]; (4) Australian government
+    mandating age verification for AI chatbots [6-7]. This trajectory shows movement toward age-restriction infrastructure
+    but NOT toward companion-specific restrictions on general platforms. OpenAI''s approach remains limited to sexual/violent
+    content, not companionship broadly. The direction is TOWARD_NO on the specific resolution criteria while showing general
+    momentum on age verification infrastructure.'
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting the resolution criteria. The prediction requires a "major
+    general AI platform" to introduce age verification "specifically for companion/relationship-style AI interactions or features."
+    The baseline context clarifies that OpenAI''s January 2026 approach only restricts "sexual or violent roleplay" while
+    keeping "other forms of companionship still enabled" — explicitly NOT companion-specific restrictions. Articles [3], [10],
+    and [11] discuss OpenAI''s Adult Mode delays and restrictions but confirm this remains a general content restriction (text-only
+    erotica), not a companion-interaction-specific policy. This moves away from YES resolution, not toward it.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.techloy.com/penai-restricts-chatgpt-adult-mode-to-text-only-erotica-after-age-check-failures/
+  - https://winbuzzer.com/2026/03/17/openai-wellbeing-advisors-unanimously-opposed-adult-chatgpt-mode-xcxwbn/
+  - https://thetechmarketer.com/openai-adult-mode-delay-chatgpt-safety/
+  trajectory_signal: Articles [3], [10], [11] show OpenAI is actively retreating from adult content features (multiple delays,
+    board opposition, age-check failures). Article [3] demonstrates OpenAI is applying *narrower* restrictions (text-only)
+    to adult content generally, not broadening into companion-specific controls. Articles [6], [7], [8], [9] discuss identity
+    verification for e-commerce agents—entirely different domain (commerce, not companion AI). These signals suggest major
+    platforms are moving *away* from permissive adult/companion features rather than implementing specialized companion-layer
+    age gates. The trajectory indicates regulatory and safety pressure is causing general content restrictions, not companion-specific
+    ones.
+- date: '2026-03-29'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced companion-specific
+    age verification. Article [10, 11, 12] show OpenAI is actually *shelving* its "Adult Mode" rather than implementing companion-specific
+    age restrictions—this moves away from resolution. The baseline already established that OpenAI''s January 2026 approach
+    only restricts sexual/violent roleplay while allowing other companionship, which does NOT meet the "companion-specific"
+    criteria. No evidence of other major platforms (Anthropic, Google, Meta, etc.) implementing companion-specific restrictions.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.biometricupdate.com/202603/companion-chatbots-not-doing-enough-to-protect-kids-esafety-report
+  - https://www.esafety.gov.au/newsroom/media-releases/esafety-report-shows-ai-companions-are-putting-children-at-risk
+  - https://identity-central.com/australia-has-expanded-its-age-assurance-framework-march-2026-to-r-rated-games-websites-and-ai-chatbots
+  trajectory_signal: Articles [5, 6] report an Australian eSafety Commissioner report criticizing companion chatbots (Character.AI,
+    Nomi, Chai, Chub AI) for inadequate child protection. Article [7] indicates Australia expanded its age assurance framework
+    to include "AI chatbots capable of generating explicit or harmful content," though this applies general restrictions rather
+    than companion-specific ones. These signal regulatory *pressure* on the companionship AI space and momentum toward age
+    restrictions generally. However, this pressure is directed at *specialty* companion platforms (Character.AI, Replika-class),
+    which are explicitly excluded from the prediction scope ("only general use AI chat platforms"). No evidence this pressure
+    is translating into companion-specific restrictions from major general AI platforms.
+- date: '2026-04-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced companion-specific
+    age verification. The baseline context indicates OpenAI''s January 2026 approach restricts only "sexual or violent roleplay"
+    within general conversation features, not companion-specific interactions—explicitly meeting the NO criteria. Articles
+    [0-4] discuss memory import tools and platform interoperability, which are irrelevant to age verification policy. Articles
+    [10-13] address Anthropic''s third-party API restrictions, unrelated to age verification. Article [5] is inaccessible.
+    No KEEP articles exist because no source demonstrates YES-tier resolution (companion-specific age restrictions on major
+    platforms).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ccpulse.org/2026/03/30/bay-area-legislators-introduce-bill-to-protect-children-from-ai-companion-chatbots/
+  trajectory_signal: 'Article [7] (2026-03-30) reports Bay Area legislators introducing a bill to protect children from AI
+    companion chatbots, with photo evidence of Character.AI''s mobile interface. Article [6] (2026-04-01) discusses AI personalities/suitors
+    as dangerous, with some states taking action—though content is largely inaccessible. Article [9] (2026-03-29) mentions
+    AI age verification bills up for potential House Committee vote. These signals indicate TOWARD_YES momentum: legislative
+    pressure is mounting specifically around AI companions and age verification, suggesting regulatory environment is shifting
+    to favor companion-specific restrictions. However, these represent potential future policy, not current platform implementations.
+    The trajectory shows increasing recognition that AI companions warrant distinct regulatory treatment from general AI chat—creating
+    pressure on platforms to implement companion-specific age controls to comply with emerging legislation.'
+- date: '2026-04-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced age verification *specifically*
+    for companion/relationship-style AI interactions. This is the critical distinction in the resolution criteria. Articles
+    [0] and [1] describe Washington State legislation regulating AI companion chatbots with age restrictions, but this is
+    government regulation, not a platform''s voluntary implementation. Articles [4], [8], and [9] describe Google''s approach
+    to Gemini—preventing it from acting as a companion for minors—but this is achieved through behavioral guardrails ("can''t
+    pretend to be human"), not age verification mechanisms. The baseline context confirms OpenAI''s January 2026 approach
+    only restricted sexual/violent roleplay, not companion-specific access. No article demonstrates a major platform implementing
+    age verification gates that specifically block minors from accessing companion features while allowing other AI chat access.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.hunton.com/privacy-and-cybersecurity-law-blog/washington-state-enacts-law-regulating-ai-companion-chatbots-with-private-right-of-action
+  - https://creati.ai/ai-news/2026-04-05/washington-state-ai-disclosure-law-watermarks-chatbots-minors-2026/
+  - https://www.rtbf.be/article/google-ajoute-des-garde-fous-a-son-ia-pour-prevenir-la-dependance-des-jeunes-11706356
+  - https://me.mashable.com/mental-health/69446/google-teens-cant-treat-gemini-like-a-companion
+  - https://mashable.com/article/google-gemini-teen-mental-health
+  trajectory_signal: 'Articles [0], [1] signal regulatory momentum: Washington State HB 2225 (signed March 24, 2026) appears
+    to regulate AI companion chatbots specifically, establishing legal precedent for companion-specific rules. This creates
+    pressure and policy templates for platform implementation. Articles [4], [8], [9] show Google is taking companion-specific
+    design actions for minors (behavioral restrictions preventing companion-like interactions), indicating platform recognition
+    that companion features pose distinct youth risks. Article [5] shows European age-verification infrastructure acceleration
+    broadly. Together these suggest movement toward the prediction (regulatory/cultural pressure for companion-specific restrictions),
+    but platforms have responded so far with behavioral controls rather than age verification gates. The trajectory points
+    toward YES but hasn''t yet crossed the resolution threshold.'
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification **specifically
+    for companion/relationship-style AI interactions**. The resolution criteria explicitly requires companion-specific restrictions,
+    not general use restrictions.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://theplanettools.ai/blog/ai-companion-chatbot-regulation-wave-2026
+  - https://www.arturmarkus.com/openai-launches-age-prediction-on-chatgpt-january-20-behavioral-signals-identify-under-18-users-to-block-graphic-violence-self-harm-content-and-risky-viral-challenges/
+  trajectory_signal: Articles [1] and [2] show directional momentum AWAY from YES resolution. Article [1] signals regulatory
+    pressure on companion AI specifically, but targets specialist platforms excluded from criteria. Article [2] shows OpenAI
+    implementing age restrictions on general platforms, but not companion-specific — establishing precedent for general restrictions
+    rather than companion-targeted ones. The pattern suggests major platforms are adopting broad age verification/prediction
+    rather than companion-specific restrictions, which would resolve NO under the criteria.
+- date: '2026-04-26'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.newsglobenow.com/new316223.html
+  - https://www.itcow.cn/archives/40120/
+  - https://finance.sina.com.cn/roll/2026-04-20/doc-inhvcewk6975491.shtml
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://trustarc.com/resource/ai-childrens-data-2026/
+  - https://fintechmode.com/news/technology/eu-age-verification-app/amp/
+  trajectory_signal: Articles [5] and [6] signal regulatory momentum toward age verification infrastructure (EU's new age-verification
+    app ready April 15, 2026; privacy/AI compliance urgency in 2026). This creates environmental pressure for platforms to
+    adopt age-specific restrictions, potentially pushing toward companion-specific gating in future iterations. However, these
+    are general child-protection trends, not evidence of companion-specific policies yet.
+- date: '2026-05-03'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has actually introduced companion-specific
+    age verification. The baseline context (OpenAI''s January 2026 policy) only restricts sexual/violent roleplay while keeping
+    other companionship features available — explicitly NOT companion-specific restrictions. This remains the state of play
+    as of May 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.hawley.senate.gov/senator-hawleys-guard-act-to-protect-kids-from-ai-chatbots-passes-committee-unanimously/
+  - https://thehill.com/policy/technology/5858006-senate-panel-advances-bill-to-curb-ai-chatbot-companions-for-kids/
+  - https://iapp.org/news/a/us-senate-judiciary-tees-up-ai-chatbot-companion-safety-debate
+  - https://dc.medill.northwestern.edu/blog/2026/04/30/senate-committee-passes-bill-banning-ai-companions-for-children/
+  - https://www.theverge.com/policy/921373/lawmakers-advance-bill-that-would-age-gate-ai-chatbots
+  trajectory_signal: 'Multiple articles (0, 1, 2, 4, 5, 7, 8) document strong legislative momentum toward mandatory age verification
+    via the GUARD Act (passed Senate Judiciary Committee unanimously on April 30, 2026). However, this is CRITICAL: the bill
+    proposes banning minors entirely from chatbots rather than implementing companion-specific age gates. Articles [4] and
+    [5] explicitly state the GUARD Act would "ban minors from using AI companions" and "ban kids under 18 from accessing chatbots"—this
+    is age-gating the entire platform/service for minors, not creating companion-specific restrictions within general platforms.
+    This trajectory moves AWAY from the resolution criteria (which require companion-specific restrictions on major platforms),
+    as it suggests regulatory pressure may push toward blanket bans instead. Article [9] on Gemini''s personalization features
+    is irrelevant. EU age verification app momentum (articles 3, 6) is jurisdictionally out of scope for "major general AI
+    platform" policy decisions and doesn''t address companion-specific restrictions.'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification *specifically
+    for companion/relationship-style AI interactions*. The baseline context (OpenAI''s January 2026 age verification targeting
+    only sexual/violent roleplay, not general companionship) already establishes the "NO" resolution path. The articles reviewed
+    do not show any platform has moved beyond this approach to implement companion-specific restrictions.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.biometricupdate.com/202605/us-lawmakers-move-to-restrict-ai-chatbots-used-by-kids
+  - https://www.ibtimes.co.uk/us-senate-advances-guard-act-ai-chatbot-age-verification-1795374
+  - https://www.yahoo.com/news/articles/proposal-ban-ai-companions-minors-170000533.html
+  trajectory_signal: 'Articles [1], [3], and [6] document momentum around the GUARD Act (Senate bill banning minors from AI
+    companions entirely, advancing through committee 22-0 on May 1, 2026). This represents legislative pressure toward restricting
+    companion AI for minors. However, this trajectory points in the opposite direction from the resolution criteria: the GUARD
+    Act is a regulatory *ban* rather than a platform-initiated *age verification system*. Articles [2], [4], [9] show OpenAI
+    introducing optional trusted contacts for mental health crises—a safety feature for adults, not companion-specific age
+    restrictions. Articles [5] and [10] describe Meta using AI profiling for general age enforcement across platforms, not
+    companion-specific gates. Articles [7], [8], [11] discuss iOS 27 AI integration choices—irrelevant to the prediction.
+    The legislative pathway (GUARD Act) and platform safety features being deployed (trusted contacts, general age profiling)
+    both suggest platforms may respond to regulatory pressure with bans or general restrictions rather than companion-specific
+    age verification systems, making YES resolution less likely.'
+- date: '2026-05-17'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://www.ibtimes.co.uk/connecticut-ai-chatbot-regulations-minors-1796021
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence that a major AI platform (or state regulation targeting major
+    platforms) has introduced age verification specifically for companion-style AI interactions. Connecticut''s SB 5 explicitly
+    bans "chatbots capable of erotic or sexually explicit interactions" to users under 18—this is companion-specific age restriction,
+    not general restriction. However, a critical gap remains: the resolution criteria specify "a major general AI platform
+    will introduce" such restrictions (implying platform-initiated action), while Article [0] describes state-level legislation
+    mandating restrictions. The prediction asks whether OpenAI, Google, Anthropic, etc. will voluntarily implement companion-specific
+    age verification—Connecticut law may force compliance, but this is regulatory mandate rather than platform choice. The
+    evidence strongly suggests movement toward the YES resolution, but the mechanism (legislative vs. platform-initiated)
+    creates interpretive ambiguity around whether this satisfies the exact criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-no-new-friends-states-start-regulating-ai-companions
+  trajectory_signal: Growing state-level legislation specifically targeting AI companions (Articles [0], [6]) creates regulatory
+    momentum that will likely force major platforms to implement companion-specific age verification. Connecticut's enacted
+    law and the wave of similar bills across states suggest the prediction threshold is being approached through legislative
+    pressure rather than voluntary platform action. Articles [5], [7] on broader age verification mandates provide contextual
+    support but don't address companion-specific restrictions. This signals trajectory toward YES, though via regulatory mandate
+    rather than voluntary platform choice.
+- date: '2026-05-24'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major general AI platform has introduced companion-specific
+    age verification. The baseline context (Jan 2026) already established that OpenAI only restricts sexual/violent roleplay,
+    not companionship broadly. Article [3] mentions "OpenAI Unveils New Playbook for Protecting Teens From AI Risks" (May
+    23) but the snippet is truncated and doesn''t confirm companion-specific restrictions were implemented. Without full content
+    confirming a major platform''s specific companion-age-gating policy, no KEEP articles qualify.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.quiverquant.com/news/New+Bill%3A+Representative+Blake+D.+Moore+introduces+H.R.+8623%3A+Guidelines+for+User+Age-verification+and+Responsible+Dialogue+Act+of+2026
+  - https://dailycaller.com/2026/05/19/senators-push-crackdown-ai-chatbots-amid-fears-big-tech-putting-kids-risk/
+  - https://ijr.com/1682916-2/
+  - https://www.compactmag.com/article/the-emerging-ai-policy-consensus/
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification *specifically
+    for companion/relationship-style interactions*. The baseline context establishes that OpenAI''s January 2026 approach
+    only restricts sexual/violent roleplay while keeping other companionship features enabled—this represents general restrictions,
+    not companion-specific ones. This remains the only concrete implementation from a major platform mentioned. Articles [0]
+    (eustella web launch), [9] (market share shifts), [10-13] (legal compliance testing, simulated environments) do not address
+    companion-specific age restrictions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/colorado-enacts-first-us-ai-chatbot-law-for-minors
+  - https://www.facebook.com/WesternJournal/videos/senators-are-moving-to-crack-down-on-ai-companion-chatbots-as-parents-warn-that-/1324065353015353/
+- date: '2026-06-07'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://prinsessa.com/staysocial/google-teens-cant-use-gemini-like-a-companion/
+  relevance: 'MODERATE: Article [0] provides direct evidence that Google has implemented companion-specific age restrictions
+    for Gemini. The article explicitly states Google "engineered the opposite" into Gemini for under-18 users, with "avoid
+    language that simulates intimacy" written into its rules as of early April 2026. This is a major general AI platform (Google)
+    introducing age verification/restrictions specifically for companion/relationship-style interactions. This directly satisfies
+    the YES resolution criteria. The baseline context notes OpenAI only restricts sexual/violent roleplay but allows other
+    companionship—Google''s approach is distinctly companion-specific, making this a concrete resolution event.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.thebureauinvestigates.com/stories/2026-06-07/incentivising-intimacy-the-ai-developers-cashing-in-on-romantic-chatbots
+  trajectory_signal: Article [3] signals ongoing regulatory and market pressure on AI companion platforms regarding youth
+    protection. It documents how "small AI companion sites" are targeting young users with "emotional attachment tactics,"
+    which creates momentum toward further companion-specific restrictions industry-wide. This suggests directional movement
+    TOWARD_YES as the issue gains visibility and likely prompts additional major platforms to implement similar restrictions.
+    Article [6] shows Connecticut's AI law (CART Act) addresses "online safety" concerns broadly, but lacks specificity on
+    companion restrictions—it's tangential movement rather than direct companion-focused measures.
+- date: '2026-06-14'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.techtimes.com/articles/318339/20260613/new-york-bans-ai-companion-chatbots-kids-unanimous-vote-sets-25000-fines.htm
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newswire.ca/news-releases/government-of-canada-introduces-legislation-to-make-social-media-services-and-ai-chatbots-safer-for-children-890774552.html
+  - https://www.theglobeandmail.com/canada/article-canada-regulate-ai-chatbots-after-tumbler-ridge-raises-doubts/
+  - https://www.michaelgeist.ca/2026/06/everything-all-at-once-bill-c-34-combines-platform-duties-a-kids-social-media-ban-ai-chatbot-regulation-and-a-powerful-digital-safety-commission-into-a-risky-trust-us-bet/
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.biometricupdate.com/202606/uk-aims-to-lead-the-world-with-new-age-restrictions-for-social-media-ai-chatbots
+  - https://www.thebureauinvestigates.com/stories/2026-06-19/uks-world-first-romantic-chatbot-ban-for-under-18s-leaves-large-loopholes
+  - https://credencewire.com/article/senate-commerce-subpoenas-platforms-youth-ai-2026
+  - https://blockchainsphere.news/uk-weighs-under-16-social-media-ban-for-2027/
+- date: '2026-06-28'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires age verification "specifically for companion/relationship-style
+    AI interactions or features." All articles discuss Anthropic''s Claude implementing general age/ID verification starting
+    July 8, 2026—but none explicitly state this is LIMITED TO or SPECIFICALLY DESIGNED FOR companion/relationship features.
+    The articles describe identity checks for "certain capabilities," "platform-integrity checks," and "preventing abuse/enforcing
+    usage policies" without specifying companion interactions as the targeted feature. Since the baseline context notes that
+    OpenAI''s age restrictions only limit "sexual or violent roleplay" while keeping "other forms of companionship still enabled,"
+    Claude''s implementation could similarly be general rather than companion-specific. Critical gap: no article clarifies
+    the *scope* of which Claude features trigger verification—whether it applies to all interactions or specifically to companion-style
+    features.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
+  - https://www.pcworld.com/article/3175242/claude-may-start-asking-for-your-id-heres-what-anthropic-says-about-it.html
+  - https://cyberinsider.com/anthropic-to-introduce-age-and-id-checks-for-claude-users-on-july-8/
+  - https://idtechwire.com/anthropic-adds-id-and-selfie-verification-for-some-claude-users/
+  - https://pondero.ai/news/2026-06-24-anthropic-biometric-id/
+  trajectory_signal: 'Articles [0, 2, 3, 4, 5, 6, 7, 8, 9] show strong TOWARD_YES momentum. Anthropic—a major general AI platform—is
+    implementing age/ID verification with imminent rollout (July 8, 2026). Multiple corroborating sources confirm this is
+    real policy, not speculation. Article [1] signals regulatory pressure: Senate Commerce Committee subpoenaing Meta, TikTok,
+    and Snap specifically over "AI companion bots for minors," creating enforcement pressure that could push platforms toward
+    companion-specific restrictions. Article [10] discusses UK government considering "chatbot bans" and age-based feature
+    restrictions, indicating policy momentum in that direction. However, the trajectory signal is directional progress toward
+    *some form* of age verification for AI interactions—not yet confirmation that it''s companion-specific as the resolution
+    criteria require. The regulatory scrutiny suggests platforms may soon need to articulate which features require verification,
+    which could force the companion-specific designation.'
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced companion-specific
+    age verification. The baseline context (OpenAI''s January 2026 restrictions being limited to sexual/violent content only,
+    not broader companionship) remains unchanged. Article [6] is a general AI model comparison offering no relevant information.
+    Articles [7], [8], [9], [10] concern Claude Fable export controls and pricing—unrelated to companion AI restrictions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://itif.org/publications/2026/06/29/the-guard-act-fails-to-guard-kids-best-interests-on-ai-companions/
+  - https://www.medianama.com/2026/06/223-new-us-bill-child-safety-messaging-ai-chatbots-gaming-act/
+  - https://bytepith.com/article/kids-act-would-push-platforms-verify-every-users-age
+  - https://www.hunton.com/privacy-and-cybersecurity-law-blog/chinas-first-regulatory-framework-for-virtual-companions-soon-to-take-effect
+  trajectory_signal: Articles [0], [1], [2] show regulatory momentum toward age verification requirements for AI chatbots/companions.
+    The GUARD Act (S.3062) passed Senate Judiciary Committee unanimously in late April and awaits a Senate vote. The KIDS
+    Act (a broader package combining KOSA, SAFE BOTS Act, and SCREEN Act) passed the House on June 30, 2026, with language
+    that could push platforms toward universal or category-specific age verification despite disclaimers. Article [4] indicates
+    China's new Virtual Companions regulatory framework takes effect July 15, 2026, establishing precedent for companion-specific
+    rules internationally. Articles [3] and [5] show vendor-level infrastructure development (Veratad VX toolkit, Shufti's
+    verification tools) specifically supporting AI agent/chatbot age verification, suggesting platforms are preparing technical
+    capacity. This signals regulatory pressure and industry readiness moving toward YES, but no major platform has yet *implemented*
+    companion-specific restrictions—only regulatory proposals and enabling infrastructure exist. The gap between regulatory
+    intent and actual platform implementation remains substantial.
+- date: '2026-07-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification *specifically
+    for companion/relationship-style interactions*. The resolution criteria require companion-specific restrictions from platforms
+    like OpenAI, Google, Anthropic, or Meta — not specialized companion apps. Article [0] (Anthropic passport requirements)
+    lacks sufficient content detail to assess whether this targets companions specifically vs. general verification. Articles
+    [4] and [5] concern Character.AI, which is explicitly excluded from scope ("only general use AI chat platforms"). Critical
+    gap: No evidence that OpenAI, Google, Anthropic, or Meta has introduced companion-specific age gates beyond OpenAI''s
+    January 2026 sexual/violent roleplay limits (already in baseline).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://letsdatascience.com/blog/anthropic-wants-your-passport-and-your-face
+  - https://insideai.news/news/generative-ai/china-bans-ai-girlfriends-and-virtual-companions-from-july-15/3313/
+  - https://letsdatascience.com/news/china-bans-ai-companion-services-for-minors-46ec6115
+  trajectory_signal: 'Articles [6] and [7] show China''s July 15, 2026 ban on AI companion features for minors — this is regulatory
+    pressure on major platforms but applies only in China and targets feature removal, not age verification. Article [0] suggests
+    Anthropic is implementing stricter identity verification, signaling potential momentum toward verification systems, though
+    it''s unclear if companion-specific. This indicates directional pressure toward stronger safeguards but doesn''t yet demonstrate
+    a major US/Western platform introducing companion-specific age gates. The trajectory is TOWARD_YES: regulatory and reputational
+    pressure is mounting on platforms to differentiate companion features and apply stricter controls, which could precipitate
+    the specific action predicted.'
+- date: '2026-07-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major general AI platform introducing companion-specific age
+    verification. OpenAI''s recent updates (articles 0, 1, 9, 10, 11) focus on general teen safety features (break reminders,
+    parental controls, guardrails) but explicitly do NOT implement companion-specific restrictions—they maintain broad teen
+    access for learning/research. This aligns with the baseline context showing OpenAI only limits "sexual or violent roleplay"
+    while enabling "other forms of companionship." The critical gap: no major general platform has yet adopted companion-specific
+    age restrictions as required for YES resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352
+  - https://mobileidworld.com/eu-panel-backs-anonymous-age-checks-for-under-13-social-media-rule/
+  - https://iapp.org/news/a/chinas-regulation-on-ai-companions-takes-force
+  trajectory_signal: 'Three articles signal momentum toward the prediction but fall short of satisfying criteria:'
+- date: '2026-07-26'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major general AI platform has introduced age verification *specifically
+    for companion/relationship-style interactions*. The resolution criteria explicitly require companion-specific restrictions,
+    not general age controls.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techinsyte.com/k-id-launches-compliance-development-kit-to-navigate-global-ai-age-verification-mandates/
+  - https://www.cachevalleydaily.com/rep-blake-moore-proposes-legislation-to-regulate-toys-with-artificial-intelligence-for-minors/article_4ea9c01a-b690-4ae3-8b33-c71fba6ca653.html
+  trajectory_signal: 'Two signals of momentum toward YES resolution: (1) k-ID''s infrastructure development suggests platforms
+    are preparing for age-verification compliance requirements; (2) U.S. legislation explicitly targeting companion chatbots
+    creates regulatory pressure for companion-specific restrictions. However, no major platform has yet implemented companion-specific
+    verification as of July 26, 2026. The trajectory shows growing regulatory and technical readiness, but the prediction
+    remains unresolved.'
+- date: '2026-08-02'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing companion-specific age
+    verification. The resolution criteria require a specific platform (like OpenAI, Google, Anthropic, Meta) to implement
+    age restrictions *specifically for companion/relationship-style features*, distinguishing them from general use restrictions.
+    The baseline establishes that OpenAI''s January 2026 approach only limited sexual/violent roleplay while keeping other
+    companionship enabled — this is explicitly NOT companion-specific restriction. No article documents any platform crossing
+    this threshold since the baseline date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/
+  - https://newyork.news12.com/sens-kim-husted-introduce-bipartisan-bill-to-regulate-ai-companion-chatbots-for-minors
+  trajectory_signal: Articles [1, 7] document the CHAT Act 2.0 (introduced July 29, 2026), a bipartisan bill specifically
+    targeting "AI companion chatbots" with a "tiered, risk-based approach." This is significant regulatory momentum pushing
+    toward companion-specific restrictions and creating legislative pressure on platforms. Article [3] documents growing concern
+    about AI-powered digital friends' mental health effects on teenagers, strengthening the problem frame. These signals suggest
+    regulatory/market conditions favoring companion-specific restrictions, but they represent policy/legislative momentum
+    rather than platform implementation. The trajectory points toward YES but hasn't yet produced the concrete platform action
+    required for resolution.
+- date: '2026-08-09'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform implementing age verification *specifically
+    for companion/relationship-style interactions*. The baseline context establishes that OpenAI''s January 2026 approach
+    only restricts sexual/violent roleplay while keeping other companionship enabled — this does NOT meet the YES criteria.
+    Articles [2] and [3] describe China''s companion AI rules but focus on emotional distress detection, usage limits, and
+    data control—not age-specific restrictions for companionship features. The prediction requires companion-specific age
+    restrictions from a major general AI platform (OpenAI, Google, Anthropic, etc.), which no article documents.'
+  trajectory_sources:
+  - https://www.helpnetsecurity.com/2026/08/07/openai-gpt-5-6-sol-luna-chatgpt-free-limits/
+  - https://www.justsecurity.org/148468/china-ai-companion-rules-relationships/
+  - https://dig.watch/updates/chinas-new-law-on-anthropomorphic-ai
+  - https://www.biometricupdate.com/202608/governments-converge-on-age-assurance-but-diverge-on-how-to-implement-it
+  - https://www.thedeepview.com/articles/openai-addresses-major-ai-liability-teens
+  trajectory_signal: 'Articles signal moderate momentum toward companion AI regulation generally, but in directions orthogonal
+    to the specific prediction:'
+- date: '2026-08-16'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing age verification *specifically*
+    for companion/relationship-style interactions. The baseline context (OpenAI''s Jan 2026 approach) only restricts sexual/violent
+    roleplay while keeping other companionship enabled—this is explicitly stated as NOT meeting resolution criteria. Article
+    [0] discusses data collection without child protections but doesn''t address companion-specific age verification. The
+    prediction requires companion-specific restrictions from major general AI platforms, which has not occurred in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech-ish.com/2026/08/09/ai-girlfriends-are-now-illegal-for-chinese-teenagers/
+  - https://apnews.com/article/china-ai-virtual-companions-bytedance-wechat-22c4247031092c37b61b537dd809b658
+  - https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/
+  - https://xix.ai/ainews/ai-social-governance-concerns-rise-as-virtual-partner-products-lack-youth-protection.html
+  - https://www.prismnews.com/news/teens-turn-to-ai-companions-for-friendship-and-emotional
+  trajectory_signal: 'Multiple signals suggest momentum TOWARD_YES:'
+- date: '2026-08-23'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major general AI platform introducing **companion-specific**
+    age verification. The resolution criteria explicitly requires restrictions tailored specifically to "companion/relationship-style
+    AI interactions," distinct from general age restrictions.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://apnews.com/article/openai-chatgpt-teens-ai-safety-650cb35591de6546054d6c4e73b3290a
+  - https://legis1.com/news/ai-chatbot-risks-minors-1-congress-weighs-for-2
+  - https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode
+  - https://www.bbc.com/news/articles/czxqz91n5n8o
+  - https://openai.com/index/chatgpt-for-teens/
+  trajectory_signal: 'Articles 0, 3, 4, 5, 8, 9 show momentum toward **general age restrictions for teens** at a major platform
+    (OpenAI), signaling awareness of companion/relationship risks. This demonstrates trajectory TOWARD regulatory pressure
+    on the issue. However, the actual implementation is moving in the TOWARD_NO direction for this specific prediction: OpenAI
+    chose broad teen restrictions rather than companion-specific age verification. Article [1] suggests Congress is weighing
+    how to regulate companion chatbots, indicating potential future policy pressure that *could* drive companion-specific
+    restrictions, but no platform has yet implemented them.'
+- date: '2026-08-30'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires a "major general AI platform" to introduce "age
+    verification specifically for companion/relationship-style AI interactions or features." OpenAI''s ChatGPT for Teens (articles
+    1, 2, 4, 9, 10, 11) implements age verification but applies it broadly across all features, not specifically to companion/relationship
+    interactions. Per the baseline context, OpenAI only restricts "sexual or violent roleplay" while "other forms of companionship
+    still enabled"—this is explicitly called out as NOT meeting the YES criteria. Articles 1, 2, 4, 9, 10, 11 describe general
+    age-gated teen experiences, not companion-specific restrictions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.jurist.org/news/2026/08/new-zealand-pm-introduces-under-16-social-media-and-ai-companion-ban/
+  - https://forgeeks.net/new-zealand-under-16-social-media-ban/
+  - https://particle.news/story/new-zealand-introduces-bill-banning-under16s-from-social-platforms
+  - https://sea.mashable.com/tech/54092/new-zealand-to-ban-social-media-for-kids-under-16
+  - https://insideai.news/news/ai-policy-and-regulation/china-bans-ai-companions-for-minors-cracks-down-on-emotional-dependence/8882/
+  trajectory_signal: Articles 0, 5, 6, 7 describe New Zealand's proposed Online Safety Bill banning "AI companions" for under-16s,
+    requiring age verification. Article 8 reports China banning "AI companions for minors." These represent regulatory pressure
+    and government mandates for companion-specific restrictions, but they are NOT actions by major general AI platforms themselves—they
+    are external policy requirements. This signals momentum TOWARD conditions where platforms might implement companion-specific
+    verification, but the actual platform adoption has not yet occurred. The trajectory is moderately positive for eventual
+    YES resolution, as regulatory frameworks are establishing that companion-specific restrictions are legally distinct categories,
+    which could prompt platforms to implement corresponding technical distinctions.
+- date: '2026-09-06'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major general AI platform has introduced age verification SPECIFICALLY
+    for companion/relationship-style AI interactions. All articles describe general age verification measures for teens using
+    ChatGPT, educational protections, and parental controls—but these are platform-wide teen safety measures, not companion-specific
+    restrictions. The baseline context explicitly states that OpenAI''s January 2026 approach only restricts "sexual or violent
+    roleplay" while "other forms of companionship still enabled," which appears to describe the current state. The articles
+    reviewed do not show a shift toward companion-specific age gating separate from general teen protections. Article [2]
+    mentions "age-appropriate protections" and "study mode" for learning, but does not indicate companion interactions are
+    specifically gated or restricted beyond general teen safeguards.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techrepublic.com/article/news-openai-california-teen-ai-safety-bill/
+  - https://www.edtechinnovationhub.com/news/openai-backs-california-youth-ai-safety-bill-requiring-age-checks-audits-and-parental-controls
+  - https://cryptobriefing.com/openai-backs-california-kids-chatbot-safety-bill/
+  - https://www.gulftoday.ae/opinion/2026/09/02/openai-says-chatgpt-is-safer-for-teens
+  trajectory_signal: 'Articles 0, 1, 3, 4 signal MODERATE momentum TOWARD_YES resolution. They show: (1) OpenAI actively backing
+    California SB 1119 with CEO-level engagement, specifically mentioning "age verification, risk assessments, and parental
+    controls for companion chatbots used by minors" (Article 3—note explicit use of "companion chatbots"); (2) rollout of
+    "ChatGPT for Teens" with enhanced age verification and protective features; (3) policy momentum at state level targeting
+    exactly this domain. The language in Article 3 about "companion chatbots" is noteworthy—it suggests regulatory/company
+    framing is moving toward recognizing companion interactions as a distinct category warranting specific restrictions. However,
+    articles don''t yet confirm that companion features are being gated *separately* from general teen protections, which
+    is the resolution criteria distinction. This represents directional progress toward more granular, companion-specific
+    safeguards but hasn''t yet crossed the threshold into YES territory.'

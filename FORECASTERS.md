@@ -21,5 +21,7 @@
 - `human-6`
 - `human-7`
 - `human-8`
+- `human-9`
+- `human-10`
 
-Total: 11 AI forecasters + 8 human forecasters
+Total: 11 AI forecasters + 10 human forecasters

@@ -7,11 +7,12 @@ baseline: 'As of Jan 2026: AI-assisted books exist but no disclosed primarily-AI
   bestseller status.'
 resolution_criteria: 'YES: Disclosed AI book reaches NYT/Amazon top 100. NO: None.'
 search_keywords:
-- AI book NYT
-- AI book
-- AI author bestseller
-- AI written book
-- AI authored
+- AI written book NYT bestseller list 2026
+- AI generated book Amazon top 100
+- ChatGPT written novel bestseller
+- disclosed AI written book bestseller
+- AI book Amazon Kindle bestseller rank
+- AI authored book sales chart 2026
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -35,6 +36,8 @@ forecasts:
   human-6: 60
   human-7: 15
   human-8: 20
+  human-9: 60
+  human-10: 40
 evidence:
 - date: '2026-02-01'
   summary: Found 4 articles
@@ -47,3 +50,450 @@ evidence:
   sources:
   - https://www.penguinrandomhouse.com/books/782388/how-to-ai-by-christopher-mims/
   - https://janefriedman.com/links-of-interest-jan-28-2026/
+- date: '2026-02-07'
+  summary: Found 4 articles
+  sources:
+  - https://www.leighbureau.com/books/a-giant-leap
+  - https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies
+  - https://subtext-books.metalabel.com/cybernetics-or-ghosts
+  - https://www.usatoday.com/booklist/page/2/date/2025-11-05
+  relevance: UNCLEAR. The evidence titles suggest books about AI exist, but none definitively show an AI-written book reaching
+    bestseller status in 2026.
+- date: '2026-02-15'
+  summary: 4 relevant articles
+  sources:
+  - https://www.milforddailynews.com/press-release/story/662294/antoine-maurice-king-achieves-seven-1-amazon-bestsellers-with-53-title-think-like-chatgpt-series/
+  - https://www.caller.com/press-release/story/78894/antoine-maurice-king-achieves-seven-1-amazon-bestsellers-with-53-title-think-like-chatgpt-series/
+  - https://www.timesrecordnews.com/press-release/story/22291/antoine-maurice-king-achieves-seven-1-amazon-bestsellers-with-53-title-think-like-chatgpt-series/
+  - https://www.fayobserver.com/press-release/story/46537/antoine-maurice-king-achieves-seven-1-amazon-bestsellers-with-53-title-think-like-chatgpt-series/
+  relevance: 'MODERATE: Articles [8-11] document Antoine Maurice King achieving seven #1 Amazon bestseller rankings with AI-inspired
+    books, though they lack explicit disclosure that books are >50% AI-written, making them relevant but incomplete evidence
+    for the prediction criteria.'
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html
+  relevance: 'MODERATE: Article [7] provides concrete evidence about Coral Hart''s AI-writing experiment (21 pen names, dozens
+    of novels published over 8 months starting February 2025). This is directly relevant as Hart represents an actual disclosed
+    AI-writing case. However, the article explicitly focuses on "limitations of using chatbots to write about sex and love"
+    and does not indicate any of Hart''s books achieved NYT bestseller or Amazon top 100 status. The evidence thus supports
+    that despite active AI-book publishing with disclosure, no bestseller success has occurred—moving slightly toward NO.
+    Published date is within preferred range (2026-02-09 cutoff, though article appears from NYT).'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written book (>50%) reaching NYT bestseller
+    or Amazon top 100 in 2026. The critical resolution criteria requires: (1) a specific book title, (2) disclosure that it
+    is >50% AI-written, (3) achievement of NYT bestseller OR Amazon top 100 status. None of the articles identify such a book
+    that has achieved this threshold. Article [8] lists current bestsellers but contains no AI-written titles. Article [6]
+    references bestseller lists without specifying AI-written content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html
+  - https://futurism.com/artificial-intelligence/ai-novelist
+  - https://shows.acast.com/the-page-one-podcast/episodes/adventures-in-publishing-land-how-ai-wrote-200-books-a-year
+  trajectory_signal: 'Articles [0], [2], and [3] signal growing momentum toward the resolution:'
+- date: '2026-03-01'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a disclosed
+    primarily AI-written (>50%) book reaching NYT bestseller or Amazon top 100 in 2026. Article [1] describes undisclosed
+    AI books (explicitly violating disclosure requirement). Articles [0, 3, 4] discuss human-authored AI-related books (Karen
+    Hao''s "Empire of AI"), not AI-written books. Articles [2, 7, 8] are generic bestseller lists/recommendations with no
+    AI-authored content identified. Articles [10, 11, 12] reference AI-generated content but provide no evidence of bestseller
+    performance or proper disclosure. Article [6] is a prediction market about a different criterion (5 books by 2030, not
+    2026). Critical gap: No evidence of any disclosed AI-authored book approaching bestseller status as of March 1, 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.facebook.com/groups/Horrorwritersassoc/posts/10161651070106581/
+  - https://nathanbransford.com/blog/2026/02/here-come-the-a-i-slop-novels-this-week-in-books
+  trajectory_signal: 'Articles [1] and [5] signal growing market activity in AI-generated books (romance novel mass production,
+    industry commentary on "AI slop novels"), but both point TOWARD_NO resolution: [1] shows undisclosed AI books (violating
+    Amazon requirements), and [5] (Feb 13, 2026) describes AI novels emerging but with skepticism ("slop"), suggesting poor
+    quality/reception unlikely to achieve bestseller status. The trend is proliferation of low-quality, often non-compliant
+    AI books rather than high-performing disclosed AI-authored works. This suggests momentum away from the specific resolution
+    criteria requiring both disclosure AND bestseller achievement.'
+- date: '2026-03-08'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a disclosed primarily AI-written (>50%) book has reached NYT
+    bestseller or Amazon top 100 in 2026. Articles [0], [4], [7], [8] show actual NYT bestseller lists from Feb-March 2026
+    with no disclosed AI-written books present. Article [3] discusses AI romance experiments but contains no disclosure of
+    actual bestseller achievement. Articles [1], [9], [10], [11] reference AI-generated books on Amazon but lack publication
+    dates, specific disclosure information, and bestseller confirmation. Article [5] is misdated (December 2025) and shows
+    no AI books. Articles [12], [13] are unrelated to the prediction (AI book reviewer, TV adaptation).'
+  trajectory_sources:
+  - https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html
+  - https://manifold.markets/Tulip/will-at-least-five-purelyaiwritten
+  trajectory_signal: Article [3] (NYT, publication date unknown but content references "Last February" suggesting 2025) documents
+    Coral Hart's systematic experiment creating 21 AI-written romance novels with different pen names over 8 months—this signals
+    TRAJECTORY toward the prediction by demonstrating active production and market testing of disclosed AI books, though no
+    bestseller achievement is confirmed. Article [6] (publication date unknown, content discusses prediction market criteria)
+    represents meta-analysis of AI book proliferation but offers no new market data. Together these suggest growing momentum
+    in AI book publication attempts, but current bestseller lists (as of March 1-8, 2026) show zero hits. Direction is toward
+    eventual possibility but not yet resolved YES.
+- date: '2026-03-15'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a disclosed primarily-AI-written book (>50%) reaching NYT bestseller
+    or Amazon top 100. Article [0] discusses a human author''s (Navessa Allen) cookbook—no AI disclosure. Articles [2-9] are
+    general bestseller lists or author protest content with no AI-written books identified. Article [5] lists current NYT
+    bestsellers with no AI disclosure mentioned.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.36kr.com/p/2624831886563463
+  - https://africa.businessinsider.com/local/markets/the-6-week-bestseller-why-amazons-new-ai-algorithm-is-changing-the-rules-of/mrfy4w8
+- date: '2026-03-22'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Article [0] mentions Coral Hart as a "NYT-featured
+    author" who wrote 200+ romance novels using AI (primarily Claude), but the content is truncated and doesn''t confirm:
+    (1) whether any specific book by Hart reached NYT bestseller or Amazon top 100, (2) the exact AI disclosure percentage,
+    or (3) current ranking status. This is insufficient for KEEP tier classification without verification of actual bestseller/top
+    100 achievement. Articles [1-9] all concern "Shy Girl" by Mia Ballard—a book that was CANCELED by Hachette before US publication
+    specifically due to AI concerns, meaning it never had the opportunity to reach bestseller status. The author also disputed
+    the AI percentage claim (stating an editor used AI on the self-published version), creating ambiguity about primary authorship
+    disclosure.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.reddit.com/r/WritingWithAI/comments/1rx9eun/ama_coral_hart/
+  trajectory_signal: 'Article [0] signals TOWARD_YES momentum: Coral Hart appears to represent a viable pathway—an established
+    author with 15 years publishing experience using AI tools at scale (200+ novels in a year) who has achieved some NYT recognition.
+    This suggests growing market acceptance and capability. However, articles [1-9] signal TOWARD_NO momentum: the industry
+    response to "Shy Girl" demonstrates active resistance from major publishers, quality control mechanisms (detection software
+    at 78% AI), and public backlash against AI-written books—suggesting structural barriers to achieving bestseller status
+    even if a book reaches market. The cancellation occurred despite prior UK publication, indicating reputational/commercial
+    risk overshadows sales potential for disclosed AI books.'
+- date: '2026-03-29'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. Article [0] covers Wynton Hall''s "Code Red" reaching #13 on NYT list, but contains no disclosure of
+    AI authorship and appears to be traditionally authored political commentary. Articles [3, 4, 9, 10] all concern "Shy Girl"
+    by Mia Ballard — which was suspected of AI use but was PULLED by its publisher (Hachette) specifically due to those AI
+    concerns, meaning it never achieved bestseller status through legitimate disclosure. The author denied AI claims [1],
+    and the book was discontinued before it could reach bestseller lists. No article documents a book that was transparently
+    disclosed as >50% AI-written that then achieved top 100 status.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - http://mashable.com/article/ai-can-write-ya-novels
+  - https://locusmag.com/2026/03/hachette-pulls-shy-girl-over-suspected-ai-use/
+  - https://www.newsbytesapp.com/news/science/ai-backlash-hits-publishing-hachette-pulls-novel-shy-girl/story
+  - https://www.demotivateur.fr/article/pour-la-premiere-fois-un-roman-a-succes-retire-des-ventes-suite-a-un-soupcon-de-l-utilisation-de-l-ia-47797
+  trajectory_signal: Articles [3, 4, 9, 10] signal movement TOWARD_NO. They document the publishing industry actively rejecting
+    and withdrawing suspected AI-generated books rather than allowing them to succeed commercially. "Shy Girl" had sold ~1,800
+    copies before withdrawal, suggesting it was gaining traction, but publisher intervention occurred before bestseller achievement.
+    Article [3] notes free AI-generated YA novels exist from Babel Bot Books but makes no claim these reached bestseller status.
+    The trajectory shows the industry erecting barriers against AI books reaching legitimacy through major sales channels,
+    the opposite of prediction resolution.
+- date: '2026-04-12'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://noah-news.com/hachette-withdraws-horror-novel-shy-girl-amid-ai-suspicion/
+  - https://www.nzz.ch/feuilleton/verlag-nimmt-gefeierten-horrorroman-aus-dem-verkauf-weil-dieser-zu-78-prozent-ki-generiert-sei-ld.1931820
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. Article [0] is a NYT bestseller list snapshot but provides no content showing AI-written books on it.
+    Articles discussing AI books ([1], [2], [4], [8]) describe the landscape of AI-written books being sold but contain no
+    specific bestseller achievements. Article [7] mentions Stefanik''s book topping Amazon but makes no disclosure about AI
+    authorship. Article [9] discusses Walsh''s "God AI" book rights sales but Walsh is a human author writing about AI, not
+    an AI-written book.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008
+  - https://games.gg/news/ai-warhammer-40k-smut-amazon/
+  trajectory_signal: Articles [1] and [2] signal TOWARD_NO momentum. Article [1] ("Thousands of AI-written, edited or 'polished'
+    books are being sold") indicates proliferation of disclosed AI books in the market (satisfying the disclosure requirement),
+    yet none have achieved bestseller status despite months of opportunity since baseline (Jan 2026). The tone is skeptical—framing
+    AI books as "eerie" and discussing class action litigation. Article [2] documents specific AI-generated romance novels
+    on Amazon with explicit disclosure, showing the disclosed AI-book category is real and active, but these niche titles
+    (Warhammer 40K smut) are not approaching mainstream bestseller charts. The continued absence of any disclosed AI book
+    hitting top 100 by mid-April 2026, despite active market presence and clear disclosure mechanisms, suggests structural
+    barriers to mainstream success. Growing publisher concerns about AI ([4], [8]) may further entrench skepticism rather
+    than acceleration toward YES resolution.
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. Articles [0], [1], [5], [6], [8], [9], [10] discuss bestselling books but provide no disclosure of
+    AI authorship >50%. Article [3] discusses AI-written books flooding the market but doesn''t identify specific titles hitting
+    bestseller lists. No KEEP-tier evidence found because the resolution criteria requires BOTH: (1) book reaches top 100/bestseller
+    AND (2) disclosed as >50% AI-written. No article demonstrates both conditions met.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.einpresswire.com/article/905842597/independent-publisher-i-and-sola-publishes-after-turing-first-literary-novel-to-include-a-downloadable-ai-character
+  - https://www.prnewswire.com/news-releases/a-novelist--not-an-engineer--just-invented-a-new-kind-of-media-a-novel-whose-character-you-can-download-and-talk-to-302747343.html
+  - https://www.pcmag.com/deals/this-ai-book-creator-takes-ideas-to-amazon-ready-manuscripts-in-minutes
+  trajectory_signal: 'Three articles signal directional momentum toward resolution:'
+- date: '2026-05-03'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. Article [2] mentions copyright settlements but doesn''t identify a bestselling AI book. Article [5]
+    lists current bestsellers with no AI disclosure noted. Articles [6] and [9] cover human-authored bestsellers. Article
+    [8] discusses potential AI assistance in marketing copy, not book authorship. The baseline condition (no disclosed primarily-AI-written
+    book hitting top 100 as of early 2026) appears to remain unchanged.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://scroll.in/article/1092410/thousands-of-ai-written-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines
+  - https://www.poynter.org/commentary/2026/book-reviews-criticism-ai-generated-shy-girl-mia-ballard/
+  trajectory_signal: 'Articles [1] and [3] signal momentum TOWARD_NO:'
+- date: '2026-05-10'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100 in 2026. The multiple bestseller lists presented (articles 0, 1, 2, 6, 7, 8) show current top performers
+    as traditionally authored works (Virginia Evans, Caro Claire Burke, Isabel Klee, etc.) with no disclosure of AI authorship.
+    No book in these lists is identified as primarily AI-written. Article 10 mentions "You Waited" ranking in "Top 10 Amazon
+    Christian Fiction" but provides no evidence of AI disclosure or confirmation it reached overall Amazon top 100.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.jezebel.com/meta-ai-lawsuit-book-publishers-scott-turow-zuckerberg-stolen-copyright-copycat-books
+  - https://www.nzz.ch/feuilleton/buchmarkt-achtung-ki-schrott-ld.10003583
+- date: '2026-05-17'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-disclosed book reaching NYT bestseller or Amazon top 100
+    in 2026. The prediction requires SPECIFIC resolution: a book disclosed as primarily AI-written (>50%) must reach one of
+    these lists. None of the articles demonstrate this has occurred as of May 17, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/ebooks-published-on-amazon-have-tripled-since-chatgpts-release-data-shows/
+  - https://www.zdnet.fr/actualites/shy-girl-le-roman-ecrit-avec-lia-qui-secoue-le-monde-de-ledition-494824.htm
+  - https://zdnet.co.kr/view/?no=20260510101434
+  - https://quasa.io/media/ai-book-explosion-on-amazon-quantity-up-quality-polarized
+- date: '2026-05-24'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. The prediction requires a book disclosed
+    as primarily AI-written (>50%) to reach NYT bestseller or Amazon top 100 in 2026. Articles [0], [1], [2], [6], [10], [11]
+    describe AI-writing scandals and controversies (undisclosed AI use, fake quotes, deceptive prize wins), but these involve
+    books that were NOT properly disclosed as AI-written and faced backlash—the opposite of the prediction''s premise. Article
+    [4] describes a legitimate bestseller but provides no indication of AI authorship. Articles [3], [5], [12], [13] are off-topic
+    (BookTok fraud, generic bestseller lists, international rankings, unrelated SF novel). Articles [8] and [9] are the most
+    relevant—they report Barnes & Noble CEO''s willingness to stock AI-written books IF labeled, signaling potential infrastructure
+    for disclosure—but they contain no evidence of actual AI-written books reaching bestseller status.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dnyuz.com/2026/05/20/barnes-noble-ceo-is-fine-with-stocking-ai-written-books-if-theyre-labeled-the-internet-had-thoughts/
+  trajectory_signal: 'Articles [8], [9] show policy-level acceptance emerging: major retailer (Barnes & Noble) stated openness
+    to stocking disclosed AI-written books conditional on labeling. This removes a distribution barrier. However, this is
+    permissive infrastructure, not evidence of demand. The dominant signal from [0], [1], [2], [6], [10], [11] is negative
+    momentum: AI-writing controversies are generating reputational backlash and institutional scrutiny, not celebration. The
+    Commonwealth Prize and Rosenbaum scandals suggest the market is punishing undisclosed AI use and remains skeptical of
+    AI-authored work even when quality is debatable. This trajectory points AWAY from a disclosed AI book achieving mainstream
+    bestseller status—consumer resistance appears stronger than emerging infrastructure support.'
+- date: '2026-05-31'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a disclosed primarily AI-written book (>50%) has reached NYT
+    bestseller or Amazon top 100 in 2026. The resolution criteria require a specific, verifiable achievement that none of
+    these articles demonstrate.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://booktoktimes.com/i-created-340-ai-authors-that-earned-67m-publishers-think-theyre-human/
+  - https://letsdatascience.com/news/barnes-noble-ceo-backs-selling-ai-written-books-14854dfd
+  - https://aiworldtoday.com/news/dutch-ai-publisher-churns-out-10-books-a-day
+  - https://authorsguild.org/news/can-ai-detectors-be-trusted/
+- date: '2026-06-07'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a disclosed primarily-AI-written (>50%) book has reached NYT
+    bestseller or Amazon top 100 in 2026. Articles [0], [2], [4], [5], [6] list actual bestseller rankings from early June
+    2026, but none identify any book as disclosed AI-written at >50%. The bestsellers shown (Yesteryear, Phoebe Berman''s
+    Gonna Lose It, The Final Target, The Ballad of Falling Dragons, etc.) are attributed to human authors with no AI disclosure
+    mentioned. Articles [1], [8], [10] discuss general publishing trends and AI disclosure requirements but don''t show any
+    disclosed AI books achieving bestseller status. Article [3]''s title mentions an "AI Publishing" scandal but content is
+    incomplete/truncated, preventing assessment of whether it involves disclosed AI bestsellers.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://mindmatters.ai/brief/novels-did-someone-stay-up-late-or-is-it-just-ai/
+  - https://mindmatters.ai/brief/novels-did-someone-stay-up-late-or-is-it-just-ai/
+  trajectory_signal: 'Article [7] provides negative momentum: it reports that "Shy Girl," a horror novel suspected of heavy
+    AI use, was *pulled from publication* in March 2026 after controversy—suggesting reputational/commercial penalties for
+    AI-involved books rather than success. This signals TOWARD_NO. Articles [8], [9], [10] indicate tightening disclosure
+    requirements and growing scrutiny of undisclosed AI use, which creates compliance friction but doesn''t demonstrate that
+    disclosed AI books can overcome market resistance. The absence of any disclosed primarily-AI-written book in the actual
+    bestseller lists from early June 2026 (just before the current date of June 7) suggests the market has not yet embraced
+    such books at scale, moving toward NO resolution.'
+- date: '2026-06-14'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.einpresswire.com/article/919018821/as-publishing-fights-over-ai-an-openly-ai-assisted-book-keeps-earning-recognition
+  relevance: 'MODERATE: Article [0] provides direct evidence: "How to Win A Million Dollars and Shit Glitter" by Lucas Stoffel
+    is disclosed as AI-assisted and has won the IBPA Award and became a National Indie Excellence Awards finalist. However,
+    the article does not explicitly confirm it reached NYT bestseller or Amazon top 100 lists—only that it''s receiving "recognition"
+    through indie/industry awards. This is a gap: the resolution criteria specifically require NYT bestseller or Amazon top
+    100 status, not indie awards. The article is titled to suggest ongoing success ("Keeps Earning Recognition") but the content
+    excerpt cuts off before confirming bestseller placement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://newyorker.substack.com/p/did-a-chatbot-write-a-prize-winning
+  - https://publishingperspectives.com/2026/06/plutonium-or-salt-when-it-comes-to-books-how-much-ai-is-too-much/
+  - https://aiweekly.co/alerts/cornell-links-ais-elias-thorne-pattern-to-wildchat-data
+  trajectory_signal: 'Articles [1], [2], and [8] show directional progress toward YES resolution:'
+- date: '2026-06-21'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of resolution. Articles [1] and [9] describe the Monster Girl Evolution
+    series as "bestselling" and achieving "#1 sales rank" in specific Amazon categories (Light Novel, GameLit & LitRPG). However,
+    these are category rankings, not Amazon overall top 100 or NYT bestseller list placements. The articles do not explicitly
+    confirm >50% AI authorship disclosure or provide evidence of NYT bestseller status. Critical gaps: (1) Category #1 ≠ overall
+    Amazon top 100; (2) No NYT bestseller verification; (3) AI disclosure percentage not confirmed in articles; (4) "Bestselling"
+    is a marketing claim, not verified against resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://minneapolisnewsjournal.com/bestselling-ai-generated-trilogy-releases-final-novel/
+  - https://www.24-7pressrelease.com/press-release/535930/bestselling-ai-generated-trilogy-releases-final-novel
+  trajectory_signal: 'Articles [1] and [9] signal meaningful momentum toward YES. The Monster Girl Evolution series demonstrates
+    that an openly AI-generated book can achieve strong commercial performance (3M+ online views, #1 category rankings on
+    Amazon). This represents the first concrete example of a disclosed AI book reaching significant bestseller status in niche
+    categories. The series'' success indicates market viability and audience acceptance of disclosed AI work. However, trajectory
+    remains incomplete: category rankings don''t guarantee overall top 100 placement, and NYT crossover remains unconfirmed.
+    Article [0] shows structural tailwinds (50% of Amazon ebooks now AI-written), suggesting increasing likelihood of threshold-crossing
+    events. Direction: trajectory points toward YES, but resolution criteria gaps remain unfilled as of article publication
+    date (June 16-19, 2026).'
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. The baseline condition (as of Jan 2026) already noted that no such book had achieved this status. The
+    current articles contain no reports of resolution criteria being met in the 2026-06-14 to 2026-06-28 window.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://english.elpais.com/technology/2026-06-27/is-it-legitimate-to-use-ai-to-write-a-book.html
+  - https://completeaitraining.com/news/chinese-sci-fi-writer-hao-jingfang-admits-using-ai-to-write/
+- date: '2026-07-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence that a disclosed primarily AI-written (>50%) book has reached NYT
+    bestseller or Amazon top 100. Articles [0], [1], [2], [3], [4], [5], [6], [7], [8], [10] discuss AI-related books or controversies
+    but contain critical gaps: [0] describes a publisher *pulling* a book due to AI allegations (negative signal). [2], [6]
+    discuss Cory Doctorow''s book topping Canadian bestsellers — but this is a human-written book *about* AI, not an AI-written
+    book. [3], [5] mention AI-themed fiction by human authors (Hurwitz, Tremblay) — again, human-written. [1], [8], [10] discuss
+    the Jamir Nazir Commonwealth Prize controversy where accusations were ultimately *dismissed* after investigation found
+    no AI involvement. [7] discusses AI-generated fake books entering the market (negative trajectory). [9] mentions a Harper''s
+    Bazaar prize entry scoring 100% on an AI detector and Kobo blocking 45% of AI submissions — concerning signals for AI
+    book viability but without disclosure of bestseller status.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.authormedia.com/new-bookfunnel-features-crush-amazon/
+  trajectory_signal: 'Article [9] shows significant industry friction: Kobo blocking 45% of submissions to stop the "AI book
+    flood" suggests platforms are actively gatekeeping AI books rather than allowing them to compete for bestseller status.
+    The Harper''s Bazaar entry scoring high on AI detection but winning a prize suggests some AI-written works exist, but
+    no evidence they''re achieving bestseller status with proper disclosure. Articles [0], [1], [8], [10] show controversies
+    around *undisclosed* or disputed AI use, with publishers and award bodies responding by rejecting or investigating such
+    works. This trajectory points TOWARD_NO: the industry is actively suppressing rather than supporting disclosed AI-written
+    books reaching bestseller lists.'
+- date: '2026-07-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100 in 2026. Article [6] documents Dave Portnoy''s "Cancel Me If You Can" hitting #1 on NYT bestseller list,
+    but contains no disclosure of AI authorship. Articles [0], [5], [7] are bestseller lists without sufficient content to
+    verify AI disclosure claims for any titles. Article [4]''s headline about ghost-written romance bestsellers lacks content
+    detail and makes no AI disclosure claims.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://medium.com/@buildwithaman/ai-books-on-amazon-make-50-a-month-not-10-000-fb42b9d9ce47
+  - https://www.plagiarismtoday.com/2026/07/09/book-publishers-have-a-major-ai-problem/
+  - https://completeaitraining.com/news/hachette-book-group-pulls-a-novel-accused-of-being-ai/
+- date: '2026-07-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-written book (>50% AI-disclosed) reaching NYT bestseller
+    or Amazon top 100. Article [10] mentions an "Amazon Top 100 Bestseller" but provides no disclosure of AI authorship and
+    appears to be a human-written memoir. Articles [2, 3] describe an explicitly AI-FREE book (counter to prediction). Articles
+    [0, 1, 7, 8] are generic bestseller lists without AI-disclosed titles. Articles [4] covers Mel Robbins (no AI disclosure).
+    Article [5] is about unauthorized AI biographies, not disclosed AI books. The criteria gap remains unfilled: no evidence
+    of a properly disclosed primarily-AI-written book achieving either threshold.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://ppc.land/automateed-finds-self-help-dominates-77-000-ai-written-books/
+  - https://quasa.io/media/the-ai-slop-gold-rush-on-amazon-how-one-journalist-found-her-own-fake-biography
+  trajectory_signal: 'Articles [6] and [9] signal momentum in the opposite direction from resolution. Article [6] (2026-07-12)
+    reports 77,000 AI-written books exist on Amazon, yet none appear to have achieved bestseller status. Article [9] (2026-07-17)
+    covers the "AI Slop Gold Rush" with Kashmir Hill''s investigation into low-effort AI books flooding Amazon—framed negatively
+    as "questionable content" and "AI slop." This indicates: (1) high volume of AI books but persistent quality/credibility
+    issues preventing mainstream success, (2) growing negative sentiment toward AI-generated books, (3) by mid-July 2026 (well
+    into prediction window), no disclosed AI book has broken through to major bestseller status despite large volume. The
+    trajectory suggests structural barriers (market resistance, quality gaps, disclosure stigma) are preventing AI-written
+    books from achieving bestseller success, moving the prediction TOWARD_NO.'
+- date: '2026-07-26'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. All bestseller lists cited (articles 0-8) feature
+    traditionally published books by established authors (Daniel Silva, Rebecca Yarros, etc.). None disclose AI authorship
+    >50%. The prediction requires a book explicitly disclosed as primarily AI-written to reach NYT bestseller or Amazon top
+    100—a criterion not met by any article. Critical criteria gaps: (1) No book found that meets the >50% AI-written disclosure
+    requirement, (2) No bestseller list placement of any disclosed AI-primary book.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://kdpbuilder.com/reports/state-of-ai-self-publishing-2026
+  trajectory_signal: 'Articles 9-13 show directional signals, but predominantly TOWARD_NO:'
+- date: '2026-08-02'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://digg.com/tech/kux5lhnx
+  - https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/
+  - https://www.techtimes.com/articles/321780/20260728/daggermouth-hardcover-drops-today-booktok-hit-flagged-ai-researchers.htm
+  - https://onmsft.com/news/ai-generated-fiction-now-accounts-for-20-of-self-published-ebook-sales/
+  - https://latimesnow.com/2026/07/29/study-claims-viral-bestseller-daggermouth-is-ai-generated/
+  - https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/
+- date: '2026-08-09'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.collector.com.tr/1006775519/the-romance-novel-daggermouth-might-be-the-first-new-york-times-best-seller-to-b
+  - https://apnews.com/article/matt-dinniman-4b1adc1990aafdd74f0a338e4f051b5a
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.lavx.hu/article/ai-generated-books-gain-ground-as-amazon-s-self-publishing-market-expands
+  - https://www.hollywoodreporter.com/business/digital/do-androids-best-sellers-1236664263/
+  - https://www.inc.com/soren-kaplan/new-research-says-the-biggest-risk-to-the-book-market-isnt-ai-but-dilution/91384517
+  - https://www.maharlikanews.com/this-romantasy-novel-became-a-viral-phenomenon-then-researchers-said-it-may-have-been-written-with-ai/
+- date: '2026-08-16'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written book (>50%) reaching NYT bestseller
+    or Amazon top 100 in 2026. Article [5] shows current bestseller lists (as of 2026-08-13) with no AI-disclosed titles in
+    top 10 hardcover fiction. Article [6] profiles "Yesteryear" by Caro Claire Burke (currently #3 on bestseller list), but
+    contains no disclosure or mention of AI authorship—this is a traditionally-published human-authored work. The criteria
+    requires DISCLOSED primarily-AI-written books; undisclosed or ambiguous cases don''t satisfy resolution.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/
+  - https://www.businessinsider.com/ai-books-anthropic-training-human-authors-market-amazon-research-2026-8
+  - https://www.csmonitor.com/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl
+  - https://www.csmonitor.com/text_edition/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl
+  trajectory_signal: 'Articles [0, 1, 2, 4] show a NEGATIVE trajectory. They document:'
+- date: '2026-08-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100 as of August 23, 2026. Article [1] and [6] show current bestseller lists but contain no AI-written titles.
+    Article [7] discusses a Trump book at #1 but there is no indication it is AI-written. The baseline context confirms that
+    as of January 2026, "no disclosed primarily-AI-written book (>50%) has hit NYT bestseller list or Amazon top 100," and
+    the current evidence does not contradict this.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.pymnts.com/news/artificial-intelligence/2026/the-real-question-isnt-whether-ai-wrote-it/
+  - http://www.allusanewshub.com/2026/08/17/when-bots-write-books/
+  - https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/
+  - https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book
+  trajectory_signal: 'Several articles signal directional movement, but primarily TOWARD_NO:'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written (>50%) book reaching NYT bestseller
+    or Amazon top 100. Multiple bestseller lists reviewed (articles 2, 3, 5, 6, 7) show no AI-disclosed titles in top positions.
+    The resolution criteria require explicit disclosure + bestseller achievement, and no such case is documented in these
+    articles.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://offultra.com/ai-books-are-flooding-amazon-and-squeezing-human-authors/
+  - https://decrypt.co/376295/religious-books-amazon-ai-written-study
+  - https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/101159-this-week-s-bestsellers-august-31-2026.html
+  - https://en.cryptonomist.ch/2026/08/24/ai-written-religious-books-amazon/
+  trajectory_signal: 'Articles 0, 1, and 8 show momentum AWAY from resolution:'
+- date: '2026-09-06'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a disclosed primarily-AI-written book (>50%) reaching NYT bestseller
+    or Amazon top 100 in 2026. Article [5] and [6] list current bestseller charts but contain no AI-disclosed titles among
+    top positions. Article [2] describes a Hulk Hogan book *accused* of AI use (not disclosed), which is a different resolution
+    criterion. Article [3] mentions a MrBeast/Patterson collaboration hitting #1 in Mystery but provides no AI disclosure
+    information and no indication it''s primarily AI-written.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://blogherald.com/blogging-news/a-a-study-of-nearly-15000-self-published-amazon-books-found-that-titles-heavy-with-ai-generated-content-now-make-up-a-fifth-of-the-catalog-but-earn-barely-one-in-eight-sales-dollars/
+  - https://www.pillarcatholic.com/p/bishops-book-endorsement-points-to
+  - https://www.aichatdaily.com/ai-business/pangram-ai-detector-behind-publishing-s-scandal-wave
+  - https://booktoktimes.com/the-2-1m-ai-detection-confession-i-flag-ai-books-for-booktok/
+  - https://aiweekly.co/alerts/pangram-flags-four-of-ten-commonwealth-prize-winners-as-ai
+  trajectory_signal: 'Articles signal NEGATIVE momentum toward resolution:'

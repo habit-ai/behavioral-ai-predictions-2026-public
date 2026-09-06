@@ -5,12 +5,14 @@ category: AI Capabilities
 baseline: 'Jan 2026: GPT-5.2 Pro 29.2% on Tier 4. Gemini 3 Pro ~18.75%. Tier 4 = 50 hardest problems.'
 resolution_criteria: 'YES: Any AI >50%. NO: Best ≤50%.'
 search_keywords:
-- FrontierMath benchmark
-- AI math benchmark
-- FrontierMath
-- math problem solving AI
-resolution_date: null
-outcome: null
+- FrontierMath Tier 4 score 2026
+- Epoch AI FrontierMath leaderboard
+- FrontierMath hardest problems AI performance
+- GPT-5 FrontierMath Tier 4 results
+- Claude FrontierMath score update
+- FrontierMath benchmark new record
+resolution_date: '2026-07-29'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 25
@@ -32,6 +34,8 @@ forecasts:
   human-6: 55
   human-7: 55
   human-8: 35
+  human-9: 50
+  human-10: 45
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -45,3 +49,484 @@ evidence:
   - https://epochai.substack.com/p/ai-math-capabilities-could-be-jagged
   - https://www.nature.com/articles/s41586-025-09962-4
   - https://warsawainews.substack.com/p/warsawai-news-19-25012026
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/exploring-possible-ai-trajectories-through-2030_b6fb75d9/cb41117a-en.pdf
+  - https://www.erdosproblems.com/forum/thread/AI%20Contributions
+  - https://tecunningham.github.io/posts/2026-01-29-knowledge-creating-llms.html
+  - https://www.latent.space/p/ainews-ai-vs-saas-the-unreasonable
+  - https://scale.com/leaderboard/math
+  relevance: UNCLEAR. Without reading the full content of these evidence titles, there's not enough context to definitively
+    assess whether they provide substantive insight into AI mathematical problem-solving performance on FrontierMath Tier
+    4.
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - https://epochai.substack.com/p/new-record-on-frontiermath-tier-4
+  relevance: 'MODERATE: Article [5] provides concrete evidence that GPT-5.2 Pro achieved 31% on FrontierMath Tier 4 as of
+    January 23, 2026, directly tracking progress toward the 50% threshold by December 31, 2026.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://epochai.substack.com/p/new-record-on-frontiermath-tier-4
+  relevance: 'MODERATE: Article [6] provides concrete current data showing GPT-5.2 Pro achieved 31% on FrontierMath Tier 4
+    as of January 23, 2026, which is below the 50% threshold needed for YES resolution, suggesting the target may not be reached
+    by the deadline.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://jack-clark.net/2026/02/16/import-ai-445-timing-superintelligence-ais-solve-frontier-math-proofs-a-new-ml-research-benchmark/
+  relevance: 'MODERATE: Article [7] from Import AI (2026-02-16, within acceptable date range) explicitly mentions "AIs solve
+    frontier math proofs" in its headline and appears to discuss recent AI progress on frontier mathematics problems. This
+    directly addresses the prediction domain. However, the content snippet provided is truncated and does not include specific
+    performance metrics on FrontierMath Tier 4, exact model names, or quantified scores. The headline suggests positive progress
+    on frontier math, which points toward the YES resolution, but without concrete percentage data from the snippet, the needle
+    movement is moderate rather than strong. Criteria gap: Need actual Tier 4 performance percentages to confirm whether specific
+    models have crossed or are approaching the 50% threshold by the end of 2026.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://epochai.substack.com/p/new-record-on-frontiermath-tier-4
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about current FrontierMath Tier 4 performance levels or trajectory
+    toward the 50% threshold by December 31, 2026. Articles [2], [3], [4], [5], [7] discuss FrontierMath generally but contain
+    no publication dates or performance data. Article [6] is about MathVision (different benchmark). Article [8] discusses
+    MathArena (different benchmark). The critical gap: no concrete Tier 4 performance scores from any model after the February
+    9 cutoff are provided.'
+  trajectory_sources:
+  - https://opentools.ai/news/openais-secret-support-of-frontiermath-stirs-up-controversy-in-ai-community/mathematics
+  - https://llm-stats.com/benchmarks/frontiermath
+  trajectory_signal: Article [1] (Feb 22, 2026) mentions Google DeepMind and OpenAI achieving "gold medal levels" at the 2025
+    International Math Olympiad, signaling strong mathematical reasoning progress in these organizations' models—directionally
+    positive for AI math capabilities. Article [0] (Feb 2, 2026, pre-cutoff but recent) mentions FrontierMath as a key benchmark
+    being tracked, indicating active monitoring of this specific metric. However, neither article provides actual Tier 4 performance
+    numbers or updates since the January 2026 baseline (GPT-5.2 Pro at 29.2%), so these are weak trajectory signals only.
+    The direction is modestly TOWARD_YES (demonstrated math capability improvements) but without concrete Tier 4 data, confidence
+    is low.
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires ANY AI
+    model to exceed 50% on FrontierMath Tier 4 by December 31, 2026. The baseline (Jan 2026) shows GPT-5.2 Pro at 29.2%. Article
+    [0] reports a January 23, 2026 result of 31% for GPT-5.2 Pro (manual evaluation), which is directional progress but still
+    far below the 50% threshold and does not resolve the criteria. No articles present evidence of any model achieving >50%
+    performance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://epochai.substack.com/p/new-record-on-frontiermath-tier-4
+  - https://manifold.markets/Bayesian/what-will-be-the-best-frontiermath
+  - https://www.linkedin.com/posts/brettmlinarich_ai-conquers-humanitys-last-exam-november-activity-7406740326201192448-bN81
+  trajectory_signal: 'Articles [0], [7], and [9] signal trajectory momentum toward YES:'
+- date: '2026-03-08'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of current Tier 4 performance exceeding 50%. The baseline context
+    shows GPT-5.2 Pro at 29.2% in January 2026. Article [0] claims GPT-5.4 "set a new record" and "solved one Tier 4 problem
+    that no model had solved before" (published Mar 05, 2026), but the content is truncated and does NOT state the actual
+    percentage score on Tier 4. Without the numerical result, this cannot confirm whether 50% was reached. Article [1] is
+    stale (Jan 23, 2026) showing GPT-5.2 Pro at 31%, below threshold. Articles [7] and [9] discuss ORCA benchmark (different
+    benchmark), not FrontierMath Tier 4. Articles [2], [5], [6], [8] are prediction markets, leaderboards, or overview pages
+    without current performance data. Critical gap: No article provides the actual percentage score for any model on FrontierMath
+    Tier 4 as of March 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://epochai.substack.com/p/new-record-on-frontiermath-tier-4
+  - https://www.computerworld.com/article/4141889/gpt-5-4-solves-previously-unsolved-math-problem-with-help-from-long-forgotten-human-research.html
+  trajectory_signal: Articles [1] and [3] signal momentum toward YES. Article [1] shows GPT-5.2 Pro jumped from ~19% to 31%
+    between unspecified prior date and Jan 23, 2026—a 12-point gain in one iteration. Article [3] (Mar 6, 2026) reports GPT-5.4
+    Pro solving "previously unsolved" Tier 4 problems and references the January 31% result as a stepping stone, implying
+    continued improvement. The trajectory of +12 points per model generation (5.2 to 5.4) suggests potential to reach 50%
+    within remaining 9.5 months, but actual performance percentage for GPT-5.4 on Tier 4 remains unreported. Direction is
+    clearly upward, but distance to 50% threshold is uncertain.
+- date: '2026-03-15'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://garryslist.org/posts/gpt-5-4-cracked-a-20-year-math-problem-32a8a150
+  relevance: 'MODERATE: Article [9] provides direct evidence relevant to FrontierMath Tier 4 resolution. It reports that GPT-5.4
+    solved a 20-year-old research-level mathematics problem that "no AI could touch." The article explicitly frames this as
+    a breakthrough in mathematical reasoning capabilities. However, critical gap: the article does NOT provide GPT-5.4''s
+    actual FrontierMath Tier 4 percentage score. We know from baseline that GPT-5.2 Pro scored 29.2% on Tier 4. This article
+    demonstrates substantial progress in mathematical problem-solving but doesn''t concretely establish whether GPT-5.4 has
+    crossed 50% on the specific Tier 4 benchmark. The evidence is directionally very strong but not definitively conclusive
+    for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.36kr.com/p/3329192912710150
+  trajectory_signal: Article [0] (Chinese source, March 14) references "o3" model "刷爆人类顶尖难题" (crushing top-tier human problems)
+    with 14 expert reactions, suggesting significant mathematical advancement. Articles [3] and [4] announce GPT-5.4 release
+    with claims of "Higher Results on Multiple Fronts" but lack specific Tier 4 data. Article [10] confirms GPT-5.4 is "A
+    Substantial Upgrade" with improved benchmarks. Article [12] discusses Google DeepMind's Aletheia moving from math competitions
+    to autonomous research. These collectively signal rapid upward momentum in AI mathematical reasoning capabilities across
+    multiple labs (OpenAI, Google DeepMind, potentially Alibaba with o3). The trajectory strongly suggests movement toward
+    50% threshold, though no articles yet provide the specific Tier 4 score needed for definitive YES resolution.
+- date: '2026-03-22'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on FrontierMath Tier 4 performance. The prediction requires any AI
+    model to exceed 50% on FrontierMath''s hardest 50 problems by Dec 31, 2026. Baseline: GPT-5.2 Pro at 29.2% (Jan 2026).
+    No articles reference FrontierMath benchmark results or Tier 4 specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aigazine.com/llms/gpt54-pro-solves-2-of-100-unsolved-math-problems-in-oxford-benchmark--s
+  - https://www.newsbytesapp.com/news/science/ai-solves-math-problem-that-stumped-experts-for-years/tldr
+  - https://www.newsbytesapp.com/news/science/gpt-5-4-solves-puzzle-designed-over-20-years-to-outsmart-computers/story
+  - https://aigazine.com/llms/minimax-m27-hits-666-medal-rate-with-selfevolving-ai-across-22-competitions--a
+  - https://time.news/minimax-m2-7-chinese-ai-model-achieves-self-evolution-rivals-top-llms/
+  trajectory_signal: Articles [0,1,3] describe GPT-5.4 solving a custom 20-year-old math puzzle designed by Dr. Naskrecki
+    to be unsolvable by AI—solved on the 11th attempt. This signals meaningful progress in mathematical reasoning capability
+    beyond the baseline model (5.2→5.4 generation). Articles [10,12] report MiniMax M2.7 achieving 66.6% medal rate across
+    22 math competitions with self-evolving capabilities, indicating competitive advancement in mathematical problem-solving
+    from non-OpenAI actors. Article [11] mentions Google AI outscoring humans on an intelligence test. These collectively
+    suggest the AI landscape is experiencing rapid advancement in mathematical reasoning—directionally supportive of crossing
+    a 50% threshold on a difficult benchmark within 9 months. However, none quantify progress on the specific FrontierMath
+    Tier 4 metric, creating uncertainty about whether these general advances translate to the particular benchmark in question.
+    The gap from 29.2% to 50%+ requires ~21 percentage point improvement; observed progress is encouraging but not yet directly
+    measurable against resolution criteria.
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on FrontierMath Tier 4 performance metrics. Articles [1] and [2] report
+    GPT-5.4 Pro solving a single open math problem from Epoch AI''s FrontierMath benchmark, but this is NOT the same as documenting
+    Tier 4 performance percentage. The articles confirm one problem was solved (a Ramsey hypergraph problem), but do not state
+    the current Tier 4 pass rate for GPT-5.4 Pro. Without a documented percentage on the 50-problem Tier 4 subset, these do
+    not satisfy the resolution criteria requiring "Best AI >50%" on Tier 4 specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://agent-wars.com/news/2026-03-24-gpt-5-4-pro-solves-ramsey-hypergraph-open-problem-confirmed-for-publication
+  - https://byteiota.com/gpt-5-4-pro-cracks-first-unsolved-math-problem-2026/
+  trajectory_signal: 'Articles [1] and [2] signal meaningful momentum TOWARD_YES. Evidence: (1) GPT-5.4 Pro (successor to
+    the baseline GPT-5.2 Pro at 29.2%) has moved from solving zero Tier 4 problems to solving at least one confirmed problem
+    from FrontierMath; (2) this represents a qualitative leap—the first AI to solve a genuine open research problem in mathematics;
+    (3) the baseline showed GPT-5.2 Pro at 29.2% on Tier 4, and any improvement in subsequent versions suggests the gap to
+    50% is narrowing. However, one solved problem does not prove the model now exceeds 50% on Tier 4. The momentum is real
+    but incomplete—we need explicit Tier 4 benchmark results to confirm resolution.'
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on FrontierMath Tier 4 performance. The resolution criteria specifically
+    requires >50% on FrontierMath Tier 4 (the 50 hardest problems). Baseline: GPT-5.2 Pro at 29.2% in Jan 2026. Current date
+    is April 5, 2026 — we need FrontierMath Tier 4 scores, not proxies.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/gpt-5-4-xhigh-scores-95-on-2026-us-math-olympiad-gemini-3-1-pro-second-with-74/
+  - https://arxiv.org/html/2604.01754v1
+  trajectory_signal: Two signals suggest upward momentum. First, Article [0] demonstrates dramatic math capability improvements
+    (GPT 5.4 jumping from prior struggles to 95% on USAMO in one year) suggests rapid capability scaling in mathematical reasoning.
+    Second, Article [6] indicates the research community is actively developing new benchmarks for frontier-level mathematical
+    reasoning. However, neither directly measures progress on FrontierMath Tier 4 specifically. The USAMO result is encouraging
+    but USAMO and FrontierMath Tier 4 are different problem distributions — USAMO success doesn't guarantee Tier 4 breakthrough.
+    Overall trajectory points toward YES but with meaningful uncertainty about whether these other benchmarks correlate with
+    Tier 4 performance.
+- date: '2026-04-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on FrontierMath Tier 4 performance. Article [2, 3] (duplicate) reports
+    GPT-5.4 Pro solving Diophantine equations (unrelated to FrontierMath Tier 4 benchmark specifically). Articles [4, 5] mention
+    FrontierMath benchmark existence but contain no performance data on Tier 4. Critical gap: The baseline shows GPT-5.2 Pro
+    at 29.2% on Tier 4 in January 2026. No current performance figures for any model on FrontierMath Tier 4 are provided in
+    any article. The prediction requires >50% by Dec 31, 2026 — we lack the direct measurement needed to resolve.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://xtech.nikkei.com/atcl/nxt/column/18/03572/040200002/?i_cid=nbpnxt_ranking_com_it_c_05
+  - http://tech.nikkeibp.co.jp/atcl/nxt/column/18/03572/040200002/?i_cid=nbpnxt_ranking_com_all_c_03
+  - https://awesomeagents.ai/news/meta-muse-spark-frontier-debut/
+  - https://www.mindstudio.ai/blog/frontier-math-benchmark-open-research-problems-ai-reasoning/
+  trajectory_signal: 'Articles signal meaningful upward momentum in frontier AI capabilities:'
+- date: '2026-04-19'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://completeaitraining.com/news/ai-solves-six-year-old-math-research-problem-for-the-first/
+  relevance: 'MODERATE: Article [2] provides DIRECT evidence: "An AI solved a six-year-old unsolved math problem from the
+    FrontierMath benchmark" (published 2026-04-13, within preferred date range). This demonstrates concrete FrontierMath problem-solving
+    capability, though it doesn''t specify which tier or provide exact performance metrics on Tier 4 specifically. Critical
+    gap: No confirmation this problem was from Tier 4 (the 50 hardest), and no percentage score provided. The baseline shows
+    GPT-5.2 Pro at 29.2% on Tier 4 as of Jan 2026 — a single solved problem doesn''t quantify whether best performance now
+    exceeds 50%.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/
+  - https://mltimes.ai/gpt-5-4-pro-reshil-zadachu-erdyosha-za-80-minut-terens-tao-n/
+  - https://www.realclearscience.com/2026/04/14/the_ai_revolution_in_math_has_arrived_1176467.html
+  trajectory_signal: Articles [0] and [1] (both 2026-04-15) report GPT-5.4 Pro solving a longstanding Erdős problem in 80
+    minutes with formal verification underway. While this demonstrates impressive mathematical reasoning capabilities and
+    represents algorithmic progress from GPT-5.2 Pro → GPT-5.4 Pro, it does NOT indicate FrontierMath Tier 4 performance specifically.
+    These are momentum signals of rapid capability advancement in mathematical problem-solving but lack direct FrontierMath
+    benchmark scoring. Article [3] (2026-04-14) notes AI solved 5/6 IMO problems in summer 2025, showing strong trajectory
+    in mathematical competition problems but again not FrontierMath-specific data. Together, these suggest positive momentum
+    toward the resolution criteria, but none provide the actual FrontierMath Tier 4 benchmark percentage needed to confirm
+    >50%.
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on FrontierMath Tier 4 performance. Articles [0] and [1] discuss MathNet
+    (a new 30,000+ problem database) but do not report actual Tier 4 benchmark results. Article [2] mentions Google''s Aletheia
+    solving "research-level math problems" but provides no FrontierMath Tier 4 scores and the content is truncated. Article
+    [3] discusses GPQA benchmark controversies and fake leaks—not FrontierMath Tier 4. Article [7] is about Nigerian university
+    exams (irrelevant). Article [8] is a survey of math tooling but contains no Tier 4 performance data. Article [9] is dated
+    2026-04-01 (outside preferred range) and similarly mentions Aletheia without FrontierMath Tier 4 specifics.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/kimi-k2-6-ranks-4th-on-artificial-analysis-intelligence-index-right-behind-top-three-us-frontier-models/
+  - https://smartchunks.com/artificial-analysis-intelligence-index-april-2026-explained/
+  - https://whatllm.org/blog/kimi-k2-6
+  trajectory_signal: Articles [4], [5], and [10] signal positive momentum in frontier model capabilities generally. As of
+    mid-April 2026, GPT-5.4 and Claude Opus 4.7 are tied at top positions on the Artificial Analysis Intelligence Index (57
+    points), with Kimi K2.6 (an open-weights model) reaching 54 points—suggesting rapid capability convergence at the frontier.
+    This indicates the ecosystem is moving toward stronger mathematical reasoning. Articles [0] and [1] show increased availability
+    of hard math benchmarks (MathNet), which could accelerate progress on Tier 4 by providing training data and evaluation
+    infrastructure. However, none of these articles directly measure performance on FrontierMath Tier 4 specifically. The
+    baseline (GPT-5.2 Pro at 29.2% in January 2026) would need to more than double by December 2026 to resolve YES—a steep
+    climb despite positive directional signals. The trajectory points toward YES but evidence is entirely inferential.
+- date: '2026-05-03'
+  summary: 6 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.deeplearning.ai/the-batch/openais-latest-model-gpt-5-5-tops-leaderboards-for-coding-visual-puzzles-and-overall-intelligence/
+  - https://novaknown.com/2026/04/27/erdos-problem-ai-new-move/
+  - https://www.heise.de/en/news/Creative-solution-AI-solves-60-year-old-Erd-s-problem-11276442.html
+  - https://gradientflow.com/ai-in-research-mathematics/
+  - https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/
+- date: '2026-05-10'
+  summary: 1 relevant article
+  sources:
+  - https://phemex.com/news/article/deepminds-ai-comathematician-surpasses-gpt55-pro-in-solving-complex-math-problems-80169
+  relevance: 'MODERATE: Article [1] (Phemex News, 2026-05-09) provides direct evidence on FrontierMath Tier 4 performance.
+    It explicitly states DeepMind''s AI Co-Mathematician achieved 47.9% accuracy on Tier 4, solving 23 out of 48 problems.
+    This directly addresses the prediction criteria by establishing current best performance at 47.9%, which is 2.1 percentage
+    points below the 50% YES threshold. This is concrete, recent evidence (within preferred date range) with specific numerical
+    claims. The article confirms the system beats GPT-5.5 Pro''s prior 39.6%, establishing clear momentum but NOT yet meeting
+    the resolution threshold.'
+  direction: TOWARD_YES
+- date: '2026-05-17'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - http://m.163.com/dy/article/KSIBC8OM0511ABV6.html
+  - https://www.36kr.com/p/3804373708775174
+  - https://eu.36kr.com/en/p/3804043173388038
+  relevance: 'STRONG: Articles [1], [2], and [4] provide direct evidence that Google DeepMind''s AI Co-Mathematician system
+    achieved 48% on FrontierMath Tier 4 in autonomous mode (solving 23 of 48 problems). This is published evidence from May
+    10-11, 2026, well within the preferred date range. The 48% result is directly comparable to the baseline (GPT-5.2 Pro
+    at 29.2% in January 2026) and falls just 2 percentage points short of the 50% YES resolution threshold. The articles corroborate
+    each other and cite the official announcement. However, a critical criteria gap exists: Article [0] (published May 11,
+    2026) reveals that FrontierMath''s human review has flagged "fatal errors in about a third of problems" and that corrected
+    scores will be released after thorough review. This means the 48% score may not be valid against the final corrected dataset—the
+    resolution criteria implicitly assumes valid benchmark measurements. The prediction requires >50% on what appears to be
+    a potentially flawed benchmark version.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://epoch.ai/frontiermath/tiers-1-4
+  - https://epoch.ai/frontiermath/tiers-1-4
+  trajectory_signal: Article [0] signals TRAJECTORY_TOWARD_NO because it introduces material uncertainty about benchmark validity.
+    The discovery of fatal errors in ~33% of Tier 4 problems means the 48% performance figure cannot be relied upon for resolution
+    purposes. A re-evaluation on corrected problems could easily shift results down, moving away from the YES threshold. The
+    trajectory now depends on whether corrected scores remain competitive and whether the benchmark revalidation resolves
+    cleanly.
+- date: '2026-05-24'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://benchlm.ai/benchmarks/frontierMath
+  relevance: 'STRONG: Article [0] provides DIRECT evidence that GPT-5.5 Pro has achieved 52.4% on FrontierMath Tier 4 as of
+    May 21, 2026—exceeding the 50% threshold required for YES resolution. This directly satisfies the resolution criteria.
+    GPT-5.4 Pro also hit exactly 50%. The evidence is current (within the preferred date range) and comes from a primary benchmark
+    source (BenchLM.ai leaderboard). The prediction resolves YES based on this data. No criteria gaps remain—the threshold
+    has been crossed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3610391154230534
+  - https://digg.com/ai/az4c4wt6
+  trajectory_signal: Articles [1] and [9] signal strong momentum toward YES. Article [1] (May 21, Chinese source) confirms
+    top models like GPT-5.5 are performing "excellently" on FrontierMath but notes they haven't achieved "perfect scores,"
+    suggesting continued progress. Article [9] (May 22, Digg citing Epoch AI) reports that reasoning models like OpenAI o1-preview
+    are now solving "previously unresolved math problems" and that Epoch AI found "evidence of acceleration on three of four
+    capability metrics." This indicates sustained rapid improvement in frontier math reasoning. However, these are secondary
+    sources and less definitive than [0]'s direct leaderboard data.
+- date: '2026-05-31'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://benchlm.ai/benchmarks/frontierMath
+  relevance: 'STRONG: Article [10] provides DIRECT evidence: FrontierMath Benchmark results as of May 27, 2026 show GPT-5.5
+    Pro at 52.4% on the overall benchmark. However, this appears to be OVERALL performance, not specifically Tier 4 (the 50
+    hardest problems). The article mentions GPT-5.5 Pro leads at 52.4%, GPT-5.5 at 51.7%, and GPT-5.4 Pro at 50%, but does
+    NOT explicitly break down Tier 4 performance. The baseline context states GPT-5.2 Pro was at 29.2% on Tier 4 in January
+    2026. Without explicit Tier 4 data in [10], there remains a critical gap: we cannot definitively confirm whether the >50%
+    threshold has been exceeded specifically on Tier 4, only on the overall benchmark. The evidence is suggestive but not
+    conclusive for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/openais-brockman-takes-over-product-integration-sora-downgraded-due-to-20506715
+  - https://dev.to/pulkitgovrani/gemma-4-scored-892-on-aime-heres-why-that-number-should-change-how-you-think-about-open-source-5aem
+  - https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/
+  - https://cryptobriefing.com/axiom-math-ai-proofs-peer-reviewed-journals/
+  trajectory_signal: 'Articles [3, 4, 11, 12] show significant momentum toward resolution:'
+- date: '2026-06-07'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://benchlm.ai/benchmarks/frontierMath
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aitimes.com/news/articleView.html?idxno=211153
+  - https://signal-ia-rouge.vercel.app/en/article/leap-supercharging-llms-for-formal-mathematics-with-agentic-frameworks-5fffe5
+  - https://digg.com/ai/xai76umc
+  - https://www.machinebrief.com/news/goedel-architect-transforming-theorem-proving-with-ai-9hld
+  - https://www.gate.com/news/detail/google-deepminds-alphaproof-nexus-solves-9-erds-problems-on-may-26-oldest-21391688
+- date: '2026-06-14'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/
+  relevance: 'STRONG: Article [5] provides DIRECT evidence: Claude Fable 5 achieves 88% on FrontierMath Tier 4 (v2), decisively
+    exceeding the 50% threshold required for YES resolution. This directly satisfies the resolution criteria with substantial
+    margin. The article is recent (2026-06-13, within preferred date range) and provides specific performance metrics from
+    Epoch AI. However, critical gap: Article [5] references "Tier 4 (v2)" while the prediction baseline references performance
+    on Tier 4 without version specification. Article [2] flags that Epoch AI identified errors in one-third of FrontierMath
+    problems, indicating a major audit was underway. Article [4] confirms significant revisions to the benchmark. This raises
+    uncertainty about whether the 88% score on the "revised" v2 benchmark is directly comparable to the baseline scores (GPT-5.2
+    Pro 29.2% on original Tier 4). The benchmark audit creates potential ambiguity about whether resolution should reference
+    v1 or v2 criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/google-deepmind-ai-co-mathematician-hits-479-on-frontiermath-tier-4-beats-20960903
+  - https://fourweekmba.com/fable-5-frontiermath-ai-capability-race/
+  trajectory_signal: Articles [0], [3], [6] document Google DeepMind's AI Co-Mathematician achieving 47.9-48% on Tier 4, representing
+    ~65% improvement from baseline Gemini 3 Pro (19%) in just 5 months. Article [1] signals Claude Fable 5's dominance with
+    headline "crushed" language and explicit comparison framing. These show strong directional momentum toward the 50% threshold
+    from multiple independent research teams (DeepMind and Anthropic), suggesting the capability frontier is advancing rapidly.
+    However, the benchmark audit creates ambiguity about whether these trajectories reflect genuine capability gains or measurement
+    artifacts.
+- date: '2026-06-21'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of best AI performance on FrontierMath Tier 4 exceeding 50%. The baseline
+    (Jan 2026) shows GPT-5.2 Pro at 29.2% on Tier 4. No current articles report Tier 4-specific scores for any model that
+    would confirm or deny resolution. Article [2] mentions "顶尖国际模型如GPT、Gemini在专家级数学难题FrontierMath上表现优异" but provides no Tier
+    4 percentages. Critical gap: the prediction requires Tier 4 performance specifically, not overall FrontierMath scores.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.36kr.com/p/3506820638612608
+  - https://36kr.com/p/3610391154230534
+  - https://36kr.com/p/3329192912710150
+  trajectory_signal: 'Three articles signal directional progress toward YES but fall short of direct evidence:'
+- date: '2026-06-28'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://www.36kr.com/p/3804043173388038
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence: Google DeepMind''s "AI co-mathematician" multi-agent system
+    achieved 48% on FrontierMath Tier 4 in autonomous mode (published 2026-06-26, within preferred date range). This is concrete
+    performance data showing substantial progress from the January 2026 baseline (GPT-5.2 Pro at 29.2%). The 48% result is
+    within striking distance of the 50% threshold but does not yet meet the YES resolution criteria. No gaps in what the article
+    claims—it directly addresses Tier 4 performance on the specific benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3326142457113093
+  trajectory_signal: Article [3] suggests continued rapid capability advances in OpenAI's reasoning models (o4-mini being
+    newer than o3), pointing toward continued progress on mathematical reasoning tasks. Combined with Article [0]'s 48% result
+    from Google, there is momentum within 2 percentage points of resolution threshold, suggesting non-trivial probability
+    of crossing 50% by end-2026. However, the gap from 48% to >50% remains meaningful and trajectory articles do not quantify
+    future performance gains.
+- date: '2026-07-05'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://36kr.com/p/3804043173388038
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3610391154230534
+  - https://m.36kr.com/p/3609407158404102
+  - https://36kr.com/p/3329192912710150
+- date: '2026-07-12'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://benchlm.ai/benchmarks/frontierMathV2Tier4
+  relevance: 'STRONG: Article [0] provides DIRECT evidence: GPT-5.6 Sol achieved 83.0% on FrontierMath v2 Tier 4 as of July
+    11, 2026 — well above the 50% threshold required for YES resolution. This is a concrete, verified leaderboard result from
+    BenchLM.ai with data verification date stated. The prediction resolves YES based on this evidence. Criteria gap: None
+    — the resolution criteria are fully satisfied (any AI >50% = YES).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3804043173388038
+  trajectory_signal: Article [2] (Google's AI co-mathematician at 48%) signals strong momentum toward the threshold but falls
+    slightly short at 48% (autonomous mode). However, published July 10, 2026, it shows rapid progress just days before Article
+    [0]'s 83% result. This trajectory of acceleration from 48% → 83% within days suggests robust capability gains across multiple
+    labs, corroborating the YES direction. Article [7] (GPT-5.6 product launch July 9, 2026) confirms the model family's deployment,
+    contextualizing the strong leaderboard performance as production-ready capability rather than isolated benchmark gaming.
+- date: '2026-07-19'
+  summary: 2 relevant articles, 1 trajectory signal
+  sources:
+  - https://llm-stats.com/benchmarks/frontiermath-tier-4-v2
+  - https://36kr.com/p/3804043173388038
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3610391154230534
+  trajectory_signal: Article [2] (published 2026-07-12) signals MODERATE momentum toward YES. It reports that "topline international
+    models like GPT, Gemini... show excellent performance on FrontierMath," notes AI reasoning ability and RL improvements
+    driving faster capability growth, and indicates performance is accelerating. However, it predates the breakthrough leaderboard
+    results in Article [0] and lacks specific Tier 4 numbers for the period, making it directional rather than confirmatory
+    evidence.
+- date: '2026-07-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://benchlm.ai/benchmarks/frontierMathV2Tier4
+  relevance: 'STRONG: Article [0] provides definitive evidence that the prediction resolves YES: GPT-5.6 Sol has already exceeded
+    50% (achieving 83.0%) on FrontierMath v2 Tier 4 as of July 23, 2026. The resolution criteria are satisfied as of the current
+    date (2026-07-26), well before the December 31, 2026 deadline. No gaps remain for the core resolution question.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3804043173388038
+  - https://36kr.com/p/3610391154230534
+  trajectory_signal: Articles [3] and [4] show strong momentum toward this outcome even before the current leading result.
+    Google DeepMind's 48% result (article [3]) demonstrates that multiple major labs are approaching/nearing the threshold
+    independently, suggesting broad progress across the field. The Epoch AI report reference (article [4]) reinforces that
+    top-tier models are performing "excellently" on FrontierMath. These trajectory signals confirm that reaching >50% represents
+    genuine capability advancement, not a statistical anomaly. The momentum is decisively TOWARD_YES, with multiple pathways
+    evident.
+- date: '2026-08-02'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://zgeo.net/news/gpt-5-6-family-frontiermath-gpt-for-academic-researchers
+  relevance: 'STRONG: Article [5] provides direct evidence: GPT-5.6 Sol achieved 83% on FrontierMath, which exceeds the 50%
+    threshold for resolution YES. Published 2026-07-29, well within the preferred date range. This is concrete performance
+    data on the exact benchmark specified. Criteria gap: The article mentions "FrontierMath" at 83% but doesn''t explicitly
+    specify this is Tier 4 (the 50 hardest problems). However, given the baseline context shows GPT-5.2 Pro at 29.2% on Tier
+    4, and GPT-5.6 Sol''s 83% represents a dramatic improvement consistent with generational model upgrades, this likely reflects
+    overall FrontierMath performance rather than a lower tier. The evidence strongly satisfies resolution criteria if this
+    performance applies to Tier 4 specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/frontiermath-open-problems-benchmark-50-challenges/
+  - https://cryptobriefing.com/frontiermath-ai-solves-galois-group-benchmark/
+  trajectory_signal: Articles [0] and [3] show directional momentum toward YES. Article [0] (2026-07-31) reports FrontierMath
+    expanding benchmarks and AI solving three previously unsolved math questions, signaling accelerating AI mathematical capability.
+    Article [3] (2026-07-28) documents Claude Fable 5 and GPT-5.5 Pro solving a difficult number theory problem, demonstrating
+    rapid capability gains across multiple models approaching the resolution deadline. These signal strong upward momentum
+    in AI math-solving performance, supporting the trajectory toward exceeding 50% on Tier 4. The gap between GPT-5.2 Pro
+    (29.2% baseline) and GPT-5.6 Sol (83% claimed) represents substantial progress in just months.
+- date: '2026-08-09'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.36kr.com/p/3804043173388038
+  relevance: 'MODERATE: Article [1] provides direct evidence: Google''s AI Co-Mathematician system achieved 48% on FrontierMath
+    Tier 4 in autonomous mode. This is the closest evidence to resolution criteria, though still 2 percentage points below
+    the 50% threshold. The article is dated 2026-08-02, within the preferred date range, and contains concrete performance
+    data. However, it describes a multi-agent system rather than a single model, and uses "autonomous mode" which may differ
+    from standard evaluation. Remaining gap: No AI has yet exceeded 50% on Tier 4 as of the article date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3804373708775174
+  - https://m.36kr.com/p/3925318686161024
+  trajectory_signal: Article [5] (same content as [1], different URL) reinforces the 48% result as a recent benchmark achievement.
+    Article [8] documents OpenAI's Astra model breaking 10 open math problems in August 2026, showing rapid recent progress
+    in mathematical reasoning capabilities. However, this describes solving specific open problems rather than Tier 4 benchmark
+    performance. These signal strong momentum toward harder mathematical reasoning, but don't directly measure Tier 4 performance
+    improvement rates needed to predict whether 50% will be crossed by Dec 31, 2026. The trajectory is positive but gap-closing
+    speed remains unclear (need ~2pp improvement from current 48% best performance over ~5 months).
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of current FrontierMath Tier 4 performance by any model. The prediction
+    requires knowing whether any AI exceeds 50% on Tier 4 by Dec 31, 2026. Baseline shows GPT-5.2 Pro at 29.2% (Jan 2026).
+    No articles in this set report updated Tier 4 scores from any model as of Aug 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.36kr.com/p/3130822164945158
+  - https://aiinsiders.net/article/a-fields-medallist-maps-where-llms-excel-at-math-and-where
+  - https://www.gate.com/news/detail/deepseek-v4-achieves-perfect-score-on-putnam-2025-ties-with-axiom-in-formal-20552524
+  trajectory_signal: 'Three articles signal directional progress but fall short of resolution criteria:'

@@ -34,6 +34,8 @@ forecasts:
   human-6: 45
   human-7: 25
   human-8: 38
+  human-9: 30
+  human-10: 32
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -47,3 +49,469 @@ evidence:
   - https://www.facebook.com/groups/DeepNetGroup/posts/2717607568632108/
   - https://llm-stats.com/benchmarks/livecodebench
   - https://www.vals.ai/benchmarks/lcb
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://www.scmp.com/topics/qwen
+  - https://www.vals.ai/benchmarks/lcb
+  - https://llm-stats.com/benchmarks/ifeval
+  - https://www.facebook.com/mattfarmerai/posts/-moonshot-ai-releases-kimi-k25-delivering-claude-level-performance-for-pennies-o/10243205192288613/
+  - https://news.ycombinator.com/item?id=46902223
+  relevance: UNCLEAR. While the evidence titles reference various AI models and benchmarks, none directly address LiveBench
+    Global Average leadership in late 2026 with sufficient clarity to confidently resolve the prediction.
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://failingfast.io/ai-coding-guide/compare/
+  relevance: 'MODERATE: Article [5] provides a February 2026 data snapshot showing Claude Opus 4.5 thinking-32k at 76.0% on
+    LiveBench, which appears to be competitive or leading among models listed (Gemini 3 Pro at 73.4%, GPT-5.2 high reasoning
+    partially cut off at "7"). This is concrete current-week evidence (snapshot date aligns with publication timeframe) directly
+    addressing LiveBench performance.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://llm-stats.com/benchmarks/livebench
+  - https://failingfast.io/ai-coding-guide/compare/
+  relevance: MODERATE
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about Claude''s standing on LiveBench Global Average as of December
+    31, 2026. Articles [2] and [3] reference LiveBench leaderboards but contain no actual ranking data. Article [0] describes
+    LiveBench''s methodology but provides no current rankings. The prediction requires knowing the #1 model on a specific
+    date 10 months in the future—none of these articles resolve this criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://awesomeagents.ai/leaderboards/overall-llm-rankings-feb-2026/
+  - https://failingfast.io/ai-coding-guide/compare/
+  - https://www.nxcode.io/resources/news/claude-sonnet-4-6-complete-guide-benchmarks-pricing-2026
+  trajectory_signal: 'Articles [1], [6], and [8] show positive momentum for Anthropic:'
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about Claude''s position on LiveBench Global Average as of December
+    31, 2026. Article [1] explicitly states "Gemini 3.1 Pro Takes the Benchmarks Crown" (Feb 2026), directly contradicting
+    the YES resolution criteria. However, this is current-state evidence, not end-of-year resolution evidence. The prediction
+    requires knowing Claude''s ranking on the specific LiveBench benchmark on a future date (Dec 31, 2026), which no article
+    addresses.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://pub.towardsai.net/tai-193-gemini-3-1-pro-takes-the-benchmarks-crown-but-can-it-catch-up-in-the-tools-race-59883f233013
+  - https://designforonline.com/the-best-ai-models-so-far-in-2026/
+  - https://whatllm.org/blog/best-coding-models-january-2026
+  trajectory_signal: 'Articles [1], [2], and [3] show competitive momentum AWAY from Anthropic:'
+- date: '2026-03-08'
+  summary: 2 trajectory signals
+  relevance: 'NONE: The prediction requires direct evidence of Claude holding #1 on LiveBench Global Average on December 31,
+    2026. No articles provide this. Article [5] describes LiveBench itself but contains no current leaderboard rankings. Articles
+    [0], [1], [2], [4], [6], [8], [9], [11], [12], [13] reference various benchmarks and leaderboards but either lack publication
+    dates, show unclear/garbled content, or reference different benchmarks (LiveCodeBench, WhatLLM, LM Council, etc.) rather
+    than LiveBench specifically. None show current LiveBench Global Average standings or confirm Claude''s position relative
+    to competitors on that specific metric.'
+  trajectory_sources:
+  - https://www.thepromptbuddy.com/prompts/the-ai-model-rush-of-february-2026-every-major-launch-compared-and-explained
+  - https://integratedcognition.com/blog/march-2026s-ai-launch-wave-what-lawyers-should-make-of-gpt-54-claude-sonnet-46-gemini-31-pro-grok-420-glm-5-minimax-m25-and-the-deepseek-question
+  trajectory_signal: 'Articles [3] and [14] provide momentum signals indicating intense competitive activity in March 2026.
+    Article [3] (Feb 28, 2026) documents "eight major models" shipping in 19 days, including Claude Opus 4.6, GPT 5.3 Codex,
+    and Gemini 3 Pro. Article [14] (Mar 7, 2026) describes a "rolling wave of releases" including Claude Sonnet 4.6 (late
+    Feb), GPT-5.4 (Mar 5), Gemini 3.1 Pro (late Feb), and others. This signals intensifying competition that could affect
+    benchmark standings either direction. Article [12] (Feb 26, 2026) shows Gemini 3.1 Pro Preview at rank #1 on one leaderboard
+    (score 97), suggesting competitive pressure against Anthropic. These suggest the landscape is highly dynamic 9 months
+    before resolution, but provide no specific LiveBench Global Average data to assess Claude''s actual position or trajectory
+    on the target metric.'
+- date: '2026-03-15'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average rankings as of March 15, 2026 or positioning
+    toward December 31, 2026. The resolution criteria requires specific data: whether Anthropic''s Claude model holds the
+    #1 position on LiveBench''s Global Average metric on the target date. None of the articles retrieved contain this information.
+    Article [0] mentions LiveBench exists but discusses coding benchmarks within BenchLM.ai''s system, not LiveBench Global
+    Average rankings. No articles report current LiveBench Global Average leaderboard standings.'
+  trajectory_sources:
+  - https://techmonk.economictimes.indiatimes.com/news/ai/anthropic-launches-claude-opus-4-6-with-adaptive-reasoning-and-1m-token-context/129512345
+  - https://winbuzzer.com/2026/03/10/anthropic-claude-opus-46-cracked-browsecomp-benchmark-answer-key-xcxwbn/
+  - https://www.newsbreak.com/winbuzzer-com-302470011/4532293556853-how-anthropic-s-claude-opus-4-6-broke-its-own-ai-benchmark
+  - https://www.xda-developers.com/qwen-3-5-9b-tops-ai-benchmarks-not-how-pick-model/
+  trajectory_signal: 'Articles [2, 4] report Claude Opus 4.6 breaking "its own AI benchmark" (BrowseComp), suggesting capability
+    improvements. Article [1] announces Claude Opus 4.6 launch with "adaptive reasoning" and expanded context window—directionally
+    positive for performance. Article [7] claims "Qwen3.5-9B tops every AI benchmark right now" (published 2026-03-12), which
+    if accurate would signal competition against Anthropic. However, these articles reference various benchmarks (BrowseComp,
+    unspecified "benchmarks," SWE-bench in article [10]) but NOT LiveBench Global Average specifically. The trajectory signals
+    are mixed: Anthropic appears to be advancing Claude capabilities, but Qwen is also showing strong benchmark performance.
+    Without LiveBench-specific data, these represent general momentum in the capability arms race rather than evidence toward
+    this specific prediction.'
+- date: '2026-03-22'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://deadspin.com/prediction-markets/trending/claude-overtakes-gemini-in-2026-best-ai-prize-prediction-market/
+  relevance: 'MODERATE: Article [3] provides direct evidence relevant to resolution: it reports that Claude has overtaken
+    Gemini in prediction market rankings on Kalshi as of March 16, 2026, with 43% probability of being "best AI at the end
+    of 2026." This is quasi-direct evidence about market expectations for the specific timeframe. However, critical gaps remain:
+    (1) Kalshi measures "best AI" generally, not specifically "#1 on LiveBench Global Average"; (2) the prediction is 43%
+    probability, meaning other labs still have substantial chances; (3) this reflects market sentiment, not actual LiveBench
+    rankings as of March 22, 2026. The article provides directional signal about Claude''s competitive position but does not
+    confirm current LiveBench rankings or guarantee December 31 outcome.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.sentisight.ai/anthropics-claude-opus-4-6-sets-a-new-bar/
+  - https://go.theregister.com/feed/www.theregister.com/2026/03/19/anthropic_claude_market_share/
+  trajectory_signal: Articles [9] and [10] signal positive momentum for Anthropic/Claude. Article [9] reports Claude Opus
+    4.6 released in February 2026 "sets a new bar for AI capability," with rapid iteration cadence (new version every ~3 months).
+    Article [10] headlines Claude "claws its way towards the top of the AI chart" as of March 19, 2026. These indicate Claude
+    gaining ground on competitors and building positive momentum heading into the end-2026 resolution window. However, competing
+    models from Google (Gemini 3 series, articles [4, 7]) and Alibaba (Qwen3.5, article [8]) also show strong benchmark performance,
+    suggesting competitive pressure remains substantial. Overall trajectory shows Claude moving upward but with multiple strong
+    competitors still in contention.
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average standings or Claude''s position on
+    that specific benchmark as of late March 2026. The prediction requires Anthropic/Claude to be #1 on LiveBench specifically
+    by December 31, 2026—a very particular resolution criterion that none of these articles address.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://whatllm.org/blog/llm-releases-march-2026
+  - https://byteiota.com/gemini-3-1-pro-scores-77-on-arc-agi-2-beats-claude-and-gpt/
+  trajectory_signal: 'Article [5] (Mar 24) reports GPT-5.4 "tied for #1" with Gemini 3.1 Pro Preview on an unspecified benchmark,
+    with no mention of Claude or LiveBench. Article [11] (Mar 22) shows Gemini 3.1 Pro beating Claude Opus 4.6 and GPT-5.2
+    on ARC-AGI-2 (77.1% vs 68.8% for Claude). These signals suggest momentum TOWARD_NO: competitors (GPT-5.4, Gemini 3.1 Pro)
+    are currently outperforming Claude on major benchmarks in March 2026. However, these are not LiveBench results, so the
+    directional signal is weak and may not be predictive of LiveBench standings 9 months later. Articles [1], [4], [6], [7],
+    [8], [9], [10], [12] discuss other benchmarks or general AI progress but contain no relevant comparative performance data
+    for Claude vs competitors.'
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average standings as of April 5, 2026. The
+    prediction requires Anthropic/Claude to hold #1 specifically on LiveBench''s Global Average metric on December 31, 2026.
+    None of the articles reference LiveBench Global Average directly or provide current standings on that benchmark. Article
+    [2] has a headline claiming "Claude Claims AI Crown" but contains no substantive content to verify this claim. The remaining
+    articles discuss various other benchmarks (SWE-bench, MMLU, Arena Elo, Terminal-Bench, coding benchmarks) but do not address
+    LiveBench Global Average performance.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://azat.tv/en/claude-ai-2026-benchmark-winner/
+  - https://aiproductivity.ai/news/qwen-3-6-plus-beats-claude-terminal-benchmarks/
+  - https://techkrest.com/googles-gemini-3-1-pro-outshines-claude-disrupts-openai-takes-the-lead-in-ai-race
+  - https://www.digitalapplied.com/blog/openrouter-rankings-april-2026-top-ai-models-data
+  trajectory_signal: 'Multiple articles signal competitive pressure away from Claude dominance:'
+- date: '2026-04-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average rankings as of December 31, 2026. The
+    prediction requires specific confirmation that Claude holds the #1 position on that exact benchmark on that exact date.
+    No articles report LiveBench Global Average standings or Claude''s ranking on that specific metric. Articles discuss other
+    benchmarks (SWE-Bench Pro, MMLU, GPQA, etc.) but not LiveBench Global Average specifically.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://officechai.com/ai/claude-mythos-preview-benchmarks-swe-bench-pro/
+  - https://officechai.com/ai/z-ai-glm-5-1-benchmarks-swe-bench-pro/
+  trajectory_signal: 'Article [1] shows Anthropic''s Claude Mythos Preview achieving strong coding benchmark results (77.8
+    on SWE-Bench Pro), suggesting upward momentum in model capabilities. However, Article [0] reports GPT-4o leading on "Unbiased
+    AI Arena" (April 5), and Articles [2] and [8] document China''s GLM-5.1 topping SWE-Bench Pro (April 7-8), indicating
+    competitive pressure from multiple directions. Article [9] (April 7) contains negative signal about Claude''s reliability
+    in complex engineering tasks per AMD. The trajectory shows mixed signals: Anthropic has strong capabilities emerging (Mythos),
+    but competitive models are also advancing rapidly, and there are documented concerns about Claude''s trustworthiness in
+    engineering applications. This suggests the path to #1 on LiveBench Global Average by Dec 31, 2026 faces meaningful headwinds,
+    though Anthropic''s capabilities are clearly advancing.'
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether Claude will hold #1 on LiveBench Global Average on December
+    31, 2026. The prediction requires knowledge of: (1) current LiveBench Global Average standings, (2) whether Claude is
+    currently #1, and (3) competitive positioning through end-2026. None of the articles address LiveBench specifically or
+    its global average metric.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.thurrott.com/a-i/anthropic/335020/anthropic-announces-claude-opus-4-7
+  - https://www.implicator.ai/stanfords-2026-ai-index-puts-us-lead-over-china-at-2-7-as-deepseek-v4-stalls/
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://dev.to/owen_fox/llm-leaderboard-best-ai-models-ranked-april-2026-mf0
+  relevance: 'MODERATE: Article [5] directly addresses LiveBench performance with a specific claim: "Claude Opus 4.7 dominating
+    coding benchmarks at 82% on SWE-bench Verified and ranking first on LM Arena with 1504 Elo rating" and "Three models tied
+    at the top of the Artificial Analysis Intelligence Index (score of 57), including Claude 4.7, Gemini 3.1 Pro Preview,
+    and GPT-5.4." This provides concrete evidence on current benchmark rankings as of April 23, 2026, showing Anthropic competitive
+    or leading on multiple metrics. However, critical gap: this does NOT directly confirm Claude''s position on LiveBench
+    Global Average specifically—the prediction''s actual resolution criterion. The article covers SWE-bench, LM Arena, and
+    Artificial Analysis Index, but doesn''t explicitly state LiveBench Global Average rankings. This is the specific metric
+    that matters for resolution on Dec 31, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ilpuntontc.it/tecnologia/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm/104402/
+  - https://dev.to/richard_dillon_b9c238186e/ai-weekly-agent-wars-escalate-as-anthropic-reclaims-benchmark-crown-and-infrastructure-reality-2fec
+  trajectory_signal: Articles [0] and [1] show Anthropic actively releasing improved models (Opus 4.7) and reclaiming benchmark
+    leadership positions in late April 2026. This signals positive momentum and continued competitive capability development
+    heading into the final 8 months before the December 31, 2026 resolution date. However, the trajectory is contested—articles
+    [3] and [8] show Moonshot AI's Kimi K2.6 also performing competitively, and [6] describes Opus 4.7 and GPT-5.4 as "neck
+    and neck," suggesting the race remains tight with no clear inevitable winner.
+- date: '2026-05-03'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on LiveBench Global Average rankings as of the publication dates.
+    Articles [0-4] discuss BioMysteryBench (a domain-specific bioinformatics benchmark created by Anthropic), which does not
+    measure LiveBench performance. While these show Claude capability improvements, they are orthogonal to the specific resolution
+    criteria (LiveBench #1 ranking on Dec 31, 2026). Critical gap: None of these articles cite LiveBench scores, leaderboard
+    positions, or comparative rankings against other labs on LiveBench specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.winzheng.com/en/news/yz-index-model-lineup-upgrade-may-2026
+  - https://covenai.io/blog/coding-agent-wars-april-2026
+  - https://webiano.digital/gpt-5-5-claude-opus-4-7-and-deepseek-v4-reveal-three-different-futures-for-ai/
+  trajectory_signal: 'Articles [5, 6, 7] signal significant momentum toward YES by documenting a rapid competitive escalation
+    in early-to-mid April 2026:'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average rankings as of December 31, 2026. The
+    prediction requires specific data from that benchmark on that date, which obviously cannot exist yet (current date is
+    May 17, 2026). No article discusses LiveBench specifically or provides current standings on that particular benchmark
+    that would constitute TIER 1 evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aiarainia.com/en/news/tools/claude-code-sf-2026-agent-platform-upgrades
+  - https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/
+  - https://aihola.com/article/metr-claude-mythos-time-horizon
+  trajectory_signal: 'Three articles signal Claude momentum across related benchmarks:'
+- date: '2026-05-24'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average standings on December 31, 2026. Article
+    [0] discusses coding task benchmarks but does not reference LiveBench specifically or current rankings. Articles [2] and
+    [3] discuss the Artificial Analysis Intelligence Index, not LiveBench. Articles [1], [5], [6] discuss LiveBench but report
+    that Chinese model Step-2 (from Jieyue Xingchen) currently ranks #1 on LiveBench Global Average, with Claude Opus 4.7
+    ranking lower (second or third based on context clues). Article [4] discusses Claude Mythos''s SWE-bench performance,
+    not LiveBench Global Average. Article [7] attempts to connect to LiveBench but provides no readable data. The critical
+    gap: no article provides the actual current LiveBench Global Average rankings needed to assess whether Claude holds #1
+    as of May 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://36kr.com/p/3045654222113672
+  - https://medium.com/@pixipace/i-tested-gpt-5-5-for-a-week-then-claude-mythos-dropped-and-changed-the-math-fa791c75fbca
+  trajectory_signal: 'Articles [1] and [6] show directional momentum AWAY from YES resolution. They indicate that as of May
+    2026 (7 months before resolution date), a Chinese competitor (Step-2) holds the #1 position on LiveBench, with Claude
+    ranking below it. Article [4] signals Claude Mythos achieving strong performance (93.9% on SWE-bench), suggesting Anthropic
+    capability advancement, but this is a different benchmark and doesn''t directly address LiveBench Global Average position.
+    The trajectory suggests competitive pressure on Claude''s ranking and demonstrates that non-Anthropic models are currently
+    ahead on the specific benchmark that resolves this prediction.'
+- date: '2026-05-31'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average standings as of December 31, 2026.
+    The prediction requires specific data showing Anthropic #1 on that particular benchmark on that date. None of the articles
+    reference LiveBench Global Average scores or rankings. Critical gap: LiveBench Global Average is a specific metric distinct
+    from SWE-Bench, coding benchmarks, and other general leaderboards mentioned in these articles.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment
+  - https://magicshot.ai/news/claude-opus-4-8-release-features-benchmarks/
+  - https://webdeveloper.com/news/anthropic-claude-opus-4-8/
+  - https://thecreatorsai.com/p/opus-48-anthropic-965b-gpt-55-wins
+  trajectory_signal: 'Articles 1, 2, 3, and 8 show mixed momentum that leans TOWARD_NO:'
+- date: '2026-06-07'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence about LiveBench Global Average standings on December 31, 2026. The
+    prediction requires showing that Claude holds the #1 position specifically on LiveBench''s Global Average metric on that
+    exact date. Articles [0], [1], [2] discuss Claude Opus 4.8''s performance on various benchmarks (Artificial Analysis Intelligence
+    Index, SWE-bench), but these are different benchmarks than LiveBench Global Average. Article [5] mentions SWE-bench Verified
+    performance. Article [9] mentions ViBench results. None of these sources directly report LiveBench Global Average standings
+    or confirm Claude''s #1 position on that specific metric as of the publication dates.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yellow.com/news/opus-48-tops-index-mythos-hacking
+  - https://startupfortune.com/anthropics-claude-opus-48-outpaces-gpt-55-on-benchmarks-while-making-ai-agents-smarter-and-more-honest/
+  - https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d
+  - https://securityboulevard.com/2026/06/10-best-ai-models-for-coding-in-2026/
+  - https://digg.com/ai/5lr0pona
+  trajectory_signal: 'Multiple articles signal positive momentum for Anthropic''s Claude in mid-2026:'
+- date: '2026-06-14'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.linkedin.com/pulse/claude-fable-5-launches-1-artificial-analysis-intelligence-vxsmc
+  relevance: 'MODERATE: Article [10] provides direct evidence that Claude Fable 5 launched at #1 on the Artificial Analysis
+    Intelligence Index as of June 10, 2026, with a ~5 point lead over competitors. However, the prediction requires #1 on
+    LiveBench Global Average specifically (not Artificial Analysis Intelligence Index), which is a different benchmark. This
+    is a critical criteria gap — the article doesn''t address LiveBench performance. Without confirmation that Claude holds
+    #1 on LiveBench Global Average at this date, we cannot definitively say the resolution criteria are met, though the strong
+    performance on a major index is encouraging signal.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/raxxostudios/claude-fable-5-vs-gpt-55-vs-gemini-31-pro-who-leads-now-4fcb
+  - https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/
+  - https://nerdschalk.com/claude-fable-5-vs-the-world-benchmarks-safety-rails-and-what-users-really-think/
+  - https://the-decoder.com/claude-fable-5-the-first-mythos-model-is-powerful-expensive-and-heavily-filtered/
+  trajectory_signal: Claude Fable 5's June 10 launch shows strong momentum across multiple benchmarks, positioning Anthropic
+    competitively. However, the emergence of ALE where GPT-5.5 leads suggests the competitive landscape is dynamic. By December
+    31, 2026 (6+ months away), other labs may close the gap or establish new benchmarks where they lead. The trajectory shows
+    current strength but also validates that leadership is contested.
+- date: '2026-06-21'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://cryptobriefing.com/anthropic-claude-fable-5-epoch-capabilities-index/
+  - https://digg.com/tech/s0b6s7ub
+  - https://officechai.com/ai/glm-5-2-places-4th-on-artificial-analysis-intelligence-index-becomes-most-capable-open-model/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://vals.ai/benchmarks/lcb
+  - https://lmmarketcap.com/benchmarks
+  - https://lmcouncil.ai/benchmarks
+  trajectory_signal: Articles [1], [3], and [8] show breadth of benchmark tracking across multiple leaderboards (Chatbot Arena+,
+    multiple benchmarks, LM Council comparisons) that collectively demonstrate Claude's strong momentum across the evaluation
+    ecosystem. This suggests strong infrastructure for Claude to maintain/improve rankings, but doesn't reveal current LiveBench
+    Global Average standing specifically. The trajectory is clearly positive for Claude's competitive position, but trajectory
+    toward the specific resolution metric remains unclear.
+- date: '2026-06-28'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://failingfast.io/ai-coding-guide/compare/
+  relevance: MODERATE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://dev.to/tessl-io/anthropic-openai-or-cursor-model-for-your-agent-skills-7-learnings-from-running-880-evals-5gh6
+  - https://aiweekly.co/alerts/claude-opus-47-surpasses-nature-family-sota-on-only-178-of-tasks
+  - https://www.implicator.ai/sakana-fugu-launches-with-93-2-livecodebench-score-after-claude-ban/
+  - https://aiweekly.co/newsletters/ai-deep-learning/a-744b-open-model-just-lapped-the-labs
+- date: '2026-07-05'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://tech-insider.org/au/claude-opus-4-8-2026/
+  relevance: 'MODERATE: Article [4] provides direct evidence relevant to resolution criteria. It confirms Claude Opus 4.8
+    achieved #1 ranking on the Artificial Analysis Intelligence Index (61.4 score vs GPT-5.5''s 60.2) as of early July 2026.
+    However, critical gaps remain: (1) LiveBench Global Average is the specific benchmark named in prediction criteria—this
+    article discusses Artificial Analysis Intelligence Index, which may be different; (2) the article does not confirm this
+    ranking specifically on LiveBench; (3) December 31, 2026 is the resolution date, and rankings can shift significantly
+    in 6 months. The article provides evidence Anthropic is competitive and capable of #1 positions on major benchmarks currently,
+    but doesn''t directly satisfy the LiveBench-specific criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://charonhub.deeplearning.ai/anthropic-opus-4-8-leaps-forward/
+  trajectory_signal: 'Article [3] signals moderate momentum. It reports Claude Opus 4.8 "won back the high-performance crown"
+    and "held the top of a leading intelligence ranking for about a week" before being "overtaken by Claude Fable 5." This
+    indicates: (1) Anthropic models are actively competing for #1 positions; (2) leadership is volatile and contested; (3)
+    newer Claude variants (Fable 5) may be emerging. The direction is mixed—shows Anthropic strength but also shows other
+    models can leapfrog. Articles [0], [1], [2] are generic benchmark aggregators without specific current rankings stated
+    clearly enough to extract directional signal.'
+- date: '2026-07-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about LiveBench Global Average standings as of July 19, 2026. The
+    prediction specifically requires Anthropic/Claude to hold #1 on LiveBench Global Average by December 31, 2026. None of
+    the articles address this specific benchmark or metric. Article [1] mentions LiveCodeBench (a coding-specific benchmark,
+    not LiveBench Global Average) where Claude Fable 5 leads, but this is a different benchmark entirely. Articles [0], [2],
+    [4] reference other leaderboards (LM Market Cap, Neura Intelligence Index, Chatbot Arena+, AAII) but none mention LiveBench
+    Global Average specifically. Critical gap: no data on the actual target metric.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://vals.ai/benchmarks/lcb
+  - https://artificialanalysis.ai/articles/four-frontier-launches-in-eight-days-six-labs-now-field-a-model-above-50-on-the-artificial-analysis-intelligence-index
+  trajectory_signal: 'Articles [1] and [8] provide directional signals suggesting competitive pressure has intensified significantly
+    since early July 2026. Article [8] reports "four frontier launches in eight days" with six labs now fielding models scoring
+    above 50 on the Artificial Analysis Intelligence Index (up from two in early June). Multiple articles [6], [9], [10],
+    [11] document Moonshot AI''s Kimi K3 achieving #1 rankings on specialized benchmarks (Frontend Code Arena), surpassing
+    Claude Fable 5. While these are domain-specific victories rather than general average performance, they indicate the frontier
+    is becoming more competitive and Claude''s dominance is eroding in certain areas. However, this momentum data addresses
+    different benchmarks than the prediction''s LiveBench Global Average criterion. The trajectory suggests increasing competition
+    that could threaten Claude''s position on any composite metric, but provides no specific evidence about LiveBench standing.'
+- date: '2026-07-26'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Claude''s current standing on LiveBench Global Average as of July
+    26, 2026. The prediction requires verification that Claude holds #1 on that specific benchmark on December 31, 2026. None
+    of the articles accessed contain LiveBench Global Average rankings or confirm Claude''s current position on that metric.
+    Articles [0-5, 8-9] discuss Claude Opus 5''s launch and performance on various benchmarks (coding, knowledge work, general
+    evaluations), but do not reference LiveBench Global Average specifically. The Dataconomy article [8] shows Claude Opus
+    5 ranked #2/573 on "Intelligence" and #5/197 on "Coding" across some leaderboard, but this is not confirmed as LiveBench
+    Global Average. CRITERIA GAPS: No verification of LiveBench Global Average rankings; no confirmation of Claude''s current
+    #1 status or competitor positions on that specific metric.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.anthropic.com/news/claude-opus-5
+  - https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html
+  - https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding
+  - https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/
+  - https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/
+  trajectory_signal: 'Strong upward momentum signals for Claude''s competitive position:'
+- date: '2026-08-02'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://mlq.ai/news/anthropic-launches-claude-opus-5-tops-ai-benchmark-index-at-half-the-cost-of-fable-5/
+  relevance: 'MODERATE: Article [3] provides direct evidence relevant to resolution: it states "Anthropic Launches Claude
+    Opus 5, Tops AI Benchmark Index at Half the Cost of Fable 5" (published 2026-07-26). This explicitly claims Claude topped
+    "AI Benchmark Index," though the article content is truncated and doesn''t confirm this refers to LiveBench Global Average
+    specifically. This is the closest to TIER 1 evidence available, but the truncated content creates ambiguity about whether
+    this is LiveBench Global Average data or another benchmark. The claim about topping a benchmark index is material to the
+    prediction, but verification gaps remain regarding which specific benchmark and current standing.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://me.pcmag.com/en/ai/37745/claude-opus-5-is-here-tops-fable-5-on-agentic-search-anthropic-says
+  - https://ca.news.yahoo.com/claude-opus-5-anthropic-says-221513247.html
+  - https://itbrief.asia/story/anthropic-launches-claude-opus-5-as-default-on-max
+  - https://groundtruth.day/news/kimi-k3-topped-a-fullstack-coding-board-at-maximum-effort.html
+  trajectory_signal: Articles [0], [1], [4] document Claude Opus 5's launch (July 26-27) showing strong performance in specific
+    domains (agentic search, coding, computer-use tasks) while acknowledging gaps in others (legal reasoning, multidisciplinary
+    tasks without tools vs. Fable 5). Article [11] shows Kimi K3 leading Code Arena's WebDev leaderboard as of July 23, then
+    slipping to second by July 28, indicating competitive volatility. These articles signal Claude is performing strongly
+    but faces competition from both Fable 5 (OpenAI) and emerging Chinese models. The trajectory shows Anthropic pushing capabilities
+    forward and competing for top positions on specific benchmarks, but doesn't yet confirm LiveBench Global Average leadership
+    as of August 2026. Chinese models (articles [5-9]) show rapid gains (6% performance gap) with Chinese models occupying
+    multiple LiveBench positions, representing directional pressure toward NO.
+- date: '2026-08-09'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on the specific resolution criterion: whether Claude holds #1 on LiveBench
+    Global Average on December 31, 2026. The prediction requires data from LiveBench''s Global Average leaderboard on that
+    exact date. None of the articles reference LiveBench Global Average specifically or provide current standings on that
+    benchmark. Article [0] mentions "LiveBench (Coding)" in the title but provides no actual content. Articles [1-8] discuss
+    various other benchmarks (Fullstack Code Arena, Terminal-Bench 2.1, Artificial Analysis Intelligence Index, Agentic Index)
+    and models from competing labs (Qwen3.8-Max, Kimi K3, GPT-5.6), but not LiveBench Global Average rankings.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://cryptobriefing.com/opus-5-tops-fullstack-code-arena-leaderboard/
+  - https://bitrss.com/anthropic-ships-claude-opus-4-7-as-mythos-stays-under-lock-and-key-201924
+  trajectory_signal: 'Articles [1] and [7] show Anthropic releasing Claude Opus 5 and 4.7 respectively, with strong performance
+    claims on specialized benchmarks (Fullstack Code Arena, coding tasks). However, articles [2-6] and [8] present concerning
+    signals: Alibaba''s Qwen3.8-Max is matching or exceeding Claude models on multiple recent benchmarks (Terminal-Bench 2.1,
+    Artificial Analysis Intelligence Index at 56 vs Claude Opus 4.8 also at 56), and Kimi K3 scores higher than Qwen3.8 Max
+    while costing 25% less. The competitive landscape is tightening with Chinese models closing gaps rapidly. This trajectory
+    suggests momentum is shifting TOWARD_NO for the December 2026 resolution, as competitors are demonstrably catching up
+    across multiple evaluation frameworks, though LiveBench Global Average specifically remains unmeasured in these articles.'
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about Claude''s standing on LiveBench Global Average as of December
+    31, 2026. The prediction requires specific LiveBench rankings, which none of these articles address. Article [0] mentions
+    LMSys Arena Elo rankings (not LiveBench), Article [4] discusses Anthropic''s internal safety benchmarks (not LiveBench),
+    and Articles [5-10] discuss various other metrics (website traffic, token usage, pricing comparisons, InferenceBench,
+    Evo-Bench) but none measure LiveBench Global Average performance. Critical gap: No current LiveBench standings are reported.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://digg.com/tech/t9nxkpxr
+  - https://www.businessinsider.com/anthropic-fable-5-openai-gpt-5-6-sol-ramp-2026-8
+  - https://aiweekly.co/alerts/evo-bench-measures-if-llms-can-rewrite-their-own-agent-harness
+  trajectory_signal: 'Articles signal momentum AWAY from a YES resolution:'
+- date: '2026-08-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on LiveBench Global Average standings as of December 31, 2026. The
+    prediction requires verification of Anthropic''s position on this specific benchmark on that specific date. None of the
+    articles discuss LiveBench specifically or Anthropic''s ranking there. Articles [2] and [10] reference other benchmarks
+    (intelligence rankings and Agentic Index) but not LiveBench. The resolution criteria are unmet by any article.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://bitcoinethereumnews.com/tech/anthropic-claude-opus-tops-ai-intelligence-rankings/
+  - https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks
+  - https://aiinsiders.net/article/anthropic-keeps-its-most-capable-model-internal-report-shows
+  - https://247wallst.com/cards/xpost-01m0g1ygszqwvxrp9x5tfen8g2
+  trajectory_signal: 'Articles 2, 3, 4, and 10 collectively signal momentum AWAY from the YES resolution:'
+- date: '2026-08-30'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://diretonoticias.com.br/2026/08/24/inteligencia-artificial-chinesa-pressiona-bilhoes-americanos-com-precos-80-menores/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding
+  - https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-avo-pushes-claude-opus-5-to-a-perfect-arc-agi-3-benchmark-score/
+  - https://www.hypernova.news/article/claude-fable-5-debuts-as-first-mythos-class-model-tops-agentic-test
+  - https://www.webpronews.com/ai-coding-agents-hit-record-benchmarks-yet-struggle-with-real-codebases/
+- date: '2026-09-06'
+  summary: 2 relevant articles, 10 trajectory signals
+  sources:
+  - https://cybersentinelnews.com/anthropics-claude-fable-5-1-tops-ai-index-openais-gpt-6-astra-rises/
+  - https://aiweekly.co/alerts/artificial-analysis-v42-doubles-private-test-weight-to-40
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitaltoday.co.kr/en/view/99211/anthropic-claude-fable-5-1-rated-number-one-beating-gpt-and-grok
+  - https://www.trendingtopics.eu/gpt-6-astra-trails-top-models-from-anthropic-and-meta-in-benchmarks/
+  - https://pressreleasecloud.io/ai-technology-trends/introducing-the-artificial-analysis-intelligence-index-v4-2/
+  - https://www.cnbctv18.com/technology/anthropics-claude-fable-5-1-claims-worlds-best-in-coding-knowledge-tasks-cites-venus-map-as-proof-19981972.htm
+  - https://cryptobriefing.com/fable-5-1-tops-code-arena-webdev/

@@ -5,10 +5,12 @@ category: AI Capabilities
 baseline: 'Jan 2026: GPT-5.2+OpenHands 26.5%, Opus 4.5+OpenHands 24.5%. GSO = 102 codebase optimization tasks.'
 resolution_criteria: 'YES: Any AI >60%. NO: Best ≤60%.'
 search_keywords:
-- GSOBench
-- codebase optimization
-- Best Hack-Adjusted Opt@1 on GSOBench will exceed 6
-- AI code optimization
+- GSOBench leaderboard Opt@1 score 2026
+- GSOBench hack-adjusted performance
+- gso-bench results update
+- AI codebase optimization benchmark
+- GSOBench OpenHands Opus GPT score
+- optimize_anything benchmark results
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +34,8 @@ forecasts:
   human-6: 15
   human-7: 25
   human-8: 80
+  human-9: 50
+  human-10: 50
 evidence:
 - date: '2026-02-01'
   summary: Found 4 articles
@@ -45,3 +49,439 @@ evidence:
   - http://bsdimp.blogspot.com/
   - http://grepolis.blogspot.com/
   - http://geoffburns.blogspot.com/
+- date: '2026-02-07'
+  summary: Found 10 articles
+  sources:
+  - https://www.diracs-student.blog/
+  - https://llm-stats.com/benchmarks/octocodingbench
+  - https://solvedbycode.ai/blog/github-ai-coding-explosion-january-2026
+  - https://solvedbycode.ai/blog/claude-code-vs-cursor-vs-codex-vibe-coding-comparison-2026
+  - https://llm-stats.com/benchmarks/ifeval
+  relevance: UNCLEAR. Without seeing the actual evidence content, there's not enough context to confidently assess whether
+    the prediction about GSOBench performance will be resolved positively or negatively.
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://manifold.markets/Bayesian/what-will-be-the-best-gsobench-scor
+  - https://gso-bench.github.io/
+  relevance: 'MODERATE: Article [0] provides betting market odds suggesting 20% probability of 60-70% range by Dec 31 2026,
+    and article [1] describes the GSO benchmark and Opt@1 metric directly, though neither contains current performance data
+    to assess likelihood of exceeding 60%.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://gso-bench.github.io/
+  relevance: 'MODERATE: Article [1] describes the GSO benchmark and defines Opt@1 metric (fraction of tasks achieving ≥95%
+    human speedup), establishing the measurement framework, but contains no current performance data or trajectory information
+    relevant to the 60% threshold prediction.'
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://gepa-ai.github.io/gepa/blog/2026/02/18/introducing-optimize-anything/
+  - https://ascii.co.uk/news/article/news-20260220-bd1d960d/anthropic-releases-optimize_anything-universal-llm-based-tex
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of current GSOBench hack-adjusted Opt@1 scores or progress toward
+    the 60% threshold by December 31, 2026. Article [0] is a Manifold prediction market showing community forecasts (20% probability
+    on 60-70% range, 21% on 70-80%), which is weak evidence—prediction markets reflect sentiment, not ground truth performance
+    data. Articles [1], [2], and [3] describe the GSO benchmark itself and reference a leaderboard, but provide no actual
+    performance scores or recent results. The baseline context (GPT-5.2+OpenHands at 26.5%, Opus 4.5+OpenHands at 24.5% as
+    of January 2026) shows current performance is 26.5 percentage points below the 60% threshold, representing a 100% improvement
+    needed in ~10 months. No articles show recent benchmark results, model performance updates, or methodological advances
+    that would indicate trajectories toward this target.'
+  trajectory_sources:
+  - https://manifold.markets/Bayesian/what-will-be-the-best-gsobench-scor
+  - https://gso-bench.github.io/
+  - https://livecodebench.github.io/gso.html
+  - https://epoch.ai/benchmarks/gso
+  trajectory_signal: Articles [1], [2], and [3] confirm GSO is an active, maintained benchmark with a public leaderboard being
+    tracked. Article [0] suggests community forecasters assign ~41% cumulative probability to exceeding 60% by end-2026 (combining
+    60-70%, 70-80%, 80-90%, ≥90% buckets), which implies skepticism about rapid 34-point improvements but acknowledges non-negligible
+    possibility. The leaderboard infrastructure exists for tracking progress, but no actual recent score improvements are
+    documented in these articles. Signal is directionally neutral—infrastructure is in place but no momentum indicators (model
+    releases, score jumps, capability announcements) are evident in this corpus.
+- date: '2026-03-08'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance metrics. Article [0] appears to be the benchmark
+    paper itself but contains no leaderboard data or current performance numbers—the leaderboard section explicitly states
+    "Loading leaderboard..." with no actual results shown. This is a critical gap: we need actual Opt@1 scores on GSOBench
+    to evaluate resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gigazine.net/gsc_news/en/20260306-openai-gpt-5-4/
+  - https://officechai.com/ai/gpt-5-4-benchmarks/
+  trajectory_signal: Articles [3] and [8] document GPT-5.4's release (March 5-6, 2026) as a major frontier model with claimed
+    "superior agent performance" and coding strengths, beating competing models (Opus 4.6, Gemini 3.1 Pro) on multiple benchmarks.
+    This signals meaningful progress in the AI capability stack that could plausibly improve GSOBench performance. The baseline
+    showed GPT-5.2+OpenHands at 26.5% (~2 months ago); GPT-5.4's architectural improvements and agent capabilities suggest
+    directional momentum toward higher optimization task performance. However, this remains indirect—no actual GSOBench scores
+    are reported. The gap from 26.5% to 60% is substantial (33.5 percentage points in ~10 months), requiring either dramatic
+    capability jumps or novel methodological approaches (better agent frameworks, improved code optimization techniques).
+    Current trajectory suggests progress but doesn't yet establish confidence in reaching 60% by Dec 2026.
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench Hack-Adjusted Opt@1 performance. The prediction requires
+    a specific benchmark (GSOBench with 102 codebase optimization tasks) and a specific metric (Hack-Adjusted Opt@1), neither
+    of which appears in any article. Articles [1-4] report on SWE-bench performance (different benchmark), not GSOBench. Articles
+    [5-9] address other benchmarks entirely (code review validation, DeepResearch Bench, etc.) or discuss benchmark integrity
+    issues rather than GSOBench performance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aijourn.com/sonar-claims-top-spot-on-swe-bench-leaderboard/
+  - https://www.prnewswire.com/news-releases/sonar-claims-top-spot-on-swe-bench-leaderboard-302711273.html
+  - https://www.morningstar.com/news/pr-newswire/20260311la08045/sonar-claims-top-spot-on-swe-bench-leaderboard
+  trajectory_signal: Articles [1-4] show Sonar Foundation Agent + Claude Opus 4.5 achieving 79.2% on SWE-bench Verified and
+    52.62% on SWE-bench Full (March 11, 2026). While these are *different* benchmarks, they demonstrate significant progress
+    in code-related AI agent performance beyond the Jan 2026 baseline (26.5% for GPT-5.2+OpenHands on GSOBench). This signals
+    that the underlying models and agentic frameworks are improving substantially in the 9-month window to December 2026.
+    The trajectory of model capability improvements (Opus 4.5 → potential 4.6, integration with better agents like Sonar)
+    suggests momentum toward higher GSOBench performance, though no direct GSOBench evidence exists. Articles [6-8] raise
+    benchmark integrity concerns (Opus 4.6 exploited test vulnerabilities), which could suggest either that benchmarks are
+    being "gamed" (slightly negative for prediction reliability) or that models are becoming more capable at problem-solving
+    (positive for actual performance). Article [5] warns that SWE-bench passes don't always reflect real-world performance,
+    introducing uncertainty about whether benchmark improvements translate to GSOBench gains.
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or hack-adjusted opt@1 scores. The prediction
+    requires >60% on this specific benchmark by Dec 31, 2026. No articles mention GSOBench, GSO tasks, or hack-adjusted metrics.
+    Articles [0-5, 7-10, 12] discuss other benchmarks (OSWorld-V, τ³-Bench, EnterpriseOps Gym, Oxford math problems, OpenASR,
+    Terminal Bench 2.0) or general AI evaluation concerns, but none address the specific resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.deeplearning.ai/the-batch/openais-gpt-5-4-pro-and-gpt-5-4-thinking-challenge-googles-gemini-3-1-pro-preview-as-best-all-around-ai-model/
+  - https://davidandgoliath.ai/daily-ai-briefing/gpt-5-4-ai-autonomous-desktop-worker
+  trajectory_signal: 'Articles [6] and [11] signal relevant momentum:'
+- date: '2026-03-29'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or hack-adjusted opt@1 scores. Articles
+    [0-1] discuss MLPerf Inference v6.0 and GPT-OSS benchmarks (different benchmark suite, not GSOBench). Articles [2-4, 8]
+    cover ARC-AGI-3 (completely different benchmark measuring general reasoning, not codebase optimization). Article [5] is
+    an arXiv index with no substantive content. Article [7] discusses a weekly model evaluation index across 11 models but
+    does not mention GSOBench or hack-adjusted optimization metrics. The prediction requires specific GSOBench hack-adjusted
+    opt@1 performance data; no articles address this directly.'
+  trajectory_sources:
+  - https://aigazine.com/benchmarks/openresearcher-ai-scores-548-on-browsecompplus-beating-gpt41-and-claude-models--s
+  trajectory_signal: Article [6] shows an AI agent (OpenResearcher) achieving 54.8% on a specialized task completion benchmark,
+    demonstrating progress in agent capabilities. However, this benchmark (BrowseComp-Plus) is distinct from GSOBench's codebase
+    optimization tasks. The signal is weak and indirect—it suggests agent systems are improving generally, but provides no
+    evidence about progress on GSOBench specifically or momentum toward the 60% threshold by Dec 2026.
+- date: '2026-04-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or hack-adjusted Opt@1 scores. The prediction
+    requires a specific benchmark (GSOBench with 102 codebase optimization tasks) with hack-adjusted Opt@1 metric exceeding
+    60% by December 31, 2026. None of the articles measure performance on this particular benchmark or metric.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiproductivity.ai/news/qwen-3-6-plus-beats-claude-terminal-benchmarks/
+  trajectory_signal: 'Article [1] shows Alibaba''s Qwen 3.6-Plus achieving 61.6% on Terminal-Bench 2.0 (a terminal/coding
+    agentic benchmark), beating Claude 4.5 Opus (59.3%). While this is NOT GSOBench, it signals meaningful progress in coding/agentic
+    task performance and demonstrates that models are now crossing the 60% threshold on related coding benchmarks. This indicates
+    directional momentum toward the prediction resolving YES—competitive pressure and rapid model improvements are pushing
+    coding capability benchmarks upward. Articles [0], [8] document Google Gemma 4 ranking #3 globally with strong capabilities,
+    and [2] describes open-source agentic progress, further signaling the trajectory of improvement in coding/optimization
+    domains. However, none of these directly address GSOBench specifically, which remains the critical unknown.'
+- date: '2026-04-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance. The prediction requires "Best Hack-Adjusted
+    Opt@1 on GSOBench" to exceed 60% by Dec 31, 2026. GSOBench is a specific benchmark (102 codebase optimization tasks) distinct
+    from SWE-Bench Pro, TerminalBench, SpreadsheetBench, and other benchmarks mentioned in these articles. Critical gap: Zero
+    direct evidence on GSOBench performance for any model. Baseline (Jan 2026) showed GPT-5.2+OpenHands at 26.5% and Opus
+    4.5+OpenHands at 24.5% — neither article discusses whether these models improved on GSOBench specifically, or what current
+    April 2026 scores are on this benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/z-ai-glm-5-1-benchmarks-swe-bench-pro/
+  - https://dataconomy.com/2026/04/08/z-ais-glm-5-1-tops-swe-bench-pro-beating-major-ai-rivals/
+  - https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4
+  trajectory_signal: Articles [0, 1, 4] show GLM-5.1 achieving 58.4% on SWE-Bench Pro (beating GPT-5.4, Claude Opus 4.6, Gemini
+    3.1 Pro) with reported 8-hour autonomous task capability. This signals STRONG momentum in coding/agentic capability and
+    competitive improvement in software engineering benchmarks. Article [2] reports AutoAgent reaching 55.1% on TerminalBench
+    with GPT-5. These represent directional progress in related coding benchmarks that *could* correlate with GSOBench improvements,
+    but the relationship is unconfirmed. The trajectory suggests the AI capabilities frontier is advancing rapidly on code-related
+    tasks, moving TOWARD_YES, but without GSOBench-specific data, this remains indirect. The 9-month timeline (April to Dec
+    2026) with baseline ~26.5% would require 2.3x improvement — achievable given shown progress velocity, but unproven on
+    this specific metric.
+- date: '2026-04-19'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or hack-adjusted Opt@1 scores specifically.
+    The resolution criteria require a specific benchmark (GSOBench) with a specific metric (hack-adjusted Opt@1) exceeding
+    60% by Dec 31, 2026. None of the articles address GSOBench directly.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/
+  - https://techbriefly.com/2026/04/14/minimax-m2-7-matches-top-coding-benchmarks-in-tests/
+  - https://neuralnetworkworld.com/z-ai-glm-5-1-swe-bench-pro-open-source-2026/
+  - https://medium.com/@tatsuru.okada/the-first-open-weight-model-to-beat-gpt-5-4-290d269b0d3c
+  trajectory_signal: 'Articles 0, 1, 4, and 8 show strong momentum in coding benchmark performance among frontier models,
+    particularly:'
+- date: '2026-04-26'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on GSOBench performance. The resolution criteria requires a specific
+    benchmark (GSOBench Hack-Adjusted Opt@1) with a specific threshold (>60%), and none of the articles report results on
+    this particular benchmark. Articles discuss SWE-bench, HLE-Full, BrowseComp, DeepSearchQA, and other coding benchmarks,
+    but GSOBench is not mentioned in any article content provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/owen_fox/llm-leaderboard-best-ai-models-ranked-april-2026-mf0
+  - https://whatllm.org/blog/kimi-k2-6
+  - https://awesomeagents.ai/news/alibaba-qwen36-max-closed-weights/
+  - https://officechai.com/ai/kimi-k2-6-ranks-4th-on-artificial-analysis-intelligence-index-right-behind-top-three-us-frontier-models/
+  - https://officechai.com/ai/kimi-k2-6-benchmarks/
+  trajectory_signal: 'Articles [1, 3, 4, 6, 10] show strong directional progress toward YES through general coding capability
+    improvements:'
+- date: '2026-05-03'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance. The prediction requires "Best Hack-Adjusted
+    Opt@1 on GSOBench >60%" by Dec 31, 2026. The baseline (Jan 2026) shows GPT-5.2+OpenHands at 26.5% and Opus 4.5+OpenHands
+    at 24.5%—both well below the 60% threshold. None of the articles report GSOBench results. Critical gap: GSOBench is a
+    specific 102-task codebase optimization benchmark distinct from SWE-bench, Terminal-Bench, IFBench, and other benchmarks
+    mentioned in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/
+  - https://techsifted.com/posts/qwen3-6-max-preview-april-2026/
+  - https://www.deeplearning.ai/the-batch/openais-latest-model-gpt-5-5-tops-leaderboards-for-coding-visual-puzzles-and-overall-intelligence/
+  - https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/
+  - https://www.deeplearning.ai/the-batch/kimi-k2-6-matches-open-qwen3-6-max-anddeepseek-v4-falls-just-behind-top-closed-models/
+  trajectory_signal: 'Articles 0, 1, 2, 4, and 8 show significant momentum in agentic coding capabilities across multiple
+    benchmarks:'
+- date: '2026-05-10'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance or current scores that would resolve this
+    prediction. The resolution criteria requires a specific benchmark (GSOBench with Hack-Adjusted Opt@1 metric) to exceed
+    60%, but no articles discuss GSOBench results, scores, or progress toward this threshold. Articles [0], [1], [2] discuss
+    other benchmarks (Refactoring Leaderboard, ProgramBench, SWE-Bench). Articles [4], [7], [9], [11] are about optimization
+    techniques, enterprise benchmarks, CPU benchmarks, and MLPerf training—entirely different domains. Articles [6], [8] discuss
+    model rankings on various benchmarks but not GSOBench.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://solvara.io/gpt-5-5-is-here-whats-actually-new-and-who-should-care-2/
+  - https://techfastforward.com/articles/gpt-55-claude-mythos-gemini-31-pro-spring-2026-three-way-tie-ai-race
+  trajectory_signal: Articles [3] and [5] provide moderate directional signals. GPT-5.5 (released April 23, 2026) shows strong
+    performance on multiple coding/agentic benchmarks (88.7% SWE-Bench Verified, 84.9% GDPval, 82.7% Terminal-Bench 2.0, 78.7%
+    OSWorld-Verified per [5]). Claude Mythos achieved 93.9% on SWE-Bench but with restricted access. These frontier models
+    are demonstrating substantially improved coding capabilities compared to the January 2026 baseline (GPT-5.2+OpenHands
+    at 26.5%). This momentum in coding agent performance on related benchmarks suggests the gap from 26.5% baseline to 60%
+    GSOBench threshold may be narrowing, particularly with newer model releases. However, without GSOBench-specific results,
+    the trajectory remains inferential rather than direct evidence.
+- date: '2026-05-17'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench Hack-Adjusted Opt@1 performance. The prediction requires
+    a specific benchmark (GSOBench with 102 codebase optimization tasks) with hack-adjusted scoring methodology. None of the
+    articles discuss GSOBench specifically or report results on this metric. Articles [0], [1], [3], [4], [7], [9] discuss
+    different benchmarks entirely (Coding Agent Index, Frontier-Eng, SWE-bench, ProgramBench, CyberGym, DRACO/SpreadsheetBench).
+    Articles [5], [6], [8] are meta-commentary on benchmarking rather than performance data. Critical gap: Zero direct evidence
+    on the actual resolution criterion (GSOBench Hack-Adjusted Opt@1 scores).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aihola.com/article/coding-agent-index-cursor
+  - https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/
+  trajectory_signal: 'Articles [0] and [2] signal relevant momentum:'
+- date: '2026-05-24'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance specifically. The resolution criteria requires
+    a specific benchmark (GSOBench with Hack-Adjusted Opt@1 metric) and a specific threshold (>60%). None of the articles
+    measure performance on this exact benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/
+  - https://wandb.ai/byyoung3/ml-news/reports/Qwen3-7-Max-Benchmark-Scores---VmlldzoxNjk1MzA1MQ
+  trajectory_signal: Articles [0] and [3] signal momentum in autonomous code optimization capabilities. Qwen3.7-Max's demonstrated
+    ability to run autonomously for 35+ hours on complex codebase optimization tasks suggests the field is progressing toward
+    agents capable of sustained reasoning on optimization problems — the domain type GSOBench tests. This represents directional
+    progress toward the capability needed to exceed 60%, but provides no quantified evidence on the actual benchmark. The
+    trajectory is TOWARD_YES based on demonstrated agent autonomy improvements, but the gap from ~25% baseline to 60% threshold
+    remains substantial and unmeasured.
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench Hack-Adjusted Opt@1 performance. The prediction requires
+    a specific benchmark (GSOBench with 102 codebase optimization tasks) with hack-adjusted scoring. None of the articles
+    discuss GSOBench specifically. Articles [0], [1], [3], [4], [5], [6], [7], [8], [10] discuss SWE-Bench variants, LisanBench,
+    Code Arena, DeepSWE, WDCD, or other benchmarks—all different measurement systems. Article [2] discusses SWE-Bench Verified
+    (80.6% for DeepSeek V4 Pro) but this is a different benchmark. Article [9] is about CPU hardware, completely unrelated.
+    The baseline context shows GPT-5.2+OpenHands at 26.5% on GSOBench in January 2026, requiring substantial progress (33.5+
+    percentage points in 7 months) to resolve YES.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aitechconnect.in/news/deepseek-v4-pro-swe-bench-806-open-weight
+  - https://digg.com/ai/taf0kap4
+  trajectory_signal: Articles [2] and [6] signal significant momentum in AI coding agent performance across benchmark ecosystems.
+    Article [2] shows DeepSeek V4 Pro achieving 80.6% on SWE-Bench Verified (May 24, 2026), and article [6] reports Mythos
+    Preview estimated at ~90% on DeepSWE (May 26, 2026), with GPT-5.5 at 70%. These represent substantial capability improvements
+    in coding tasks over the January baseline. However, these are *different benchmarks* than GSOBench, creating uncertainty
+    about whether this momentum translates to GSOBench specifically. The trajectory suggests AI coding performance is advancing
+    rapidly across the board, which is directionally encouraging for YES resolution, but the specific benchmark gap prevents
+    confident extrapolation. No evidence of GSOBench-specific testing or performance data.
+- date: '2026-06-07'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles directly address GSOBench or "Hack-Adjusted Opt@1" performance. The prediction requires evidence
+    of >60% on this specific benchmark by Dec 31, 2026. Despite multiple articles about AI coding benchmarks (SWE-bench, LiveCodeBench,
+    ExploitBench, etc.), none mention GSOBench specifically or report hack-adjusted metrics on codebase optimization tasks.
+    Articles [0], [1], [2], [3], [4], [5], [6], [8], [9] discuss different benchmarks entirely (SWE-bench, ProgramBench, code
+    remediation, security exploits, SQL reasoning, Chrome vulnerabilities). Without GSOBench-specific data, no KEEP articles
+    qualify.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://benchlm.ai/coding
+  - https://vals.ai/benchmarks/swebench
+  - https://www.financialcontent.com/article/abnewswire-2026-6-2-genloop-tops-livesqlbench-at-6815-outperforming-the-best-ai-agents-from-openai-and-anthropic
+  - https://yellow.com/news/opus-48-tops-index-mythos-hacking
+  trajectory_signal: 'Articles [0], [1], [7], [10] show momentum in AI coding/hacking capabilities:'
+- date: '2026-06-21'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or Hack-Adjusted Opt@1 scores. The prediction
+    requires specific measurement on a named benchmark (GSOBench) with a defined metric (Hack-Adjusted Opt@1), and current
+    baseline shows best performance at 26.5% as of January 2026. None of the articles address this benchmark directly or report
+    scores that can be mapped to it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget
+  - https://cryptobriefing.com/arbor-framework-outperforms-claude-code-codex/
+  trajectory_signal: Articles [0] and [1] (same story, two sources) report that "Arbor framework outperforms Claude Code and
+    Codex by 2.5x in AI optimization benchmarks" from Renmin University and Microsoft Research. While this shows progress
+    in code optimization/AI benchmarking domains and signals momentum toward improving optimization capabilities, it lacks
+    specificity about which benchmark was tested, actual numerical scores, and whether this relates to GSOBench. The "2.5x"
+    claim is comparative efficiency/capability but doesn't clarify absolute performance levels needed to reach 60%. This represents
+    directional progress in the optimization space but insufficient concrete evidence to confirm trajectory toward the 60%
+    threshold on the specific metric in question. The remaining articles [2-13] cover other benchmarks (SkillsBench, LifeSciBench,
+    LisanBench, MLPerf Training, etc.) and are outside the scope of GSOBench resolution.
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or specific hack-adjusted Opt@1 scores
+    on that benchmark. The resolution criteria require concrete GSOBench results showing whether best performance exceeds
+    60% by Dec 31, 2026. No articles address this specific metric.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.llmrumors.com/news/open-source-foundation-models-linux-infrastructure-win
+  - https://valueaddvc.com/blog/openai-o3-and-o4-mini-what-the-new-reasoning-models-mean-for-ai-applications
+  trajectory_signal: 'Articles [2] and [4] signal meaningful upward momentum in coding benchmarks generally:'
+- date: '2026-07-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance or hack-adjusted Opt@1 scores. The prediction
+    requires a specific benchmark (GSOBench with 102 codebase optimization tasks) with a specific metric (hack-adjusted Opt@1)
+    exceeding 60% by December 31, 2026. None of the articles contain GSOBench results or mention this benchmark by name.'
+  trajectory_sources:
+  - https://huggingnews.com/ai/databricks-ranks-no-1-on-nvidia-kernel-leaderboard-using-ai-agents-0fc6ebc0
+  - https://aiinsiders.net/article/poolsides-laguna-xs-21-lifts-swe-bench-score-loosens-its
+  trajectory_signal: 'Articles [1] and [3] show momentum in AI coding/optimization capabilities:'
+- date: '2026-07-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: The prediction requires evidence of GSOBench (102 codebase optimization tasks) hack-adjusted Opt@1 exceeding
+    60% by December 31, 2026. No articles directly address GSOBench performance. Article [0] reports SWE-bench Lite results
+    (Claude Opus 4.6 at 62.7% as of July 8, 2026), which is a different benchmark entirely—SWE-bench measures GitHub issue
+    resolution, not codebase optimization tasks. This is tangential noise, not direct evidence. Articles [1-9] discuss Android
+    Bench and other coding benchmarks, none addressing GSOBench specifically. Articles [10-14] cover GPT-5.6 Sol benchmark
+    gaming concerns, which actually undermine confidence in benchmark scores but don''t measure GSOBench performance. **Critical
+    gap: Zero articles provide any data on actual GSOBench performance metrics.**'
+  trajectory_sources:
+  - https://pricepertoken.com/leaderboards/benchmark/swe-bench-lite
+  - https://gentic.news/article/databricks-tests-coding-agents-on
+  trajectory_signal: Article [0] shows Claude Opus 4.6 reached 62.7% on SWE-bench Lite (different benchmark, but directionally
+    suggests top models are approaching 60%+ territory on code-related tasks). Article [2] indicates GLM-5.2 and Sonnet 5
+    are being tested on real codebase benchmarks with competitive performance. However, these signals are weak because (1)
+    they measure different benchmarks, (2) articles [10-14] reveal significant benchmark gaming/exploitation issues that cast
+    doubt on score reliability, and (3) no trajectory data exists for GSOBench specifically. The benchmark integrity concerns
+    in articles [10-14] actually point toward TOWARD_NO by raising questions about whether reported scores are trustworthy
+    signals of genuine capability.
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles directly address GSOBench or its specific "Hack-Adjusted Opt@1" metric. The prediction requires
+    evidence of >60% performance on this particular benchmark by December 31, 2026. Articles discuss various other benchmarks
+    (SWE-Bench Pro, Terminal-Bench 2.1, FrontierSWE, Coding Agent Index, ExploitBench, security reviews) but none mention
+    GSOBench specifically or its hack-adjusted scoring methodology. Without direct measurement against the resolution criteria,
+    no KEEP articles qualify.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/grok-4-5-frontierswe-leaderboard-ranking/
+  - https://www.blogarama.com/technology-blogs/1458562-auton-news-blog/78263596-swe-bench-pro-says-claude-fable-beats-gpt-sol-points
+  - https://oracore.dev/en/news/gpt-56-sol-review-faster-coding-lower-cost-en
+  - https://groundtruth.day/news/gpt-5-6-sol-tops-pr-security-benchmark.html
+  - https://gentic.news/article/openai-gpt-5-6-sol-terra-luna
+  trajectory_signal: 'Multiple articles signal upward momentum in coding model performance generally:'
+- date: '2026-08-02'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly address GSOBench performance or provide concrete evidence toward the 60% threshold
+    on that specific benchmark. The prediction requires "Best Hack-Adjusted Opt@1 on GSOBench" to exceed 60%, and no articles
+    report results specifically on GSOBench with the relevant metrics.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/meta-fairs-rl-method-nearly-doubles-code-optimization-pass-rates
+  - https://groundtruth.day/news/frontis-ma1-lifts-its-own-base-models-medal-rate-from-39-to-71-percent.html
+- date: '2026-08-09'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence about GSOBench performance specifically. The resolution criteria requires
+    "Best Hack-Adjusted Opt@1 on GSOBench will exceed 60%." None of the articles mention GSOBench, GSO tasks, or hack-adjusted
+    scores on that specific benchmark. Articles [4], [10], and [12] discuss strong coding performance on other benchmarks
+    (WeaveBench, SWE-bench Pro, computer use tasks) but these are different evaluation frameworks and cannot resolve this
+    prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/alibabas-dreamx-lifts-qwen-37-plus-to-807-on-weavebench
+  - https://byteiota.com/glm-5-2-beats-gpt-5-5-on-swe-bench-and-you-can-self-host-it/
+  - https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use
+  trajectory_signal: 'Three articles signal momentum in coding/software engineering capabilities that could plausibly translate
+    to GSOBench progress:'
+- date: '2026-08-16'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://dev.to/breachprotocol/the-harness-not-the-model-moved-deepseeks-score-by-twenty-tasks-2o7n
+  relevance: 'MODERATE: Article [0] provides DIRECT evidence on GSOBench performance. It reports DeepSeek V4 Flash 0731 achieving
+    64/89 tasks (71.9%) on an independent local benchmark using a different agent harness. This exceeds the 60% threshold
+    required for YES resolution. However, a critical gap remains: the article explicitly states this is an "independent local
+    benchmark," NOT GSOBench itself. The resolution criteria specifically require performance on "GSOBench" (102 codebase
+    optimization tasks). While the 71.9% result demonstrates a model can exceed 60% on similar benchmarks with the right harness
+    setup, it does not directly satisfy the resolution criteria without confirmation this same performance applies to the
+    actual GSOBench benchmark. The harness dependency finding is crucial context—it shows that implementation details matter
+    enormously.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/evo-bench-measures-if-llms-can-rewrite-their-own-agent-harness
+  trajectory_signal: 'Article [2] signals trajectory momentum. It reports GPT-5.6-Sol achieving 46.3 on Evo-Bench with evolved
+    harnesses showing +16.6 absolute gains over baseline CodeAct harness. This demonstrates: (1) agent harness optimization
+    is an active, productive research area; (2) substantial performance swings are achievable through harness improvements
+    (echoing Article 0''s finding); (3) major frontier models are actively being tested in agentic coding benchmarks. These
+    signals suggest the trajectory toward 60% on GSOBench is positive—the infrastructure and techniques for improvement are
+    actively being refined, and models are being stress-tested on code-related benchmarks. Articles [4-9] report various benchmark
+    results on different benchmarks (Artificial Analysis Index, WDCD, Smoke, ProgramBench, InferenceBench) but do not reference
+    GSOBench specifically and thus remain outside the scope despite showing general capability improvements across the model
+    landscape.'
+- date: '2026-08-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on GSOBench performance or hack-adjusted Opt@1 scores. The prediction
+    requires specific GSOBench metrics by Dec 31, 2026, and none of the articles report results on this benchmark. Articles
+    discuss Terminal-Bench, AA Intelligence Index, and other benchmarks, but not GSOBench specifically. Critical gap: No data
+    on whether any model has exceeded 60% on GSOBench hack-adjusted Opt@1.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/statem-953-on-terminal-bench-or-a-15-frontier-run-via-harness
+  - https://zenn.dev/neotechpark/articles/7003e20300d7e5
+  trajectory_signal: 'Two articles show relevant directional momentum:'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about GSOBench performance or hack-adjusted Opt@1 scores. The prediction
+    requires a specific benchmark (GSOBench with 102 codebase optimization tasks) with hack-adjusted metrics, and current
+    baseline shows best performance at 26.5% (Jan 2026). No article mentions GSOBench specifically or provides comparative
+    hack-adjusted results on this benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/artificial-analysis-coding-agent-index-reward-hacking/
+  - https://www.webpronews.com/ai-coding-agents-hit-record-benchmarks-yet-struggle-with-real-codebases/
+  - https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4
+  - https://www.gmicloud.ai/en/blog/glm-53-ships-as-the-strongest-coding-model-among-open-weight-labs
+  trajectory_signal: 'Articles [0], [1], [5], [11] signal important directional momentum toward the YES resolution:'
+- date: '2026-09-06'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles directly address GSOBench or hack-adjusted Opt@1 performance, which are the specific resolution
+    criteria. The prediction requires demonstrating that some AI model exceeds 60% on GSOBench''s 102 codebase optimization
+    tasks using hack-adjusted scoring — a narrow, specialized benchmark. None of the provided articles measure performance
+    on GSOBench specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/claude-fable-51-beats-gpt-56-by-24-points-in-frontierswe-v2-programming-23980797
+  - https://cryptobriefing.com/fable-5-1-tops-code-arena-webdev/
+  - https://emergent.sh/learn/gpt-6-astra-benchmarks
+  - https://cybersentinelnews.com/anthropics-claude-fable-5-1-tops-ai-index-openais-gpt-6-astra-rises/
+  - https://www.ibtimes.co.uk/gpt-6-astra-benchmarks-revealed-how-openai-says-it-compares-claude-gpt-56-1817871
+  trajectory_signal: 'Articles 1, 3, 4, 5, 10, 12 show momentum in AI coding/engineering task performance across various benchmarks:'

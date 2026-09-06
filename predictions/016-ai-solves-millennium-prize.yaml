@@ -5,11 +5,12 @@ category: Benchmarks
 baseline: 6 problems unsolved. AlphaProof solved 4/6 IMO 2024 problems. No Millennium Prize solution.
 resolution_criteria: 'YES: Clay Institute accepts AI solution. NO: None.'
 search_keywords:
-- AI math proof
-- AlphaProof
-- An AI system will be credited with solving a Mille
-- Clay Institute
-- Millennium Prize
+- AI Millennium Prize solution 2026
+- AlphaProof Millennium Prize
+- Clay Mathematics Institute AI proof
+- P vs NP AI solution
+- Riemann hypothesis AI proof
+- AI solves Navier-Stokes Hodge conjecture
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -33,6 +34,8 @@ forecasts:
   human-6: 10
   human-7: 10
   human-8: 15
+  human-9: 30
+  human-10: 50
 evidence:
 - date: '2026-02-01'
   summary: Found 3 articles
@@ -46,3 +49,518 @@ evidence:
   - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
   - https://www.nature.com/articles/s42256-025-01164-x
   - https://www.nature.com/articles/s41586-025-09962-4
+- date: '2026-02-07'
+  summary: Found 8 articles
+  sources:
+  - https://www.sri.inf.ethz.ch/publications/dekoninck2025proofcorpus
+  - https://refind.com/links/149683025
+  - https://forntend-test-5sqwmq-3a22a9-107-172-80-230.traefik.me/ai-models-compete-in-high-stakes-math-exam-doubao-and-yuanbao-triumph-1749512369534
+  - https://scale.com/leaderboard/math
+  - https://www.mindstudio.ai/blog/multi-step-reasoning
+  relevance: WEAK_YES. Recent advances in AI mathematical reasoning show promising progress toward complex mathematical proof
+    generation, increasing the likelihood of solving a Millennium Prize Problem, though significant challenges remain.
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Article [0] (OpenAI''s "First Proof" initiative, 2026-02-20) and Article [6] (AI helping solve decades-old
+    problems, 2026-02-20) lack sufficient specificity about Millennium Prize Problem resolution or Clay Institute acceptance.
+    Article [0]''s headline is promising but the actual content is truncated/missing, preventing verification of claims. Article
+    [6] discusses Erdős problems (different category), not Millennium Prize Problems. Articles [3], [7], and [8] are reference/background
+    material without current event status. Articles [1], [2], [4], [5] are tangential (proof assistants, theorem selection
+    capability, historical posts, prediction markets).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.dera.ai/en/news/feae6511-a0a2-e0f2-9aa9-3cdc235cdcd4
+  - https://www.warpnews.org/artificial-intelligence/ai-helps-mathematicians-solve-problems-that-have-been-unsolved-for-decades/
+  trajectory_signal: 'Two recent articles signal directional progress toward YES:'
+- date: '2026-03-01'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires Clay Institute
+    official acceptance of an AI solution to a Millennium Prize Problem by end of 2026. None of the articles contain:'
+  trajectory_sources:
+  - https://dnyuz.com/2026/02/24/ai-is-unlocking-a-new-way-of-doing-math/
+  trajectory_signal: Article [6] (2026-02-24, within preferred date range) provides the most substantive trajectory signal.
+    It documents "several researchers" making "provocative claims" about using generative-AI to solve "previously unanswered
+    math problems," with a cautionary note that "most extreme promises...may well turn out to be" overblown. This signals
+    momentum toward AI-assisted mathematical problem solving but explicitly hedges against hype.
+- date: '2026-03-08'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Mathematics Institute has accepted an AI solution to
+    a Millennium Prize Problem. Article [0] (Knuth/Claude Opus) claims an AI solved "an open problem" but does not establish
+    this is a Millennium Prize Problem or that Clay Institute has accepted it. Articles [7, 8] discuss AI verifying a Fields
+    Medal proof—a different award entirely. Article [12] announces Google Gemini achieved IMO gold medal status—also distinct
+    from Millennium Prize Problems. All articles lack the critical ingredient: Clay Institute acceptance of a Millennium Prize
+    Problem solution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/programming-legend-donald-knuth-says-claude-opus-4-6-solved-an-open-problem-hed-been-working-on-for-several-weeks/
+  - https://www.aol.com/articles/ai-humans-verify-fields-medal-180003543.html
+  - https://spectrum.ieee.org/amp/ai-proof-verification-2675516673
+  - https://www.36kr.com/p/3389464682332551
+  trajectory_signal: 'Four articles signal directional momentum toward YES:'
+- date: '2026-03-15'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Articles 2, 6, 8, 9, 10 discuss Claude solving Knuth''s combinatorics problem—which is NOT a Millennium
+    Prize Problem. Article 7 discusses the Riemann Hypothesis but reports the Clay Institute expressing "doubt/questioning"
+    (质疑) about an Indian mathematician''s claimed solution, not accepting an AI solution. The resolution criteria require
+    Clay Institute acceptance of an AI solution—this threshold has not been met by any article''s evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.livescience.com/physics-mathematics/mathematics/ai-just-verified-a-proof-that-earned-one-of-maths-most-prestigious-prizes-math-will-never-be-the-same-opinion
+  - https://gfoss.eu/when-ai-solves-open-mathematical-problems/
+  - https://officechai.com/ai/google-deepminds-alphaevolve-cracks-five-ramsey-number-puzzles-that-stumped-mathematicians-for-decades/
+  - https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/
+  trajectory_signal: 'Articles 0, 2, 3, 4 signal meaningful momentum toward eventual YES resolution:'
+- date: '2026-03-22'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. The resolution criteria requires explicit Clay Institute acceptance—a specific, verifiable institutional
+    decision. None of the articles demonstrate this has occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aigazine.com/llms/gpt54-pro-solves-2-of-100-unsolved-math-problems-in-oxford-benchmark--s
+  - https://www.thenews.com.pk/latest/1395829-ai-cracks-two-decade-old-math-problem-shocks-mathematician
+  - https://www.myscience.org/en/news/2026/chatgpt_can_autonomously_provide_mathematical_proofs-2026-vub
+  - https://noticiasycafe.com/en/news/quantum-ai-mathematics-2026
+  trajectory_signal: 'Several articles signal meaningful momentum toward the resolution:'
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires "Clay
+    Institute accepts AI solution" to a Millennium Prize Problem. Articles [0] and [1] describe GPT-5.4 Pro solving an open
+    problem in Ramsey hypergraph theory from the FrontierMath benchmark—a genuine unsolved problem verified by a mathematician
+    (Will Brian). However, this is NOT a Millennium Prize Problem. The Clay Mathematics Institute''s six unsolved Millennium
+    Prize Problems are: P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills Existence and Mass Gap, Navier-Stokes Existence
+    and Smoothness, and BSD Conjecture. The Ramsey hypergraph problem does not appear on this list. Critically, there is no
+    evidence of Clay Institute acceptance or even submission. CRITERIA GAP: The articles describe a frontier math problem
+    solution, not a Millennium Prize Problem solution, and contain no Clay Institute involvement or acceptance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://agent-wars.com/news/2026-03-24-gpt-5-4-pro-solves-ramsey-hypergraph-open-problem-confirmed-for-publication
+  - https://byteiota.com/gpt-5-4-pro-cracks-first-unsolved-math-problem-2026/
+  trajectory_signal: 'Articles [0] and [1] signal meaningful momentum TOWARD_YES by demonstrating that an AI system (GPT-5.4
+    Pro) can now solve previously unsolved, expert-verified mathematical problems with genuine novelty. This represents a
+    significant capability milestone—moving from competition math and known problems to novel problem-solving. Articles [3],
+    [4], and [6] indicate broader trajectory acceleration: multiple AI systems (Axiom Math''s Axplorer, DeepMind''s AlphaEvolve,
+    OpenAI systems) are rapidly improving at autonomous mathematical problem-solving. Terence Tao''s March 2026 statement
+    that "AI has driven the cost of idea generation down to almost zero" suggests the bottleneck has shifted, creating conditions
+    where harder problems become tractable. This directional trend increases the probability an AI system will solve a Millennium
+    Prize Problem in 2026, even though none has yet. The trajectory is clearly positive but remains preliminary—no system
+    has yet attempted or solved a Clay problem.'
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Articles [0], [2], [11], [12] discuss AI generating research papers that pass peer review—important for
+    scientific credibility but insufficient for Clay Institute acceptance of a Millennium Prize solution. Articles [3], [4]
+    contain speculative claims about AGI "line of sight" with no concrete proof. Article [1] discusses AI underperforming
+    on a new benchmark (below 1%), moving away from the criteria. Articles [6], [8] describe funding initiatives and partnerships
+    with no resolution-relevant outcomes. Article [7] discusses IMO performance claims with debates about fairness—not a Millennium
+    Prize. The critical gap: **ZERO articles mention any of the 6 unsolved Millennium Prize Problems (P vs NP, Riemann Hypothesis,
+    Yang-Mills, Navier-Stokes, Birch-Swinnerton-Dyer, Hodge Conjecture) being solved by AI or submitted to the Clay Institute.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://impa.br/notices/folha-does-ai-only-copy-or-does-it-also-create/?lang=en
+  - https://www.asatunews.co.id/donald-knuth-pecahkan-soal-matematika-ai-claude
+  - http://news.17173.com/content/03312026/160319175.shtml
+  trajectory_signal: 'Articles [5], [9], [10] signal directional progress TOWARD_YES. Article [5] reports Claude AI solved
+    a mathematical problem Don Knuth had been working on—demonstrating AI capability on hard unsolved problems. Articles [9],
+    [10] (in Indonesian and Chinese) report ChatGPT independently proving a mathematical conjecture/hypothesis for the first
+    time, described as breaking creative boundaries. These represent genuine breakthroughs in AI solving non-trivial mathematics
+    previously unsolved by humans. However, critically: these are not Millennium Prize Problems and none have been submitted
+    to or accepted by the Clay Institute. The trajectory shows AI mathematical capabilities advancing faster than baseline
+    expectations, but still 1-2 steps removed from the specific resolution criteria. The momentum is positive but the target
+    remains unmet.'
+- date: '2026-04-12'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. The resolution criteria require explicit Clay Institute acceptance—a specific, verifiable institutional
+    action. No article documents this acceptance. Articles [0], [5], [6] report that Peking University''s AI4Math team solved
+    the Anderson Conjecture (a commutative algebra problem) with formal verification in Lean, but the Anderson Conjecture
+    is NOT a Millennium Prize Problem. Articles [7], [9], [10] (identical content) report GPT-5.4 Pro partially solved aspects
+    of Diophantine equations, but these are also NOT Millennium Prize Problems and represent only partial solutions to finiteness
+    problems. Article [8] provides background on Millennium Prize Problems themselves but no resolution evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://chinaresearchcollective.substack.com/p/a-new-breakthrough-in-ai-solving
+  - https://finance.sina.com.cn/tech/discovery/2026-04-06/doc-inhtqnru4235098.shtml
+  - https://finance.sina.com.cn/roll/2026-04-08/doc-inhtuyvt9398050.shtml
+  - https://xtech.nikkei.com/atcl/nxt/column/18/03572/040200002/?i_cid=nbpnxt_ranking_com_it_c_05
+  - http://xtech.nikkei.com/atcl/nxt/column/18/03572/040200002/
+  trajectory_signal: 'Moderate momentum toward YES. Articles [0], [5], [6] demonstrate AI systems autonomously solving previously
+    open mathematics problems with large-scale formal verification (19,000+ lines in Lean)—establishing proof-of-concept for
+    AI mathematical problem-solving at scale. Articles [7], [9], [10] show GPT-5.4 Pro making progress on Diophantine equation
+    challenges. This trajectory suggests AI capabilities for rigorous mathematical work are advancing significantly. However,
+    critical gap: none of these solved problems are actual Millennium Prize Problems (6 remain unsolved: P vs NP, Hodge Conjecture,
+    Riemann Hypothesis, Yang-Mills, Navier-Stokes, BSD Conjecture). The trajectory points toward *potential* future resolution
+    but requires either: (1) an AI solving one of the actual six, AND (2) Clay Institute formal acceptance. Current evidence
+    shows near-term capability growth but not yet crossing into the specific scope of resolution.'
+- date: '2026-04-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution criteria. The prediction requires: (1) an AI system
+    solves one of the 6 unsolved Millennium Prize Problems, AND (2) the Clay Institute accepts it as a solution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/openais-gpt-5-4-pro-reportedly-solves-a-longstanding-open-erdos-math-problem-in-under-two-hours/
+  - https://www.plataformamedia.com/en/2026/04/13/china-ai-solves-math-problem-without-human-intervention-peking-university-2026/
+  - https://www.scmp.com/news/china/science/article/3349797/chinese-ai-solves-decade-old-maths-problem-hours-no-human-intervention
+  - https://www.the-independent.com/bulletin/news/china-ai-algebra-problem-solved-b2956598.html
+  - https://tech.yahoo.com/ai/articles/chinese-ai-cracks-decade-old-084022561.html
+  trajectory_signal: 'Moderate momentum signals detected:'
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires: (1) an
+    AI system solving a Millennium Prize Problem, AND (2) the Clay Institute accepting that solution. Article [8] claims "A
+    Solution to the Riemann Hypothesis" but is a Medium post by an unknown author with no institutional validation or Clay
+    Institute acceptance—it fails both requirements. Articles [4], [7], [9] discuss GPT-5.4 solving Erdős Problem #1196, which
+    is NOT a Millennium Prize Problem (the 6 unsolved MP problems are: P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills
+    Existence, Navier-Stokes, BSD Conjecture). The Erdős problem and Breakthrough Prize announcements [5], [6] celebrate different
+    mathematical achievements unrelated to Millennium Prizes. No Clay Institute acceptance of any Millennium Prize solution
+    is documented in any article.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://wonderfulengineering.com/ai-solved-a-mathematical-problem-that-had-stumped-the-worlds-best-minds-for-decades/
+  - https://webiano.digital/the-proof-that-forced-mathematics-to-take-ai-seriously/
+  - https://beforeitsnews.com/economy/2026/04/ai-finds-a-novel-proof-for-an-erdos-problem-3163488.html
+  trajectory_signal: 'Articles [4], [7], [9] signal STRONG DIRECTIONAL MOMENTUM toward YES by demonstrating: (1) GPT-5.4 successfully
+    solved a decades-long open problem (Erdős #1196) autonomously in ~80 minutes with formal proof verification via Lean proof
+    assistant; (2) Articles [0], [1] show Google DeepMind''s Aletheia solving 6/10 research-level problems autonomously with
+    formal LaTeX proofs. This trajectory shows AI systems are rapidly crossing thresholds into solving long-standing open
+    mathematics problems with formal verification. However, the gap remains large: these successes target non-Millennium Prize
+    problems. The momentum suggests capability is accelerating toward MP-level problems, but no actual MP solution has been
+    achieved or validated by Clay Institute as of the article dates. This creates positive momentum but not yet resolution-triggering
+    evidence.'
+- date: '2026-05-03'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Articles [1], [2], [4], [6] discuss the Erdős problem #1196 (a 60-year-old conjecture), which is NOT a
+    Millennium Prize Problem—these are distinct prize categories. Article [7] claims a solution to the Riemann Hypothesis
+    but provides only vague summary text without verification status or Clay Institute acceptance. The critical gap: NONE
+    of these articles demonstrate Clay Institute formal acceptance of any solution to any of the six unsolved Millennium Prize
+    Problems (P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills Existence and Mass Gap, Navier-Stokes Existence and
+    Smoothness, or BSD Conjecture).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://novaknown.com/2026/04/27/erdos-problem-ai-new-move/
+  - https://agentictribune.com/article/20260501-open-source-system-qed-claims-machine-generated-proofs-for-three-open-math-problems-formal-checks-pending
+  trajectory_signal: 'Articles [1] and [3] signal momentum in AI-assisted mathematical problem-solving:'
+- date: '2026-05-10'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Articles [4] and [6] describe solving an Erdős conjecture (not a Millennium Prize Problem), which is a
+    different category of problem. The prediction requires explicit acceptance by the Clay Institute of a solution to one
+    of the six unsolved Millennium Prize Problems (P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills Existence and
+    Mass Gap, Navier-Stokes Existence and Smoothness, or Birch and Swinnerton-Dyer Conjecture). No article demonstrates this
+    has occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/
+  - https://deepmind.google/blog/alphaevolve-impact/
+  - https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help/
+  - https://www.gate.com/news/detail/google-deepmind-ai-co-mathematician-hits-479-on-frontiermath-tier-4-beats-20960903
+  trajectory_signal: 'Articles [3], [5], [7], and [9] show meaningful momentum toward YES:'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Clay Institute acceptance of an AI solution to a Millennium Prize
+    Problem. The resolution criteria requires explicit acceptance by the Clay Mathematics Institute—a specific institutional
+    validation that none of these articles address. Articles discuss AI progress in mathematical research but do not claim
+    any Millennium Prize Problem has been solved, much less accepted by Clay.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://eu.36kr.com/en/p/3804043173388038
+  - https://www.ai.cm/article/artificial-intelligence-achieves-phd-level-mathematical-research-in-autonomous-breakthrough/
+  - https://officechai.com/ai/gpt-5-5-pro-proved-a-result-that-wouldve-made-a-reasonable-chapter-in-a-math-phd-thesis-fields-medal-winner-timothy-gowers/
+  trajectory_signal: 'Three articles signal meaningful momentum toward the YES resolution:'
+- date: '2026-05-24'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. All articles discuss OpenAI''s disproof of the Erdős planar unit distance problem (an 80-year-old conjecture)
+    and Google DeepMind''s AlphaProof Nexus solving Erdős problems and sequence conjectures. These are NOT Millennium Prize
+    Problems. The six unsolved Millennium Prize Problems are: Riemann Hypothesis, P vs NP, Navier-Stokes equations, Hodge
+    Conjecture, Birch and Swinnerton-Dyer Conjecture, and Yang-Mills Theory. The Erdős problem solved here, while celebrated
+    and long-standing, is distinct from Clay Institute''s designated Millennium Prizes. No article mentions Clay Institute
+    acceptance or any Millennium Prize problem being solved. Critical criteria gap: Evidence of Clay Institute formally accepting
+    an AI solution to one of the six specific Millennium Prize Problems remains absent.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/deepmind-alphaproof-nexus-erdos-problems/
+  - https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+  - https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/
+  - https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
+  - https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/
+  trajectory_signal: 'Strong momentum signals suggest AI mathematical capabilities are advancing rapidly toward potentially
+    solving Millennium Prize Problems, though not there yet. Articles 0, 1, 3-9 collectively demonstrate: (1) Multiple AI
+    systems (OpenAI, Google DeepMind) are solving previously unsolved decades-old mathematical problems autonomously; (2)
+    Expert mathematicians are verifying and endorsing AI proofs as novel and rigorous; (3) The achievement is described as
+    "seismic," a "milestone," and breakthrough-level progress; (4) These successes occurred in May 2026, within the prediction
+    window. This establishes clear directional momentum TOWARD_YES by demonstrating AI can now produce verified mathematical
+    proofs of hard problems, creating plausible pathways to Millennium Prize solutions. However, solving a famous conjecture
+    is not equivalent to solving a Clay-designated Millennium Prize Problem—different standards and scope may apply.'
+- date: '2026-05-31'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.understandingai.org/p/openais-milestone-math-breakthrough
+  - https://singularityhub.com/2026/05/28/an-ai-solution-to-an-80%E2%80%91year%E2%80%91old-problem-has-shocked-mathematicians/
+  - https://www.sciencealert.com/stunning-ai-solution-for-80-year-old-problem-shocks-mathematicians
+  - https://scottaaronson.blog/?p=9782
+- date: '2026-06-07'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires "Clay
+    Institute accepts AI solution" to a Millennium Prize Problem by end of 2026. None of the articles discuss Millennium Prize
+    Problems specifically. All articles focus on Erdős problems/conjectures, which are distinct mathematical challenge sets.
+    Articles [0,1,3,4,8] report AI solving various Erdős problems (the unit distance conjecture, nine Erdős open problems),
+    but Erdős problems are NOT Millennium Prize Problems. Critical criteria gap: Clay Institute acceptance has not been mentioned
+    in any article, and the problems solved are in the wrong category entirely.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/google-deepminds-alphaproof-nexus-solves-9-erds-problems-on-may-26-oldest-21391688
+  - https://memeburn.com/ai-math-breakthrough-openai-disproves-80-year-erdos-conjecture/
+  - https://meincmagazine.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/
+  - https://indianexpress.com/article/explained/explained-ai/openai-erdos-problem-ai-solves-80-year-old-math-challenge-10722693/
+  - https://ninza7.medium.com/ai-just-solved-erdo%CC%8Bs-math-problems-open-since-1970-3835c2294617
+  trajectory_signal: 'Strong directional momentum toward YES, though not via the specific mechanism required. Articles [0,1,3,4,8]
+    document rapid AI progress on hard open mathematical problems in May-June 2026: OpenAI disproved the 80-year-old Erdős
+    unit distance conjecture (mid-May), and DeepMind''s AlphaProof Nexus solved 9 long-standing Erdős problems (May 26) at
+    low cost (~hundreds of dollars). This demonstrates AI systems are now capable of solving decades-old mathematics problems
+    and having solutions verified/published by the mathematical community. However, articles [5,6,7] signal emerging friction:
+    mathematicians are raising concerns about proof verification, authorship, and reliability of AI-generated proofs (Leiden
+    Declaration). This creates uncertainty about whether Clay Institute would formally accept an AI solution even if technically
+    correct. The trajectory shows AI capability advancing rapidly, but institutional acceptance mechanisms remain contested.'
+- date: '2026-06-14'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. The resolution criteria requires explicit acceptance by the Clay Mathematics Institute—a specific institutional
+    decision that none of the articles document. Articles [1], [6], [8], and [9] make claims about AI solving mathematical
+    problems, but these are either vague in their content (articles [0], [1], [3], [4], [5], [7] have incomplete/paywalled
+    content), or they reference non-Millennium problems: article [6] discusses an open conjecture about unit distances (likely
+    the Erdős unit distance problem, not a Millennium Prize Problem), article [8] references FrontierMath benchmarks and "3
+    previously unsolvable problems" without specifying they are Millennium Prize Problems, and article [9] discusses Putnam
+    2025 competition problems. The baseline context confirms that as of the date provided (2026-06-14), no Millennium Prize
+    solution has been credited to AI yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://xix.ai/ainews/google-alphaproof-nexus-solves-56yearold-math-puzzle-redefining-mathematics.html
+  - https://kathrynhulick.substack.com/p/how-ai-solved-an-open-math-problem
+  - https://www.gate.com/news/detail/google-deepmind-ai-co-mathematician-hits-479-on-frontiermath-tier-4-beats-20960903
+  - https://howaiworks.ai/blog/google-leap-putnam-2025
+  trajectory_signal: Articles [1], [6], [8], and [9] show significant MOMENTUM TOWARD resolution. Article [1] claims "AlphaProof
+    Nexus Solves 56-Year-Old Math Puzzle" with specific technical architecture details, suggesting concrete recent progress.
+    Article [9] demonstrates LLMs solving ALL 12 Putnam 2025 problems via the LEAP system—showing formal proof automation
+    at competition level. Article [8] reports AI achieving 47.9% on FrontierMath Tier 4 and solving 3 "previously unsolvable
+    problems." These represent clear directional progress in AI mathematical problem-solving capability, even if they haven't
+    yet crossed the specific threshold of Clay Institute acceptance for a Millennium Prize Problem. The trajectory suggests
+    capability is approaching the resolution threshold.
+- date: '2026-06-21'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Clay Institute acceptance. This is the critical gap — all articles
+    describe AI solving open mathematics problems, but NONE confirm Clay Institute formal recognition of a Millennium Prize
+    Problem solution. Articles 0, 1, 8 mention "AlphaProof Nexus" solving 9 Erdős open problems with formal verification,
+    articles 4, 5, 7 mention OpenAI disproving an Erdős conjecture, and articles 3, 6, 9 mention other AI achievements (Fields
+    Medal proof formalization, Andrews-Curtis conjecture). However, Erdős problems and Fields Medal proofs are NOT Millennium
+    Prize Problems. The 6 unsolved Millennium Prize Problems are: P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills
+    Existence and Mass Gap, Navier-Stokes Existence and Smoothness, and BSD Conjecture. None of the articles explicitly state
+    that any AI solution to these specific problems has been accepted by the Clay Institute.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.linkedin.com/pulse/aarhus-mathematician-co-authors-google-deepmind-breakthrough-wkmre
+  - https://www.36kr.com/p/3824591715094914
+  - https://36kr.com/p/3824591715094914
+  trajectory_signal: 'Multiple STRONG momentum signals toward YES: (1) AlphaProof Nexus demonstrated formal verification capability
+    on long-standing open problems with Lean compiler validation, suggesting technical capacity is advancing rapidly; (2)
+    Multiple independent AI systems (Google DeepMind, OpenAI, Caltech/Math Inc.) are solving decade-old conjectures in the
+    same timeframe, indicating broad progress; (3) The formalization infrastructure (Lean verification) that would be required
+    for Clay Institute acceptance is actively being deployed and validated. These articles collectively suggest the AI-mathematics
+    capability gap is closing fast, making a Millennium Prize solution plausible within the remaining ~6 months of 2026. However,
+    no actual Millennium Prize problem has been solved yet, and institutional acceptance remains untested.'
+- date: '2026-06-28'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the Clay Mathematics Institute has accepted an AI solution to
+    a Millennium Prize Problem. Article [7] discusses Hong Wang''s human proof of the Kakeya conjecture (awarded by Clay in
+    April 2026), confirming the Institute''s recognition process exists but involves a human mathematician, not AI. Articles
+    [4], [5], [6] reference an OpenAI model disproving an 80-year-old conjecture, but this appears to be a separate problem
+    (not confirmed as a Millennium Prize Problem), and critically, no mention is made of Clay Institute acceptance. The articles
+    contain important caveats: [5] and [6] both question whether the AI truly "solved" the problem independently versus with
+    human assistance/verification. The baseline context notes "No Millennium Prize solution" as of the prediction''s starting
+    point. The criteria gap is substantial: we have claims of AI progress on mathematical problems, but zero evidence of Clay
+    Institute formal acceptance of an AI solution to one of the six remaining Millennium Prize Problems.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techspherenews.com/altman-scaling-skeptics-held-back-ai-openai-model-disproves-math-conjecture
+  - https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html
+  - https://medium.com/predict/math-is-cooked-a-physicist-said-it-twice-mathematicians-are-still-arguing-about-it-9f924b076f8b
+  - https://www.predictionhunt.com/news/hong-wang-at-82-for-fields-medal-down-27pp-from-jun-26-2026
+  trajectory_signal: Articles [0], [1], [2], [3] show significant momentum toward AI mathematical formalization capabilities.
+    Terence Tao's statement (articles [2], [3]) that AI crossed a "critical threshold" in formalization within weeks of June
+    22, 2026 is notable—this represents infrastructure progress. Articles [4], [5], [6] indicate AI systems are now actively
+    disproving long-standing conjectures, suggesting capability escalation. However, this momentum is directionally encouraging
+    but has NOT yet translated to Clay Institute acceptance. The trajectory points TOWARD_YES by showing rapidly advancing
+    capability, but remains substantially short of resolution criteria. Articles [8], [9], [10] are outside scope (NP-complete
+    problems, complexity theory results, and fundraising news).
+- date: '2026-07-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of Clay Institute acceptance of an AI solution to a Millennium Prize
+    Problem. This is the critical resolution criterion and it has not been met. Articles [1], [2], and [6] discuss OpenAI
+    solving Erdős problems (combinatorial geometry problems), which are NOT Millennium Prize Problems. The six Millennium
+    Prize Problems are: P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills Existence and Mass Gap, Navier-Stokes Existence
+    and Smoothness, and BSD Conjecture. While article [8] mentions the Riemann Hypothesis, its content is unavailable and
+    the title suggests a physics paper, not an AI solution accepted by Clay Institute. Article [9] appears to address Hilbert''s
+    6th problem (not a Millennium Prize), and content is unavailable.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3824591715094914
+  - https://www.varsity.co.uk/science/31828
+  - https://ground.news/article/openai-solves-the-problem-of-the-distance-unit-of-erdos-70-years-enigma
+  trajectory_signal: Articles [1], [2], [6] signal TOWARD_YES momentum by demonstrating rapid advancement in AI mathematical
+    problem-solving capabilities. OpenAI systems solving decades-old Erdős problems (some unsolved for 56-70 years) with formal
+    verification in 2026 shows clear trajectory toward the capability needed. Articles [3] and [5,7] show supporting ecosystem
+    development (Mistral's Leanstral 1.5 achieving 87% on formal verification benchmarks; Claude collaborating with physicists
+    on proofs). This trajectory suggests AI is approaching Millennium Prize-level problems. However, solving difficult open
+    problems ≠ solving specifically designated Millennium Prize Problems that Clay Institute would evaluate. The gap between
+    "hard unsolved problems" and "Millennium Prize Problems" is institutional/technical, not capability-based. Current momentum
+    suggests YES resolution remains plausible within 2026, but no imminent Clay acceptance is signaled.
+- date: '2026-07-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution. The prediction requires the Clay Institute to ACCEPT
+    an AI solution to a Millennium Prize Problem. None of the articles reference Clay Institute acceptance, formal verification,
+    or peer review completion — all prerequisites for YES resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://xix.ai/ainews/google-alphaproof-nexus-solves-56yearold-math-puzzle-redefining-mathematics.html
+  - https://aiweekly.co/alerts/openai-attributes-cycle-double-cover-proof-to-gpt-56-sol-ultra
+  - https://dev.to/breachprotocol/openai-says-its-ai-proved-a-50-year-old-math-conjecture-mathematicians-want-the-receipts-2gm5
+  - https://www.developersdigest.tech/blog/gpt-56-sol-ultra-cycle-double-cover-proof
+  trajectory_signal: Articles [3], [4], [5] show momentum in AI theorem-proving capability — OpenAI's system generated a plausible
+    proof of a 50-year-old conjecture. This demonstrates directional progress toward AI solving difficult open problems. Article
+    [0] suggests competing efforts (Google's AlphaProof Nexus) are also advancing. However, the specific problem solved (Cycle
+    Double Cover) is not on the Millennium Prize list, and verification remains incomplete. The trajectory is encouraging
+    for eventual YES resolution but currently points to AI solving OTHER important open problems rather than the specific
+    high-barrier Millennium Prize Problems requiring Clay Institute acceptance.
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution. The Cycle Double Cover Conjecture is NOT a Millennium
+    Prize Problem—it is a 50-year-old graph theory conjecture. The Clay Mathematics Institute''s seven Millennium Prize Problems
+    are: P vs NP, Hodge Conjecture, Riemann Hypothesis, Yang-Mills Existence, Navier-Stokes, Birch-Swinnerton-Dyer, and Millennium
+    Problem definition articles [5, 6] confirm this scope without Clay accepting any AI solution yet. Articles [0-4] discuss
+    GPT-5.6 Sol Ultra''s claimed proof of the Cycle Double Cover Conjecture, but explicitly note the proof remains unreviewed
+    ("has not been peer-reviewed or formalized in Lean or Coq, and the math community has not confirmed it" [2]). No Clay
+    Institute acceptance is reported. This does NOT satisfy "YES" criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/
+  - https://www.edenai.co/post/gpt-5-6-sol-ultra-and-the-cycle-double-cover-conjecture-ai-reaches-a-mathematical-reasoning-milestone
+  - https://aiweekly.co/alerts/openai-releases-prompt-behind-gpt-56-sol-ultra-math-proof
+  - https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-just-proved-another-50-123000017.html
+  - https://we0.ai/articles/how-gpt-5-6-sol-ultra
+  trajectory_signal: 'Articles [0-4] signal MODERATE momentum TOWARD_YES by demonstrating: (1) AI systems (GPT-5.6 Sol Ultra)
+    are now tackling difficult multi-decade mathematical conjectures with sophisticated multi-agent reasoning; (2) OpenAI
+    is systematically investing in pure mathematics capabilities and releasing detailed proofs; (3) problem-solving architectures
+    (64 concurrent agents, sustained computation) are scaling. However, this progress is in non-Millennium-Prize territory.
+    The trajectory suggests AI capability growth that *could* eventually target actual Millennium Problems, but no current
+    evidence shows imminent Clay acceptance of a solution to P vs NP, Riemann, or other designated problems. Articles [7-8]
+    are stale (2024, IMO context, not current prediction evidence).'
+- date: '2026-07-26'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The Jacobian conjecture disproof (articles 1, 2,
+    3, 6, 8) does NOT satisfy resolution criteria because:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/
+  - https://phys.org/news/2026-07-tiny-social-media-mathematicians-rethinking.html
+  - https://www.stanfordtechreview.com/articles/jacobian-conjecture-disproved-ai-counterexample
+  - https://phys.org/news/2026-07-golden-age-mathematics-dawning-ai.html
+  - https://theconversation.com/hello-there-the-jacobian-conjecture-is-false-thanx-why-a-tiny-social-media-post-has-mathematicians-rethinking-ai-283883
+  trajectory_signal: 'Strong momentum signal indicating AI capability growth in mathematical problem-solving. The Jacobian
+    conjecture resolution demonstrates AI can now tackle 87-year-old open problems in algebraic geometry and generate verifiable
+    proofs. This represents directional progress toward the resolution criteria—AI systems are approaching the difficulty
+    level of Millennium Prize Problems. However, a critical gap remains: no Millennium Prize Problem has yet been solved by
+    AI, and no Clay Institute has formally evaluated an AI-generated solution under their acceptance criteria. The trajectory
+    points TOWARD_YES, but the prediction remains unresolved as of 2026-07-26.'
+- date: '2026-08-02'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The resolution requires Clay Institute
+    acceptance of an AI solution to a Millennium Prize Problem. None of the articles mention:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://xenospectrum.com/en/openai-astra-ten-math-advances/
+  - https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups
+  - https://www.developersdigest.tech/blog/openai-ten-advances-mathematics-lean-2026
+  - https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/
+  - https://temperature2.com/p/2026-08-01-openai-astra-solves-ten-open-math-problems/
+  trajectory_signal: 'Articles [1, 2, 4, 5, 6, 7] signal STRONG MOMENTUM toward YES resolution. They demonstrate:'
+- date: '2026-08-09'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying resolution criteria. The prediction requires "Clay Institute
+    accepts AI solution" to a Millennium Prize Problem. Articles [1,3,4,5] discuss OpenAI''s Astra solving 10 mathematical
+    problems, but none identify these as Millennium Prize Problems. The problems mentioned (sphere packing, coding theory,
+    group theory, operator algebras, circuit complexity, quantum games, lattices, extremal combinatorics) are longstanding
+    open problems but appear distinct from the 6 unsolved Millennium Prize Problems (P vs NP, Hodge Conjecture, Riemann Hypothesis,
+    Yang-Mills and Mass Gap, Navier-Stokes, Birch and Swinnerton-Dyer). Critically, no article mentions Clay Institute acceptance
+    or formal validation. Article [6] raises research misconduct concerns from unnamed experts, further undermining evidentiary
+    weight.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newscientist.com/article/2582793-openai-announces-solutions-to-10-longstanding-maths-problems/
+  - https://mlq.ai/news/openai-publishes-ten-claimed-math-advances-with-formal-peer-review-still-pending/
+  - https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/
+  - https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/
+  trajectory_signal: 'Articles [1,3,4,5] signal MODERATE momentum TOWARD_YES resolution. OpenAI has demonstrably achieved
+    AI solutions to difficult decade-long mathematical problems with formal Lean 4 proofs (article [3]), showing tangible
+    capability advancement in mathematical problem-solving. This represents progress beyond AlphaProof''s IMO performance
+    (baseline context). However, trajectory momentum is limited by: (1) problems solved appear orthogonal to Millennium Prize
+    scope, (2) peer review still pending (article [3]), (3) research misconduct allegations (article [6]), and (4) no indication
+    Clay Institute is evaluating these results. The momentum is toward AI solving hard math problems generally, but not yet
+    toward the specific resolution criterion of Clay Institute acceptance of a Millennium Prize solution.'
+- date: '2026-08-16'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires "Clay Institute accepts
+    AI solution" to a Millennium Prize Problem. All articles discuss Claude''s work on a Riemann-related bound (raising a
+    lower bound from 41.6% to 67.2%), not solving the Riemann Hypothesis itself. Critically, articles explicitly state this
+    is NOT a solution to a Millennium Prize Problem. Article [0] headline: "No, AI didn''t just solve the thorniest problem
+    in math." Article [4] states: "The model did not solve the Riemann Hypothesis, which is what it was actually asked." This
+    represents progress on a related problem, but the Clay Institute would not accept this as a Millennium Prize solution.
+    The gap between a partial bound improvement and solving one of the six remaining Millennium problems remains enormous.
+    No evidence of Clay Institute review or acceptance appears in any article.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://groundtruth.day/news/claude-raised-the-zeta-critical-line-bound-and-we-said-it-was-not-real.html
+  trajectory_signal: 'Articles [4], [6], [7], and [8] show directional momentum toward AI capability advancement in mathematical
+    research. Claude produced a verified, published contribution (with machine-checked Lean proof per article [4]) that pushed
+    known bounds on a Riemann-related question. This signals:'
+- date: '2026-08-23'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/google-deepminds-alphaproof-nexus-solves-9-erds-problems-on-may-26-oldest-21391688
+  - https://www.math.wustl.edu/wp/wick/index.php/2026/08/16/what-does-the-ai-proof-of-crouzeixs-conjecture-mean-for-research-mathematics/
+  - https://aisupersimplified.com/p/311/thirty-of-sixty-agents-produced-nothing
+- date: '2026-08-30'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Clay Institute acceptance of an AI-solved Millennium Prize Problem.
+    All articles discuss AI solving long-standing mathematical problems, but none are Millennium Prize Problems. The resolution
+    criteria requires explicit Clay Institute acceptance—a specific institutional validation that has not occurred according
+    to any article presented.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5
+  - https://www.brown.edu/news/2026-08-26/javier-gomez-serrano-lab
+  - https://huggingnews.com/ai/alpoge-claims-claude-ai-solves-6-sphere-problem-open-since-1948-f240944d
+  - https://www.htx.com/news/fields-medalist-stumped-claude-solves-78-year-mystery-possib-FFR3sRHR/
+  - https://www.xix.ai/ainews/openais-reasoning-model-independently-solves-an-80yearold-problem-from-research-assistant-to-scientific-discoverer.html
+  trajectory_signal: 'Multiple articles signal strong momentum toward AI mathematical breakthroughs:'
+- date: '2026-09-06'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the Clay Institute has accepted an AI solution to a Millennium
+    Prize Problem. Articles [0], [1], [3], [4] discuss rumors about Claude solving Navier-Stokes that were explicitly denied
+    by Terence Tao—these are debunked claims, not evidence of acceptance. Articles [5], [6], [8], [9] discuss progress on
+    the Riemann Hypothesis (67.2% lower bound improvement) but this is NOT a complete solution nor Clay Institute acceptance.
+    Article [2] is a prediction market showing 38% implied probability, not evidence of resolution. Article [10] claims OpenAI''s
+    Astra solved 10 open problems with formal proofs, but does not specify whether any are Millennium Prize Problems or whether
+    Clay Institute accepted them. **Criteria gap: CRITICAL — No article demonstrates Clay Institute acceptance of any Millennium
+    Prize solution.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pivotnews.ai/build/unreleased-claude-lifts-riemann-zeta-lower-bound-to-67-2
+  - https://pivotnews.ai/build/unreleased-claude-lifts-riemann-zeta-lower-bound-to-67-2
+  trajectory_signal: 'Articles [7], [9], and [10] signal meaningful momentum TOWARD_YES:'

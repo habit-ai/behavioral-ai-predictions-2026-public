@@ -1,18 +1,17 @@
 id: 009
 question: An AI therapy/mental health app will reach >10 million MAU in 2026.
-short_name: 'Therapy/Companionship Remains #1'
+short_name: AI Therapy App 10M MAU
 category: AI Industry
 baseline: Woebot shut down consumer app (Jun 2025). Wysa has 'more than 5 million' users, similar to that of BetterHelp as
   a reference (which requires 35k licensed therapists).
 resolution_criteria: 'YES: AI therapy app >10M MAU. NO: None reaches threshold.'
 search_keywords:
-- AI therapy app
-- mental health AI
-- Wysa
-- AI counseling
-- AI therapy
-- AI companion
-- AI mental health
+- Wysa monthly active users 2026
+- Replika MAU statistics
+- AI mental health app 10 million users
+- Character AI therapy usage
+- PI AI mental health app users
+- AI therapy chatbot MAU growth
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -36,6 +35,8 @@ forecasts:
   human-6: 60
   human-7: 55
   human-8: 10
+  human-9: 30
+  human-10: 50
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -49,3 +50,474 @@ evidence:
   - https://www.jmir.org/2026/1/e79677/
   - https://www.inyourarea.co.uk/news/why-your-smartphone-might-be-your-digital-therapist-but-is-that-a-good-thing
   - https://blog.mylifenote.ai/best-apps-for-anxiety/
+- date: '2026-02-07'
+  summary: Found 4 articles
+  sources:
+  - https://tracxn.com/d/companies/wysa/__YEHv0JLExoPTeMeL2OhbNwdldK37lOPp7sWaWQecea8
+  - https://www.tekrevol.com/blogs/top-healthcare-apps/
+  - https://www.e-counseling.com/therapy-apps/
+  - https://www.stratviewresearch.com/2684/chatbot-market.html
+  relevance: WEAK_YES. The evidence titles suggest increasing digital mental health interest and potential market growth,
+    but don't definitively confirm a specific app reaching 10 million monthly active users by 2026.
+- date: '2026-02-23'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU in
+    2026.'
+  trajectory_sources:
+  - https://www.miragenews.com/wysa-and-imperial-to-test-ai-mental-health-tool-1621905/
+  trajectory_signal: 'Article [6] (Feb 18, 2026) signals modest momentum: Wysa is expanding its AI mental health tool into
+    rural India through a partnership with Imperial College. This represents geographic expansion and clinical validation,
+    suggesting organizational growth. However, geographic expansion to emerging markets doesn''t directly predict MAU growth
+    in the core markets where the 10M threshold would likely be reached. The trajectory is directionally positive for Wysa''s
+    scale but remains speculative regarding whether it will hit 10M MAU by end-2026.'
+- date: '2026-03-01'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU as
+    of March 2026. Article [3] reviews leading mental health AI apps (Flourish, Woebot, Wysa, Ebb, Ash) but contains no user
+    numbers. Articles [0] and [9] are Wysa marketing pages with no MAU data. Baseline context notes Wysa has "more than 5
+    million" users (stale, likely pre-2026), and Woebot shut down its consumer app in June 2025, eliminating a major competitor.
+    Critical gap: No verifiable MAU figures for any therapy app approaching 10M threshold in 2026.'
+  trajectory_sources:
+  - https://www.myflourish.ai/post/top-ai-mental-health-apps-2026
+  - https://datareportal.com/reports/digital-2026-one-billion-people-using-ai
+  trajectory_signal: Article [3] (published unknown, but discusses 2026 landscape) signals growing mainstream attention to
+    AI mental health apps and notes "AI chatbots are becoming a go-to source of emotional support for millions." Article [8]
+    reports >1 billion people use AI globally as of 2026, indicating broad AI adoption momentum. However, these show general
+    AI adoption trajectory, not specific therapy app growth. The trajectory is directionally positive for AI mental health
+    interest but provides no concrete user growth metrics for therapy apps specifically. Woebot's shutdown ([baseline context])
+    is a countervailing signal—consolidation among competitors rather than expansion.
+- date: '2026-03-08'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of current MAU figures for any AI therapy/mental health app reaching
+    or approaching the >10M threshold. Article [2] mentions Wysa securing $5.5M Series A funding (2026-03-05, within preferred
+    date range), but provides no user metrics. The baseline context already establishes Wysa at "more than 5 million" users—a
+    significant gap from 10M. No other therapy-focused app in these articles demonstrates current MAU data. Character.AI [10]
+    shows 20-28M MAU but is explicitly not a therapy app; Replika [9] claims 35M+ users but is similarly an AI companion,
+    not a clinical/therapy tool. Criteria gap: Direct evidence of any dedicated AI therapy/mental health app crossing 10M
+    MAU is entirely absent.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.36kr.com/p/1239442494367366
+  - https://www.remocate.app/jobs/influencer-marketing-manager-3
+  trajectory_signal: 'Two signals suggest forward momentum: (1) Wysa''s $5.5M Series A funding [2] indicates investor confidence
+    and likely indicates growth trajectory planning—this is directional progress toward scaling from 5M toward 10M. (2) Replika''s
+    hiring for "Influencer Marketing Manager" [9] and claim of 35M+ users signals the broader AI companion space is scaling
+    aggressively, which could include mental health applications. However, these are weak signals because: Wysa''s funding
+    alone doesn''t confirm user growth path; Replika is not primarily a therapy app; and neither article provides current
+    user metrics post-announcement. The trajectory points TOWARD_YES (funding and market expansion) but remains highly uncertain
+    whether Wysa or competitors can double from 5M to 10M+ by year-end 2026.'
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU.
+    The baseline establishes Wysa at "more than 5 million" users (as of the prediction context), and articles [2] and [3]
+    report Wysa''s $5.5M Series A funding (Mar 2026), but neither provides current MAU figures or confirms crossing the 10M
+    threshold. Article [1] describes a new research collaboration between Wysa and Imperial College for rural India deployment—expansion
+    activity but no user metrics. Critical gap: No article states any AI mental health app''s current MAU as of March 2026.'
+  trajectory_sources:
+  - https://www.imperial.ac.uk/news/articles/2026/imperial-project-to-test-ai-mental-health-tool-for-girls-in-rural-india/
+  - https://www.theneuron.ai/explainer-articles/a16z-just-ranked-the-100-most-popular-ai-apps-heres-the-full-list-and-what-it-tells-us-/
+  - https://explore.st-aug.edu/exp/how-digital-tools-are-reshaping-mental-health-promise-peril-and-progress
+  trajectory_signal: 'Articles [1], [4], and [5] signal modest directional progress:'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU as
+    of March 2026. Article [10] (Mark Manson''s Purpose app) is too new/early stage to provide MAU data. The baseline context
+    notes Wysa has "more than 5 million" users (status unknown as of March 2026), which would still fall short of the 10M
+    threshold. Woebot''s shutdown (June 2025) actually removes a competitor. No article presents current MAU figures for any
+    therapy/mental health-specific app.'
+  trajectory_sources:
+  - https://www.imperial.ac.uk/news/articles/2026/imperial-project-to-test-ai-mental-health-tool-for-girls-in-rural-india/
+  - https://observer.com/2026/03/mark-manson-ai-chatbot-mental-health/
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI therapy/mental health app reaching >10M MAU. Article [5]
+    mentions Wysa has "500Mn+ conversations globally" but this is conversation count, not MAU—a critical distinction. The
+    baseline context already established Wysa at "more than 5 million" users, so this represents activity volume, not user
+    growth toward the 10M threshold. No other therapy/mental health app is named with specific user counts.'
+  trajectory_sources:
+  - https://frontline.thehindu.com/the-nation/public-health/ai-chatbots-mental-health-gap-india-risks/article70775354.ece
+  - https://www.instagram.com/p/DWOooV0jvYK/
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of any AI therapy/mental health app reaching >10M MAU. The baseline
+    context establishes that Wysa has "more than 5 million" users (as of the provided context), and Woebot shut down its consumer
+    app in June 2025. To resolve YES, we would need an explicit statement that a specific named AI therapy app has crossed
+    10M MAU. None of the articles contain this concrete data point.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newsbytesapp.com/news/science/ai-innovations-in-mental-health-support/story
+  - http://ipsnews.net/business/2026/04/01/why-more-gen-z-is-choosing-ai-for-mental-health-in-2026/
+  - https://www.dogtownmedia.com/mental-health-mobile-app-development-essential-features-and-compliance-requirements-for-businesses-in-2026/
+- date: '2026-04-12'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence addressing whether any specific AI therapy/mental health app has reached
+    >10M MAU by April 2026.'
+  trajectory_sources:
+  - https://time.news/one-third-of-u-s-adults-use-ai-chatbots-for-health-information-kff-poll-finds/
+  trajectory_signal: Article [8] signals MODERATE directional momentum toward YES by showing broad AI chatbot adoption for
+    health purposes (32% of U.S. adults), suggesting growing acceptance and market expansion in health-adjacent AI. However,
+    this is indirect—it measures health information-seeking behavior across unspecified AI tools, not therapy app MAU specifically.
+    Articles [1], [2] show rising teen engagement with character AI chatbots (1-in-11 teens on Character.AI), indicating growing
+    comfort with AI conversational tools among younger demographics who may represent future therapy app users. Articles [0],
+    [3], [5] raise safety/dependency concerns that could inhibit rather than enable the >10M MAU threshold. Articles [4],
+    [6], [7], [9] are entirely off-scope (biometric auth, LLMs, investment platforms, general mobile app market trends).
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria. The prediction requires >10M MAU for
+    an AI therapy/mental health app by end of 2026. Article [5] compares Wysa (confirmed at "more than 5 million" users per
+    baseline) against Wellness AI but provides no updated user counts. Article [2/4/11] discuss teen dependency on companion
+    chatbots (Character.AI, Replika, Kindroid) but these are explicitly companionship apps, not therapy apps, and no MAU figures
+    are provided. The critical data gap remains: no article reports current MAU for any therapy-specific app approaching or
+    exceeding 10M.'
+  trajectory_sources:
+  - http://www.news-medical.net/news/20260413/Study-warns-of-rising-teen-dependency-on-AI-companions.aspx
+  - https://www.wellness-ai.app/guides/wellness-ai-vs-wysa
+  trajectory_signal: Article [5] (published 2026-04-13) shows continued competition in the AI therapy app space with Wysa
+    and Wellness AI, suggesting market activity. Articles [2/4/11] indicate strong adoption of AI chatbots among teens (>50%
+    of U.S. teens regularly using companion chatbots), suggesting growing comfort with AI-based mental health tools generally.
+    However, the companionship chatbot trend does not directly signal trajectory toward therapy app MAU targets—these address
+    different use cases and regulatory frameworks. The trajectory is weakly positive for AI mental health tool adoption broadly,
+    but provides no concrete signal that therapy apps specifically are approaching 10M MAU.
+- date: '2026-04-26'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria (an AI therapy/mental health app reaching
+    >10M MAU by 2026). Article [1] is a listicle about AI mental health apps without specific user numbers. Article [5] covers
+    Heyypal (a mental health platform) securing funding but provides no MAU data. No specific therapy/mental health app is
+    reported to have crossed the 10M MAU threshold. The baseline context notes Woebot shut down (Jun 2025) and Wysa has ~5M
+    users—neither reaches the threshold. Character.AI articles [2, 3, 4, 12, 13] report 20M+ users but this is a general AI
+    companion platform, not a therapy/mental health app (the content discusses roleplay, creative uses, and emotional venting
+    rather than therapeutic functionality). The distinction matters for resolution criteria specificity.'
+  trajectory_sources:
+  - https://indianexpress.com/article/technology/artificial-intelligence/ai-powered-apps-to-boost-mental-health-10648366/
+  - https://techxplore.com/news/2026-04-teens-ai-companions-creativity.html
+  - https://www.theweek.in/wire-updates/international/2026/04/19/how-do-teens-really-use-ai-companions-with-more-creativity-than-you-might-think.amp.html
+  - https://www.digitaltrends.com/computing/character-ai-turns-books-into-roleplay-bots-amid-ongoing-safety-concerns/
+  - https://www.business-standard.com/technology/tech-news/how-do-teens-use-ai-companions-with-more-creativity-than-you-might-think-126041900265_1.html
+  trajectory_signal: Articles [2, 3, 4, 12, 13] show Character.AI maintaining strong user engagement (20M+ users) with young
+    people using AI companions for emotional support and mood management. This signals growing adoption of AI for mental/emotional
+    needs, but Character.AI's positioning as a creative companion platform rather than a therapy app creates ambiguity about
+    whether it qualifies as "therapy/mental health." Articles [1] and [5] indicate rising market interest in AI-powered mental
+    health solutions and growing investment in the space. However, none demonstrate trajectory toward a *dedicated therapy
+    app* reaching 10M MAU—only general AI platforms with secondary mental health utility. Direction is slightly positive for
+    AI mental health adoption broadly, but insufficient to confirm movement toward the specific resolution criterion.
+- date: '2026-05-03'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of whether any AI therapy/mental health app has reached >10M MAU as
+    of May 2026. The baseline context indicates Wysa has "more than 5 million" users (status unclear if current), and Woebot
+    shut down its consumer app in June 2025. Critical gap: No current MAU figures are provided for any therapy/mental health
+    app that would definitively resolve the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/3538670408003457
+  - https://www.openpr.com/news/4494374/ai-companionship-platform-market-trends-investment
+  - https://weeklyvoice.com/competition-in-the-digital-mental-health-market-growth-strategies-of-top-companies/
+- date: '2026-05-10'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any AI therapy/mental health app reaching >10M MAU in 2026. Article
+    [4] mentions "millions" turning to AI chatbots during mental health crises but provides no concrete MAU figures or app
+    identification. Article [6] describes a study of a digital therapy app improving student outcomes but provides no user
+    metrics. Article [7] is a market forecast (digital therapeutics broadly) with no specific app data. None satisfy the concrete
+    resolution criteria requiring >10M MAU confirmation for a named therapy/mental health app.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://apptopia.com/en/insights/gen-ai-chatbots-may-2026-apptopia-data-brief-daus-fall-but-high-frequency-usage-is-sticky/
+  - https://36kr.com/p/3012129118414342
+  - https://36kr.com/p/3381702856259587
+  - https://www.devdiscourse.com/article/technology/3899583-millions-now-turn-to-ai-chatbots-during-mental-health-crises
+  - https://www.prnewswire.com/news-releases/digital-therapeutics-market-to-reach-us-38-2-billion-by-2030-as-software-based-care-redefines-modern-medicine---wissen-research-302765849.html
+  trajectory_signal: 'Articles [1], [2], [3] provide strong negative momentum. Article [1] (2026-05-09, most recent) reports
+    widespread contraction in the AI emotional companion/mental health app sector: Character.ai struggling, MiniMax''s Talkie
+    facing challenges despite $70M revenue, and leading domestic apps experiencing 70%+ download declines (Maobox: 264k→61k
+    monthly downloads; Xingye: 486k→93k). Article [2] confirms Talkie''s struggles despite being MiniMax''s primary revenue
+    driver—indicating even the sector leader is not experiencing MAU growth trajectory toward 10M. Article [3] documents Chinese
+    AI companion apps losing traction domestically and only achieving "over 1 million MAU" in Vietnam as a breakthrough, far
+    below the 10M threshold. Article [4] notes general adoption but in context of crisis usage, not sustained app engagement.
+    These converge on a contracting market for emotional AI apps in 2026, moving away from 10M MAU achievement. Woebot''s
+    consumer shutdown (noted in baseline, June 2025) compounds this downward trajectory.'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any AI therapy/mental health app reaching >10M MAU. The prediction
+    resolves on 2026-12-31, and we are currently at 2026-05-17 (mid-year). Baseline context shows Wysa at "more than 5 million"
+    users as of the prediction start date. No article explicitly states current MAU figures for any single app that would
+    satisfy the >10M threshold. Articles [0] and [7] mention Wysa''s inclusion in Vitality''s health insurance offering but
+    provide no user count updates. Article [1] references "at least 5 million young adults" using AI chatbots for mental health
+    advice generally, but this is aggregate usage across multiple apps/platforms, not a single app''s MAU. The criteria gap
+    is stark: we need documented >10M MAU for a specific named app by year-end 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hrandbenefits.co.uk/vitality-launches-childrens-mental-health-offering/
+  - https://www.azfamily.com/2026/05/14/millions-young-adults-are-turning-ai-therapy/
+  - https://time.news/60-of-us-teens-have-tried-ai-chatbots-11-4-use-them-almost-daily/
+  trajectory_signal: 'Three articles signal directional momentum toward YES:'
+- date: '2026-05-24'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any AI therapy/mental health app reaching >10M MAU. Article [1]
+    discusses Woebot''s shutdown (confirming baseline context) and mentions other therapy apps like Wysa without current user
+    counts. Article [6] mentions growing teen adoption but provides no MAU figures. Articles [8], [9], [10] cover general
+    AI chatbots (Gemini, Claude) which are not therapy/mental health-specific products and thus don''t satisfy resolution
+    criteria. The prediction requires a SPECIFIC therapy/mental health app category, not general-purpose AI tools.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/1391316047657733
+  - https://www.163.com/dy/article/KT5L71MD05568W0A.html
+  trajectory_signal: 'Articles [1] and [4] signal momentum in the emotional companionship/mental health app space. Article
+    [4] reports PolyBuzz (作业帮''s emotional companionship product) achieved 54.97M monthly visits in April 2026—the highest-ranked
+    AI product globally. Article [1] notes Tolan raised $20M Series A with $12M ARR and describes a broader market shift toward
+    sustainable "long-term companionship" models rather than role-play. However, critical gap: "visits" ≠ "MAU" (Monthly Active
+    Users), and neither article specifies whether these products are positioned as clinical *therapy* apps vs. emotional companions.
+    The distinction matters for resolution—a product must be an "AI therapy/mental health app" not just an emotional companion.
+    The trajectory suggests the category is growing substantially, but it''s unclear if current leaders will cross the 10M
+    MAU threshold or if they meet the therapeutic definition required.'
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://m.36kr.com/p/3538670408003457
+  - https://europeancorrespondent.com/en/r/cant-find-love-ai-startups-hope-so
+- date: '2026-06-07'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI therapy/mental health app reaching >10M MAU. The prediction
+    resolves on June 7, 2026 (today''s date per context), requiring concrete current data on a specific app hitting this threshold.
+    None of the articles contain this information. Article [5] explicitly notes Wysa (baseline app at "more than 5 million"
+    users) received an "unacceptable" safety rating from Common Sense Media, which could inhibit growth. No other specific
+    therapy app user counts are disclosed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.machinebrief.com/news/ai-mental-health-2026-digital-therapeutics-guide
+  - https://aijourn.com/poweryou-ai-reports-industry-topping-engagement-metrics-as-demand-grows-for-ai-powered-coaching/
+  - https://www.axa.com/en/press/press-releases/2026-mind-health-report
+  trajectory_signal: 'Articles [1], [3], and [4] signal momentum toward YES, though indirectly:'
+- date: '2026-06-14'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any AI therapy/mental health app reaching >10 million MAU. The
+    baseline context (Wysa at "more than 5 million," Woebot shutdown in June 2025) remains the most concrete data point. Articles
+    reviewed contain insufficient specificity on user numbers for resolution determination. Article [2] mentions "over half
+    of all Americans with a mental health challenge have used digital solutions" but doesn''t attribute this to a single app
+    or specify MAU. Articles [3], [8], [9] reference user behavior trends without concrete MAU figures for therapy-specific
+    apps. Article [10] concerns ChatGPT (1B MAU), which is a general-purpose chatbot, not a therapy/mental health-specific
+    app—scope mismatch.'
+  trajectory_sources:
+  - https://www.emarketer.com/content/mental-health-brands-add-ai-companions-compete-with-general-purpose-chatbots
+  - https://mind.help/mh-news/americans-access-mental-health-support-in-2026/
+  - https://www.webwire.com/ViewPressRel.asp?aId=355932
+  - https://www.intelmarketresearch.com/united-states-ai-powered-mental-health-digital-therapeutics-market-49852
+  trajectory_signal: 'Articles [1-4] collectively signal momentum toward expanded AI mental health deployment: regulatory
+    scrutiny (Article [1]) suggests market maturation; mental health brands actively adding AI companions (Article [2]); market
+    reports indicating broader digital mental health adoption across the U.S. (Articles [2], [3], [4]); and new product launches
+    with claimed functionality (Article [7]). Articles [3] and [4] indicate growing market interest and accessibility, with
+    60%+ of surveyed populations turning to AI for psychological support. However, these signals show *directional progress*
+    toward mainstream adoption and market growth, NOT evidence that any single therapy app has crossed the 10M MAU threshold.
+    The trajectory is positive for the category but does not yet resolve the prediction. Gap: No published user numbers for
+    specific therapy apps in the >5-10M range as of June 2026.'
+- date: '2026-06-21'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria. The prediction requires a specific
+    AI therapy/mental health app to reach >10M MAU by end of 2026. We are currently at June 21, 2026 (mid-year), leaving ~6
+    months for resolution.'
+  trajectory_sources:
+  - https://www.openpr.com/news/4549320/global-conversational-ai-for-mental-health-market-surges-as
+  - https://officechai.com/ai/twice-as-many-americans-are-now-using-ai-companions-than-dating-apps-sensortower-data/
+  - https://www.prnewswire.com/news-releases/sensor-tower-state-of-ai-2026-report-global-time-spent-on-generative-ai-apps-projected-to-more-than-double-year-over-year-302800844.html
+  trajectory_signal: Articles [0, 4] show broad market growth in conversational AI for mental health and overall AI app engagement
+    doubling year-over-year—directional momentum toward category adoption. Article [1] shows Americans using AI companion
+    apps at 2x the rate of dating apps, suggesting strong consumer adoption of AI chat products generally. However, these
+    signals are for the *category* and *companion AI broadly*, not specifically for therapy/mental health apps reaching 10M
+    MAU. Article [4]'s Sensor Tower report is comprehensive on AI engagement but content provided doesn't show mental health
+    app specifics. The trajectory shows growing market conditions but no concrete evidence that a therapy app is approaching
+    the 10M threshold. With 6 months remaining in 2026 and no app currently disclosed to be near 10M MAU, the momentum is
+    suggestive but insufficient to forecast YES without specific user count data.
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria (>10M MAU for an AI therapy/mental
+    health app by 2026). Article [1] and [6] mention TherapyGo announcing a "milestone" but provide no user numbers—the content
+    is truncated and fails to state actual MAU figures. Article [5] references Wysa as a "clinically-backed AI app" but only
+    in passing within a lawsuit narrative, with no user count update. The baseline already established Wysa at "more than
+    5 million" users; no article demonstrates any app has crossed the 10M threshold.'
+  trajectory_sources:
+  - https://lifestyle.lincolnlabs.com/story/719722/therapygo-announces-milestone-as-ai-powered-mental-health-platform-expands-access-to-licensed-psychologists/
+  - https://www.hotelnewsresource.com/article141767.html
+  trajectory_signal: 'Articles [1] and [6] signal forward momentum for TherapyGo as a licensed-psychologist-integrated mental
+    health platform announcing growth milestones (published 2026-06-27, meeting date criteria), but without concrete MAU data,
+    the trajectory strength cannot be assessed. Article [2] shows broader AI app engagement is doubling in 2026, creating
+    favorable ecosystem conditions for mental health apps. However, articles [0], [3], [4] focus on general AI chatbots (Character.AI,
+    ChatGPT, Replika) and companion apps rather than therapy/mental health-specific solutions—these show AI chat adoption
+    is surging but don''t directly illuminate therapy app trajectories. Articles [10]-[13] discuss Replika''s CEO but address
+    job concerns rather than user growth. The overall signal suggests the AI app ecosystem is expanding rapidly, but specific
+    therapy/mental health app user growth remains opaque. Direction is NEUTRAL: general AI momentum is positive, but no concrete
+    evidence of therapy apps approaching 10M MAU.'
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of whether any AI therapy/mental health app has reached >10M MAU in
+    2026. Article [0] is a meta-review about barriers to understanding usage numbers (doesn''t provide actual MAU data). Articles
+    [1] and [2] report APA survey data (77% of psychologists say patients use AI for mental health) but don''t specify MAU
+    for any particular app. None of the articles state that any specific therapy app has crossed the 10M MAU threshold. The
+    baseline context (Wysa at "more than 5 million" users as of the prediction start) suggests the largest known player is
+    still below threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aol.com/news/american-psychological-association-warns-against-170000625.html
+  - https://www.openpr.com/news/4567160/ai-powered-mental-health-solutions-market-size-forecast-to-usd
+  - https://industrytoday.co.uk/health_and_safety/mental-health-apps-market-to-reach-usd-2252-bn-by-2032
+  - https://theoutpost.ai/news-story/ai-for-mental-health-gains-traction-as-experts-warn-of-risks-for-teen-relationship-development-28020/
+  trajectory_signal: 'Articles [3] and [5] show strong market growth projections ($11.9B by 2035, $22.52B by 2032 at 17% CAGR)
+    and note AI as a key driver of mental health app adoption. Article [6] provides concrete adoption signal: "Millions now
+    turn to AI chatbots for mental health support" with 64% of 25-34 year-olds using them. This indicates broad category momentum
+    and growing user base, but doesn''t identify which specific app(s) are driving this or confirm any have reached 10M MAU.
+    The trajectory is directionally positive (adoption accelerating, market expanding), but without resolution clarity on
+    which app (if any) has hit the threshold. Articles [4], [7], [8], [9], [10], [11] are either off-topic (AI companions,
+    general chatbots, digital immortality products, Venice AI as privacy tool) or lack mental health therapy focus, and thus
+    don''t inform this specific prediction.'
+- date: '2026-07-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria. The prediction requires an AI therapy/mental
+    health app to reach >10M MAU by end of 2026. Current date is 2026-07-12 (mid-year), so we are halfway through the resolution
+    window. Baseline shows Wysa has "more than 5 million" users and Woebot shut down its consumer app in June 2025. No article
+    provides current user counts for any AI therapy app that would demonstrate achievement of the 10M threshold or close proximity
+    to it. Article [4] discusses the mental health apps market broadly but contains no specific MAU figures. Articles [6]
+    and [7] mention Wysa, Woebot, and Replika being used for mental health but provide no user metrics. The critical gap:
+    no evidence of any AI therapy app approaching or exceeding 10M MAU.'
+  trajectory_sources:
+  - https://timesofindia.indiatimes.com/technology/tech-news/ai-therapy-is-growing-fast-but-psychologists-say-chatbots-still-cant-replace-human-care/articleshow/132315502.cms
+  - https://www.global-daily.com/press/204408
+  trajectory_signal: Articles [1] and [4] signal directional progress toward the category. [4] reports the "Mental Health
+    Apps Market is experiencing rapid expansion" with "AI integration" and "growing awareness" driving growth—suggesting tailwinds
+    for the sector. [1] notes "AI therapy is growing fast" per a Times of India piece, indicating momentum in adoption. However,
+    these are sector-level signals without app-specific metrics. Article [0], [2], [3] show Character.AI (not a mental health
+    app) expanding engagement through microdramas, with 950+ minutes monthly per-user—irrelevant to the therapy prediction
+    but illustrative of AI chat app scaling. The trajectory signals growth in AI mental health adoption as a category, but
+    with no concrete evidence that any single app is closing the gap from ~5M (Wysa) to 10M MAU. Momentum is positive but
+    insufficient to forecast resolution YES at mid-year without acceleration.
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of any AI therapy/mental health app reaching >10M MAU. The baseline
+    context shows Wysa has "more than 5 million" users as of the prediction date (2026-07-19), which falls short of the 10M
+    threshold needed for YES resolution. Article [1] and [3] mention Wysa but contain no updated user metrics. None of the
+    articles explicitly state current MAU figures for any therapy app that would satisfy the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.timesargus.com/features/health/the-ai-therapist-will-see-you-now-can-chatbots-really-improve-mental-health/article_d78d3852-feb5-5c18-810a-63a44c727466.html
+  - https://myfrontpage.info/eugenia-kuydas-replika-ai-becomes-companion-for-millions/
+  - https://36kr.com/newsflashes/1240799834940800
+  - https://www.jotform.com/blog/best-apps-for-mental-health-and-meditation/
+  - https://www.ainvest.com/news/ai-companion-apps-cleared-500-million-year-investors-treat-novelty-2607/
+  trajectory_signal: 'Several articles signal directional momentum toward YES:'
+- date: '2026-07-26'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any AI therapy/mental health app reaching >10M MAU in 2026. The
+    baseline context (Wysa at "more than 5 million" users as of mid-2025) is the closest concrete user metric available. Article
+    [0] mentions Wysa but provides no updated user count. No other specific app user numbers are disclosed in the articles
+    reviewed.'
+  trajectory_sources:
+  - https://blogs.wysa.io/blog/post/states-are-rushing-to-regulate-ai-chatbots
+  - https://weavai.app/blog/en/2026/07/19/replika-2-0-why-users-leave-after-ai-memory-loss/
+  - https://www.marketsandmarkets.com/Market-Reports/mental-health-apps-market-179040407.html
+  - https://www.openpr.com/news/4586708/mental-health-apps-market-to-reach-us-19-27-billion-by-2035-as
+  - https://industrytoday.co.uk/market-research-industry-today/ai-powered-mental-health-solutions-market-to-surpass-usd-119-billion-by-2035-fueled-by-advancements-in-generative-ai-and-digital-therapeutics-tmr-report
+- date: '2026-08-02'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Article [1] discusses Wysa''s Series A funding
+    ($5.5M) and notes the platform has "more than 5 million" users — this matches the baseline context but does NOT demonstrate
+    progress toward 10M MAU. The article is also dated 2021 (per content timestamp) despite listing 2026-07-31 as publication
+    date, making it stale rehash. No other articles provide concrete MAU figures for any AI therapy/mental health app.'
+  trajectory_sources:
+  - https://m.36kr.com/p/1239442494367366
+  trajectory_signal: 'Article [1] shows Wysa securing $5.5M Series A funding with backing from credible investors (W Health
+    Ventures, Google Assistant Investment Program, pi Ventures, Kae Capital). The funding and stated market positioning toward
+    underserved daily mental health support signals growth momentum. However, the trajectory signal is WEAK because: (a) Wysa
+    remains at ~5M users per baseline, halfway to 10M threshold; (b) the critical context that Woebot shut down its consumer
+    app (June 2025) indicates consolidation/exit pressure in the space; (c) no recent user growth data is provided; (d) articles
+    [2-4] highlight growing APA warnings and safety concerns about AI mental health tools, which could impede adoption. Articles
+    [6-10] discuss AI companion/dating apps (Replika, SwoonMe, etc.) but these are NOT therapy/mental health apps per se —
+    they serve different use cases and show different monetization models (paid companionship vs. health support), so they
+    don''t credibly signal trajectory for therapy apps.'
+- date: '2026-08-09'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.asiae.co.kr/en/article/2026080709204607613
+  relevance: 'STRONG: Naver AI Tab reached 10M MAU in August 2026 but is not a therapy/mental health app—it''s a conversational
+    search service. This creates a technical resolution ambiguity: does the prediction require apps explicitly positioned
+    as "therapy" or any AI-powered mental health tool? Under strict reading, this does not resolve YES. Wysa remains at "more
+    than 5 million" (baseline) with no recent growth disclosure. Lovon shows competitive momentum and clinical positioning
+    but zero MAU disclosure.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/1239442494367366
+  - https://www.openpr.com/news/4597592/lovon-s-ai-voice-sessions-set-new-bar-for-self-esteem-apps-in-2026
+  - https://www.marketminute.com/article/abnewswire-2026-8-6-lovons-ai-voice-sessions-set-new-bar-for-self-esteem-apps-in-2026
+  - https://www.financialcontent.com/article/abnewswire-2026-8-6-lovons-ai-voice-sessions-set-new-bar-for-self-esteem-apps-in-2026
+  - https://www.marketminute.com/article/abnewswire-2026-8-6-lovons-ai-voice-sessions-set-new-bar-for-self-esteem-apps-in-2026
+  trajectory_signal: Lovon's 2026 ranking prominence and integration of PhD psychologists signals competitive innovation and
+    market maturation in AI therapy. Wysa's continued funding and employer B2B expansion (April Health brand) suggests scaling
+    infrastructure. However, without MAU figures for therapy-specific apps, trajectory is directional progress but insufficient
+    to declare momentum toward the 10M threshold for the specified category.
+- date: '2026-08-16'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU in
+    2026. Article [4] announces Asisora, a new AI mental wellness app launch (Aug 10, 2026), but provides no user numbers.
+    The baseline context notes Wysa has "more than 5 million" users and Woebot shut down in June 2025. None of the articles
+    being evaluated contain current MAU figures for any therapy/mental health specific app that would resolve the criteria.'
+  trajectory_sources:
+  - https://lonelinesseconomy.com/ai-companion-funding-compression
+  - https://hipther.com/latest-news/2026/08/10/116342/hipther-expands-into-mental-wellness-with-the-launch-of-asisora-an-ai-mental-wellness-coping-companion/
+  - https://artisan.accel.com/the-rise-of-digital-therapeutics-a-new-era-in-mental-health-treatment
+  - https://www.tuobenessere.it/salute-mentale-digitale-tendenze-e-opportunita-nel-settore-delle-app/
+  trajectory_signal: 'Articles [0], [4], [5], [6] show directional momentum toward the prediction:'
+- date: '2026-08-23'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://yespress.io/yana
+  relevance: 'MODERATE: Article [8] (Yana) provides direct evidence: "The chatbot she built now fields billions of late-night
+    messages across Latin America" and "for 15 Million People" in the headline. This explicitly states an AI mental health
+    app has reached 15M users, exceeding the >10M MAU threshold. However, critical gap: the article does not specify whether
+    these are Monthly Active Users (MAU) or total users. The resolution criteria specifically requires ">10 million MAU" —
+    a more stringent metric than total user base. The article''s claim of "15 Million People" uses ambiguous language and
+    doesn''t clarify the active usage frequency, which is essential to confirm YES resolution. Without explicit MAU confirmation,
+    this cannot be classified as definitive KEEP evidence, though it strongly suggests the threshold may have been crossed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mind.help/mh-news/americans-access-mental-health-support-in-2026/
+  - https://artisan.accel.com/the-rise-of-digital-therapeutics-a-new-era-in-mental-health-treatment
+  - https://www.36kr.com/p/1239442494367366
+  trajectory_signal: Article [3] discusses "The Rise of Digital Therapeutics" as an emerging sector with growth momentum but
+    provides no user numbers. Article [5] (Wysa funding round from 2021, republished Aug 2026) shows Wysa had "more than 5
+    million users" at the time of initial funding and has secured additional investment, indicating growth trajectory but
+    still below 10M threshold at publication date. Article [0] notes that "over half of all Americans with a mental health
+    challenge have used digital solutions" but doesn't isolate AI therapy apps or provide specific MAU figures. These articles
+    collectively signal market momentum and growing adoption, but none demonstrate the specific 10M MAU milestone independently.
+    The trajectory is clearly TOWARD_YES, though the evidence remains incomplete for definitive resolution.
+- date: '2026-08-30'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU as
+    of August 2026. The baseline context (current date) indicates we are past the resolution deadline (2026 has arrived).
+    Article [0] shows Wysa—the closest competitor mentioned in baseline—being terminated by Ithaca College due to student
+    critiques, suggesting contraction rather than growth. No article explicitly states current MAU figures for any AI therapy
+    app at or near the 10M threshold. Articles [1], [4], [5], [6] discuss other AI chatbot platforms (Character.AI, Replika)
+    but these are NOT therapy/mental health apps—they are general-purpose or romance-focused companions, outside resolution
+    scope.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.inquirer.com/health/uhs-talkspace-acquisition-behavioral-health-ai-tee--20260824.html
+  - https://sea.mashable.com/tech/54126/ai-mental-healthcare-is-here-can-it-help-people-or-cause-more-problems
+  trajectory_signal: Article [7] (UHS completed $835M Talkspace acquisition, Aug 24) signals institutional investment and
+    scaling in AI-powered mental health, with mention of Talkspace's "Tee" AI agent. Article [9] (Aug 25) discusses mainstream
+    adoption of AI mental healthcare and positions Talkspace as prominent, suggesting sector momentum. However, neither provides
+    specific MAU data for Talkspace or any competing app. The trajectory shows capital flowing into hybrid AI+licensed therapy
+    models (Talkspace, OpenLoop Health [8], Sword Health acquiring Headspace [10]), but this appears to be moving AWAY from
+    consumer-facing standalone AI therapy apps (cf. Woebot shutdown in Jun 2025, Wysa termination in Aug 2026) toward professionally-integrated
+    platforms. This signals potential barriers to reaching 10M MAU for pure AI therapy apps by end-2026.
+- date: '2026-09-06'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether an AI therapy/mental health app has reached >10M MAU by
+    September 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.leikeji.com/article/79085
+  - https://finance.sina.com.cn/stock/t/2026-08-31/doc-iniqfqsq4987940.shtml
+  trajectory_signal: Articles [0] and [3] show broad market expansion signals—226M monthly visits across AI companion platforms
+    (though only 5 of 30 are in app stores), and the mental health app market projected to reach $15B by 2035 at 18.4% CAGR.
+    However, Article [7] reports California Legislature passed SB 903 (Sept 1, 2026) prohibiting AI from providing/advertising
+    "therapy," which represents a significant regulatory headwind against therapy-specific apps reaching consumer scale. Articles
+    [5-6] and [2] highlight safety concerns and feature removals (Replika's erotic roleplay ban, Woebot shutdown in June 2025)
+    creating reputational friction. The trajectory suggests regulatory barriers and safety concerns are now active constraints
+    on growth, moving away from YES resolution.

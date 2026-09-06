@@ -1,19 +1,17 @@
 id: '010'
 question: 'In 2026 ''How People Are Using GenAI'' report, Therapy/Companionship will remain #1 use case.'
-short_name: AI Therapy App 10M MAU
+short_name: 'Therapy/Companionship Remains #1'
 category: AI Industry
 baseline: '2025 Zao-Sanders: Therapy/Companionship rose #2→#1.'
 resolution_criteria: 'YES: #1 in 2026 survey. NO: Falls to #2 or lower.'
 search_keywords:
-- Zao-Sanders
-- therapy AI usage
-- mental health AI
-- AI companion use
-- GenAI use case
-- AI therapy
-- AI companion
-resolution_date: null
-outcome: null
+- Zao-Sanders 2026 GenAI survey
+- Marc Zao-Sanders how people use GenAI
+- HBR GenAI use case survey 2026
+- Harvard Business Review AI usage report
+- GenAI top use case therapy companionship
+resolution_date: '2026-06-01'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 50
@@ -35,6 +33,8 @@ forecasts:
   human-6: 80
   human-7: 60
   human-8: 75
+  human-9: 80
+  human-10: 70
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -48,3 +48,380 @@ evidence:
   - https://www.journalijar.com/uploads/2026/01/6979b48b78dd4_IJAR-55352.pdf
   - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
   - https://link.springer.com/article/10.1186/s12889-026-26283-x
+- date: '2026-02-07'
+  summary: Found 3 articles
+  sources:
+  - https://contextualscience.org/act_randomized_controlled_trials_1986_to_present
+  - https://www.seattleschild.com/ai-chatbots-childrens-mental-health-washington/
+  - https://www.nimh.nih.gov/about/advisory-boards-and-groups/namhc/reports/blueprint-for-change-research-on-child-and-adolescent-mental-health
+  relevance: WEAK_YES - The mention of potential legislative action and concern about chatbot therapy suggests ongoing significant
+    interest and usage, which could support therapy/companionship remaining a top use case, but doesn't conclusively prove
+    it.
+- date: '2026-02-15'
+  summary: 0 relevant articles (stale evidence removed — Forbes May 2025 and IPCloseup June 2025 articles were not new developments)
+  sources: []
+  relevance: 'NONE: Both articles referenced the 2025 HBR research (published May/June 2025), not new 2026 developments. Cleaned
+    during evidence quality audit.'
+- date: '2026-02-22'
+  summary: 0 relevant articles (stale evidence removed — same IPCloseup June 2025 article resurfaced)
+  sources: []
+  relevance: 'NONE: The IPCloseup article (June 2025) is baseline data already captured, not a new development. This is exactly
+    the stale-evidence leak pattern the monitoring upgrade aims to prevent.'
+- date: '2026-02-23'
+  summary: 3 relevant articles
+  sources:
+  - https://jedfoundation.org/youth-mental-health-in-the-ai-era-how-genai-enters-help-seeking-pathways/
+  - https://mindsitenews.org/2026/02/18/ai-and-youth-mental-health/
+  - https://time.com/7379564/ai-emotional-intelligence-support-bots/
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report rankings or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result that has not yet been published or
+    cited in these articles. Articles [0], [2], [3] discuss mental health/behavioral health AI adoption but do not cite or
+    reference the specific Zao-Sanders report or comparable methodology tracking use case rankings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mindsitenews.org/2026/02/18/ai-and-youth-mental-health/
+  - https://www.globenewswire.com/news-release/2026/02/18/3240313/0/en/77-of-Americans-Embrace-AI-in-Behavioral-Health-But-Only-with-Transparency-and-Strong-Safeguards.html
+  - https://jedfoundation.org/youth-mental-health-in-the-ai-era-how-genai-enters-help-seeking-pathways/
+  trajectory_signal: 'Articles [1], [2], [3] show strong momentum in therapy/companionship use cases:'
+- date: '2026-03-01'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 Zao-Sanders report rankings. Article [1] is the 2025 report (April
+    9, 2025) showing Therapy/Companionship at #1, but this is baseline context, not 2026 data. Article [8] appears to be the
+    March 2025 Zao-Sanders report (same data as [1]). The critical gap: no article provides the actual 2026 rankings needed
+    for direct resolution. The prediction requires evidence from a 2026 survey explicitly ranking use cases, which is not
+    present in these materials.'
+  trajectory_sources:
+  - https://ldi.njit.edu/how-and-why-people-use-gen-ai
+  - https://redlineproject.news/2025/11/06/how-are-people-using-generative-ai-for-therapy/
+  trajectory_signal: Articles [5] and [7] show directional momentum TOWARD the YES resolution. Article [5] (Sept 2025, The
+    Learning and Development Initiative) emphasizes "Why People Turn to AI for Therapy, Organization, and Purpose," explicitly
+    highlighting therapy as a primary use case rationale. Article [7] (Nov 6, 2025, The Red Line Project) dedicates a full
+    piece to "How Are People Using Generative AI for Therapy?" These articles signal sustained and growing interest in therapy/companionship
+    use cases heading into 2026, suggesting the category maintains prominence. However, they do not directly measure 2026
+    rankings or show whether other use cases are growing faster. Articles [3], [4], [9] address executive adoption, SMB preferences,
+    and teen use respectively—none directly track therapy/companionship ranking momentum.
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 "How People Are Really Using GenAI" report rankings.
+    Article [4] is the 2025 Zao-Sanders report (baseline context, not 2026 data). Article [0] is from March 2024 (stale).
+    Articles [3], [10], [11], [12], [13] address different GenAI topics (text analysis, employer guides, data readiness, workplace
+    relationships, tool selection) — none mention use case rankings. Articles [1], [2] appear to be social media fragments
+    referencing the 2025 report but contain no substantive content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bbc.com/news/articles/cy4wwjmjp4no
+  - https://www.bbc.co.uk/news/articles/cy4wwjmjp4no
+  - https://www.gbnews.com/news/ai-therapy-britons-chat-gpt-counselling
+  trajectory_signal: 'Articles [5], [6], [7] from March 2026 (within preferred date range) show strong momentum in therapy/counseling
+    adoption: Bournemouth University surveyed ~31,000 adults across 35 countries; 41% of UK adults and 61% globally report
+    willingness to use AI for counselling. Article [8] shows individual adoption of AI therapy (anecdotal but illustrative).
+    Article [9] reports schools deploying AI counselors for mental health tracking. This demonstrates active, expanding real-world
+    deployment and consumer acceptance of therapy/companionship use cases in early 2026—directional evidence supporting continued
+    dominance, though it does not constitute the actual 2026 Zao-Sanders ranking data needed for resolution.'
+- date: '2026-03-15'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 "How People Are Using GenAI" report rankings. The prediction
+    requires a specific survey result (Therapy/Companionship remaining #1 use case), and none of the articles present findings
+    from this particular benchmark survey. Articles [0-4, 8, 10-12] address different domains (product development, employer
+    AI adoption, health copilots, C-suite governance, innovation, entry-level jobs) and are not germane to the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.usatoday.com/press-release/story/28226/edubrain-ai-survey-finds-many-gen-z-adults-using-ai-for-emotional-support-and-daily-interaction/
+  - https://www.vogue.in/content/ai-therapy-is-becoming-popular-but-is-it-safe
+  - https://thetimes.com/uk/healthcare/article/chatgpt-listened-when-my-gp-didnt-why-women-turn-to-ai-on-health-5zqm7c3hg
+  - https://observer.co.uk/culture/books/article/ai-is-replacing-human-relationships
+  trajectory_signal: 'Articles [5, 6, 7, 9] provide moderate momentum signals supporting YES resolution by documenting growing
+    adoption of AI for emotional support, therapy, and companionship:'
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report rankings or whether
+    Therapy/Companionship will remain #1. The prediction requires a specific survey result (Zao-Sanders 2026 report) that
+    has not been published or cited in these articles. Articles [0], [1], [2], [3], [4], [5], [6], [10], [11], [12], [13]
+    are either not relevant to the prediction, contain incomplete content, or address different topics (productivity, marketing
+    sentiment, stock picking, HR). Without access to the actual 2026 report data, resolution cannot be assessed.'
+  trajectory_sources:
+  - https://timesofindia.indiatimes.com/education/news/the-rise-of-ai-companions-among-students-raises-difficult-questions-are-humans-no-longer-enough/articleshow/129628559.cms
+  - https://flarecollective.substack.com/p/anthropic-just-surveyed-81000-people
+  - https://www.globaldatinginsights.com/news/arrows-survey-ai-sees-widespread-use-and-dislike-in-dating/
+  trajectory_signal: 'Articles [7], [8], [9] show directional signals about AI companion/therapy adoption momentum:'
+- date: '2026-03-29'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 Zao-Sanders "How People Are Using GenAI" report rankings.
+    The prediction requires concrete data from that specific survey showing Therapy/Companionship''s ranking in 2026. Articles
+    [0], [5], and [9] discuss therapy/companionship use cases but do not cite the actual report or provide ranking data. Without
+    the survey results themselves, there is no KEEP-tier evidence.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.hbrtaiwan.com/article/24827/how-gen-z-uses-gen-ai-and-why-it-worries-them
+  - https://builtin.com/articles/ai-companionship-changing-human-relationships
+  - https://mymmanews.com/modern-loneliness-and-the-rise-of-ai-companions/
+  trajectory_signal: 'Articles [0], [5], and [9] signal directional movement TOWARD_NO:'
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report by Zao-Sanders
+    or similar official surveys tracking use case rankings. The prediction requires specific ranking data from that named
+    report showing Therapy/Companionship remaining in #1 position. None of the articles cite or reference this survey or provide
+    its rankings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mindingthecampus.org/2026/03/31/ai-companions-replacing-relationships/
+  - https://www.techdigest.tv/2026/04/passivity-ai-companionship-and-side-hustles-the-new-digital-reality-for-uk-adults.html
+  - https://www.dailystar.co.uk/news/latest-news/young-adults-ditching-pals-social-36954727
+  - https://www.pymnts.com/artificial-intelligence-2/2026/what-people-actually-want-from-ai/
+  trajectory_signal: 'Articles 2, 3, 5, and 6 show strong directional momentum TOWARD_YES resolution:'
+- date: '2026-04-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 "How People Are Using GenAI" report rankings or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result that has not yet been published or
+    referenced in any of these articles. Critical gap: The actual 2026 survey results are not present in the provided materials.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.npr.org/2026/04/06/nx-s1-5766349/a-new-paper-says-mental-health-therapists-should-talk-to-patients-about-their-ai-use
+  - https://enterpriseai.economictimes.indiatimes.com/news/industry/gen-z-turns-to-ai-chatbots-for-companionship-a-study-on-digital-intimacy/130084014
+  - https://techstrong.ai/articles/americans-trust-ai-more-than-friends-but-struggle-to-spot-the-fakes-study/
+  trajectory_signal: 'Three articles signal directional momentum toward continued strength of therapy/companionship use cases:'
+- date: '2026-04-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report rankings or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result (presumably from Zao-Sanders or similar
+    authority) that has not been published in these articles. Articles [0], [1], [4], [5], [7] discuss various GenAI surveys
+    but none address consumer use case rankings. Without the actual 2026 report data, the resolution criteria cannot be assessed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://theconversation.com/ai-companions-can-give-constant-support-but-distort-ideas-about-what-a-relationship-really-is-278284
+  - https://time.news/the-rise-of-ai-relationships-synthetic-intimacy-vs-human-connection/
+  - https://www.roborhythms.com/teens-hooked-on-ai-chatbots-april-2026/
+  trajectory_signal: 'Articles [2], [3], and [6] provide directional signals supporting momentum toward YES:'
+- date: '2026-04-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report ranking or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result that has not yet been published or
+    referenced in these articles. Articles [0], [3], [10] are duplicate HBR homepage content with no relevant substance. Articles
+    [1], [2], [4], [8], [11], [12] address enterprise AI, robotics, corporate adoption, or ethical concerns—outside the scope
+    of consumer use case rankings. Article [6] contains incomplete content and lacks date precision.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bizcommunity.com/article/from-ai-companionship-to-brand-trust-warc-outlines-2026-key-trends-958334a
+  - https://www.niagarafallsreview.ca/thestar/life/relationships/in-love-with-a-chatbot-why-people-are-dating-ai-companions-and-what-it-means-for-their-life-skills/article_be3dbcb7-9f94-52ab-afd7-d6e5bb870010.html
+  - https://www.christianitytoday.com/2026/04/church-offers-world-in-love-with-ai-companions/
+  - https://www.insidehighered.com/news/student-success/health-wellness/2026/04/21/myriad-complex-ways-young-people-use-ai
+  trajectory_signal: 'Four articles signal growing momentum around AI companionship/therapy use cases, supporting the #1 trajectory:'
+- date: '2026-05-03'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 "How People Are Using GenAI" report rankings or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result (the 2026 Zao-Sanders report or equivalent)
+    showing Therapy/Companionship''s ranking. None of the articles cite, preview, or discuss this specific report''s findings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hellochinatech.com/p/china-regulate-ai-feeling
+  - https://www.news.com.au/technology/young-people-fight-back-against-ai-chatbots/news-story/c81ad5333b7af5070e6fed36cbd8ed03
+  - https://aintelligencehub.com/articles/anthropic-claude-personal-advice-usage-report-may-2026
+  - https://nerdbot.com/2026/04/27/why-gen-z-is-increasingly-turning-to-ai-to-find-love/
+  - https://hitconsultant.net/2026/04/29/rula-state-of-mental-health-report-2026/
+  trajectory_signal: 'Multiple articles signal strong momentum in the Therapy/Companionship category:'
+- date: '2026-05-10'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report or current rankings
+    of use cases. The prediction requires a specific survey result (Therapy/Companionship remaining #1) that has not been
+    published or directly addressed in any of these articles. Articles [0-4], [9-13] focus on enterprise AI adoption, productivity,
+    data readiness, and business workflows—entirely different use case categories from personal therapy/companionship. While
+    these demonstrate broad GenAI adoption trends, they contain no information about consumer-facing use case rankings. The
+    critical gap: no source confirms whether Therapy/Companionship has maintained or lost its #1 position in 2026 surveys.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wbur.org/news/2026/05/07/artificial-intelligence-therapy-mental-health-care
+  - https://thenextweb.com/news/young-europeans-ai-chatbots-emotional-support-cause
+  trajectory_signal: 'Articles [5] and [8] provide directional signals supporting YES:'
+- date: '2026-05-17'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report rankings or whether
+    Therapy/Companionship maintains #1 status. The prediction requires a specific survey result that has not yet been published
+    or referenced in these articles. Articles [0], [1], [2], [3], [4] address general AI adoption trends but do not measure
+    use case rankings. Critical criteria gap: The actual 2026 ranking data from the referenced survey is absent.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.devdiscourse.com/article/technology/3904729-the-quiet-rise-of-ai-as-an-emotional-lifeline-for-students
+  - https://theconversation.com/from-ai-companions-to-climate-action-we-undervalue-what-lies-ahead-279838
+  - https://www.prnewswire.com/news-releases/new-girl-scouts-of-the-usa-research-finds-65-of-girls-who-use-ai-assisted-devices-see-them-as-friends-302768707.html
+  - https://www.kcl.ac.uk/news/one-in-seven-people-have-used-ai-instead-of-seeing-a-gp-study-finds
+  trajectory_signal: 'Articles [5], [6], [7], [8] show strong momentum in therapy/companionship use cases:'
+- date: '2026-05-24'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report ranking or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result from a named source (Zao-Sanders or
+    equivalent) that hasn''t been published yet or isn''t contained in these articles. Articles [0], [1], [2], [3], [4], [6],
+    [10], [11] discuss various AI adoption surveys but do not address use-case rankings or mention the specific report in
+    question.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medicalxpress.com/news/2026-05-people-ai-health.html
+  - https://www.webpronews.com/ai-companion-apps-as-emotional-infrastructure/
+  - https://www.prnewswire.com/news-releases/secret-soulmates-1-in-7-young-adults-in-committed-relationships-still-chat-with-an-ai-romantic-companion-302776086.html
+  - https://www.businessoutreach.in/gen-z-turning-to-ai-to-cope-with-workplace-stress-finds-deloitte-survey/
+  trajectory_signal: 'Multiple articles signal strong momentum toward therapeutic/companionship use cases:'
+- date: '2026-05-31'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medicalxpress.com/news/2026-05-reveals-people-ai-mental-health.html
+  - https://health.yahoo.com/conditions/mental-health/articles/ai-being-used-therapy-companionship-213553742.html
+  - https://opronews.com/health/up-to-one-third-of-gen-z-teens-prefer-ai-therapy-over-human-therapists
+  - https://globalhealthcaremagazine.com/article/ai-for-mental-health/
+  - https://www.resultsense.com/news/2026-05-27-lords-debate-ai-human-relationships-preview/
+- date: '2026-06-07'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://store.hbr.org/product/how-people-are-really-using-ai-in-2026/H0976M
+  - https://puck.news/newsletter_content/ais-top-use-cases-trumps-game-changer-a-cnn-ai-lawsuit/
+  - https://aisparkup.com/posts/13199
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axa.com/en/press/press-releases/2026-mind-health-report
+  - https://www.nbcconnecticut.com/news/national-international/young-people-ai-chatbots-mental-health-advice/3740993/
+  - https://www.axa.com/en/press/press-releases/2026-mind-health-report
+  - https://www.nbcconnecticut.com/news/national-international/young-people-ai-chatbots-mental-health-advice/3740993/
+- date: '2026-06-14'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the ranking in an official "How People Are Using GenAI" 2026
+    report that would resolve the prediction. Articles [0] and [9] reference "new research about the most common AI use cases
+    in 2026" from Harvard Business Review/The Insider, but the actual ranking data is not disclosed in the provided content
+    excerpts. Critical gap: The specific ranking of Therapy/Companionship vs. other use cases in the 2026 survey is not stated
+    in any article.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.inc.com/jessica-stillman/the-biggest-change-in-how-people-are-using-ai-this-year-more-time-wasting-nonsense/91354160
+  - https://www.webwire.com/ViewPressRel.asp?aId=355932
+  - https://officechai.com/ai/these-are-the-top-100-use-cases-of-ai/
+  - https://store.hbr.org/product/new-data-on-how-we-re-really-using-ai/H097ZS
+  trajectory_signal: 'Multiple signals suggest momentum TOWARD_YES (Therapy/Companionship remaining #1):'
+- date: '2026-06-21'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://fabiolalli.com/2026/06/16/come-usiamo-davvero-lai-nel-2026-luso-emotivo-che-sorpassa-il-tecnico/
+  relevance: 'STRONG: Article [0] provides DIRECT evidence: It reports on the Harvard Business Review''s "How People Are Really
+    Using AI" 2026 survey (published June 1, 2026), stating that an "emotional use" topped the rankings, surpassing technical/coding
+    uses. This directly addresses the resolution criteria by confirming Therapy/Companionship remains #1 in the 2026 survey.
+    The article explicitly notes this finding "resta in testa" (remains at the top) after analyzing 12,000+ use cases over
+    12 months. This is the exact report specified in the prediction''s resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scientificamerican.com/article/1-in-3-psychologists-say-their-patients-use-ai-as-a-second-therapist/
+  - https://medicalxpress.com/news/2026-06-psychologists-patients-chatbots-mental-health.html
+  - https://officechai.com/ai/twice-as-many-americans-are-now-using-ai-companions-than-dating-apps-sensortower-data/
+  trajectory_signal: 'Articles [4], [5], and [7] all signal strong momentum toward therapy/companionship use cases:'
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about the 2026 ''How People Are Using GenAI'' report ranking or whether
+    Therapy/Companionship remains #1. The prediction requires a specific survey result that has not yet been published or
+    discussed in these articles. No articles reference the Zao-Sanders report methodology, 2026 findings, or comparative rankings
+    of use cases.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://quasa.io/media/ai-is-winning-the-attention-war-americans-now-spend-twice-as-much-time-talking-to-bots-as-using-dating-apps
+  - https://www.hotelnewsresource.com/article141767.html
+  trajectory_signal: 'Articles [5] and [9] signal momentum toward increased companionship/therapy use:'
+- date: '2026-07-05'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://quasa.io/media/how-people-are-really-using-ai-in-2026-therapy-tamagotchis-and-tarot
+  - https://physicalainews.com/we-can-live-without-ai-but-can-we-live-without-clean-water-letters/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/55093-one-in-five-american-adults-under-30-say-they-have-had-an-ongoing-personal-friendship-with-an-ai-chatbot
+  - https://dharab.com/patients-are-bringing-ai-to-therapy-and-their-psychologists-have-concerns/
+- date: '2026-07-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 ''How People Are Using GenAI'' report or provide survey data comparing
+    ranked use cases that would resolve this prediction. The resolution criteria requires either confirmation that Therapy/Companionship
+    remains #1 or falls to #2+ in a specific 2026 survey—neither is present in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.huffingtonpost.co.uk/entry/gen-z-ai-loneliness_uk_6a4cb6e3e4b0a7adb6d758fc
+  - https://www.thedeepview.com/articles/study-38-open-up-to-ai-about-relationships
+  - https://www.einpresswire.com/article/923032132/1-in-10-mental-health-clinicians-report-patients-turning-to-ai-chatbots-for-emotional-support
+  - https://restofworld.org/2026/china-seniors-ai-slop/
+  - https://www.deloitte.com/uk/en/about/press-room/digital-consumer-trends-over-a-third-of-consumers-believe-gen-ai-health-advice-is-always-accurate.html
+  trajectory_signal: 'Articles [2], [3], [4], [5], [6] show growing momentum in therapy/companionship use cases:'
+- date: '2026-07-19'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://www.jerryilao.com/how-people-use-ai-hbr-2025-data/
+  relevance: 'MODERATE: Article [0] provides direct evidence on the 2025 Zao-Sanders report (the baseline referenced in prediction
+    context), confirming that "therapy and companionship" ranked #1 in 2025, with "Organizing life and finding purpose" at
+    #2 and #3. This establishes the baseline from which 2026 comparison is needed. However, this article does NOT provide
+    the 2026 report data needed to resolve the prediction. The critical gap: we have confirmation of 2025 rankings but zero
+    evidence of the actual 2026 "How People Are Using GenAI" report rankings that would directly satisfy resolution criteria.
+    The prediction explicitly requires the 2026 survey results, which this article does not contain.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://observer.co.uk/news/technology/article/millions-of-us-are-appealing-to-ai-as-a-relationship-referee-is-it-helping-or-harming-us
+  trajectory_signal: 'Article [6] (published 2026-07-15, within preferred window) signals directional momentum TOWARD_YES
+    by reporting "Millions of us are appealing to AI as a relationship referee" and framing this as a growing behavioral trend
+    in personal/relational domains. The article discusses widespread adoption of AI for relationship advice and emotional
+    support, suggesting continued consumer interest in therapy/companionship use cases. However, this is anecdotal momentum
+    reporting, not quantitative survey data—it shows direction but not ranking position. Combined with the 2025 baseline showing
+    therapy/companionship at #1, this suggests the category remains prominent, but doesn''t confirm whether it maintained,
+    gained, or lost ranking position in 2026.'
+- date: '2026-07-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 ''How People Are Using GenAI'' report or provide survey data on
+    use case rankings. Articles [1], [2], [3], [4] discuss Google ATLAS, organizational adoption metrics, and workplace productivity
+    use cases (writing, research, coding) — none mention therapy/companionship rankings or comparative use case data. Critical
+    gap: The prediction requires a specific 2026 report showing therapy/companionship''s ranking position. No such report
+    findings are presented in any article''s actual content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.euronews.com/next/2026/07/24/more-people-use-chatgpt-as-a-therapist-two-experts-explain-why
+  - https://www.indexbox.io/blog/ai-as-emotional-support-benefits-and-risks-according-to-experts/
+  - https://www.psychologytoday.com/us/blog/intersections/202607/are-the-kids-alright-teens-usage-of-ai-companions-is-up
+  trajectory_signal: 'Articles [6], [7], [8] show momentum TOWARD_YES by documenting growing adoption of AI for emotional
+    support/companionship:'
+- date: '2026-08-02'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 "How People Are Using GenAI" report or provide data on use case
+    rankings that would constitute direct evidence for the resolution criteria. Articles [0], [1], [2], [3], [4], [9], [10],
+    [11], [12] focus on workplace/occupational AI usage, enterprise ROI, workforce preparation, and boardroom adoption—none
+    of which speak to therapy/companionship rankings in consumer GenAI use cases. Critical gaps: no mention of the actual
+    survey mentioned in the prediction (Zao-Sanders or equivalent 2026 report), no ranking data for use cases, no comparative
+    data showing whether therapy/companionship remains #1 vs. falling to #2 or lower.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/new-research-young-people-are-turning-to-ai-chatbots-instead-of-people-for-emotional-support-302834454.html
+  - https://www.nature.com/articles/s41746-026-02842-9
+  - https://mind.help/mh-news/americans-access-mental-health-support-in-2026/
+  trajectory_signal: 'Articles [5], [6], and [8] provide directional signals supporting continued strength in therapy/companionship
+    use cases:'
+- date: '2026-08-09'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 ''How People Are Using GenAI'' report or provide comparable ranked-use-case
+    survey data needed to confirm whether Therapy/Companionship remains #1. The prediction requires direct evidence from the
+    specific 2026 survey referenced in the resolution criteria. Articles [0], [1], [2], [3], [4], [10], [11], [13] address
+    various GenAI use cases (customer service, work tasks, board governance, decision-making, financial services, agentic
+    AI) but do NOT provide ranked use-case rankings comparable to the Zao-Sanders baseline. Articles [5], [7], [8] are tangential
+    research on AI companions/mental health but don''t measure relative rankings of use cases.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/
+  - https://stacker.com/stories/parenting-family/young-people-turn-ai-be-their-real-unfiltered-selves
+  trajectory_signal: 'Articles [6] and [9] provide directional momentum supporting Therapy/Companionship prevalence:'
+- date: '2026-08-16'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles directly address the 2026 ''How People Are Using GenAI'' report or provide evidence about
+    whether Therapy/Companionship maintains #1 ranking. The prediction requires specific survey data from the named report
+    showing Therapy/Companionship''s rank in 2026—this evidence is absent. Articles [0-4, 9-10] focus on enterprise/worker
+    productivity use cases, which are orthogonal to the resolution criteria. Articles [11-13] discuss AI counseling research
+    and chatbot development but don''t measure use case rankings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html
+  - https://jedfoundation.org/ai-can-be-a-bridge-to-care-but-it-shouldnt-be-the-answer-to-young-peoples-mental-health-struggles/
+  - https://www.technologyforyou.org/kaspersky-gen-z-knows-ai-better-than-other-generations-and-increasingly-treats-it-as-a-friend/
+  - https://heragenda.com/p/young-people-turn-to-ai-to-be-their-real-unfiltered-selves/
+  trajectory_signal: 'Articles [5, 6, 7, 8] show growing momentum toward therapy/companionship use cases:'

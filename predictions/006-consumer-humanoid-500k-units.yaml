@@ -5,8 +5,12 @@ category: AI Industry
 baseline: Consumer humanoids (Unitree H1, Figure, 1X NEO) shipped <10K total.
 resolution_criteria: 'YES: >500K units confirmed. NO: Below threshold.'
 search_keywords:
-- humanoid robot
-- consumer robot
+- Unitree humanoid robot sales 2026
+- Tesla Optimus consumer shipments
+- Figure humanoid robot orders
+- 1X NEO robot consumer sales
+- humanoid robot shipments 2026
+- consumer humanoid robot units sold
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -30,6 +34,8 @@ forecasts:
   human-6: 10
   human-7: 1
   human-8: 2
+  human-9: 40
+  human-10: 20
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -43,3 +49,454 @@ evidence:
   - https://www.techloy.com/figure-ais-helix-02-completes-4-minute-autonomous-kitchen-task-setting-new-humanoid-robotics-benchmark/
   - https://www.humanoidsdaily.com/news/fauna-robotics-exits-stealth-with-sprout-a-soft-bodied-humanoid-for-the-messy-reality-of-shared-spaces
   - https://robohorizon.com/en-us/news/2026/01/fauna-robotics-unveils-sprout-a-humanoid-platform-built-for-people/
+- date: '2026-02-07'
+  summary: Found 10 articles
+  sources:
+  - https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html
+  - https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/
+  - https://www.fool.com/investing/2026/02/04/teslas-optimus-robot-could-reach-human-level-profi/
+  - https://cnevpost.com/2026/02/02/unitree-humanoid-robots-extreme-cold-traversing-snowfield/
+  - https://www.cp24.com/news/world/2026/02/01/not-ready-for-robots-in-homes-the-maker-of-a-friendly-new-humanoid-thinks-it-might-change-your-mind/
+  relevance: WEAK_YES. While multiple sources suggest progress in humanoid robotics, none definitively confirm mass consumer
+    adoption at the 500,000 unit scale by 2026.
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - https://news.futunn.com/en/post/68616397/idc-global-humanoid-robot-shipments-to-approach-18000-units-by
+  relevance: 'MODERATE: Article [7] provides concrete IDC data showing ~18,000 humanoid robot shipments projected for 2025,
+    establishing a baseline trajectory, though it does not directly confirm 2026 shipment volumes or consumer-specific units.'
+- date: '2026-02-22'
+  summary: 4 relevant articles
+  sources:
+  - https://www.eweek.com/news/unitree-20000-humanoid-robots-2026-china/
+  - https://robotdyn.com/unitree-robotics-aims-to-sell-up-to-20000-humanoid-robots-in-2026/
+  - https://cntechpost.com/2026/02/17/unitree-founder-expects-up-to-20000-humanoid-robot-shipments-2026/
+  - https://biggo.com/news/202602170723_Unitree_Humanoid_Robot_Shipments_Target_2026
+  relevance: 'MODERATE: Multiple sources confirm Unitree''s 2026 shipment target of 10,000-20,000 units, which falls far short
+    of the 500,000 unit threshold required for YES resolution.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 5 relevant articles
+  sources:
+  - https://robotdyn.com/unitree-robotics-aims-to-sell-up-to-20000-humanoid-robots-in-2026/
+  - https://cntechpost.com/2026/02/17/unitree-founder-expects-up-to-20000-humanoid-robot-shipments-2026/
+  - https://biggo.com/news/202602170723_Unitree_Humanoid_Robot_Shipments_Target_2026
+  - https://ucstrategies.com/news/china-shipped-13000-humanoid-robots-in-2025-america-shipped-none/
+  - https://www.eweek.com/news/unitree-20000-humanoid-robots-2026-china/
+  relevance: MODERATE
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 4 relevant articles
+  sources:
+  - https://robotdyn.com/unitree-robotics-aims-to-sell-up-to-20000-humanoid-robots-in-2026/
+  - https://cntechpost.com/2026/02/17/unitree-founder-expects-up-to-20000-humanoid-robot-shipments-2026/
+  - https://news.futunn.com/en/post/68965284/robot-orders-surge-by-150-wang-xingxing-this-year-unitree
+  - https://www.scmp.com/tech/big-tech/article/3343825/kung-fu-somersaults-and-scale-unitree-eyes-20000-robot-output-2026-after-gala
+  relevance: MODERATE
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped in 2026. The prediction resolves on actual
+    confirmed shipments, and we are only at late February 2026 with no final shipment data available yet. Articles [0-4] discuss
+    Unitree''s goal of 10,000-20,000 units, which—even at the upper bound—falls 96% short of the 500K threshold. Article [6]
+    covers 1X NEO pre-orders with late 2026 delivery (not yet shipped). Article [5] is a headline only with no accessible
+    content. None provide confirmation of units actually shipped to date or evidence the threshold will be met by year-end.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://robotdyn.com/unitree-robotics-aims-to-sell-up-to-20000-humanoid-robots-in-2026/
+  - https://cntechpost.com/2026/02/17/unitree-founder-expects-up-to-20000-humanoid-robot-shipments-2026/
+  - https://biggo.com/news/202602170723_Unitree_Humanoid_Robot_Shipments_Target_2026
+  - https://news.futunn.com/en/post/68965284/robot-orders-surge-by-150-wang-xingxing-this-year-unitree
+  - https://robotdyn.com/unitree-robotics-aims-to-sell-up-to-20000-humanoid-robots-in-2026/amp/
+  trajectory_signal: 'Articles [0-4] show directional momentum: Unitree founder publicly committed to 10,000-20,000 unit shipments
+    in 2026 (vs. <10K historical baseline), with reported 150% surge in robot orders and 300% spike in JD.com searches post-Chinese
+    New Year Gala. This signals growing market interest and commercial scaling intent. Article [6] indicates 1X NEO entering
+    pre-order phase with delivery expected late 2026, adding a second major player ramping production. However, the trajectory
+    remains sharply misaligned with resolution: even optimistic combined targets from multiple manufacturers (Unitree 20K
+    + 1X NEO volumes + Figure + others) would need to accelerate >20x to reach 500K. The signals show the category is moving
+    from prototype to early commercialization, but shipment velocity is orders of magnitude below threshold. The direction
+    is toward YES in absolute terms (growing adoption, real products, genuine demand), but the gap to 500K remains vast with
+    ~10 months remaining in 2026.'
+- date: '2026-03-01'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://kr-asia.com/pulses/159537
+  relevance: 'MODERATE: Article [0] provides the only direct evidence toward resolution criteria: Unitree confirmed 5,500
+    humanoid units shipped in 2025 (with 6,500 total production). This is concrete shipment data from a major player, representing
+    a ~550x increase from the baseline (<10K total across all consumer humanoids). However, this falls far short of the 500K
+    threshold needed for 2026 YES resolution—the prediction requires 50x growth from Unitree''s 2025 pace in a single year,
+    plus significant contributions from Figure, 1X, Tesla, XPeng, and others. The article demonstrates the category is scaling
+    but leaves a massive gap between current evidence and resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://kr-asia.com/after-this-years-gala-spectacle-where-is-unitree-robotics-headed
+  - https://thedailycpec.com/chinas-unitree-robotics-plans-20000-humanoids/
+  - https://kr-asia.com/pulses/159131
+  trajectory_signal: 'Articles [1], [2], and [4] signal strong momentum:'
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. Article [2] confirms Unitree
+    shipped 5,500 humanoid units in 2025 (well below threshold). The prediction requires 50x growth from baseline to hit 500K
+    in 2026—a massive leap with no concrete shipping data yet available in March 2026. Critical gap: We''re already 3 months
+    into 2026 with zero TIER 1 evidence of cumulative shipments approaching the threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://blog.robozaps.com/b/best-humanoid-robots
+  - https://kr-asia.com/pulses/159537
+  - https://news.laodong.vn/the-gioi/trung-quoc-xuat-xuong-so-robot-hinh-nguoi-gap-36-lan-so-voi-my-1662115.ldo
+  trajectory_signal: Article [0] mentions "Tesla Optimus Gen 3 production started Jan" (2026), signaling mass production entry.
+    Article [2] shows Unitree exceeded 5,500 units in 2025, demonstrating growing market adoption. Article [6] reports China
+    shipped "36 times more humanoid robots than the US" in 2025, indicating strong regional momentum. These suggest directional
+    progress toward scaling, but remain far short of 500K units and lack specifics on 2026 shipment volumes. The trajectory
+    is positive but the gap between current shipments (~5.5K annually) and target (500K annually) is enormous, requiring 90x
+    acceleration.
+- date: '2026-03-15'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. Article [0] is the closest
+    to concrete data, reporting ~17,000 units shipped globally in 2025 with Unitree leading market share — this is far below
+    the 500K threshold and indicates the prediction will NOT resolve YES. However, this is historical 2025 data, not 2026
+    fulfillment. All other articles lack specific shipment volume claims. Articles [1] and [2] discuss pricing/pre-orders
+    but provide no unit volumes. Articles [4], [6], [9], [10] discuss Tesla Optimus production plans (10K units mentioned,
+    summer production start) but these are forward-looking claims, not confirmed shipments. Articles [8], [11], [12] are predictions
+    or cost analysis without shipment data. **Criteria gap: Zero articles confirm actual 2026 shipments approaching or exceeding
+    500K units.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://qx.tynews.com.cn/system/2026/03/10/030995268.shtml
+  - https://botinfo.ai/articles/unitree-r1-humanoid-robot
+  - https://blog.robozaps.com/b/tesla-optimus-vs-unitree-g1
+  - https://restofworld.org/2026/china-tesla-robot-race/
+  trajectory_signal: 'Articles signal meaningful momentum TOWARD the resolution threshold, though still far short:'
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. Article [3] states Unitree
+    sold "more than 5,500 humanoid robots in 2025" and aims for "up to 20,000 units in 2026"—well below the 500K threshold.
+    Article [4] describes Tesla''s Gen 3 Optimus as "mass-production-ready" with "year-end" targets, but contains no shipment
+    numbers. Article [5] reports UBTech''s "annual production capacity of 10,000 units in 2026"—capacity, not confirmed shipments.
+    The baseline context confirms total consumer humanoid shipments remain <10K. The resolution criteria requires confirmed
+    shipments >500K units; none of these articles provide such confirmation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.notebookcheck.net/Beyond-kung-fu-Unitree-launching-humanoid-robot-for-household-chores-and-elder-care.1255707.0.html
+  - https://machineherald.io/article/2026-03/17-tesla-debuts-third-generation-optimus-at-shanghai-expo-targets-mass-production-by-year-end
+  - https://interestingengineering.com/ai-robotics/ubtech-siemens-humanoid-robot-production
+  trajectory_signal: 'Three articles signal directional momentum toward higher production volumes:'
+- date: '2026-03-29'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.sohu.com/a/1001935563_223764?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
+  - https://finance.sina.com.cn/tech/digi/2026-03-27/doc-inhsmnzp9485162.shtml
+  - https://finance.sina.cn/tech/2026-03-27/detail-inhsmnzu2052404.d.html?oid=WA+0812+2782+5310+Biaya+Borongan+Tenaga+Pasang+Keramik+Lantai+Murah+Panjatan+Kulon+Progo&vt=4
+  - https://news.qq.com/rain/a/20260322A02B9K00
+  - https://news.qq.com/rain/a/20260322A074CR00
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. The resolution criteria requires
+    confirmed shipments exceeding 500,000 units by end of 2026. Current date is April 5, 2026—we are only ~9 months from resolution.
+    No article claims total global humanoid shipments have reached this threshold. Most articles focus on individual company
+    milestones (Unitree, AGIBOT) rather than aggregate market data. Article [3] mentions "China''s Unitree: 20,000 Humanoid
+    Robots by 2026" but this is a single company''s target, far below the 500K global threshold. AGIBOT reached 10K cumulative
+    units (Articles 5, 7). Unitree shipped ~5,500 in 2025 (Article 2) and targets 20K in 2026. Even combined, these leading
+    manufacturers are nowhere near 500K. The critical gaps: (1) no confirmation of total global shipments approaching 500K,
+    (2) no evidence other manufacturers have ramped significantly, (3) no market research aggregating industry-wide units
+    for 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://custommapposter.com/article/china-s-unitree-20-000-humanoid-robots-by-2026-robotics-revolution/12586
+  - https://humanoid.guide/agibot-reaches-10000-humanoid-robots-scales-to-10000-units/
+  - https://robotics.press/news/agibot-39-percent-global-humanoid-shipments-2025
+  - https://www.prnewswire.com/news-releases/agibot-reaches-10-000-units-as-real-world-demand-for-robots-accelerates-302728501.html
+  trajectory_signal: 'Articles 2, 5, 6, 7 signal acceleration in the humanoid robot market. AGIBOT reaching 10K units (half
+    in last 3 months) indicates production scaling. Unitree''s 3.6x production increase target (5.5K→20K) and $610M IPO filing
+    suggest investor confidence in sector growth. Article 6 notes Chinese manufacturers control 39% of global production,
+    implying global market exists but scale remains modest. These signals show momentum TOWARD higher production volumes and
+    market maturation, but the trajectory from ~10-20K annual unit rates per leading company to 500K+ global annual shipments
+    would require either: (a) explosive growth by existing players, (b) massive new entrants ramping simultaneously, or (c)
+    significant inclusion of lower-cost/lower-capability units. Current trajectory shows progress toward scaling but insufficient
+    evidence the market will reach 500K units by end of 2026.'
+- date: '2026-04-12'
+  summary: 2 relevant articles, 9 trajectory signals
+  sources:
+  - https://en.antaranews.com/amp/news/411588/agibot-reaches-10000-units-as-real-world-demand-for-robots-accelerates
+  - https://www.trendforce.com/presscenter/news/20260409-13007.html
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.notateslaapp.com/news/3920/tesla-optimus-gen-3-silhouette-revealed-by-program-lead
+  - https://www.benzinga.com/markets/tech/26/04/51655802/teslas-robot-got-outsold-33-times-by-chinese-rival-ev-story-all-over-again
+  - https://finance.sina.com.cn/wm/2026-04-07/doc-inhtrumi7321232.shtml
+  - https://finance.sina.cn/stock/jdts/2026-04-09/detail-inhtwhrk1015487.d.html?oid=Telegram%E7%99%BB%E5%BD%95%E4%B8%8D%E4%BA%86%E6%94%B6%E4%B8%8D%E5%88%B0%E7%9F%AD%E4%BF%A1%28%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG%3A%40HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93%29gwA0&vt=4
+  - https://robotics.press/news/agibot-zhiyuan-robotics-company-profile
+- date: '2026-04-19'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of >500K unit shipments in 2026. Article [5] mentions 13,317 global
+    humanoid robot shipments in 2025—far below the 500K threshold and confirming the baseline context that consumer humanoids
+    remain <10K cumulative. None of the 2026 articles contain actual shipment volume data for consumer humanoid robots. The
+    prediction requires concrete confirmation of >500K units; as of April 19, 2026 (mid-year), no such evidence exists in
+    these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/unitree-launches-cheapest-humanoid-robot-aliexpress-rival-tesla
+  - https://world.infonasional.com/unitree-robotics-humanoid-sales-aliexpress
+  - https://financialpost.com/pmn/business-pmn/teslas-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo
+  - https://news.bloomberglaw.com/business-and-practice/teslas-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo
+  - https://en.walaw.press/articles/unitree_launches_$8200_humanoid_robot_globally_via_aliexpress/GQSSSLQRQWFS
+  trajectory_signal: 'Multiple momentum signals suggest directional progress TOWARD_YES, though still far from resolution:'
+- date: '2026-04-26'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. Article [9] states IDC projects
+    humanoid robots will "exceed 510,000 units by 2030" — not 2026, and this is a forecast, not confirmed shipments. This
+    is the only article that even approaches the resolution threshold, but it projects achievement in 2030, four years after
+    the 2026 resolution date. The prediction resolves on April 26, 2026, and we have no evidence of actual unit shipments
+    hitting 500K by that date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techy44.okdiario.com/en/unitree-just-did-something-that-makes-humanoid-robots-feel-dangerously-real-because-one-is-now-being-sold-globally-for-less-than-8200/3471/
+  - https://www.world-today-news.com/elon-musk-calls-optimus-teslas-biggest-product-ever-confirms-25b-investment-and-2026-production-start-in-fremont/
+  - https://www.dqindia.com/esdm/chinas-humanoid-robot-output-to-surge-94-in-2026-unitree-and-agibot-to-capture-nearly-80-market-share-11727677
+  - https://finance.sina.cn/tech/2026-04-20/detail-inhvcewh0667500.d.html?fromtech=1&node_id=76524&vt=4
+  - https://botsanddrones.asia/f/agibot-deploys-10000-humanoid-robots-in-scale-milestone
+  trajectory_signal: 'Multiple articles signal strong momentum toward eventual resolution:'
+- date: '2026-05-03'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of >500K units shipped in 2026. All manufacturing capacity announcements
+    remain aspirational/planned rather than confirmed shipments. 1X''s Hayward facility targets 10,000 units in 2026 (article
+    [2] confirms "capacity for 10,000 units in year one"), which is 5% of the resolution threshold. Tesla claims 1M annual
+    capacity planned (article [1]), but this is a forward-looking statement about a first-generation line "to begin shortly
+    in Q2" — not confirmed production or consumer shipments. Unitree''s 2025 actual deliveries were 5,500 units (article [4]),
+    demonstrating the gap between industry capacity and actual consumer sales.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year
+  - https://thenextweb.com/news/1x-neo-humanoid-factory-hayward-10000-home-robots
+  - https://theaiinsider.tech/2026/05/01/x1-says-it-has-capacity-to-build-10k-of-its-humanoid-household-robot-neo-annually/
+  - https://humanoid.guide/1x-opens-california-factory-aims-for-10000-neo-humanoid-units/
+  - https://www.menlotimes.com/post/norway-s-1x-opens-california-factory-to-build-100-000-humanoid-robots-by-2027
+  trajectory_signal: 'Strong momentum signals toward YES by end-2026, but resolution still highly unlikely:'
+- date: '2026-05-10'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of >500K units shipped in 2026. The prediction requires concrete confirmation
+    of shipment volumes that have already occurred (current date: 2026-05-10), but no article reports actual cumulative 2026
+    shipments approaching or exceeding 500K units. Article [5] states China shipped 13,000-16,000 units in 2025 total, with
+    expectations of ~28,000 units in 2026—far below the threshold. This is the most concrete data available but falls dramatically
+    short of resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitaltoday.co.kr/en/view/52789/tesla-sets-1-million-a-year-goal-for-optimus-humanoid-robot-but-will-demand-follow
+  - https://www.newsglobenow.com/new347765.html
+  - https://thenextweb.com/news/china-smartphone-factories-humanoid-robots
+  - https://techfastforward.com/articles/figure-ai-just-fired-its-human-babysitters-and-the-real-story-is-what-comes-next
+  trajectory_signal: 'Several articles signal directional momentum toward eventual high-volume production, but all indicate
+    the market remains far below 500K threshold:'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K consumer humanoid robot units shipped globally in 2026. This
+    is the critical gap—we''re at mid-May 2026 and the threshold requires confirmation of actual shipments, not future capacity
+    or plans. Article [1] claims Unitree shipped 5,500+ units (verifiable concrete number), but this still falls far short
+    of 500K and represents cumulative historical shipments, not 2026-specific volume. Articles [2], [3], [5], [6], [8] describe
+    future plans, orders, or production targets but lack shipped unit confirmation. No article demonstrates the 50x+ acceleration
+    needed from current ~10K historical baseline to 500K in 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.archynewsy.com/unitree-ships-5500-humanoid-robots-outpacing-us-rivals/
+  - https://embodiedglobal.com/en/article/figure-botq-24x-production-breakthrough-may-2026
+  - https://techfastforward.com/articles/one-robot-per-hour-figure-ai-botq-production-humanoid-race-2026
+  trajectory_signal: 'Multiple signals indicate significant momentum toward eventual mass production, though insufficient
+    for 2026 threshold:'
+- date: '2026-05-24'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped in 2026. All articles are either incomplete
+    excerpts, market analysis without shipment figures, or press releases without concrete data. Article [2] mentions "approxima[te]"
+    2025 shipment figures but the number is cut off and refers to 2025, not 2026. The prediction resolves in 5 months (by
+    end of 2026); direct evidence would require confirmed cumulative shipment data for 2026 YTD approaching or exceeding 500K
+    units. None of the articles provide this.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.wedoany.com/shortnews/173535.html
+  - https://www.tanayj.com/p/unitrees-ipo-filing-the-state-of
+  - https://cryptobriefing.com/china-humanoid-robots-homes-wuhan/
+  - https://www.hokanews.com/2026/05/gigaai-unveils-seelight-s1-humanoid.html
+  - https://www.techtimes.com/articles/316974/20260521/tesla-optimus-completes-water-handoff-grasp-transfer-progress-arrives-weeks-before-fremont-ramp.htm
+  trajectory_signal: 'Strong momentum signals toward YES:'
+- date: '2026-05-31'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.shuziqushi.com/new366458.html
+  - https://lincolnvoters2.com/article/the-future-of-robotics-10-000-neo-humanoids-set-to-transform-industries
+  - https://www.gate.com/news/detail/chinas-humanoid-robots-account-for-847-of-global-market-in-q1-2026-21393505
+  - https://www.prnewswire.com/news-releases/engineai-launches-shenzhen-intelligent-manufacturing-base-as-first-batch-of-t800-humanoid-robots-roll-off-the-production-line-to-begin-mass-delivery-302785384.html
+- date: '2026-06-07'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techfastforward.com/articles/unitree-raises-620m-in-a-shanghai-humanoid-ipo-2026
+  - https://en.shuziqushi.com/new372039.html
+  - http://www.techtimes.com/articles/317632/20260602/unitree-ipo-cleared-agibot-hits-10000-units-china-humanoid-robot-duopoly-takes-shape.htm
+  - https://en.seru.co.id/2984/chinese-robotics-startups-just-took-over-the-global-humanoid-robot-market/
+  - https://techfastforward.com/articles/unitree-launches-a-17990-humanoid-on-amazon-in-2026
+- date: '2026-06-14'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. All articles discuss pre-orders,
+    price announcements, or production capacity plans—not confirmed shipments. The closest claims are forecasts (China''s
+    2026 output "100,000–200,000 units") and capacity announcements (Tesla''s "500,000-a-year plan"), but these are targets,
+    not achievements. UBTech''s ~4,000 pre-orders represent actual demand signals but fall far short of resolution threshold.
+    Articles avoid stating total shipped units across all manufacturers, which is the actual resolution criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newsglobenow.com/new378021.html
+  - https://en.shuziqushi.com/new377930.html
+  - https://www.thestandard.com.hk/innovation/article/334594/Ubtechs-hyper-realistic-robots-see-nearly-4000-pre-orders-within-10-days
+  - https://www.techtimes.com/articles/318157/20260610/humanoid-robot-prices-near-30000beijing-factorys-500000-year-plan-may-halve-cost-buyers-lag.htm
+  - https://www.newsglobenow.com/new379044.html
+  trajectory_signal: 'Multiple signals indicate strong momentum toward YES, though none have crossed the resolution threshold
+    yet:'
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that >500K humanoid robot units have shipped globally in 2026. The
+    prediction requires confirmed shipment data of this magnitude by end-of-year, and we are only at 2026-06-21 (mid-year).
+    All articles discuss forecasts, plans, and production targets rather than actual confirmed shipments to date. Deutsche
+    Bank''s forecast of "nearly 50,000 units in 2026" [1] is explicitly a projection, not confirmation of units already shipped.
+    Unitree''s target of "10,000 to 20,000 in 2026" [0] and China''s directive for "10,000 humanoids by December 31" [2] are
+    goals, not achieved volumes. No article states that 500K+ units have been confirmed shipped.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techfastforward.com/articles/china-builds-the-worlds-first-humanoid-robot-ipo-wave
+  - https://embodiedglobal.com/en/article/deutsche-bank-humanoid-shipment-forecast-50k-2026
+  - https://www.techtimes.com/articles/318641/20260618/humanoid-robots-china-ships-90-global-units-now-leads-ai-benchmarks.htm
+  - https://window-to-china.de/2026/06/17/china-might-produce-100000-200000-humanoid-robots-in-2026-some-sell-cheaper-than-smartphones/
+  trajectory_signal: 'Strong directional momentum toward YES, though still far below threshold:'
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scmp.com/tech/article/3358210/morgan-stanley-raises-china-humanoid-robot-shipment-forecast-50000-units
+  - https://wccftech.com/teslas-optimus-humanoid-robot-mass-production-nears-as-taiwanese-suppliers-gear-up-to-provide-components-report/
+  - https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html
+  - https://thenextweb.com/news/china-humanoid-robot-forecast-morgan-stanley-50000
+  - https://techfastforward.com/articles/morgan-stanley-raises-china-humanoid-50k-units-2026
+- date: '2026-07-05'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of >500K units shipped globally in 2026. All concrete shipment/order
+    data falls far short of the threshold:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitimes.com/news/a20260630PD241/china-humanoid-robot-production-2026-shipments.html?chid=10
+  - https://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/
+  - https://www.prnewswire.com/apac/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815280.html
+  - https://eu.36kr.com/en/p/3876811895992327
+  - https://www.roboticsintl.com/article/ubtech-u1-series-logs-11000-pre-orders-ahead-of-consumer-humanoid-launch
+  trajectory_signal: 'Strong momentum signals toward YES for future resolution, though currently far from threshold:'
+- date: '2026-07-12'
+  summary: 6 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://stechtimes.com/en/article/tesla-optimus-suppliers-told-to-reach-2500-units-a-week-by-yearend-mre56bey
+  - https://robohorizon.com/en-us/news/2026/07/tesla-confirms-optimus-mass-production-targets-1-million-units-annually/
+  - https://autonews.gasgoo.com/articles/news/miit-annual-humanoid-robot-production-expected-to-top-100000-units-this-year-2074840212818415617
+  - https://global.chinadaily.com.cn/a/202607/07/WS6a4cb0a9a310986e2b463f35.html
+  - https://www.webpronews.com/chinas-agibot-hits-15000-robots-and-eyes-factory-floors-worldwide/
+- date: '2026-07-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that >500K humanoid robot units have shipped globally in 2026. Article
+    [0] is truncated and unreadable. The articles that address 2026 shipment numbers show:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bitrss.com/unitree-aims-to-sell-20-000-robots-following-spectacular-gala-performance-184603
+  - https://entrelligence.com/tesla-optimus-gen-3-line-takes-shape-at-fremont-as-musk-warns-of-an-extremely-slow-start/
+  - https://cnevpost.com/2026/07/15/xpeng-aims-1000-robots-month-2027-global-roll-out/
+  - https://tesorb.com/optimus-production-fremont-10000-parts-gen3-timeline/
+  - https://www.manufacturingmag.com/article/tesla-fremont-model-sx-line-optimus-1-million-units
+  trajectory_signal: 'Significant momentum TOWARD YES, but still far from resolution:'
+- date: '2026-07-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. The prediction requires "confirmed"
+    shipments of this scale by year-end 2026 (5 months away from article date). Current verified baseline remains <10K total
+    units across all consumer humanoid manufacturers. Articles discussing targets and plans are not confirmed shipments.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://humanoidintel.ai/news/tesla-optimus-mass-production-chinese-suppliers-supply-chain-2026/
+  - https://bitrss.com/unitree-aims-to-sell-20-000-robots-following-spectacular-gala-performance-184603
+  - https://news.lavx.hu/article/unitree-bets-on-scale-to-lead-the-humanoid-robotics-race
+  - https://quasa.io/media/chinese-robotics-giant-ubtech-unveils-mass-produced-ultra-bionic-humanoids-companions-for-the-home-and-perhaps-much-more
+  trajectory_signal: 'Several signals indicate upward momentum but fall far short of resolution threshold:'
+- date: '2026-08-02'
+  summary: 8 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://kr-asia.com/pulses/159537
+  - https://asia.nikkei.com/editor-s-picks/interview/china-s-unitree-robotics-eyes-capacity-boost-to-meet-humanoid-demand
+  - https://robotsatlas.com/posts/figure-z-1000-humanoidem-figure-03-produkcja-rusza-na-serio
+  - https://www.gate.com/news/detail/shenzhen-sold-13361-adult-companion-robots-and-sony-announced-the-end-of-23067557
+  - https://www.gate.com/news/detail/chinas-humanoid-robots-account-for-847-of-global-market-in-q1-2026-21393505
+- date: '2026-08-09'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://valueaddvc.com/pulse/humanoid-robot-production-race-analysis-2026
+  - https://theroboticsmedia.com/article/figure-ai-1000th-figure-03-humanoid-botq-manufacturing-milestone-july-23-2026
+  - https://www.digitaltoday.co.kr/en/view/88647/china-ubtech-consumer-humanoid-robot-preorders-u1-series
+  - https://humanoid.guide/ubtech-lines-up-september-deliveries-for-u1-home-humanoids/
+  - https://kr-asia.com/pulses/160053
+- date: '2026-08-16'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. The prediction requires confirmation
+    of shipment volumes exceeding 500,000 units by end of 2026. Current data shows approximately 19,100 units shipped in H1
+    2026 (articles 4, 8, 9), falling dramatically short of the threshold. The gap is substantial: even at aggressive growth
+    rates implied by projections, the evidence does not yet satisfy the KEEP criteria requiring "confirmed" units exceeding
+    500K.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techrepublic.com/article/news-humanoid-robot-shipments-chinese-vendors/
+  - https://robotsbeat.com/agibot-unitree-global-humanoid-shipments-19100-h1-2026-sag/
+  - https://www.forbes.com/sites/johnkoetsier/2026/08/10/chinese-companies-are-winning-the-humanoid-robot-sales-battle-heres-why-that-doesnt-matter-yet/
+  - https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/
+  trajectory_signal: 'Articles 3, 4, 6, and 8 show meaningful directional momentum TOWARD YES:'
+- date: '2026-08-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution. The prediction requires >500,000 units shipped
+    globally in 2026 by end of year. Current data shows H1 2026 shipments of ~22,000 units total (Articles 2, 9, 11). To reach
+    500K by end-2026 would require ~478K additional units in H2 2026—a 21.7x acceleration from H1 pace. This is implausible
+    based on available evidence. Critical gaps: (1) No single manufacturer has shipped remotely close to these volumes; (2)
+    Most shipments remain entertainment/research use, not consumer home use; (3) Tesla Optimus has zero external sales as
+    of mid-2026 (Article 1) and won''t begin sales until H2 2027 (Articles 4, 5); (4) No credible forecast or manufacturer
+    guidance suggests 500K+ units in remaining ~4 months of 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://counterpointresearch.com/q1-2026-report.pdf/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026
+  - https://www.humanoidsdaily.com/news/global-humanoid-shipments-surpass-22-000-in-h1-2026-as-agibot-leads-and-form-factor-debates-intensify
+  - https://www.gate.com/news/detail/global-humanoid-robot-shipments-surge-to-22000-units-in-h1-2026-up-nearly-23576966
+  trajectory_signal: 'Articles 2, 9, 11 show strong momentum: H1 2026 achieved ~22,000 shipments (300% YoY growth), with forecasts
+    for full-year 2026 exceeding 50,000 units (210% YoY growth per Article 11). This demonstrates substantial acceleration
+    from the <10K baseline. AGIBOT leading with 9,700 units and Unitree with 7,000 units shows viable manufacturers scaling.
+    However, this trajectory points to 50K-60K units for full-year 2026—roughly 10% of the 500K threshold. The momentum is
+    positive but insufficient; extrapolation suggests resolution would occur in 2027-2028 at earliest, not 2026. Article 8
+    indicates China dominates with 97% of global production (40K units H1), suggesting capacity exists but is not being allocated
+    to consumer/home use at scale.'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of >500K units shipped globally in 2026. The prediction requires concrete
+    shipment confirmation by year-end 2026 (4 months remaining as of the article dates). All articles discuss volumes far
+    below the 500K threshold and lack verified final 2026 totals.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ainvest.com/news/decomposing-97-china-ships-world-humanoids-upstream-2608/
+  - https://www.trendforce.com/research/download/RP260827SJ
+  - https://www.adamasintel.com/china-humanoid-robot-output-to-top-100000-units-in-2026-as-unitrees-ipo-soars-460-on-debut/
+  - https://www.allthings-elon.com/articles/tesla-optimus-enters-production-fremont-2026-08-28
+  trajectory_signal: 'Multiple signals indicate momentum TOWARD YES, but substantial gaps remain:'
+- date: '2026-09-06'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://ai2.work/blog/china-ships-97-of-humanoid-robots-why-western-volumes-stay-thin
+  - https://iotbusinessnews.com/2026/09/04/humanoid-robot-shipments-forecast-to-reach-26-million-annually-by-2040/

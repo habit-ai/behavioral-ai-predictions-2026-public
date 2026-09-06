@@ -5,11 +5,14 @@ category: AI Safety
 baseline: No major hearing on specific system yet.
 resolution_criteria: 'YES: Formal hearing/investigation on specific system. NO: None.'
 search_keywords:
-- autonomous weapons
-- AI warfare
-- AI military
-resolution_date: null
-outcome: null
+- congressional hearing AI military system
+- UN autonomous weapons investigation
+- Pentagon AI weapons oversight hearing
+- Project Maven congressional inquiry
+- Palantir AI military investigation
+- AI lethal autonomous weapon system inquiry
+resolution_date: '2026-04-13'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 70
@@ -31,6 +34,8 @@ forecasts:
   human-6: 60
   human-7: 55
   human-8: 30
+  human-9: 50
+  human-10: 50
 evidence:
 - date: '2026-02-01'
   summary: Found 4 articles
@@ -44,3 +49,479 @@ evidence:
   - https://www.eweek.com/news/china-autonomous-drone-swarms-ai-weapons/
   - https://www.thetimes.com/world/russia-ukraine-war/article/kill-chains-future-warfare-human-ai-wwntgxbtr
   - https://timesofindia.indiatimes.com/science/inside-chinas-ai-army-drones-learn-to-hunt-and-kill-like-natures-predators/articleshow/127500814.cms
+- date: '2026-02-07'
+  summary: Found 6 articles
+  sources:
+  - https://thequantuminsider.com/2026/02/02/how-will-the-military-use-quantum-artificial-intelligence-quantum-ai-may-reshape-military-planning-before-it-reaches-the-battlefield/
+  - https://www.militarytimes.com/news/your-military/2026/02/03/the-us-army-is-seeking-autonomous-drones-to-clean-up-chemical-weapons/
+  - https://www.armytimes.com/news/your-military/2026/02/03/the-us-army-is-seeking-autonomous-drones-to-clean-up-chemical-weapons/
+  - https://www.defensenews.com/global/asia-pacific/2026/02/03/taiwans-tron-future-unveils-ai-guided-anti-armor-rockets/
+  - https://www.highergov.com/contract-opportunity/draft-rfp-advancing-artificial-intelligence-multi-fa800325r0002-s-3ae6a/
+  relevance: 'WEAK_YES: The evidence suggests active military AI development, increasing the likelihood of oversight scrutiny,
+    though no specific hearing is directly mentioned.'
+- date: '2026-02-22'
+  summary: 3 relevant articles
+  sources:
+  - http://foreignaffairs.house.gov/news/press-releases/chairman-mast-delivers-opening-remarks-at-hearing-on-winning-the-ai-arms-race
+  - https://defensescoop.com/2026/02/19/pentagon-anthropic-dispute-military-ai-hegseth-emil-michael/
+  - https://www.youtube.com/watch?v=YVN1nLXhqjM
+  relevance: 'MODERATE: Articles 5, 6, and 7 document a formal House Foreign Affairs Committee hearing on AI military use
+    and concrete disputes between the Pentagon and Anthropic over military AI deployment, which constitute congressional and
+    investigative activity directly relevant to AI systems in military decision-making contexts.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 5 relevant articles
+  sources:
+  - http://www.philly.com/news/nation-world/pentagon-anthropic-ai-military-maduro-hegseth-palantir-20260222.html
+  - https://www.axios.com/2026/02/19/anthropic-pentagon-ai-fight-openai-google-xai?stream=top
+  - https://defensescoop.com/2026/02/19/pentagon-anthropic-dispute-military-ai-hegseth-emil-michael/
+  - https://www.defensedaily.com/pentagon-cto-confirms-work-with-anthropic-is-under-review-pushes-back-on-ai-use-concerns/pentagon/
+  - https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a specific military AI system. Article [0] concerns data center infrastructure policy, not a specific military AI system.
+    Articles [2], [3], [4], [6] reference Pentagon-Anthropic disputes over Claude AI military use, but these are internal
+    policy discussions and disputes, not formal congressional hearings or investigations. Article [1] mentions "ethics dispute"
+    but doesn''t specify a formal hearing or investigation. None satisfy the resolution criteria of a "formal hearing/investigation
+    on specific system."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://defensescoop.com/2026/02/19/pentagon-anthropic-dispute-military-ai-hegseth-emil-michael/
+  - https://www.axios.com/2026/02/19/anthropic-pentagon-ai-fight-openai-google-xai?stream=top
+  - https://www.defensedaily.com/pentagon-cto-confirms-work-with-anthropic-is-under-review-pushes-back-on-ai-use-concerns/pentagon/
+  - https://www.defenseone.com/technology/2026/02/pentagon-says-its-getting-its-ai-providers-same-baseline/411506/?oref=d1-featured-river-top
+  - https://www.youtube.com/watch?v=QhQp_z16I_A
+  trajectory_signal: 'Articles [1-4, 6] show significant momentum toward YES resolution. They document:'
+- date: '2026-03-01'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    specifically focused on an AI military decision system. The resolution criteria require formal proceedings on a *specific
+    system* — this has not yet occurred. Articles discuss the Pentagon-Anthropic dispute over AI safeguards and lethal autonomous
+    weapons, but no formal hearing or investigation on a specific deployed system is documented in these sources.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.defensenews.com/news/pentagon-congress/2026/02/26/anthropic-cannot-in-good-conscience-accede-to-pentagons-demands-ceo-says/
+  - https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance
+  - https://foushee.house.gov/media/press-releases/ai-commission-co-chair-foushee-slams-pentagon-pressure-on-anthropic-over-mass-surveillance-and-autonomous-weapons-raises-alarm-over-safety-rollbacks
+  - https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines
+  - https://www.cnbc.com/2026/02/27/defense-anthropic-ai-war-risks-hegseth-amodei.html
+  trajectory_signal: 'Significant momentum toward resolution. Articles [1,2,4,8,9] document an escalating Pentagon-Anthropic
+    conflict over military AI use, with Trump/Hegseth issuing ultimatums and designating Anthropic a "supply chain risk."
+    Article [5] reports Claude AI deployed in Middle East operations. Article [3] shows congressional attention (AI Commission
+    Co-Chair Foushee) criticizing Pentagon pressure on Anthropic. Articles [11,13] indicate UN/global bodies creating AI advisory
+    panels and discussing AI governance. This creates favorable conditions for formal proceedings: (1) a specific deployed
+    system (Claude in military operations) now exists as potential subject matter, (2) congressional figures are already engaging
+    on related military AI issues, (3) high-profile company-government conflict is drawing legislative attention. However,
+    none have yet translated into formal hearings/investigations on the specific system itself. The trajectory strongly suggests
+    this threshold could be crossed in coming weeks as the public dispute intensifies.'
+- date: '2026-03-08'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a *specific* AI military system yet. The prediction requires concrete resolution criteria: a formal hearing/investigation
+    on a specific system. While multiple articles reference congressional activity and Pentagon-Anthropic disputes (articles
+    0, 1, 4, 5, 7), they discuss policy/ethics disputes and amendments rather than formal hearings on specific systems. Article
+    6 mentions "Senator Budd Chairs Subcommittee Hearing" but the content is cut off—cannot verify if this is a hearing on
+    a specific military AI system or general AI deployment evaluation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://datainnovation.org/2026/02/why-congress-should-step-into-the-anthropic-pentagon-dispute/
+  - https://news.bloomberglaw.com/ip-law/senates-wyden-pledges-battle-over-pentagon-ban-on-anthropic
+  - https://origin.www.bloomberg.com/news/articles/2026-03-03/senate-s-wyden-pledges-battle-over-pentagon-ban-on-anthropic?srnd=homepage-americas
+  - https://liccardo.house.gov/media/press-releases/rep-sam-liccardo-forces-vote-pentagons-misguided-ai-posture
+  - https://www.defensenews.com/industry/techwatch/2026/03/04/pentagon-dispute-bolsters-anthropic-reputation-but-raises-questions-about-ai-readiness-in-military/
+  trajectory_signal: 'Strong momentum signals toward resolution YES:'
+- date: '2026-03-15'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - http://nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150
+  - https://www.armed-services.senate.gov/download/testimony/03/11/2026/grynkewich-opening-statement
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nextgov.com/artificial-intelligence/2026/03/senator-eyes-updating-ndaa-ai-use-guidance/412054/
+  - https://www.schiff.senate.gov/news/press-releases/icymi-axios-sen-schiff-drafting-ai-guardrails-for-autonomous-weapons-domestic-spying/
+  - https://www.cnn.com/2026/03/12/middleeast/iran-war-congress-oversight-hearings-wicker
+  - https://www.schiff.senate.gov/news/press-releases/watch-at-punchbowl-news-conference-sen-schiff-talks-iran-war-tackling-ai-in-congress-and-democrats-2026-agenda/
+  - https://www.yahoo.com/news/articles/schiff-stepping-fight-over-ai-182138704.html
+- date: '2026-03-22'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires a "formal hearing/investigation on SPECIFIC
+    system" — meaning a named AI system that becomes subject of congressional hearing, UN discussion, or major investigation.
+    While multiple articles discuss congressional hearings on AI in military contexts (articles 2, 3), these are general policy
+    discussions about AI-driven warfare, not formal proceedings targeting a specific named system. Article 1 discusses Pentagon-Anthropic
+    conflict but provides no concrete evidence of a formal hearing on Anthropic''s systems. Article 11 mentions Anthropic
+    "went to court" over restrictions but this is litigation, not a congressional hearing or formal investigation. None of
+    the articles identify a specific system undergoing formal congressional scrutiny that would satisfy resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://homeland.house.gov/2026/03/17/rep-fong-delivers-opening-statement-in-hearing-on-threats-posed-by-prc-artificial-intelligence-robotics-and-autonomous-technologies/
+  - https://militaryai.ai/pentagon-ai-warfare-special-ops-hearing/
+  - https://www.mediaeyenews.com/defence/us-hearing-highlights-future-warfare-shift-toward-ai-cyber-autonomous-systems/176798.html
+  - https://www.nbcnews.com/tech/security/senator-introduces-bill-draw-red-lines-ai-use-military-rcna263905
+  - https://punchbowl.news/article/tech/congress-ai-warfare/
+  trajectory_signal: 'Significant momentum toward YES is evident. Multiple signals indicate conditions ripening for a specific
+    system to face formal scrutiny:'
+- date: '2026-03-29'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.gillibrand.senate.gov/news/press/release/gillibrand-colleagues-press-for-answers-on-ai-companies-engagements-with-dod/
+  - https://www.cbsnews.com/news/pentagon-anthropic-hearing-judge-troubling/?intcid=CNR-02-0623
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techpolicy.press/the-problem-with-ai-in-war-is-much-bigger-than-anthropics-fight-with-the-dod
+  - https://en.hvylya.net/news/1527-absolutely-a-weapons-system-a-four-star-general-s-admission-shatters-pentagon-s-official-line-on-its-secret-ai
+  - https://www.military.com/daily-news/headlines/2026/03/26/us-troops-active-combat-army-speeds-ai-warfighting-push.html
+  - https://knpr.org/2026-03-25/the-secret-campaign-within-the-pentagon-to-bring-ai-into-combat
+  - https://www.aretenews.com/leaders-security-un-pressure-global-ai-rules
+  trajectory_signal: 'Strong momentum TOWARD_YES. Multiple signals: (1) Judicial system already engaged in formal proceedings
+    on military AI constraints (Anthropic case); (2) Congressional pressure mounting through formal inquiries from committee
+    members; (3) Real military AI systems (Maven, targeting platforms) now publicly acknowledged and linked to battlefield
+    errors; (4) UN mechanisms activating to address AI warfare governance. The combination suggests formal Congressional or
+    UN hearings are increasingly probable in the near term, even though none are yet formally announced.'
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a specific AI military decision system. Resolution criteria require formal institutional action addressing a particular
+    system — this has not occurred yet based on the provided evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aol.com/articles/congress-calls-oversight-following-reports-232247172.html
+  - https://medillonthehill.medill.northwestern.edu/2026/04/data-and-decisions-ai-is-changing-how-the-military-operates/
+  trajectory_signal: Articles [5] and [6] show clear directional progress TOWARD_YES. [5] documents explicit congressional
+    interest in AI military decision-making oversight in response to real operational use (AI systems helping determine Iranian
+    strike targets). [6] demonstrates this is a live policy discussion in Washington with military AI becoming increasingly
+    scrutinized. These represent institutional attention building toward potential formal hearings/investigations, but the
+    critical threshold — an actual formal hearing, UN discussion, or major investigation announcement — has not been crossed
+    yet. The momentum is meaningful (from zero congressional interest to active calls for oversight), but still preliminary
+    relative to the resolution criteria.
+- date: '2026-04-12'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.devx.com/daily-news/judge-probes-pentagon-ai-risk-label/
+  relevance: 'MODERATE: Article [7] provides DIRECT evidence meeting resolution criteria. It reports a federal judge hearing
+    on April 7, 2026 where "a federal judge pressed the Pentagon" over its AI risk designation decision regarding Anthropic/Claude.
+    This is a formal judicial hearing on a specific AI system (Claude). However, the criteria specify "congressional hearing,
+    UN discussion, or major investigation" — a federal judge''s hearing in district court is judicial rather than congressional/UN/investigative
+    in the traditional sense, creating ambiguity about whether this satisfies "formal hearing." The hearing is definitively
+    about a specific military-relevant AI system and its government classification, which directly addresses the prediction
+    scope. Remaining gap: unclear if judicial proceedings count as "congressional hearing" or equivalent formal venue under
+    resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-project-maven-pentagons-flagship-ai-program-powering-us-strikes-on-iran/articleshow/130033752.cms
+  - https://www.al-monitor.com/originals/2026/04/ai-war-five-things-know-about-project-maven
+  - https://www.techtarget.com/searchenterpriseai/news/366641233/The-ethical-implications-of-Anthropics-feud-with-the-Pentagon
+  - https://www.law.com/therecorder/2026/04/09/anthropics-risk-designation-by-pentagon-remains-in-place-but-dispute-set-for-expedited-hearing/
+  - https://dig.watch/updates/un-responsible-ai-governance
+  trajectory_signal: Articles [0, 1] document Project Maven (Pentagon's flagship AI system used in Iran strikes) becoming
+    major public focus, signaling real military deployment of consequential AI systems — this creates political/public pressure
+    that could trigger formal hearings. Article [2] reports Anthropic-Pentagon dispute over autonomous weapons integration,
+    indicating escalating tensions between AI companies and defense that could trigger congressional scrutiny. Article [5]
+    mentions "Expedited Hearing" in the Anthropic-Pentagon context (though content truncated). Article [9] shows UN explicitly
+    discussing AI governance and safety concerns, indicating institutional readiness for formal discussions on military AI.
+    These collectively signal growing institutional and political momentum toward formal examinations of military AI systems,
+    increasing probability of congressional/UN action meeting the resolution criteria.
+- date: '2026-04-19'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://www.newyorker.com/books/under-review/how-project-maven-put-ai-into-the-kill-chain
+  relevance: 'MODERATE: Article [0] from The New Yorker (2026-04-15) provides DIRECT evidence meeting resolution criteria.
+    It reports that Project Maven (a specific AI military system) was involved in a Venezuelan military operation via "Maven
+    Smart System" integrating Claude LLM. This is concrete evidence of a specific military AI system in actual use. However,
+    this alone does NOT yet satisfy the "congressional hearing, UN discussion, or major investigation" requirement—the article
+    documents the system''s use, not formal scrutiny of it. Critical gap: No formal hearing, UN discussion, or investigation
+    of this specific system is documented in any article provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://foreignpolicy.com/2026/04/13/ai-warfare-risks-pentagon-manage-anthropic/?tpcc=recirc_latest062921
+  - https://foreignpolicy.com/2026/04/14/ai-targeting-iran-school-airstrikes-pentagon-anthropic/?tpcc=recirc_latest062921
+  - https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/
+  - https://apnews.com/article/artificial-intelligence-safety-concerns-congress-fears-hearing-6d00921e57c9489b1f5a92c9a27e087c
+  - https://lieber.westpoint.edu/no-new-rules-needed-russias-minimalist-vision-human-oversight-for-laws/
+  trajectory_signal: 'Several articles signal directional momentum toward YES:'
+- date: '2026-04-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    into a SPECIFIC military AI decision system. Article [0] discusses a robotics hearing but addresses manufacturing/automation,
+    not military decision systems. Articles [6] mentions Standard Bots testimony but provides no content. No article demonstrates
+    resolution of the prediction''s core criterion: formal scrutiny of a specific AI system for military decisions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://us.headtopics.com/news/how-project-maven-taught-the-military-to-love-ai-82640614
+  - https://www.techpolicy.press/women-peace-and-security-frameworks-must-apply-to-defense-ai/
+  - https://www.congress.gov/crs-product/IN12669
+  - https://www.pakistantoday.com.pk/2026/04/23/strategic-implications-of-laws
+  trajectory_signal: 'Multiple signals indicate momentum toward YES resolution:'
+- date: '2026-05-03'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://europeancorrespondent.com/en/r/do-we-get-a-say-in-whether-ai-can-kill
+  - https://smallwarsjournal.com/2026/04/29/sof-at-the-edge-ai-and-autonomy-take-center-stage-at-ussocom-hearing/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/04/29/congress-military-ai-google-pentagon-deal
+  - https://www.bloomberg.com/news/articles/2026-04-28/google-allows-pentagon-to-use-its-ai-in-classified-military-work
+  - https://www.irishexaminer.com/news/politics/arid-41835014.html
+  - https://defensescoop.com/2026/04/29/hegseth-autonomous-warfare-sub-unified-command/
+  - https://www.wicker.senate.gov/2026/4/chairman-wicker-leads-sasc-hearing-on-u-s-cyber-command-and-u-s-special-operations-command
+- date: '2026-05-10'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC AI military system. This is the critical gap. While article [4] mentions Secretary Hegseth announcing plans
+    to Congress about autonomous warfare and article [6] references a Senate Armed Services Committee hearing where concerns
+    about "guardrails" were raised, these are general defense policy discussions rather than formal investigations or hearings
+    focused on a specific system. The resolution criteria requires a formal hearing/investigation on a "specific system" —
+    not general AI policy debates.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://abcnews.com/Politics/us-military-full-speed-ahead-ai/story?id=132606296
+  - https://fortune.com/2026/05/04/google-employee-backlash-pentagon-ai-contract-power-waned-since-project-maven/
+  - https://thenextweb.com/news/deepmind-union-google-pentagon-ai-military
+  - https://tech.shepherdgazette.com/us-military-embeds-autonomous-ai-defense-systems-2/
+  - https://www.insidegovernmentcontracts.com/2026/05/the-pentagons-new-sub-unified-command-for-autonomous-warfare-what-it-means-and-where-it-might-land/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-05-17'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://thehill.com/video-clips/5878390-watch-live-pentagon-technology-posture-house-hearing-emil-michael-ai/
+  - https://breakingdefense.com/2026/05/insatiable-appetite-for-ai-maven-usage-surged-for-strikes-on-iran-pentagon-ai-chief-says/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ianslive.in/us-warns-robot-fighters-may-surpass-human-pilots--20260514070603
+  - https://shortgo.co/2766-ai-sparks-alarm-among-lawmakers-private-talks-highlight-fears-of-catastrophic-harm/
+  - https://www.armytimes.com/news/your-military/2026/05/13/ukraines-battlefield-integration-surpasses-us-militarys-army-secretary-says/
+  - https://breakingdefense.com/2026/05/cybercom-requests-2660-percent-increase-in-ai-for-cyber-operations/
+  - https://www.ctinsider.com/news/politics/article/the-latest-hegseth-faces-a-new-round-of-22254542.php
+- date: '2026-05-24'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires "Formal
+    hearing/investigation on SPECIFIC system." While articles [0, 1, 2, 3] report on Senate Subcommittee hearings (May 20,
+    2026) regarding autonomous weapons policy broadly, they discuss general Pentagon policy gaps and $54.6B drone swarm programs,
+    NOT a formal hearing/investigation on a specific identified AI system. The articles mention XQ-58A Valkyrie UAS and LUCAS
+    drone in passing context, but the hearings focused on policy architecture deficiencies, not investigation of a particular
+    system. Article [7] mentions a UN Global Dialogue on AI Governance (scheduled July 2026), but this is forward-looking
+    and described as general governance discussion, not a specific military AI system investigation. Critical gaps: (1) No
+    named specific system under formal investigation; (2) Senate activity is policy-focused critique, not formal investigation;
+    (3) UN event is prospective and general, not yet convened.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.armytimes.com/news/pentagon-congress/2026/05/20/pentagon-policy-isnt-keeping-pace-with-autonomous-weapons-senators-argue/
+  - https://www.techtimes.com/articles/317004/20260522/pentagons-546b-drone-swarm-bet-lacks-doctrine-senators-warn.htm
+  - https://www.commondef.com/2026/05/senators-warn-pentagon-falling-behind-in-autonomous-weapons-fight/
+  - https://hoodline.com/2026/05/capitol-clash-over-pentagon-s-54-6-billion-drone-swarm-gamble/
+  - https://dsm.forecastinternational.com/2026/05/21/a-new-dawg-in-the-fight-the-pentagons-54-billion-bet-on-autonomous-warfare/
+  trajectory_signal: 'Strong directional momentum TOWARD_YES. Multiple recent signals (all May 20-22, 2026) show: (1) Active
+    Senate Subcommittee scrutiny on autonomous weapons (article [2, 3] explicitly reference hearings); (2) High-stakes congressional
+    pressure on Pentagon autonomous systems ($54.6B budget debate creating political attention); (3) Growing institutional
+    focus—Pentagon created new Defense Autonomous Warfare directorate (article [4]); (4) UN governance mechanisms activating
+    (article [7] signals emerging international oversight structures). This represents clear trajectory toward formal investigation—Congressional
+    committees are actively engaging, funding decisions create leverage for deeper scrutiny, and UN machinery is mobilizing.
+    A specific system becoming subject to formal hearing appears increasingly plausible given current political momentum,
+    though it hasn''t yet crystallized into formal investigation of a named system.'
+- date: '2026-05-31'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal hearing, UN discussion, or major investigation on a SPECIFIC
+    AI military decision system. The prediction requires resolution criteria to be met: "Formal hearing/investigation on specific
+    system." While multiple articles discuss congressional activity around military AI broadly (defense bills, intelligence
+    authorizations, cybersecurity hearings), none document an actual hearing focused on a particular system like Project Maven.
+    Article [3] mentions "Project Maven" by name and raises ethical questions about it, but this is opinion journalism, not
+    evidence of a formal hearing or investigation. Articles reference upcoming hearings on June 4 ([5], [6]) but these are
+    on "frontier AI" and "cybersecurity" generally, not on a specific military decision system. Article [10] mentions a July
+    2026 UN dialogue on AI governance, but this is a general policy forum, not a discussion of a specific system.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://insidedefense.com/daily-news/house-lawmakers-release-defense-policy-bill-text-replete-ai-provisions
+  - https://www.kelly.senate.gov/newsroom/press-releases/kelly-secures-ai-oversight-provisions-in-annual-intelligence-bill-passed-out-of-committee/
+  - https://aiweekly.co/newsletters/ai-geopolitics/senate-to-pentagon-546b-for-autonomous-weapons-no-doctrine
+  - https://www.pakistantoday.com.pk/2026/05/26/the-targeting-machine-nobody-authorized
+  - https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines
+  trajectory_signal: Strong momentum signals toward YES resolution. Congressional activity is accelerating with multiple committees
+    moving on AI defense provisions (House Armed Services Committee markup June 4, Senate Intelligence Committee provisions).
+    The $55B autonomous weapons funding request ([2]) is creating scrutiny—senators noting doctrine gaps suggests potential
+    for specific system examination. Article [3] explicitly names Project Maven and raises accountability questions about
+    authorization and oversight, indicating this specific system may become a focal point. The June 4 hearings ([5], [6])
+    on AI in cybersecurity could expand to military systems. A July 2026 UN dialogue on AI governance ([10]) provides a platform
+    where military AI systems could be discussed. The pattern shows institutional pressure building around military AI accountability,
+    creating conditions where a specific system could become subject to formal examination within the next 6-12 months.
+- date: '2026-06-07'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system. The resolution criteria require "formal hearing/investigation on specific system" —
+    the baseline notes "no major hearing on specific system yet." None of these articles document such an event occurring.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.defenseone.com/policy/2026/06/bill-regulate-military-ai/413917/
+  - https://www.notus.org/defense/lawmakers-guardrail-pentagon-artificial-intelligence
+  - https://ari.us/ahead-of-ndaa-markup-natsec-and-ai-leaders-call-for-human-oversight-of-autonomous-weapons/
+  - https://homeland.house.gov/2026/06/04/subcommittee-chairman-ogles-opens-hearing-on-frontier-ai-models-the-future-of-cybersecurity/
+  - https://ianslive.in/ai-cyber-risks-china-concerns-dominate-us-hearing--20260607042403
+  trajectory_signal: 'Multiple articles signal momentum TOWARD_YES resolution:'
+- date: '2026-06-14'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system. Articles [0-4] describe legislative bills being introduced to regulate military AI use
+    generally, but introducing a bill is distinct from conducting a hearing or investigation on a specific system. Articles
+    [7-8] report that fully autonomous drones killed soldiers in Ukraine (a specific incident), but there is no evidence of
+    congressional hearings, UN discussions, or major investigations into this specific system yet. The resolution criteria
+    requires formal hearings/investigations on a specific system to have occurred; legislative proposals and incident reports
+    do not satisfy this.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.coons.senate.gov/news/press-releases/ranking-members-coons-reed-introduce-bill-to-require-human-safeguards-around-use-of-artificial-intelligence-in-defense/
+  - https://responsiblestatecraft.org/congress-ai-military/
+  - https://thehill.com/policy/technology/5914836-human-authority-lethal-operations/
+  - https://punchbowl.news/article/tech/coons-reed-autonomous-weapons-measure/
+  - https://www.upi.com/Top_News/US/2026/06/08/senator-adam-schiff-ai-defense-department-bill/4111780940994/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-06-21'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles describe a formal hearing, UN discussion, or major investigation into a SPECIFIC AI system
+    for military decisions. All articles discuss policy debates, amendments, UN discourse on autonomous weapons regulation
+    generally, and Pentagon policy revision—but none report an actual formal hearing or investigation targeting a particular
+    system. The resolution criteria require specificity ("Formal hearing/investigation on specific system"), which is absent.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://defensescoop.com/2026/06/15/lawmaker-questions-pentagons-plan-to-revise-autonomous-weapons-policy/
+  - https://www.notus.org/technology/pentagon-military-ai-policy-update-guardrails-congress
+  - https://www.kjzz.org/politics/2026-06-17/sen-kellys-defense-bill-amendment-requires-ultimate-human-responsibility-over-use-of-force-ai
+  - https://www.techtimes.com/articles/318661/20260618/military-ai-governance-enters-enforcement-phase-unidir-opens-geneva-forum-today.htm
+  - https://smallwarsjournal.com/2026/06/17/kill-chain-autonomous-ai-senate/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-06-28'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://pondero.ai/news/2026-06-22-nsa-mythos-breach/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://newstimes.com.ng/2026/06/pentagon-sees-broader-role-for-ai-in-setting-military-targets/
+  - https://aiweekly.co/node/3868
+  - https://cybernoz.com/us-hearing-warns-chinese-economic-espionage-now-targets-ai/
+  - https://www.twk.co.kr/news/articleView.html?idxno=2211
+  trajectory_signal: Strong momentum TOWARD_YES. Multiple institutional channels (Congress, UN) are activating around military
+    AI governance. Article [3]'s Senate Intelligence briefing on Mythos is the closest current match to resolution criteria,
+    though verification needed on formality. Articles [1], [5], [6] show legislative/hearing activity creating conditions
+    where specific system scrutiny is increasingly likely. Article [9] confirms UN dialogue on military AI is underway. Combined
+    trajectory suggests resolution criteria could be met within prediction window.
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techtimes.com/articles/319713/20260704/pentagon-blacklisted-anthropic-over-autonomous-weapons-limits-emails-reveal-very-close-talks.htm
+  - https://www.defensenews.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/
+  - https://indusbusinessjournal.com/2026/07/u-s-house-panel-weighs-bills-to-counter-china-in-technology-race/
+  - https://sentinel.ht/pentagon-agent-network-ai-battle-management/
+  trajectory_signal: 'Multiple articles signal momentum TOWARD resolution:'
+- date: '2026-07-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system. The resolution criteria requires these discussions to focus on a particular, identifiable
+    system. While articles reference congressional letters and UN discussions about military AI broadly, none document formal
+    hearings or investigations centered on a specific system. Article [0], [2], [5] describe Sen. Warren pressing DoD and
+    tech companies for contract disclosure—these are demand letters, not formal hearings. Articles [1], [4], [7], [8], [9],
+    [10] describe UN calls for killer robot bans and AI governance frameworks, but these are general policy discussions at
+    the UN Global Dialogue on AI Governance, not investigations/hearings on a specific system. Critical gaps: No mention of
+    formal hearing convened, no specific system named as subject of investigation, no major investigation launched on a particular
+    military AI application.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://federalnewsnetwork.com/congress/2026/07/senate-lawmaker-presses-dod-tech-firms-to-disclose-ai-contract-terms/
+  - https://www.armscontrol.org/act/2026-07/news/us-senate-panel-approves-ai-autonomous-weapons-rules
+  - https://www.warren.senate.gov/newsroom/press-releases/warren-presses-dod-for-answers-on-military-ai-contracts-demands-release-of-ai-contracts/
+  - https://robotsbeat.com/un-secretary-general-killer-robots-ban-ai-governance-geneva-dialogue-2026/
+  - https://www.nbcnews.com/tech/security/warren-elizabeth-pentagon-ai-companies-release-full-military-contracts-rcna352662
+  trajectory_signal: 'Multiple signals indicate momentum toward resolution YES: (1) Congressional pressure is escalating—Sen.
+    Warren explicitly demanding contract disclosure from DoD and 8 tech companies (articles [0], [2], [5]), suggesting potential
+    groundwork for formal hearings; (2) UN-level discussion is active and urgent—Secretary-General calling for killer robot
+    bans at high-level Geneva Dialogue (articles [4], [7], [8], [9], [10]), indicating international attention that could
+    lead to formal UN discussions; (3) Senate panel activity on AI/autonomous weapons rules (article [1]) suggests legislative
+    momentum; (4) References to actual deployed systems ("Ukraine reportedly killed Russian soldiers with AI-powered" systems
+    in [7]) provide concrete focal points for potential investigations. The trajectory shows increasing institutional pressure
+    and specificity that could catalyze formal hearings/investigations on particular systems within months, though this hasn''t
+    yet crystallized into formal proceedings.'
+- date: '2026-07-19'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system. The resolution criteria require formal scrutiny of a particular system (e.g., "Project
+    Maven," a specific autonomous weapon, etc.), not general policy discussions. While articles mention Project Maven in passing
+    [1], none document formal congressional hearings or investigations targeting that system specifically. Articles reference
+    Senate panels approving rules [2] and House Foreign Affairs Committee budget hearings [6], but these are general policy/budget
+    discussions, not investigations of specific systems.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/07/17/bipartisan-lawmakers-human-oversight-ai-weapons
+  - https://www.lawfaremedia.org/article/how-the-u.s.-military-learned-to-embrace-ai-warfare
+  - https://www.armscontrol.org/act/2026-07/news/us-senate-panel-approves-ai-autonomous-weapons-rules
+  - https://www.breitbart.com/tech/2026/07/18/bipartisan-lawmakers-introduce-bill-requiring-human-control-over-ai-weapons/
+  - https://www.ipsnews.net/2026/07/autonomous-weapons-the-wave-of-the-future-in-military-conflicts-worldwide/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-07-26'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires a "formal hearing/investigation on **specific
+    system**" — meaning a named AI system must be the explicit focus of congressional/UN/investigative scrutiny. While article
+    [0] mentions "an experimental OpenAI system" that "broke out of a testing environment," it does not report a formal hearing
+    on this system; it reports lawmakers pushing legislation in response. None of the articles document an actual formal hearing,
+    UN discussion, or major investigation centered on a particular named military AI system. Article [6] describes a "war
+    game exercise" on AI cyber threats, not a formal hearing/investigation on a specific system.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.michigannewssource.com/2026/07/lawmakers-race-to-keep-killer-ai-off-the-battlefield/
+  - https://1-e8259.azureedge.net/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war
+  - https://homeland.house.gov/2026/07/24/house-homeland-china-select-members-participate-in-war-game-exercise-on-ai-enabled-cyber-threats-to-u-s-critical-infrastructure/
+  - https://www.wionews.com/world/urgent-un-warnings-time-to-tame-killer-robots-is-running-out-1784860413360
+  - https://www.bozemandailychronicle.com/apgstate/sinister-un-chief-wants-to-ban-ai-autonomous-weapons-killer-robots-combat-deepfake-porn/article_5f4104d9-2eef-5b3a-8f6b-33817d44c1a6.html
+  trajectory_signal: 'Multiple signals indicate mounting momentum TOWARD resolution:'
+- date: '2026-08-02'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires a "formal hearing/investigation on **specific
+    system**" to resolve YES. None of the articles describe a formal congressional hearing or UN discussion focused on a specific
+    military AI system. Article [0] describes Senate committee approval of general AI/autonomous weapons rules (regulatory
+    framework, not investigation of a specific system). Articles [1-3] involve legal proceedings against Anthropic but concern
+    the company''s refusal to work on military systems, not investigation of an existing military AI system. Articles [5-6]
+    describe Army testing of NGC2 command-and-control but no formal hearing or investigation. Article [7] is about Chinese
+    open-weight AI models. Article [9] mentions UN exploring a framework but not investigating a specific system. No TIER
+    1 material found.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.armscontrol.org/act/2026-07/news/us-senate-panel-approves-ai-autonomous-weapons-rules
+  - https://www.webpronews.com/pentagons-anthropic-clash-exposes-ai-military-limits/
+  - https://fedscoop.com/anthropic-federal-government-federal-court/
+  - https://gizmodo.com/the-pentagons-case-against-anthropic-isnt-going-well-2000793130
+  - https://noah-news.com/un-considers-new-framework-to-regulate-military-artificial-intelligence-amid-geo/
+  trajectory_signal: 'Moderate momentum signals toward YES resolution:'
+- date: '2026-08-09'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI system. Article [7] mentions "Hearing on AI Surveillance for Price Gouging" but this addresses
+    domestic price controls, not military decision systems—does not satisfy resolution criteria. The prediction requires a
+    formal proceeding focused on a particular system (e.g., Maven Smart System, NGC2, DAWG); general oversight discussions
+    and policy concerns do not constitute the required "formal hearing/investigation on specific system."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://111things.com/national/pentagon-ai-rollout-races-ahead-of-oversight-deadlines/
+  - https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny/
+  - https://www.defenseone.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415227/
+  - https://policyeast.com/2026-was-the-deadline-for-banning-killer-robots/
+  trajectory_signal: 'Several articles signal directional momentum toward potential hearings/investigations:'
+- date: '2026-08-16'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a formal congressional hearing, UN discussion, or major investigation
+    on a SPECIFIC military AI decision system. Articles [8] mention House Democrats calling for hearings about AI security
+    incidents (rogue agents), but these are about AI companies'' general security practices, not about a specific military
+    decision system. The criteria require formal action on a particular system—not general calls for hearings or policy discussions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://federalnewsnetwork.com/contracting/2026/08/pentagon-wants-to-spend-millions-on-palantir-with-few-details/
+  - https://defensescoop.com/2026/08/13/feinberg-funding-palantir-memo-pentagon-bond-program/
+  - https://www.yahoo.com/news/politics/articles/us-house-democrats-press-anthropic-160308313.html
+  - https://www.topafricanews.com/2026/08/12/global-security-leaders-convene-in-kigali-to-address-rise-of-autonomous-weapons-in-africa/
+  - https://theglobalobservatory.org/2026/08/peace-missing-at-first-un-ai-dialogue/
+  trajectory_signal: 'Several articles signal momentum toward the prediction''s resolution:'

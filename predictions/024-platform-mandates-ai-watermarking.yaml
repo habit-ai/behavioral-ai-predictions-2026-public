@@ -7,8 +7,12 @@ baseline: 'As of Jan 2026: No major platform mandates technical watermarking. Cu
   details pending.'
 resolution_criteria: 'YES: Mandatory watermarking (not voluntary). NO: No mandate.'
 search_keywords:
-- AI watermarking
-- AI content detection
+- Meta mandatory AI watermarking policy
+- YouTube AI content watermark requirement
+- TikTok AI generated watermark mandate
+- C2PA mandatory platform adoption 2026
+- social media AI watermarking rule
+- EU AI Act watermarking implementation platform
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +36,8 @@ forecasts:
   human-6: 10
   human-7: 25
   human-8: 5
+  human-9: 70
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -45,3 +51,540 @@ evidence:
   - https://www.tomsguide.com/ai/tired-of-being-flagged-by-ai-i-started-watermarking-my-writing-to-prove-im-human
   - https://www.diplomacy.edu/blog/certifying-humanity-labeling-content-amid-ai-flood/
   - https://www.zdnet.com/article/ai-image-fake-signs-free-detectors/
+- date: '2026-02-07'
+  summary: Found 8 articles
+  sources:
+  - https://www.techtarget.com/searchenterpriseai/feature/How-watermarking-AI-content-benefits-businesses
+  - https://ucstrategies.com/news/humans-cant-tell-ai-videos-apart-so-watermarking-became-infrastructure/
+  - https://www.euronews.com/my-europe/2026/02/06/from-mamdani-to-farage-ai-generated-images-spread-after-epstein-file-release
+  - https://www.damoreno.uk/news/523-the-verified-check-how-to-spot-a-2026-deepfake-with-the-c2pa-toggle/
+  - https://www.geopolitechs.org/p/cac-tech-bureau-head-on-chinas-ai
+  relevance: WEAK_YES. The "Verified" Check article suggests emerging technical infrastructure for AI content identification,
+    hinting at potential mandatory watermarking mechanisms.
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://mashable.com/article/senate-introduces-ai-bill-to-protect-artists-creatives
+  - https://www.geopolitechs.org/p/cac-tech-bureau-head-on-chinas-ai
+  relevance: 'MODERATE: Article [5] describes a proposed U.S. Senate bill (COPIED Act) for federal watermarking standards,
+    and article [10] covers China''s AI-generated content labeling rules, both relevant to mandatory watermarking policies,
+    though neither confirms implementation of mandatory watermarking on major social media platforms yet.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.eweek.com/news/south-korea-ai-basic-act-labeling-law/
+  relevance: 'MODERATE: Article 7 directly addresses South Korea passing a law to label AI-generated content, which provides
+    concrete evidence of mandatory labeling requirements relevant to the prediction, though the headline alone doesn''t clarify
+    if it''s mandatory or voluntary across all platforms.'
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - http://www.livemint.com/technology/centre-amends-it-rules-ai-labels-deepfake-takedown-facebook-instagram-telegram-11770723136695.html
+  relevance: 'STRONG: Article [10] directly reports that India''s government dropped a requirement for mandatory watermarks
+    on AI-generated content, providing concrete evidence that at least one jurisdiction explicitly rejected mandatory watermarking
+    as a regulatory approach.'
+- date: '2026-02-22'
+  summary: 4 relevant articles
+  sources:
+  - https://udaipurtimes.com/technology/india-ai-content-rules-2026/cid18255268.htm
+  - https://completeaitraining.com/news/indias-new-it-rules-mandate-ai-labels-cut-takedown/
+  - https://timesofindia.indiatimes.com/technology/tech-news/governments-new-it-rules-make-ai-content-labelling-mandatory-give-google-youtube-instagram-and-other-platforms-3-hours-for-takedowns/articleshow/128157496.cms
+  - https://weventure.de/en/blog/ai-labeling
+  relevance: 'MODERATE: Articles describe mandatory AI content LABELING requirements in India (2026) and EU (effective August
+    2026), but labeling is distinct from watermarking—these are different technical implementations, and none mention mandatory
+    watermarking specifically on social media platforms.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major social media
+    platforms. Articles [5], [6], [7], [8] discuss India''s 2026 IT Rules Amendment requiring "mandatory AI labeling" and
+    "mandatory AI content labelling" with enforcement mechanisms, but critical gap: these rules mandate *disclosure labels*,
+    not *technical watermarking*. The baseline context explicitly distinguishes between these—current policies require voluntary
+    disclosure labels, not watermarking. The India rules appear to follow this pattern (labeling/disclosure, not watermarking
+    as technical metadata). Article [10] discusses watermarking tools available for creators but doesn''t evidence platform
+    mandates. No evidence found that Meta, TikTok, YouTube, or other major platforms have implemented mandatory technical
+    watermarking of AI content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://timesofindia.indiatimes.com/technology/tech-news/governments-new-it-rules-make-ai-content-labelling-mandatory-give-google-youtube-instagram-and-other-platforms-3-hours-for-takedowns/articleshow/128157496.cms
+  - https://www.livelaw.in/articles/ai-generated-content-deepfakes-524064
+  - https://kankrishme.com/indias-2026-it-rules-amendment-regulating-ai-generated-content-and-accelerating-compliance/
+  - https://rotavision.com/blog/india-deepfake-rules-it-amendment-2026/
+  trajectory_signal: Articles [5], [6], [7], [8] signal regulatory momentum toward mandatory AI content identification in
+    a major economy (India), with enforcement deadlines (Feb 20, 2026, 3-hour takedown requirements). This demonstrates governments
+    are moving from voluntary disclosure toward mandatory identification regimes. However, the distinction between mandatory
+    *labeling/disclosure* and mandatory *technical watermarking* is crucial—India's rules appear to be the former. Article
+    [10] shows watermarking tools are technically available and being discussed in compliance contexts, suggesting the infrastructure
+    exists. This trajectory moves TOWARD the resolution criteria (increasing regulatory pressure on platforms to identify
+    AI content), but hasn't yet crossed into mandatory *watermarking* specifically by platforms themselves. The momentum suggests
+    platforms may face increasing pressure to implement technical watermarking if labeling requirements prove insufficient
+    for enforcement.
+- date: '2026-03-01'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major social media
+    platforms. The resolution criteria require a binding mandate (not voluntary), and all current evidence shows platforms
+    maintaining voluntary disclosure/labeling systems rather than mandatory technical watermarking. Article [8] mentions Meta''s
+    "Video Seal" watermarking tool from December 2024, but this predates the evaluation window and describes a voluntary tool,
+    not a mandate. Articles [5] and [6] confirm Meta continues voluntary labeling approaches. No evidence of platform policy
+    shifts toward mandatory watermarking.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.truefan.ai/blogs/c2pa-watermarking-ai-video-marketing-2024
+  - https://mediacopilot.ai/microsoft-media-authentication-ai-content-c2pa-2026/
+  - https://theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube
+  - https://www.mondaq.com/unitedstates/new-technology/1748154/indias-2026-it-rules-amendment-regulating-ai-generated-content-and-accelerating-compliance
+  - https://www.facebook.com/cnnnews18/posts/it-rules-2026-expand-regulation-to-ai-generated-content-like-deepfakes-social-me/1522677286568576/
+- date: '2026-03-08'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented MANDATORY AI watermarking
+    for all AI-generated content. The resolution criteria requires mandatory watermarking (not voluntary disclosure labels
+    or voluntary adoption). All examined articles describe labeling systems or selective disclosure requirements, not mandatory
+    technical watermarking across all AI content uploads.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://storrito.com/resources/tiktoks-2026-ai-labeling-rules-and-what-they-signal-for-platform-governance/
+  - https://www.engadget.com/social-media/x-to-require-ai-labels-on-armed-conflict-videos-from-paid-creators-citing-times-of-war-183631400.html
+  - https://www.ibtimes.com/x-will-suspend-creators-who-fail-add-ai-labels-videos-depicting-armed-conflict-war-content-3798357
+  - https://www.medianama.com/2026/03/223-x-made-with-ai-labels-india-tightens-deepfake-rules/
+  trajectory_signal: 'Moderate directional movement TOWARD_YES resolution:'
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    Articles [0], [5], [6], [7], [8] appear to be about Indian regulatory policy on mandatory watermarking/labeling, but the
+    content is truncated and doesn''t confirm platform implementation. Critically, articles [9], [10], [11] clarify that India''s
+    2026 IT Rules require platforms to *detect and label* AI content (with a grace period for compliance), not necessarily
+    technical watermarking. These are labeling/detection mandates, not watermarking mandates. The EU article [1] explicitly
+    states the code is "voluntary." Article [3] discusses Meta''s oversight board decision on a conflict video but doesn''t
+    address mandatory watermarking policy. Article [4] mentions YouTube''s AI likeness detection tool expansion but detection
+    ≠ mandatory watermarking. **Criteria gap: No evidence of ANY major platform (Meta, YouTube, TikTok, etc.) mandating technical
+    watermarking of uploads. India appears to require detection/labeling, which differs from watermarking.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.outlookbusiness.com/deeptech/tech/govt-grants-social-media-platforms-time-to-integrate-ai-labelling-tech
+  - http://telecom.economictimes.indiatimes.com/news/internet/social-media-companies-to-get-time-to-build-audit-ready-ai-labelling/129432368
+  - https://etenterpriseai.com/s/awdg3vx
+  trajectory_signal: Articles [9], [10], [11] signal MODERATE momentum TOWARD_YES by showing regulatory pressure in India
+    (a major market) requiring platforms to implement AI detection and labeling technology with audit-readiness. This represents
+    government-mandated compliance infrastructure at the platform level, though technically it's labeling/detection rather
+    than watermarking. This creates regulatory pressure that could evolve toward watermarking mandates. The trajectory shows
+    regulatory bodies are moving to formalize AI content handling beyond voluntary measures, which sets stage for future watermarking
+    mandates but hasn't materialized yet.
+- date: '2026-03-22'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major platforms. The
+    resolution criteria require "mandatory watermarking (not voluntary)" — a technical watermarking requirement with enforcement.
+    Zero articles in this collection describe any platform implementing such a mandate. The baseline context (voluntary disclosure
+    labels only, optional C2PA adoption) remains unchanged as of March 22, 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://news.sultramedia.id/uk-mandates-ai-content-labels-by-march-2026/
+  - https://iptc.org/news/ai-disclosure-on-social-media-a-work-in-progress/
+  - https://almcorp.com/blog/x-twitter-ai-content-alerts-pre-share-warning/
+  - https://www.computerworld.com/article/4147242/the-uk-may-require-labeling-of-ai-generated-content.html
+  - https://www.digitaltrends.com/movies/youtube-is-now-asking-viewers-if-videos-feel-like-ai-slop/
+  trajectory_signal: 'Articles show directional movement toward AI content labeling and detection, but in the WRONG direction
+    for YES resolution:'
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major platforms. The
+    resolution criteria requires mandatory technical watermarking (not voluntary labels), and no platform has implemented
+    this as of the articles'' publication dates. Articles [1] and [2] describe India''s government orders requiring platforms
+    to *label* AI-generated posts, but labeling ≠ technical watermarking. The distinction is critical: labels are voluntary
+    disclosure mechanisms, while watermarking embeds invisible technical markers in content itself. No article demonstrates
+    a platform has shifted from voluntary to mandatory watermarking.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://wownews24x7.com/india-orders-instagram-and-facebook-to-label-all-ai-generated-posts
+  - https://www.timesnownews.com/technology-science/govt-orders-instagram-facebook-x-and-other-online-platforms-to-label-ai-posts-ensure-faster-takedowns-article-153919725
+  trajectory_signal: 'Articles [1] and [2] signal regulatory momentum in the TOWARD_YES direction. India''s government mandating
+    AI content labeling on Instagram, Facebook, and X (published 2026-03-28 and 2026-03-25) shows:'
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    The resolution criteria requires mandatory watermarking by a major platform (Meta, TikTok, YouTube, etc.), not government
+    mandates or voluntary implementation. All articles discuss California state policy/executive orders requiring watermarking—these
+    are regulatory mandates on AI companies and state agencies, not platform policies. Article [4] mentions ByteDance''s "Seedance
+    2.0 with watermarking" but provides insufficient detail to confirm this is mandatory for all user-uploaded AI content
+    (versus optional features or internal safeguards). The critical gap: government requirements ≠ platform implementation
+    of mandatory user-facing watermarking systems.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scmp.com/tech/policy/article/3348290/bytedance-bolsters-seedance-20-watermarking-ip-safeguards-ahead-global-roll-out
+  - https://www.abc10.com/video/syndication/mobile-auto/california-orders-ai-companies-to-watermark-content-and-address-job-impacts/103-ba0535ea-10ee-40ce-9dc1-7f08b39d685a
+  - https://www.abc10.com/video/news/local/california/gavin-newsom-signs-executive-order-requiring-ai-watermarking-and-transparency/103-98cb8a7a-39d1-46a4-bc6d-b3d3e3f344fc
+  - https://www.newsbytesapp.com/news/science/california-mandates-ai-safeguards-for-state-contractors-and-agency-watermarking/tldr
+  trajectory_signal: 'Articles [6, 7, 9] show California Governor Newsom signed executive orders requiring AI watermarking
+    and transparency (2026-03-31). Article [4] indicates ByteDance is incorporating watermarking into Seedance 2.0 ahead of
+    global rollout. These signal regulatory and corporate momentum toward AI content tracking, but in the wrong direction
+    for this resolution: they show state/federal pressure and optional corporate features, not mandatory platform policies.
+    The trajectory suggests regulatory pressure may eventually force platform compliance, but that''s different from voluntary
+    platform adoption. Current momentum is TOWARD regulatory mandates (which might eventually trigger YES), but not yet toward
+    platform implementation itself.'
+- date: '2026-04-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented mandatory AI watermarking.
+    Article [2] mentions Washington state signed "AI content watermarking" legislation on March 24, but this is state-level
+    regulation (government mandate), not a platform''s own implementation. Articles [5] and [8] discuss "provenance data,"
+    "detectable markers," and disclosure requirements—these are regulatory mandates or proposals, not platform implementations.
+    The resolution criteria specifically requires a major social media platform to voluntarily implement mandatory watermarking
+    (not government-imposed). No article shows Meta, TikTok, YouTube, Instagram, or other major platforms have adopted mandatory
+    technical watermarking of their own volition. Critical gap: regulatory mandates differ fundamentally from platform-initiated
+    policies in the resolution context.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://awesomeagents.ai/news/us-state-ai-laws-wave-2026/
+  - https://www.troutmanprivacy.com/2026/04/analyzing-utah-and-washingtons-new-ai-provenance-laws/
+  - https://www.instagram.com/p/DW3_tsLl7qj/
+  trajectory_signal: 'Articles [2], [5], and [8] show directional momentum TOWARD_YES by signaling regulatory pressure that
+    could force platform compliance:'
+- date: '2026-04-19'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://time.news/eu-ai-act-new-transparency-rules-for-ai-generated-content/
+  - https://algeriatech.news/california-ai-transparency-act-implementation-2026/
+  - https://oakhillgazette.com/tiktok-content-tools/
+- date: '2026-04-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking
+    for all AI-generated content. The resolution criteria requires a specific, concrete implementation by a major platform
+    (Meta, YouTube, TikTok, etc.), which has not occurred as of the article dates. Articles [1], [5], [8] discuss voluntary
+    labeling systems, detection tools, or optional watermarking capabilities—all falling short of mandatory platform-wide
+    watermarking requirements.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.deccanchronicle.com/nation/govt-proposes-stricter-ai-norms-continuous-watermarks-mandatory-for-synthetic-media-1951872
+  - https://indianexpress.com/article/business/govt-to-tighten-ai-labelling-rules-for-social-media-over-unsatisfactory-compliance-10649155/
+  - https://theprint.in/india/governance/govt-pitches-continuous-on-screen-label-for-ai-generated-content-extends-public-feedback-deadline/2910500/
+  - https://www.thehindubusinessline.com/info-tech/govt-proposes-prominent-visibility-of-ai-labels-in-whole-of-ai-generated-content/article70889859.ece
+  trajectory_signal: Articles [0], [2], [9], [10] show regulatory momentum that could drive platform compliance. The Indian
+    government proposed amendments to IT rules requiring "continuous and clearly visible" labels for AI-generated content
+    throughout its duration (not just opening seconds), with feedback deadline extended to May 7, 2026. This represents significant
+    regulatory pressure from a major market toward mandatory disclosure standards. Articles [3], [4], [11] show YouTube expanding
+    detection/likeness tools but these are detection and removal mechanisms, not watermarking mandates for uploaders. Article
+    [1] shows Microsoft 365 adding watermarking tools (aligned with C2PA), but this is a productivity suite, not a social
+    media platform, and remains voluntary. The trajectory suggests regulatory pressure is building toward mandatory requirements,
+    which could eventually force platforms to implement technical watermarking—but no platform has yet adopted a mandatory
+    implementation as of April 26, 2026.
+- date: '2026-05-03'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://the1014.co.nz/tiktok-ai-deepfake-detection/
+  - https://www.finnovate.in/learn/blog/sgi-labelling-india-it-rules-2026-explained
+- date: '2026-05-10'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented mandatory AI watermarking.
+    Articles [0], [2], [4] describe Instagram''s voluntary "AI Creator" labels—explicitly optional self-identification, not
+    mandatory technical watermarking. Article [1] discusses watermarking efforts by Google, OpenAI, and Meta but provides
+    no specifics on implementation or mandatory status. Article [3] discusses EU transparency initiatives but doesn''t confirm
+    mandatory platform-level watermarking. Articles [5] and [8] address regulatory frameworks but lack platform implementation
+    details.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://completeaitraining.com/news/eu-strikes-deal-to-delay-and-soften-ai-act-rules-amid-2/
+  - https://thenextweb.com/news/eu-ai-act-omnibus-deal-nudification-ban
+  trajectory_signal: 'Articles [6] and [7] signal regulatory momentum toward watermarking requirements. Both describe EU AI
+    Omnibus negotiations (May 7, 2026) that resulted in a deal including "mandatory content watermarking" taking effect December
+    2026. This represents REGULATORY PROGRESS toward mandatory watermarking as EU policy. However, critical gaps remain: (1)
+    These are EU regulatory mandates, not voluntary platform implementation; (2) No major platform has pre-emptively adopted
+    mandatory watermarking in response; (3) Instagram''s concurrent move toward voluntary labeling suggests platforms prefer
+    self-regulation over technical mandates. The regulatory pressure signal is real but doesn''t yet translate to platform-level
+    action. This trajectory points SLIGHTLY TOWARD_YES in the long term (regulatory mandates could force platform compliance)
+    but the current evidence shows platforms still resisting mandatory technical implementation.'
+- date: '2026-05-17'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented mandatory AI watermarking.
+    Articles [1], [3], [4], [6], [7], [8] discuss voluntary labeling, detection tools, and transparency initiatives—all explicitly
+    optional or user-initiated. These represent the current state (voluntary disclosure) that matches baseline context but
+    don''t move toward mandatory technical watermarking.'
+  trajectory_sources:
+  - https://algeriatech.news/us-ai-content-authenticity-nist-watermarking-bill-2026/
+  - https://www.williamfry.com/knowledge/eu-ai-act-omnibus-deal-reached-postponed-deadlines-watermarking-compromise-and-the-nudificiation-prohibition/
+  trajectory_signal: 'Two articles signal directional momentum toward mandatory watermarking infrastructure:'
+- date: '2026-05-24'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.heise.de/en/news/Finally-uniform-AI-labeling-Joint-effort-by-OpenAI-and-Google-11302400.html
+  - https://www.digitaltoday.co.kr/en/view/56888/kakao-to-adopt-google-deepmind-synthid-to-block-ai-deepfakes-and-false-information
+  - https://perplexityaimagazine.com/ai-news/synthid-openai-elevenlabs-nvidia-ai-watermark-standard-2026/
+- date: '2026-05-31'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented MANDATORY AI watermarking/technical
+    embedding. All articles describe labeling systems (visual disclosure labels), not technical watermarking. The resolution
+    criteria requires "mandatory watermarking (not voluntary)" — a technical embedding standard, not disclosure labels. While
+    YouTube, Instagram, and Meta are expanding automatic detection and labeling, these remain disclosure-based solutions,
+    not watermarking. Articles [0,1,2,3,4,8] explicitly discuss labels appearing "on the video player" and visual disclosure
+    systems. Articles [5,6,7] address government-mandated disclosure label requirements (Vietnam, Japan elections, Spain),
+    which are policy-level mandates for disclosure, not platform-level technical watermarking mandates. Critical gap: None
+    of the evidence shows technical watermarking (embedding metadata/signals imperceptible to users) being mandated—only visible
+    labels and voluntary disclosure enhancements.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/youtube-will-now-automatically-label-ai-generated-videos-whether-creators-disclose-them-or-not
+  - https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/
+  - https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/
+  - https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates
+  - https://www.instagram.com/p/DY2Oh95G8yI/
+  trajectory_signal: Multiple major platforms (YouTube, Instagram, Meta) are significantly escalating AI content detection
+    and automated labeling infrastructure as of late May 2026. This signals movement toward stricter governance of AI content
+    but in the disclosure/labeling direction rather than technical watermarking. The trajectory shows platforms responding
+    to regulatory and authenticity pressures by moving from voluntary creator disclosure to platform-enforced automatic detection
+    and prominent labeling. Government mandates (Vietnam, Spain, Japan) are also moving toward mandatory disclosure requirements.
+    This creates momentum toward stricter AI content governance generally, but specifically toward mandatory *labeling/disclosure*
+    rather than technical watermarking mandates. The gap between current trajectory (automated detection → visible labels)
+    and resolution criteria (technical watermarking mandate) remains significant.
+- date: '2026-06-07'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. The prediction requires "mandatory AI
+    watermarking for all AI-generated content uploaded" on a major social media platform. All recent articles (0, 1, 3, 4,
+    5, 6, 7, 10) describe VOLUNTARY labeling systems currently implemented by platforms (YouTube, Instagram, TikTok, Meta).
+    Articles 5 and 6 describe New York''s AI advertising disclosure law effective June 9, 2026, but this applies only to synthetic
+    performers in paid advertising—a narrow subset, not "all AI-generated content," and requires disclosure/labeling, not
+    technical watermarking. Critical gap: No article reports any major social media platform implementing mandatory technical
+    watermarking as a universal requirement.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://research.mental-momentum.ai/r/us-eu-ai-watermark-label-rules-2026-r11dk7
+  - https://theaicronicle.com/en/news/policy/us-executive-order-ai-transparency
+  trajectory_signal: Article [2] signals modest TOWARD_YES momentum by noting that "voluntary AI transparency shifts to strict
+    legal mandates" in the EU AI Act (requiring "machine-readable markers") and mentions US federal/state rules. However,
+    the content remains vague about platform-level implementation and focuses on regulatory requirements for providers/deployers
+    rather than platform upload policies. Article [8] mentions "establishment of watermarking standards to combat deepfakes"
+    in a new US Executive Order, signaling regulatory intent but not platform action. Articles [4] and [7] actually signal
+    TOWARD_NO by reporting that watermarking is "flawed" and "Big Tech is betting on AI provenance, and losing"—suggesting
+    skepticism about watermarking as a solution. Overall trajectory points away from mandatory watermarking adoption; platforms
+    continue voluntary labeling approaches instead.
+- date: '2026-06-14'
+  summary: 5 trajectory signals
+  relevance: 'NONE: All articles consistently document the EU''s June 10, 2026 Code of Practice on AI content labeling. Critical
+    finding: Multiple sources explicitly state the Code itself is VOLUNTARY (articles 6, 7, 8), while the underlying AI Act
+    Article 50 transparency obligations become enforceable August 2, 2026. The Code provides implementation guidance (metadata,
+    watermarking, detection tools, icons) but does NOT establish a mandatory technical watermarking requirement for platforms.
+    Article 2 mentions watermarking as one optional tool within the voluntary code. No article reports any major social media
+    platform (Meta, TikTok, YouTube, etc.) implementing mandatory watermarking—only Meta testing voluntary AI disclosure labels
+    (article 5). The resolution criteria requires "mandatory watermarking (not voluntary)" from a major platform. The EU framework
+    mandates transparency disclosure but leaves implementation method optional. This represents directional movement toward
+    labeling infrastructure but falls short of the mandatory technical watermarking threshold specified in the prediction.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://theaicronicle.com/en/news/policy/eu-code-of-practice-ai-content-labeling
+  - https://www.eunews.it/en/2026/06/10/ai-content-eu-adopts-mandatory-labelling-code/
+  - https://complexdiscovery.com/europes-ai-labeling-rules-arrive-with-a-voluntary-code-and-a-hard-deadline/
+  - https://bruno.digital/news/europe-finalizes-its-ai-content-labelling-code-as-the-transparency-deadline-near
+  - https://aiweekly.co/alerts/eu-commission-releases-ai-labelling-code-before-aug-2
+  trajectory_signal: Articles 2, 4, 6, 7, 8 signal moderate momentum TOWARD regulatory pressure that could eventually drive
+    platform adoption. The August 2, 2026 EU AI Act enforcement deadline creates legal obligation for transparency, and the
+    published Code provides technical implementation pathways (watermarking, C2PA standard, detection tools). This removes
+    friction barriers to adoption. However, the voluntary nature of the Code itself and absence of platform-level mandates
+    in any article suggests regulatory frameworks are still establishing minimum disclosure requirements rather than requiring
+    technical watermarking specifically. Direction is toward-NO because the articles show regulatory scaffolding for labeling,
+    not mandatory watermarking mandates from platforms themselves.
+- date: '2026-06-21'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation. All articles discuss
+    the EU''s voluntary Code of Practice on AI-generated content transparency (finalized June 10, 2026, effective August 2,
+    2026). The resolution criteria requires MANDATORY watermarking by a major social media platform; these articles describe
+    voluntary guidance frameworks only. Critically, Articles [2] and [4] explicitly state the code is "voluntary," and Article
+    [3] describes it as guidance on compliance options, not mandates. No major social media platform (Meta, TikTok, YouTube,
+    etc.) has announced mandatory technical watermarking requirements based on these sources.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://algeriatech.news/eu-ai-act-transparency-code-finalized-content-labelling-providers-2026/
+  - https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/
+  - https://epium.com/news/eu-publishes-code-for-marking-ai-generated-content/
+  - https://compliancehub.wiki/eu-ai-act-marking-labelling-code-of-practice-article-50-2026/
+  - https://mediacopilot.ai/eu-code-practice-ai-generated-content-transparency/
+  trajectory_signal: 'These articles signal MOMENTUM AWAY from mandatory implementation. They document:'
+- date: '2026-06-28'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major social media
+    platforms. Articles [0], [3], [4], and [5] discuss disclosure/labeling requirements (EU AI Act, California SB 942) but
+    these are transparency labels, not technical watermarking, and remain voluntary or disclosure-based rather than mandatory
+    watermarking. Article [2] mentions California''s AI Watermarking Law but the content is cut off—unable to verify if this
+    mandates platform implementation or applies only to developers. The baseline context confirms no major platform currently
+    mandates technical watermarking; current policies require voluntary disclosure labels only.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://faq.com.tw/en/policy/2026-06-25-california-sb942-ai-transparency-act-august-enforcement-en/
+  - https://www.medianama.com/2026/06/223-youtube-started-automatic-labelling-ai-generated-content-not-all-ai-content/
+  trajectory_signal: Articles [2] and [6] signal directional movement toward AI content identification but in the wrong direction
+    for YES resolution. Article [2] indicates California SB 942 takes effect August 2, 2026, creating regulatory pressure
+    around "AI Transparency" (likely labeling, not watermarking based on pattern in other articles). Article [6] shows YouTube
+    implementing auto-labels for AI content with exceptions—this is automated disclosure labeling, not mandatory technical
+    watermarking. Both represent regulatory momentum toward *identification* of AI content but through voluntary/disclosure
+    mechanisms rather than mandatory technical watermarking. This suggests platforms are moving toward the minimum compliance
+    threshold (labels/disclosure) rather than the higher bar of mandatory watermarking.
+- date: '2026-07-05'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major social media platform has implemented mandatory AI watermarking.
+    The resolution criteria require concrete implementation by a platform (YES) or absence of such mandate (NO). Zero articles
+    describe platform-level mandatory technical watermarking policies. All articles discuss legislative proposals, regulatory
+    frameworks, or voluntary disclosure practices — none show actual platform mandate implementation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.quiverquant.com/news/New+Bill%3A+Senator+Brian+Schatz+introduces+S.+4915%3A+AI+Labeling+Act+of+2026
+  - https://www.musicbusinessworldwide.com/us-senators-revive-bill-to-force-ai-generated-audio-video-and-images-to-carry-labels/
+  - https://rymmagazine.com/us-senators-renew-push-for-mandatory-ai-labels-on-synthetic-music-and-media/
+  - https://news.lavx.hu/article/developers-face-brittle-ai-text-watermarks-as-eu-deadline-nears
+  - https://s41721.pcdn.co/wp-content/uploads/2026/07/IEC-ISO-ITU-Policy-paper-on-Emerging-legal-landscape-for-generative-AI-across-different-regions.pdf
+- date: '2026-07-12'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide evidence of mandatory AI watermarking implementation by major platforms. The resolution
+    criteria requires "mandatory watermarking (not voluntary)" but all evidence points to voluntary disclosure labels and
+    optional technical standards. Critical gap: The prediction resolves YES only upon implementation of a mandate, which has
+    not occurred.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/
+  - https://www.techtimes.com/articles/319996/20260709/ai-content-labeling-enforcement-begins-24-days-eu-clears-compliance-code.htm
+  - https://news.lavx.hu/article/developers-need-signed-cameras-before-c2pa-labels-can-matter
+  - https://ppc.land/google-adds-how-this-ad-was-made-ai-labels-24-days-before-eu-deadline/
+  - https://techbriefly.com/2026/07/08/meta-ai-detection-tool-invisible-watermark/
+  trajectory_signal: Articles 0, 4, 5 show Meta developing invisible watermarks (Content Seal) for Muse Image, but this is
+    optional technology applied only to content generated by Meta's own model—not a platform-wide mandatory watermarking requirement
+    for all AI-generated uploads by all users. Article 6 reveals the detection tool has reliability issues even for its own
+    content.
+- date: '2026-07-19'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that any major social media platform has implemented mandatory AI
+    watermarking for all AI-generated content. The resolution criteria require a technical watermarking mandate (not voluntary
+    disclosure). Despite thorough review of all articles:'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://trucoteca.com/en/TikTok-strengthens-its-fight-against-deceptive-AI-as-scams-multiply-in-Spain/
+  - https://www.wsgr.com/en/insights/eu-commission-publishes-ai-transparency-code-of-practice.html
+  - https://noah-news.com/meta-enforces-strict-ai-label-disclosures-to-boost-transparency-in-social-advert/
+  - https://emitpost.com/google-labels-ai-made-ads-how-this-ad-was-made-panel/
+  - https://digital.rothian.com/ai-ad-disclosure-labels-uae-brands/
+  trajectory_signal: Articles 0-4, 6, 8 show platforms accelerating transparency initiatives in response to EU AI Act deadlines
+    (August 2026), but movement is consistently toward **disclosure labels and voluntary standards (C2PA), not mandatory watermarking**.
+    Meta's technical watermark in Muse Image (Article 6) is embedded but no evidence it's platform-wide mandatory. This trajectory
+    signals movement **away from mandatory watermarking resolution**, as platforms are settling on compliant disclosure-based
+    approaches rather than technical watermarking mandates.
+- date: '2026-07-26'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
+  - https://dynamicbusiness.com/topics/news/ai-content-is-about-to-get-labelled-watermarked-and-scrutinised-on-tiktok.html
+  - https://www.techtimes.com/articles/321174/20260721/eu-finalizes-ai-disclosure-rules-watermarking-mandate-outpaces-technology.htm
+  - https://www.newsbang.com/news/article/story_id-p008-170060
+  - https://cryptobriefing.com/meta-content-seal-ai-image-detection/
+- date: '2026-08-02'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide evidence of mandatory AI watermarking implementation. All articles discuss voluntary
+    frameworks, disclosure labels, and non-binding codes of practice. Article [9] explicitly states the EU AI Act requires
+    "visible labels plus machine‑readable metadata or watermarks" but this describes a legal requirement for disclosure/metadata,
+    not platform-level mandatory technical watermarking of uploads. Articles [0], [5], [6] confirm Meta signed a "voluntary"
+    code. Article [3] explicitly notes Meta''s voluntary approach to "labeling problems." The distinction is critical: mandatory
+    disclosure labels ≠ mandatory technical watermarking embedded in uploaded content. No major platform has implemented mandatory
+    watermarking as a technical requirement for all AI-generated uploads.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/c2pa-welcomes-tiktok-to-steering-committee-advancing-the-adoption-of-content-credentials-at-a-global-scale-302836730.html
+  - https://www.letemsvetemapplem.eu/en/2026/07/08/ai-identification/
+  - https://particle.news/story/eu-activates-first-ai-labelling-rules-for-generated-content
+  trajectory_signal: 'Articles [7], [9], and [2] show incremental momentum toward watermarking infrastructure but moving in
+    the TOWARD_NO direction for the prediction:'
+- date: '2026-08-09'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    The prediction requires TECHNICAL WATERMARKING (watermarks embedded in files), not disclosure labels. All reviewed articles
+    discuss mandatory LABELING/DISCLOSURE requirements—a fundamentally different mechanism. Article [0] confirms "Article
+    50 of the European AI Act came into force on August 2" requiring content be "flagged as such" (labeling). Article [3]
+    discusses "AI labeling and transparency rules" with EU-provided labels. Articles [4], [6], and [7] discuss India''s mandatory
+    labeling and "clear labelling and traceable metadata" requirements. Article [1] mentions TikTok "stamps it with EU-mandated
+    labeling"—again, labeling not watermarking. Article [8] shows YouTube''s labeling policy has gaps. None describe technical
+    watermarking implementations. The criteria gap is absolute: labeling ≠ watermarking.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.europesays.com/europe/108885/
+  - https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
+  - https://timesofindia.indiatimes.com/india/govt-tightens-rules-on-ai-generated-content-cuts-removal-deadline-to-3-hours-from-36-mandates-labels/articleshow/133007430.cms
+  - https://www.thehindubusinessline.com/info-tech/social-media/center-reduces-takedown-timeline-for-unlawful-content-to-three-hours/article71316256.ece
+  - https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies
+  trajectory_signal: Articles [0], [3], [4], [6], [7] signal momentum toward mandatory DISCLOSURE/LABELING regimes (EU Article
+    50 in force, India tightening rules), but this moves AWAY from the prediction's specific technical requirement. Mandatory
+    labeling creates regulatory pressure on platforms but for a different mechanism than watermarking. Article [1] shows TikTok
+    complying with EU labeling (trajectory toward compliance with labeling mandates, not watermarking). The trajectory is
+    clear movement toward labeling-based mandates globally, which may reduce pressure for technical watermarking by offering
+    a lighter-touch regulatory solution. This signals TOWARD_NO for the specific watermarking requirement.
+- date: '2026-08-16'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    The resolution criteria require a specific factual state: a major platform (Meta, TikTok, YouTube, etc.) must mandate
+    technical watermarking for all AI-generated content uploads. None of the articles document this yet. Articles 2-5 describe
+    Anthropic (an AI model provider, not a social media platform) voluntarily implementing watermarks to comply with EU regulations.
+    Article 0 describes TikTok adding EU-mandated labeling to its Dreamina feature, but this is labeling/disclosure, not technical
+    watermarking, and appears to be compliance rather than a platform mandate on all user uploads. Article 1 discusses EU
+    watermarking requirements becoming legally binding, but doesn''t report platform implementation of mandatory user-side
+    watermarking.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ppc.land/tiktok-symphony-gains-30-second-ai-video-with-seedance-2-5-upgrade/
+  - https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/
+  - https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/
+  - https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/
+  - https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images
+  trajectory_signal: 'Multiple signals suggest momentum TOWARD_YES resolution: (1) EU AI Act transparency/watermarking requirements
+    became legally binding on August 2, 2026 (Articles 1, 2, 3), creating regulatory pressure; (2) Anthropic is implementing
+    watermarks on Claude outputs (Articles 2-5), demonstrating technical feasibility and establishing industry precedent;
+    (3) TikTok integrated AI labeling/watermarking into its Symphony feature within one day of EU requirements becoming binding
+    (Article 0), showing rapid platform responsiveness to watermarking mandates; (4) Articles reference both invisible (machine-readable)
+    and visible watermarking approaches now operational (Articles 3-5, 7), removing technical barriers. The trajectory suggests
+    platforms are being pushed toward mandatory implementations by regulation. However, this remains at the regulatory/voluntary-compliance
+    stage, not yet mandatory platform policies on user uploads. Google''s allowance for users to remove visible watermarks
+    (Article 7) signals potential resistance to mandatory enforcement.'
+- date: '2026-08-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major social media platform implementing MANDATORY AI watermarking.
+    The prediction requires a specific threshold: mandatory (not voluntary) technical watermarking for ALL AI-generated content
+    on a major platform. As of the articles reviewed, no platform has crossed this line. Article [5] (Meta) describes a voluntary
+    detection tool, not mandatory watermarking on uploads. Articles [2], [3], [8], [10] address copyright agreements and content
+    moderation guardrails with TikTok/ByteDance, not watermarking mandates. Article [9] discusses payout adjustments to curb
+    AI spam, not watermarking. None of these satisfy the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.deeplearning.ai/the-batch/how-claudes-watermarks-work
+  - https://www.infoq.com/news/2026/08/eu-ai-content-watermark/
+  - https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system
+  - https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/
+  trajectory_signal: 'Multiple signals indicate momentum TOWARD_YES:'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of mandatory AI watermarking implementation by a major social media
+    platform. The resolution criteria require a specific mandate from platforms like Meta, TikTok, YouTube, or similar—not
+    regulatory requirements or voluntary adoptions. All evidence found involves either regulatory mandates (EU, Korea) or
+    voluntary/compliance-driven actions by non-platform entities (Anthropic, Apple Music). The prediction explicitly requires
+    "mandatory watermarking" on "a major social media platform," which has not yet occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.koreajoongangdaily.com/business/koreas-groundbreaking-ai-law-requires-watermarks-on-generated-content-but-enforcement-gaps-remain/12094830
+  - https://noah-news.com/eus-new-transparency-rules-for-ai-take-effect-prompting-industry-shift-towards-w/
+  - https://me.mashable.com/tech/75315/claude-ai-content-watermarking-explained-what-it-means-for-text-code-and-image-files
+  - https://techfyle.com/apple-music-ai-generated-song-labels-2026/
+  trajectory_signal: 'Several signals indicate movement toward YES resolution, though not yet crossing the threshold:'
+- date: '2026-09-06'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major platforms. The
+    resolution criteria require "mandatory watermarking (not voluntary)" for "all AI-generated content uploaded." All examined
+    articles discuss labeling systems, detection tools, or voluntary disclosure mechanisms—not mandatory technical watermarking
+    enforcement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://propernewstime.com/social-media-giants-roll-out-mandatory-cryptographic-verification-to-fight-the-deepfake-flood/
+  - https://streamlinefeed.co.ke/news/meta-enforces-strict-ai-labels-to-combat-deepfake-avatar-proliferation
+  - https://abcnews.com.pk/whatsapp-is-rolling-out-ai-content-label-for-channels-on-android/
+  trajectory_signal: Articles [5], [6], and [10] signal movement toward stricter AI content identification and trust/safety
+    measures. Article [5]'s claim of "mandatory cryptographic verification" (if accurate despite truncation) and Article [6]'s
+    "enforcing strict AI labels" suggest platforms are tightening policies. Article [10] shows WhatsApp implementing irreversible
+    labeling. However, these represent movement toward mandatory *disclosure/labeling* requirements, not mandatory *technical
+    watermarking*—a significant distinction. The trajectory shows platforms prioritizing transparency enforcement but still
+    through labels/detection rather than embedded cryptographic watermarks on all uploads. This moves directionally toward
+    YES but hasn't crossed the threshold from voluntary to universally mandatory technical watermarking yet.

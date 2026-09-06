@@ -5,8 +5,12 @@ category: AI Industry
 baseline: No country has attributed significant GDP growth to AI. US GDP ~2.5% in 2024-2025.
 resolution_criteria: 'YES: Official report credits AI for ≥5% growth. NO: None.'
 search_keywords:
-- AI economic growth
-- AI GDP impact
+- AI GDP growth country 2026
+- Singapore GDP AI driven growth
+- Taiwan AI economic boom GDP
+- UAE AI contribution GDP growth
+- AI GDP 5 percent national statistics
+- country GDP growth artificial intelligence primary
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -30,6 +34,8 @@ forecasts:
   human-6: 80
   human-7: 10
   human-8: 2
+  human-9: 10
+  human-10: 40
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -43,3 +49,541 @@ evidence:
   - https://www.ainvest.com/news/rebound-economy-ai-driven-growth-wave-2026-strategic-opportunities-innovation-led-sectors-2601/
   - https://thefinanser.com/2026/01/is-ai-bigger-than-the-industrial-revolution-the-white-house-thinks-so
   - https://www.forbesindia.com/article/budget-2026/ai-council-growth-outlook-us-tariffs-key-takeaways-from-economic-survey/2990819/1
+- date: '2026-02-07'
+  summary: Found 13 articles
+  sources:
+  - https://ideas.darden.virginia.edu/productivity-boom
+  - https://www.bankofcanada.ca/2026/02/structural-change-canada-at-a-crossroads/
+  - https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+  - https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech
+  - https://stories.td.com/us/en/article/broadening-strength-and-a-constructive-outlook-for-2026
+  relevance: NO, because none of the evidence titles explicitly suggest a specific country reporting 5%+ GDP growth directly
+    attributed to AI in 2026.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://biz.chosun.com/en/en-international/2026/02/05/CNRK2ESYKJCRRLOW333K7H6OEM/
+  relevance: 'MODERATE: Article [6] directly reports that "AI boom drives Taiwan growth," which is concrete evidence of a
+    country attributing growth to AI, though the article snippet doesn''t confirm the specific 5% GDP threshold or official
+    government attribution required for resolution.'
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - https://asianews.network/singapore-lifts-2026-growth-forecast-to-2-4-on-ai-outlook-after-economy-outperforms-in-2025/
+  relevance: 'MODERATE: Article 4 reports Singapore''s official 2026 growth forecast upgrade to 2%-4% citing AI outlook, but
+    falls short of the ≥5% threshold required for resolution.'
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://kr-asia.com/singapore-beats-estimates-with-5-gdp-growth-in-2025-amid-ai-challenges
+  relevance: 'MODERATE: Article [4] reports Singapore achieved 5% GDP growth in 2025 with content explicitly stating "driven
+    by a manufacturing boost from global demand for [artificial intelligence]." This directly satisfies the resolution criteria:
+    ≥5% annual GDP growth with AI cited as primary contributor. Singapore is an official country issuing official statistics
+    (data released February 10, reported February 18—within acceptable date range).'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.reuters.com/world/asia-pacific/taiwan-revises-2026-economic-growth-forecast-higher-2026-02-13/
+  relevance: NONE
+- date: '2026-02-23'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://kr-asia.com/singapore-beats-estimates-with-5-gdp-growth-in-2025-amid-ai-challenges
+  - https://ow.ly/8X5A50Yglkv
+  relevance: 'MODERATE: Singapore has already reported 5% GDP growth in 2025 with AI explicitly cited as primary driver (manufacturing
+    demand for AI), which satisfies the resolution criteria—though technically for 2025 data reported in Feb 2026, not "2026
+    growth." Nomura quantifies AI''s 2pp contribution to Asia''s 2025 growth (half of total), validating the mechanism. **Critical
+    gap:** The prediction requires an official report crediting AI for ≥5% growth in the year 2026 itself. Singapore''s data
+    is backward-looking. Taiwan has forecast 7.7% growth for 2026 with AI as cited driver, but forecasts are not official
+    reports of actual performance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/world/asia-pacific/taiwan-revises-2026-economic-growth-forecast-higher-2026-02-13/
+  - https://www.bloomberg.com/news/articles/2026-02-13/booming-taiwan-to-raise-2026-growth-outlook-on-ai-trade-deal
+  - https://eastasiaforum.org/2026/02/21/taiwan-rides-the-ai-wave-to-rapid-economic-growth/
+  trajectory_signal: 'Taiwan officially elevated its 2026 growth forecast to 7.7% on AI demand (Feb 2026), suggesting strong
+    momentum toward resolution if actual 2026 results track forecast. Singapore''s demonstrated 5% growth with AI attribution
+    in 2025 establishes a precedent and template for official AI-attributable growth reporting. Both suggest regional conditions
+    favor YES resolution, but timing hinges on whether 2026 year-end official reports arrive before/after the prediction deadline.
+    Current trajectory is TOWARD_YES: AI is being explicitly cited by governments and analysts as primary growth driver in
+    East Asian economies at ≥5% levels.'
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires an OFFICIAL
+    REPORT from a country crediting AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. None of the articles constitute
+    such an official report.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://businesstimes.com.sg/singapore/economy-policy/economists-expect-global-ai-tailwinds-sustain-through-h1-2026-singapores-factory-output-rises-16-6
+  - https://businesstimes.com.sg/singapore/economy-policy/economists-raise-singapores-2026-growth-forecast-3-6-majority-see-mas-holding-april
+  - http://sph.businesstimes.com.sg/singapore/singapore-growth-poised-boost-pace-tech-productivity-surges-dbs
+  trajectory_signal: 'Articles [0], [1], [2] show meaningful momentum toward YES:'
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a country officially reporting ≥5% annual GDP growth with AI cited
+    as the primary contributor in 2026. Article [11] mentions UAE economy "set for 5% growth in 2026" but provides no content
+    verifying AI attribution or official reporting. Critical gaps: (1) No official government reports crediting AI as PRIMARY
+    driver of ≥5% growth; (2) Taiwan''s 7.7% forecast [2,3] cites AI demand but forecasts are not actuals/official reports;
+    (3) Singapore''s 2%-4% forecast [1,4] falls below 5% threshold regardless of AI attribution; (4) Articles lack verification
+    that AI was cited as primary (vs. secondary) contributor; (5) Most articles have unknown publication dates, making recency
+    assessment difficult.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/world/asia-pacific/taiwan-revises-2026-economic-growth-forecast-higher-2026-02-13/
+  - https://www.bloomberg.com/news/articles/2026-02-13/booming-taiwan-to-raise-2026-growth-outlook-on-ai-trade-deal
+  - https://www.reuters.com/world/asia-pacific/singapores-economy-grows-69-yy-q4-2025-higher-than-advance-estimate-2026-02-10/
+  trajectory_signal: 'Moderate positive momentum toward resolution: Taiwan has officially raised 2026 growth forecast to 7.7%
+    citing AI demand [2,3] — this shows a major economy explicitly linking AI to growth acceleration and exceeding 5% threshold
+    in official forecasts. Singapore upgraded forecasts citing AI outlook [1,4], though to 2%-4% range (below threshold).
+    These represent countries explicitly attributing growth momentum to AI in official channels. However, forecasts are not
+    yet actuals or year-end official reports. The trajectory shows governments beginning to formally credit AI for growth,
+    moving toward the resolution criteria, but the resolution requires actual year-end official reports (we are only 3 months
+    into 2026). The signal strengthens if Taiwan or others publish official 2026 year-end GDP reports before Dec 31, 2026
+    attributing ≥5% growth to AI.'
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires an official
+    report crediting AI for ≥5% annual GDP growth in 2026. While articles [3], [5], and [6] discuss AI''s economic role, none
+    present official GDP statistics with AI explicitly cited as the primary contributor to growth meeting the 5% threshold.
+    Article [3] mentions "40% of U.S. GDP growth" but the U.S. baseline is ~2.5%, making 40% of that only ~1% in absolute
+    terms—far below the 5% requirement. Articles [5] and [6] discuss China''s AI strategy and targets but do not report actual
+    2026 GDP figures or official attribution. Critical gaps: (1) No actual 2026 annual GDP growth figures reported yet; (2)
+    No official government reports crediting AI as PRIMARY contributor; (3) No country has demonstrated ≥5% growth with AI
+    attribution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://markets.financialcontent.com/wral/article/marketminute-2026-3-9-ai-supercycle-massive-tech-investments-projected-to-fuel-40-of-us-gdp-growth-in-2026
+  - https://www.kompas.id/artikel/en-kecerdasan-buatan-jadi-mesin-pertumbuhan-china
+  - https://en.sedaily.com/finance/2026/03/13/china-sets-14t-ai-industry-target-in-new-five-year-plan
+  trajectory_signal: Three articles signal directional momentum toward YES. Article [3] (US AI "Supercycle" projected to fuel
+    growth) and Articles [5], [6] (China elevating AI as economic growth engine in its 15th Five-Year Plan, $1.4T target)
+    indicate major economies positioning AI centrally in growth strategies. However, this reflects policy intent and infrastructure
+    investment plans rather than realized GDP outcomes. The trajectory shows growing institutional recognition that AI *could*
+    drive macro growth, but we're still in the projection/buildout phase. For resolution, we need official 2026 year-end GDP
+    reports (typically released Q1 2027) with explicit AI attribution—which have not yet appeared. Momentum is positive for
+    the prediction but criteria remain unmet.
+- date: '2026-03-22'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires "official
+    report credits AI for ≥5% growth" — meaning a government''s official economic statement explicitly attributing AI as the
+    PRIMARY contributor to ≥5% annual GDP growth. While articles [0], [1], [2], [3], [4] discuss Taiwan''s GDP growth forecasts
+    (5.8%, 7.28%, 8%) that mention AI as a driver, these are FORECASTS and ANALYST PREDICTIONS from financial institutions
+    (Cathay Financial/NTU, Taiwan''s Central Bank, Standard Chartered), not official government GDP reports for 2026. The
+    Central Bank article [2], [6] comes closest as a quasi-official source, but it forecasts rather than reports finalized
+    2026 GDP, and doesn''t explicitly state AI is the "primary contributor." Article [5] on US-China AI race mentions BofA
+    analysis that AI capex will contribute ~0.4 percentage points to US GDP—insufficient magnitude and from analyst/research
+    firm, not official reports. No country has yet issued an official 2026 GDP report with AI attribution (we''re only in
+    March 2026, Q1 data incomplete). Resolution criteria gap: Need actual government GDP reports, not forecasts; need explicit
+    "primary contributor" language.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tw.stock.yahoo.com/news/ai%E5%8B%95%E8%83%BD%E5%BC%B7-%E5%9C%8B%E6%B3%B0%E5%8F%B0%E5%A4%A7%E4%B8%8A%E4%BF%AE2026%E5%8F%B0%E7%81%A3gdp%E6%88%90%E9%95%B7%E8%87%B35-8-%E4%BC%B0q2%E7%B6%93%E6%BF%9F%E6%B0%A3%E5%80%99%E8%BD%89-%E9%99%B0-114705452.html
+  - https://udn.com/news/story/7238/9383419?from=udn-referralnews_ch2artbottom
+  - https://news.nextapple.com/finance/20260319/805AFDC8257F121F431E2D3FFB8416D7
+  - https://gfemobile.cnyes.com/news/id/6390965
+  - https://www.taipeitimes.com/News/biz/archives/2026/03/20/2003854122
+  trajectory_signal: Strong directional momentum TOWARD_YES. Multiple credible economic institutions (Taiwan's Central Bank,
+    Cathay Financial, Standard Chartered, BofA) are revising GDP forecasts UPWARD with explicit AI attribution as the driver.
+    Taiwan's Central Bank raising forecasts to 7.28% citing AI investment and export expansion represents institutional consensus
+    forming. This creates likelihood that when Taiwan's official 2026 GDP report is published (likely mid-2027), it may credit
+    AI prominently. The convergence of multiple independent forecasters citing AI as primary growth engine suggests growing
+    probability an official report will eventually make this attribution. However, the trajectory is still probabilistic—final
+    official reports haven't been issued yet.
+- date: '2026-03-29'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of any country officially reporting ≥5% annual GDP growth with AI
+    cited as the primary contributor in 2026. Article [5] discusses US Q4 2025 growth at 0.7% with AI server/chip spending
+    being the main contributor—but this falls far short of 5% threshold and is historical (not 2026 reporting). The resolution
+    criteria requires an official report crediting AI for ≥5% growth; no such report exists in this corpus. Critical gaps:
+    no official government GDP reports with AI attribution, no country meeting the 5% threshold, no 2026 full-year data (current
+    date is only March 29, 2026).'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://inequality.org/wp-content/uploads/2026/03/inequality-newsletter-march-25-2026.html
+  - https://www2.deloitte.com/us/en/insights/economy/us-economic-forecast/united-states-outlook-analysis.html
+  trajectory_signal: 'Articles [5] and [13] show directional signals supporting eventual YES resolution, but in weak form:'
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution. The prediction requires an OFFICIAL REPORT from
+    a country CREDITING AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. None of the articles present such
+    a report. Article [7] (Taiwan) mentions >7% expected growth with "shift toward the AI industry" as context, but this is
+    a minister''s projection, not an official GDP report, and doesn''t explicitly credit AI as the PRIMARY contributor. Article
+    [8] is just a UK statistics page header with no content. Articles [0-6, 9, 11-14] discuss AI investment, adoption, or
+    infrastructure but contain zero GDP growth attribution claims.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.taipeitimes.com/News/biz/archives/2026/04/03/2003854921
+  - https://www.facebook.com/thouseopinions/posts/while-europe-and-the-us-project-modest-growth-for-2026-china-is-targeting-45-to-/972919668596967/
+  trajectory_signal: 'Moderate momentum toward YES. Two major Asian economies (Taiwan, China) are publicly attributing growth
+    expectations to AI sector shifts before or as 2026 unfolds. This suggests the intellectual/policy groundwork is being
+    laid for official attribution. However, a substantial gap remains: these are prospective statements and policy frameworks,
+    not retrospective official GDP reports analyzing actual 2026 growth with AI attribution. Resolution requires official
+    documentation after 2026 concludes, assessing realized growth.'
+- date: '2026-04-12'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The criteria require an official
+    report crediting AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://money.udn.com/money/story/5599/9433537?from=edn_hotestlist_storybottom
+  trajectory_signal: Article [4] signals meaningful momentum TOWARD_YES. Taiwan's ADB-revised 7.6% growth forecast (up from
+    4% predicted in December 2025) is explicitly tied in the same paragraph to "global AI hot trend" and represents a major
+    upward revision. While not yet meeting criteria (requires official attribution, not analyst commentary), this represents
+    official international recognition that AI is materially driving Taiwan's growth trajectory. Article [9] (McKinsey/SCMP)
+    reinforces that AI is emerging as "the driving force behind global trade growth" through data-centre expansion. These
+    suggest growing official acknowledgment that AI is a primary economic driver, increasing the likelihood that an official
+    2026 year-end report will formalize this attribution. However, the evidence remains predictive rather than confirmatory.
+- date: '2026-04-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires an official
+    report crediting AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sa.marketscreener.com/news/dbs-bank-taiwan-maintains-taiwan-2026-economic-growth-at-7-0-y-y-as-ai-demand-remains-strong-ce7e50d9d088f720
+  - https://www.cna.com.tw/news/afe/202604150258.aspx
+  - https://news.tvbs.com.tw/english/3176963
+  trajectory_signal: 'Significant momentum building toward YES resolution:'
+- date: '2026-04-26'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.taipeitimes.com/News/front/archives/2026/04/25/2003856202
+  - https://tw.news.yahoo.com/ai%E7%99%BC%E5%8A%9F-%E5%8F%B0%E7%B6%93%E9%99%A2%E4%B8%8A%E4%BF%AEgdp%E8%87%B37-56-201000275.html
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/world/asia-pacific/taiwan-export-orders-surge-fastest-pace-more-than-16-years-ai-demand-2026-04-21/
+  - https://www.taipeitimes.com/News/front/archives/2026/04/20/2003855892
+  - https://www.bloomberg.com/news/articles/2026-04-21/taiwan-s-export-orders-surge-the-most-in-16-years-on-ai-demand?srnd=phx-economics-v2
+  trajectory_signal: Strong momentum signals indicate Taiwan's economy is genuinely accelerating on AI-driven semiconductor/export
+    demand (export orders at 16-year highs, multiple independent forecasters raising growth projections). This strengthens
+    credibility that an official GDP report could plausibly cite AI as a primary contributor. However, momentum toward resolution
+    depends on whether official statistical agencies formally attribute full-year 2026 GDP growth to AI in their final reports,
+    which typically release in early 2027. Current trajectory is positive but not yet resolved.
+- date: '2026-05-03'
+  summary: 3 relevant articles, 9 trajectory signals
+  sources:
+  - https://www.taiwanplus.com/news/taiwan-news/economy/260430026/ai-boom-drives-taiwans-fastest-economic-growth-in-nearly-40-years
+  - https://www.aa.com.tr/en/asia-pacific/taiwan-economy-grows-at-fastest-pace-in-39-years-on-ai-driven-tech-exports/3922774
+  - https://www.mk.co.kr/en/world/12032554
+  relevance: 'STRONG: Articles [1, 2, 3] provide DIRECT evidence meeting resolution criteria. Taiwan''s official statistics
+    authority reported Q1 2026 GDP growth of 13.7% (or 13.69%), explicitly citing AI and semiconductor cycles as the primary
+    driver. Article [1] states "Officials say the surge is driven by strong global demand for chips used in artificial intelligence."
+    Article [2] confirms "GDP expands 13.7% in Q1, beating forecasts...on AI-driven tech exports." Article [3] from the Taiwan
+    statistics authority directly attributes the growth to "artificial intelligence (AI) and semiconductor super cycles."
+    These are official reports crediting AI for >5% growth, satisfying the resolution criteria. Criteria gap: The prediction
+    specifies "annual GDP growth" but these articles report Q1 2026 growth rates. However, the annualized quarterly figures
+    (13.7%) far exceed 5%, and Taiwan officials have explicitly cited AI as primary contributor, which satisfies the spirit
+    of the resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitimes.com/news/a20260428PD241/exports-taiwan-2026-electronics-demand.html
+  - https://futurecfo.net/singapore-poised-for-steady-growth-research-finds/
+  - https://www.bloomberg.com/news/articles/2026-04-30/us-economy-boosted-by-ai-boom-in-way-to-blunt-iran-war-impact
+  - https://www.semafor.com/article/04/30/2026/ai-investment-props-up-us-gdp-growth
+  - https://www.marketplace.org/story/2026/04/30/gdp-improves-to-start-2026-driven-by-ai-investment
+  trajectory_signal: Articles [5-11] show the US economy also experiencing AI-driven growth (2% Q1 2026, with explicit AI
+    investment as key contributor), and [4] shows Singapore positioning itself for AI-backed growth (~3% forecast). While
+    US growth (2%) and Singapore growth (3% forecast) fall short of the 5% threshold, these signal directional movement toward
+    AI becoming recognized as a GDP growth driver globally. Article [0] on Taiwan's export surge provides additional momentum
+    supporting the Taiwan story. The trajectory suggests other countries may follow Taiwan's model of attributing growth to
+    AI, though currently only Taiwan has met the explicit resolution criteria.
+- date: '2026-05-10'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No article provides direct evidence satisfying the resolution criteria. The prediction requires an official
+    government report crediting AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. No such official report exists
+    in these articles. Article [11] shows Hong Kong achieved 5.9% quarterly growth in Q1 2026, but the content attributes
+    this to "exports and private consumption" with no mention of AI as a primary driver. Article [12] mentions HSBC''s forecast
+    betting on "AI boom" as a growth engine alongside property recovery, but this is a bank forecast, not an official government
+    attribution report, and doesn''t specify AI''s primary contribution to actual growth figures.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://money.udn.com/money/story/10869/9480821
+  - https://www.benzinga.com/markets/economic-data/26/05/52402997/ai-drove-two-thirds-of-q1-2026-gdp-growth-smashing-1999-record-for-largest-tech-contribution-in-history
+  - https://fortune.com/2026/05/04/trump-ai-czar-david-sacks-american-gdp-economy/
+  - https://phemex.com/news/article/_79764
+  - https://www.thestandard.com.hk/finance/article/331155/HK-Q1-GDP-hits-strongest-quarterly-growth-at-59pc-in-nearly-five-years-beats-estimate
+  trajectory_signal: 'Several articles signal momentum toward resolution but fall short of satisfying criteria:'
+- date: '2026-05-17'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://topics.amcham.com.tw/2026/05/macroeconomic-brief-may-2026/
+  relevance: NONE
+  trajectory_sources:
+  - https://finance.yahoo.com/economy/articles/ai-chip-boom-could-push-214029381.html
+  - https://www.taipeitimes.com/News/biz/archives/2026/05/12/2003857155
+- date: '2026-05-24'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://www.nst.com.my/news/regional/2026/05/1442350/malaysias-gdp-grows-54pct-driven-investment-and-ai-boom-says-amir
+  relevance: 'STRONG: Article [5] provides DIRECT evidence satisfying resolution criteria. Malaysia''s Finance Minister II
+    Datuk Seri Amir Hamzah explicitly states Malaysia''s GDP grew 5.4% in Q1 2026, "driven by investment and AI boom." This
+    is an official government report (5.4% ≥5% threshold) with AI cited as a primary contributor. The claim is corroborated
+    across multiple sources [8, 9, 11] reporting the same 5.4% Q1 2026 figure and AI''s role. However, a critical gap remains:
+    the prediction specifies ANNUAL GDP growth for 2026, and we only have Q1 2026 data (annualized quarterly figures are not
+    the same as official full-year reports). The prediction will only resolve YES if Malaysia (or another country) reports
+    ≥5% for the full calendar/fiscal year 2026 with AI cited as primary contributor. Q1 data is strong evidence of trajectory
+    but not yet definitive resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://lipperalpha.refinitiv.com/2026/05/taiwan-economic-analysis-report-the-ai-driven-structural-super-cycle/
+  - https://www.khaleejtimes.com/business-technology-review/uae-bets-on-artificial-intelligence-supremacy-to-power-digital-future
+  - https://www.straitstimes.com/business/economy/singapore-key-exports-accelerate-in-april-surging-24-5-on-ai-demand-despite-iran-war
+  - https://www.businesstimes.com.sg/singapore/economy-policy/singapore-exports-beat-forecasts-24-5-april-jump-ai-demand-seen-staying-strong
+  - https://sbr.com.sg/economy/news/new-national-ai-missions-target-four-sectors-driving-40-gdp-teo
+  trajectory_signal: 'Multiple signals show strong momentum toward YES resolution:'
+- date: '2026-05-31'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://asia.nikkei.com/economy/taiwan-raises-2026-gdp-growth-outlook-to-16-year-high-on-ai-boom
+  - https://focustaiwan.tw/business/202605290022
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://asia.nikkei.com/economy/singapore-q1-gdp-growth-tops-estimates-at-6-on-ai-boom
+  - https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout
+  - https://sbr.com.sg/economy/in-focus/ai-boom-shields-singapore-2026-outlook-middle-east-tariff-headwinds
+  - https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits
+  - https://www.straitstimes.com/business/singapore-is-riding-the-global-ai-investment-boom-but-here-are-the-risks-says-mti
+- date: '2026-06-07'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.youtube.com/watch?v=h3NCm7k0Ycs
+  - https://www.hkeconomy.gov.hk/en/situation/development/index.htm
+  - https://www.taipeitimes.com/News/editorials/archives/2026/06/02/2003858370
+  relevance: 'MODERATE: Three articles provide direct evidence approaching resolution criteria:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bworldonline.com/opinion/2026/06/05/754581/asias-ai-chip-boom-could-spark-regional-economic-renaissance/
+  - https://table.media/en/china/news-en/ai-boom-taiwan-expects-massive-economic-growth
+  - https://sbr.com.sg/information-technology/news/spore-expand-beyond-14gw-data-centre-capacity-amidst-ai-boom-teo
+  trajectory_signal: 'Articles [0], [1], and [3] show momentum building toward resolution: Asia''s semiconductor/AI chip boom
+    powering broader regional economic resurgence [0]; Taiwan expecting "massive economic growth" [1]; Singapore expanding
+    data center capacity targeting 40%+ of GDP sectors [3]. These signal an AI-driven economic acceleration trajectory across
+    multiple Asian economies, though they report expectations rather than official GDP attribution.'
+- date: '2026-06-14'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.chiangraitimes.com/finance/singapores-q1-2026-gdp-surges/
+  relevance: 'MODERATE: Article [0] (Singapore Q1 2026 GDP 6.0%) is the only piece of direct evidence meeting resolution criteria.
+    The headline explicitly states Singapore achieved ≥5% annual GDP growth (6.0% in Q1 2026) with "AI Boom" cited as the
+    driver. However, critical gaps remain: (1) The article content is truncated—we cannot verify the full official attribution
+    or whether this represents an official government report; (2) Q1 data may not constitute "annual GDP growth" depending
+    on resolution interpretation; (3) We need confirmation this is an official statistical agency report, not journalistic
+    interpretation. The Chiang Rai Times is a credible regional news source, but the truncated content prevents full verification
+    of whether Singapore''s official statistics bureau formally credits AI as the "primary contributor."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gna.org.gh/2026/06/mining-ict-surge-economic-growth-to-6-4-per-cent-in-q1-of-2026/
+  - https://www.ajupress.com/view/20260614161753410
+  trajectory_signal: Articles [5] and [7] show directional momentum. Ghana's Q1 2026 report [5] shows 6.4% growth with ICT
+    surging 25.2%, though the official attribution emphasizes "mining and quarrying" alongside ICT—AI is not explicitly cited
+    as primary driver. Article [7] ("The four tigers are back, and AI is their new factory," dated 2026-06-14) suggests a
+    broader regional narrative that AI is becoming the economic engine for East/Southeast Asian economies, positioning multiple
+    countries toward potential resolution. This creates momentum, but neither article provides the specific official attribution
+    needed for KEEP status. Articles [3], [8], [12], [13] show AI economic enthusiasm but lack GDP attribution claims. Articles
+    [1], [2], [4] discuss Singapore's AI positioning strategy but predate or lack concrete GDP attribution statements.
+- date: '2026-06-21'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://focustaiwan.tw/business/202606160030
+  - https://en.sedaily.com/politics/2026/06/19/taiwan-eyes-9-percent-growth-on-ai-boom-highest-in-16-years
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.channelnewsasia.com/singapore/ai-exports-artificial-intelligence-infrastructure-6190011
+  - https://www.businesstimes.com.sg/singapore/ai-demand-keep-singapores-export-growth-robust-despite-middle-east-uncertainty-economists
+  - https://openaimpact.com/news/singapores-export-surge-hits-22-year-high-as-ai-driven-demand-fuels-a-38-4-percent-jump-in-may/
+- date: '2026-06-28'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sbr.com.sg/economy/in-focus/gdp-seen-hitting-46-ai-drives-nodx-higher-nomura
+  - https://www.tftc.io/ai-capex-gdp-growth-q1-2026-bea-third-estimate/
+  - https://www.zerohedge.com/markets/75-us-gdp-growth-first-quarter-was-due-ai
+  - https://getaibrief.com/story/ai-capex-inflation-economic-growth
+- date: '2026-07-05'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://www.taipeitimes.com/News/front/archives/2026/06/29/2003859906
+  - https://www.taiwannews.com.tw/news/6391207
+  relevance: 'MODERATE: Articles [0] and [2] provide direct evidence toward resolution. Taiwan''s GDP growth forecast has
+    been upgraded to 11.05% (Article 0) and 11% (Article 2), both explicitly citing "AI-driven growth momentum" as a key factor.
+    However, critical gaps remain: (1) These are FORECASTS from private research firms (Yuanta Securities), not official government
+    reports; (2) The articles state AI contributes to growth but don''t claim it''s the "primary contributor" — they mention
+    "AI-driven momentum" alongside other factors like exports (25.49% increase) and investment (8.38% increase), making the
+    attribution ambiguous; (3) Taiwan''s actual 2026 GDP outcome hasn''t been officially reported yet (current date is July
+    5, 2026, mid-year); (4) Resolution requires an "official report" crediting AI as primary contributor — private forecasts
+    don''t satisfy this bar. Taiwan does meet the ≥5% threshold, but attribution clarity and official status are unmet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/ai-spending-and-construction-boom-drive-singapore039s-growth-forecast-to-43-per-cent-in-2026
+  - https://english.news.cn/asiapacific/20260702/33c4c703f63a4859bb74689cf31965b5/c.html
+  - https://www.bernama.com/en/news.php/world/news.php?id=2575780
+  - https://en.vietnamplus.vn/singapores-manufacturing-activity-expands-faster-on-ai-related-tailwinds-post347722.vnp
+  - https://theedgemalaysia.com/node/809066
+  trajectory_signal: 'Articles [1, 3, 5, 6, 7, 8] show strong directional momentum TOWARD_YES. Multiple countries/regions
+    are citing AI as a growth driver in 2026: Singapore''s growth forecast upgraded to 4.3% with "AI spending" explicitly
+    named alongside construction (Articles 1, 3, 5, 6); Malaysia maintaining 4.5% growth with AI supply chain role highlighted
+    (Articles 7, 8). Singapore''s manufacturing PMI expansion is attributed to "AI-related tailwinds" (Article 6). This demonstrates:
+    (1) Growing recognition of AI''s economic contribution across multiple Asian economies; (2) AI moving from theoretical
+    to cited in official/semi-official forecasts; (3) Accumulating evidence that some country may soon issue official reports
+    with AI as primary growth driver. However, none yet meet the ≥5% + official report + primary attribution threshold. The
+    trajectory suggests resolution is plausible but not yet achieved.'
+- date: '2026-07-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires an OFFICIAL REPORT explicitly crediting AI as
+    the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth. Articles [0], [1], [4] describe Taiwan''s AI-driven export booms and
+    record growth, but provide no official GDP figures or formal attribution statements from Taiwanese government agencies.
+    Article [2] references an IMF report on "AI-driven growth surge" but lacks specifics on which country, growth rate, or
+    official attribution. Article [8] (Malaysia, 5.4% Q1 growth) mentions "tech trading" and semiconductor links but doesn''t
+    formally attribute growth to AI as primary driver. Article [9] (China) mentions "AI-related investment" as "leading driver"
+    but lacks a complete official GDP report with formal AI attribution. None contain the specific official government statement
+    needed to resolve YES.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://credendo.com/en/knowledge-hub/taiwan-booming-ai-demand-drives-record-gdp-growth
+  - https://asia.nikkei.com/economy/taiwan-s-exports-rise-nearly-50-in-first-half-as-lai-builds-ai-island
+  - https://technode.global/2026/07/10/korea-malaysia-thailand-taiwan-lead-ai-driven-growth-surge-imf/
+  - https://www.taipeitimes.com/News/biz/archives/2026/07/10/2003860490
+  - https://www.thevibes.com/index.php/articles/business/124717/malaysia-smashes-economic-forecasts-as-tech-trading-and-record-tourism-surge-rockets-gdp
+  trajectory_signal: 'Strong momentum toward YES resolution. Multiple signals point in a positive direction: (1) Taiwan shows
+    booming AI-driven exports (40-50% growth) with narrative of positioning as "AI island," suggesting full-year GDP may hit
+    ≥5% with AI attribution; (2) IMF July 2026 report (article [2]) explicitly identifies multiple countries experiencing
+    "AI-driven growth surge," suggesting official international bodies are now formally attributing growth to AI; (3) Malaysia
+    achieved 5.4% Q1 growth with explicit tech/semiconductor/AI infrastructure links (articles [8], [10]); (4) Articles date
+    to July 8-10, 2026—very recent, capturing mid-year assessments. The trajectory shows governments and international bodies
+    increasingly willing to formally credit AI for growth. However, we''re still awaiting the formal official report with
+    explicit primary-contributor language that would trigger YES resolution. Taiwan appears the likeliest candidate to cross
+    this threshold by year-end.'
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businesstimes.com.sg/singapore/singapores-gdp-5-7-q2-manufacturing-surges-ai-related-demand
+  - https://www.businesstimes.com.sg/singapore/economists-lift-singapores-2026-growth-outlook-after-q2-gdp-beats-expectations-sustained-ai-demand
+  - https://www.straitstimes.com/business/singapores-second-quarter-growth-eases-to-5-7-as-iran-war-tempers-ai-powered-manufacturing-growth
+  - https://www.straitstimes.com/business/companies-markets/ai-demand-drives-spore-gdp-but-q2-growth-eases-global-chipmakers-hit-hard
+  - https://www.humanresourcesonline.net/ai-fuelled-manufacturing-leads-singapore-s-5-7-gdp-growth-in-q2-2026
+- date: '2026-07-26'
+  summary: 4 relevant articles, 8 trajectory signals
+  sources:
+  - https://focustaiwan.tw/business/202607240011
+  - https://cfi.co/asia-pacific/2026/07/singapore-where-the-ai-capex-boom-becomes-gdp/
+  - https://focustaiwan.tw/business/202607240011
+  - https://cfi.co/asia-pacific/2026/07/singapore-where-the-ai-capex-boom-becomes-gdp/
+  relevance: 'MODERATE: Articles [1] and [4] provide the strongest evidence: Taiwan''s TIER institute forecasts 10.38% 2026
+    growth explicitly citing AI demand, and Singapore''s Ministry of Trade and Industry officially attributes Q2 2026 growth
+    (5.7%, manufacturing +12.2%) to AI-related chip demand. However, critical gap: these are either mid-year data or forecasts,
+    not official full-year 2026 reports yet. The prediction requires an official government report of *completed* annual 2026
+    GDP with AI cited as primary contributor—we are only 7 months into 2026. Taiwan and Singapore show strongest signal that
+    they *could* meet criteria when full-year data releases in late 2026/early 2027.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://focustaiwan.tw/business/202607220017
+  - https://www.taipeitimes.com/News/biz/archives/2026/07/25/2003861326
+  - https://www.taipeitimes.com/News/biz/archives/2026/07/21/2003861086
+  - https://www.ajupress.com/view/20260723104745673
+  - https://focustaiwan.tw/business/202607220017
+  trajectory_signal: Multiple independent forecasts from Taiwan (TIER, CIER both raising to ~10.35-10.38%), plus official
+    mid-year attributions from Singapore's MTI, plus signals from China and South Korea all point toward AI becoming a formally
+- date: '2026-08-02'
+  summary: 3 relevant articles, 8 trajectory signals
+  sources:
+  - https://asia.nikkei.com/economy/taiwan-gdp-grows-nearly-13-in-q2-supercharged-by-ai-and-us-ties
+  - https://www.taipeitimes.com/News/front/archives/2026/08/01/2003861743
+  - https://enterpriseai.economictimes.indiatimes.com/news/industry/taiwans-q2-economic-growth-surges-129-driven-by-ai-exports/132801230
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896
+  - https://www.businesstimes.com.sg/singapore/iran-conflict-has-hit-inflation-more-growth-mas-says-any-growth-drag-will-be-outweighed-ai-boost
+  - https://www.chinadaily.com.cn/a/202607/31/WS6a6c490fa310986e2b468611.html
+  - https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362167/ai-boom-will-sustain-hong-kongs-export-surge-lift-gdp-outlook-economists-say
+  - https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896
+- date: '2026-08-09'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence meeting resolution criteria. The prediction requires an OFFICIAL REPORT
+    that credits AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. None of the articles present such an official
+    government report or statement. Taiwan (article [2]) shows 11% projected growth with AI-related exports cited as a factor,
+    but this is from news coverage, not an official government attribution statement designating AI as the primary driver.
+    Singapore articles discuss AI-related demand boosting electronics but don''t show official GDP growth reports crediting
+    AI as primary contributor. Critical gap: No article shows a government issuing an official GDP report explicitly attributing
+    ≥5% growth primarily to AI.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sbr.com.sg/economy/in-focus/electronic-boom-sets-off-gdp-growth-upgrade
+  - https://www.straitstimes.com/business/economy/spore-factory-activity-expands-in-july-on-ai-boom-but-supply-chain-crisis-brews-due-to-iran-war
+  - https://www.semafor.com/article/08/04/2026/taiwan-export-boom-marks-return-of-tiger-economy
+  - https://www.businesstimes.com.sg/singapore/economy-policy/singapore-pmi-edges-51-4-july-despite-middle-east-supply-chain-pressures
+  - https://focustaiwan.tw/business/202608070020
+  trajectory_signal: Articles [0-5] show strong directional momentum TOWARD_YES. Multiple Asian economies (Taiwan, Singapore,
+    Malaysia, Thailand) are reporting AI-driven export booms and upward GDP forecast revisions in early August 2026. Taiwan's
+    11% growth trajectory with explicit AI/chip export attribution is the strongest signal—if this translates to an official
+    government report crediting AI as primary contributor, it could meet criteria. Thailand upgraded forecasts citing AI-driven
+    tech exports. Singapore and Malaysia show sustained AI-driven manufacturing expansion. Articles [6, 10] show AI contributing
+    meaningfully to US/ECB growth narratives. The pattern suggests governments are increasingly attributing economic performance
+    to AI, raising probability they'll explicitly do so in official reports. However, momentum has not yet crystallized into
+    the specific official attribution required by resolution criteria.
+- date: '2026-08-16'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://focustaiwan.tw/business/202608140022
+  relevance: 'MODERATE: Article [1] (Taiwan) provides DIRECT evidence meeting resolution criteria: Taiwan''s official statistical
+    agency (DGBAS) has raised its 2026 GDP growth forecast to 11.05% and explicitly cited "robust global demand for artificial
+    intelligence (AI) applications" as the reason. This is an official report crediting AI as a primary contributor to ≥5%
+    growth, matching the resolution criteria precisely.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.channelnewsasia.com/singapore/economy-gdp-forecast-mti-growth-6310711
+  - https://www.straitstimes.com/business/singapore-upgrades-2026-growth-forecast-to-4-5-to-5-5-on-stronger-ai-boom
+  - https://www.msn.com/en-us/money/markets/singapore-gdp-grows-59-yy-in-q2-government-raises-2026-forecast-on-ai-boom/ar-AA29NWbp
+  - https://en.sedaily.com/international/2026/08/12/singapore-doubles-growth-forecast-on-ai-boom-sees-brighter
+  trajectory_signal: 'Multiple strong signals indicate momentum TOWARD_YES:'
+- date: '2026-08-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires an OFFICIAL
+    REPORT that CREDITS AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. While multiple articles discuss strong
+    GDP growth and AI''s role:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.fxstreet.com/news/taiwan-strong-double-digit-gdp-expansion-to-persist-dbs-202608171259
+  - https://www.tomshardware.com/tech-industry/taiwan-to-pay-every-resident-314-from-its-ai-boom-windfall
+  - https://www.cna.com.tw/news/afe/202608220038.aspx
+  trajectory_signal: 'Strong momentum TOWARD YES. Taiwan''s official statistics agency (article [10], most authoritative)
+    explicitly attributes projected 11.05% growth to the "AI boom" (AI商機). Multiple credible sources (DBS, official Taiwanese
+    agencies, ratings firms like Moody''s) converge on AI-driven growth >5% for Taiwan in 2026. South Korea (articles [5],
+    [6]) also shows 3.2-3.5% growth attributed to AI chip boom, though below the 5% threshold. The trajectory shows official
+    attribution of growth to AI is becoming normalized in government communications. What remains: awaiting final official
+    2026 results (likely reported September-October 2026).'
+- date: '2026-08-30'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.fxstreet.com/news/taiwan-ai-boom-sustains-exceptional-growth-commerzbank-202608261453
+  - https://nyjobexchange.com/article/singapore-s-economy-booms-ai-demand-drives-5-5-gdp-growth-in-2026
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.taipeitimes.com/News/biz/archives/2026/08/27/2003863182
+  - https://www.straitstimes.com/business/singapore-factory-output-expands-in-july-driven-by-precision-engineering-and-sustained-ai-demand
+  - https://aljazeeranews-mggx1uo47w.edgeone.app/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout
+  - https://en.sedaily.com/finance/2026/08/27/bok-lifts-2026-growth-forecast-to-33-percent-on-chip-boom
+- date: '2026-09-06'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires an "official
+    report" that "credits AI for ≥5% growth." Articles [0, 1, 2, 4, 5, 6] discuss economist FORECASTS (not official reports)
+    of Singapore reaching 5% growth in 2026 with AI cited as a driver. These are projections published in September 2026,
+    but they do not constitute official government GDP reports attributing actual growth to AI. The gap: we need an official
+    2026 annual GDP report from Singapore (or another country) retroactively confirming that AI was the primary contributor
+    to ≥5% growth—not economist predictions of future growth.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.straitstimes.com/business/economists-raise-singapores-2026-growth-forecast-to-5-from-3-5-mas-survey
+  - https://www.businesstimes.com.sg/singapore/economists-raise-singapores-growth-forecast-lower-inflation-projections-latest-mas-survey
+  - https://ae.marketscreener.com/news/singapore-likely-to-post-faster-growth-fueled-by-ai-wave-economists-say-ce7858d2dd8af127
+  - https://www.channelnewsasia.com/watch/economists-raise-gdp-growth-forecast-50-2026-mas-survey-6358156
+  - https://thesiliconreview.com/2026/09/singapore-2026-growth-forecast-5-percent-mas-survey
+  trajectory_signal: 'Strong momentum signal toward YES. Multiple credible sources (MAS surveys, CNA, Business Times, MarketScreener)
+    published Sept 2-4, 2026 show:'

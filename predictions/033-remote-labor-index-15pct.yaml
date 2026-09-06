@@ -5,12 +5,12 @@ category: AI Capabilities
 baseline: 'Jan 2026: Opus 4.5 3.75%, Manus 2.5%, Sonnet 4.5 2.1%. RLI = 240 real Upwork projects.'
 resolution_criteria: 'YES: Any AI >15%. NO: Best ≤15%.'
 search_keywords:
-- 'Best AI automation rate on RLI will exceed 15% by '
-- RLI benchmark
-- Remote Labor Index
-- AI Upwork automation
-resolution_date: null
-outcome: null
+- Remote Labor Index AI score
+- RLI benchmark AI automation
+- Remote Labor Index 2026
+- AI Upwork task automation rate
+resolution_date: '2026-07-01'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 35
@@ -32,6 +32,8 @@ forecasts:
   human-6: 30
   human-7: 20
   human-8: 10
+  human-9: 50
+  human-10: 35
 evidence:
 - date: '2026-02-01'
   summary: Found 3 articles
@@ -39,3 +41,462 @@ evidence:
   - https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market
   - https://www.prnewswire.com/news-releases/rsm-survey-shows-middle-market-firms-investing-in-ai-and-skills-training-as-hiring-challenges-persist-302672726.html
   - https://www.prnewswire.com/news-releases/robotic-process-automation-market-to-reach-usd-20-79-billion-by-2032-as-enterprises-redesign-ai-driven-operating-models-mmr-statistics-302672701.html
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://remote.com/en-au/resources/research
+  - https://remote.com/en-ph/resources/research
+  - https://remote.com/en-in/resources/research
+  - https://www.conference-board.org/data/eti.cfm
+  - https://www.roberthalf.com/us/en/insights/research/december-2025-labor-market-update-what-employers-and-job-seekers-should-know
+  relevance: 'UNCLEAR: The provided evidence titles do not obviously relate to AI automation rates on Remote Labor Interchange
+    (RLI), making it impossible to confidently assess the prediction''s likelihood.'
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://www.linkedin.com/posts/cspenn_ai-generativeai-genai-activity-7404576141564334080--ZhA
+  - https://arxiv.org/abs/2510.26787
+  relevance: 'MODERATE: Article [3] provides concrete current data (AI at 2.5% of remote work tasks), and article [4] is the
+    RLI research paper itself, both directly relevant to tracking whether the best AI automation rate will exceed 15% by end
+    of 2026.'
+- date: '2026-02-22'
+  summary: 2 relevant articles
+  sources:
+  - https://manifold.markets/Bayesian/what-will-be-the-best-remote-labor
+  - https://www.linkedin.com/posts/cspenn_ai-generativeai-genai-activity-7404576141564334080--ZhA
+  relevance: 'MODERATE: Article [6] provides concrete data showing AI currently completes only 2.5% of remote work tasks at
+    commercial level on the RLI benchmark, directly evidencing performance well below the 15% threshold, while articles [0-5,
+    7] lack specific RLI performance metrics or are too generic/tangential.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://codehelper.me/articles/ai-automation-reality-check/
+  relevance: 'MODERATE: Article [1] from 2026-02-16 directly addresses RLI performance, reporting a 96.25% failure rate (equivalently,
+    3.75% automation rate) on professional tasks in the Remote Labor Index. This aligns with baseline Opus 4.5 performance
+    (3.75%) and provides corroborating evidence that current best-in-class performance remains well below the 15% threshold.
+    However, the article provides only a snapshot of current state (~Feb 2026) and offers no forward-looking analysis about
+    whether AI improvements could reach 15% by Dec 31, 2026—a 10-month window. The evidence moderately pushes against YES
+    resolution by confirming the starting point is very low, but does not directly address trajectory or likelihood of near-term
+    improvement.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 3 relevant articles
+  sources:
+  - https://codehelper.me/articles/ai-automation-reality-check/
+  - https://www.theneuron.ai/explainer-articles/ai-will-replace-white-collar-job-18-months-except-it-cant-do-97-percent-right-now/
+  - https://businessday.ng/technology/article/ai-agents-automate-2-5-of-real-world-remote-jobs-study/
+  relevance: MODERATE
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles directly measure RLI automation rates exceeding 15% by the specified deadline. Article [0]
+    is a stub with no substantive content. Article [2] is the RLI research paper itself without current results. Article [3]
+    concerns general jobs data unrelated to RLI. Article [4] is a prediction market that reflects uncertainty but provides
+    no new empirical evidence. Article [5] mentions RLI benchmarking was analyzed on Feb 13, 2026, but provides no actual
+    results or scores.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://codehelper.me/articles/ai-automation-reality-check/
+  trajectory_signal: Article [1] provides directional evidence **against** resolution. It reports a 96.25% failure rate on
+    RLI tasks (equivalent to 3.75% success), corroborating the January 2026 Opus 4.5 baseline and suggesting minimal progress.
+    The article's framing of "AI Automation Reality Check" with emphasis on failure rates signals pessimism about near-term
+    capability breakthroughs. However, this is a single data point from mid-February matching the January baseline—no trajectory
+    of improvement is yet visible. The momentum signal is slightly negative, but the core issue is stagnation rather than
+    clear directional movement. To reach 15% by December 2026 would require ~4x improvement in 10 months—a significant acceleration
+    with no current evidence supporting it.
+- date: '2026-03-01'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of current RLI automation rates or new benchmark results post-February
+    15, 2026. Articles [0], [2], [3], [5], [7], [8], [9] are either undated or reference the baseline January 2026 data (Opus
+    4.5 at 3.75%, Manus at 2.5%). Article [4] and [10] about Gemini 3.1 Pro don''t mention RLI scores. The prediction requires
+    concrete evidence that any AI model has exceeded 15% automation rate on the 240 real Upwork projects—a 4x improvement
+    from the baseline leader. No such evidence appears in these articles.'
+  trajectory_sources:
+  - https://manifold.markets/Bayesian/what-will-be-the-best-remote-labor
+  trajectory_signal: Article [6] is a Manifold prediction market showing community forecasts on RLI scores by Dec 31, 2026,
+    with 20% probability assigned to 10-20% range and 24% to 20-30%. This signals market participants expect meaningful progress
+    from the 3.75% baseline but is weak evidence—prediction markets reflect subjective beliefs rather than concrete capability
+    demonstrations. The market shows directional expectation toward improvement, but without supporting technical evidence
+    of AI capability advances or model developments specifically targeting RLI performance. The article itself doesn't demonstrate
+    progress, only consensus expectations.
+- date: '2026-03-08'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of RLI scores. Articles [0], [1], [2], [6], [7] discuss the RLI benchmark
+    itself but contain no updated performance data beyond the January 2026 baseline (Opus 3.75%, Manus 2.5%). Article [3]
+    is a generic remote staffing report unrelated to AI automation measurement. Articles [4], [5], [10] discuss general AI
+    progress/benchmarks (economic forecasts, Gemini releases) but do not address RLI specifically. Article [8] is a prediction
+    market reflecting uncertainty, not evidence. The critical gap: **no article published after Feb 22, 2026 reports actual
+    RLI scores for any model**. Without current performance data, the prediction cannot be evaluated against the 15% threshold.'
+  trajectory_sources:
+  - https://adam.holter.com/every-ai-model-released-in-february-2026/
+  trajectory_signal: 'Article [9] (published 2026-03-02) signals directional progress: it documents rapid AI capability advancement
+    in February 2026, with Gemini 3.1 Pro achieving breakthrough scores on reasoning benchmarks (77.1% on ARC-AGI-2, 94.3%
+    on GPQA). This represents meaningful progress in AI capabilities that could plausibly translate to improved RLI performance.
+    However, this is **indirect trajectory evidence only**—benchmark improvements don''t guarantee RLI task automation improvements,
+    and no RLI-specific data confirms whether these advances have narrowed the gap toward 15%. The direction is TOWARD_YES
+    in terms of capability acceleration, but without updated RLI measurements, confidence in this trajectory remains low.'
+- date: '2026-03-15'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Jobs) automation rates or whether any AI has
+    exceeded 15% on this specific benchmark. The baseline shows Opus 4.5 at 3.75% (the highest) as of January 2026, requiring
+    >4x improvement in 10 months to reach the YES threshold. None of the articles reference RLI scores, Upwork project automation
+    rates, or performance data that would directly resolve the prediction.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.jitterbit.com/press-release/enterprise-ai-automation-budgets-driving-surge-in-use-of-ai-workers/
+  - https://www.einpresswire.com/article/898628741/semantic-tech-solves-96-ai-agent-failure-gap-via-engineered-enterprise-ai-workflow-infrastructure
+  trajectory_signal: 'Articles [2] and [6] show directional signals but both point TOWARD_NO:'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Automation Index) performance metrics or whether
+    any AI system has exceeded 15% automation rate on the specific 240-project benchmark. Articles [0] and [6] discuss Claude
+    Code''s new capabilities (Remote Control, Scheduled Tasks, Parallel Agents, Auto Memory, Plugin Ecosystem) released in
+    February 2026, but contain no quantitative RLI data, benchmark results, or automation rate measurements. Without actual
+    RLI test results, these cannot resolve the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://rankedge.ai/articles/claude-code-new-features-2026
+  - https://marksmendaily.com/technology/anthropic-turns-ai-into-a-remote-worker/
+  trajectory_signal: Articles [0] and [6] show meaningful directional momentum TOWARD_YES. Anthropic released five major Claude
+    Code capabilities in February 2026 (documented March 19-20) that substantially expand AI agent autonomy and task execution
+    capabilities — precisely the functionality relevant to automating Upwork projects. The shift from "coding assistant" to
+    "multi-agent development platform" with remote control and scheduled task abilities suggests capability improvements that
+    could plausibly increase RLI automation rates. Baseline showed Opus 4.5 at 3.75% in January 2026; these architectural
+    improvements signal potential acceleration toward 15%. However, this remains speculative — actual RLI measurements would
+    be needed to confirm impact.
+- date: '2026-03-29'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Jobs) automation rates or whether any AI model
+    has exceeded 15% automation on this specific benchmark. The prediction requires concrete RLI benchmark results showing
+    >15% performance by December 31, 2026. None of the articles contain RLI test results, automation rates on Upwork projects,
+    or data that directly addresses the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reddit.com/r/Anthropic/comments/1s4vlmv/fortune_anthropic_acknowledges_testing_new_ai/
+  trajectory_signal: 'Article [11] signals potential momentum toward YES: Anthropic is testing a new AI model representing
+    a "step change" in capabilities (as of March 27, 2026). This is directionally relevant because: (1) Anthropic''s Claude
+    models are the current baseline leaders on RLI (Opus 4.5 at 3.75%), (2) a "step change" suggests substantial capability
+    advancement beyond current models, and (3) the timing (mid-late 2026) aligns with the resolution deadline. However, this
+    is indirect—the article doesn''t mention RLI testing or automation rates. The gap from 3.75% to 15%+ is substantial (4x
+    improvement required), and "step change" language is marketing rhetoric without quantified evidence. This represents promising
+    momentum for capability advancement but remains far from concrete resolution evidence.'
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on RLI (Real Language Instruction) benchmark performance or whether
+    any AI model has exceeded 15% automation rate on this specific benchmark. Article [10] about RLI Corp is about an insurance
+    company (wrong entity entirely). The prediction requires concrete benchmark results showing >15% automation on the 240
+    real Upwork projects in RLI—none of the articles contain this data.'
+  trajectory_sources:
+  - https://aihaven.com/news/arc-prize-2026-arc-agi-3-benchmark-ai-agents/
+  - https://aidailypost.com/news/ai-productivity-gap-top-agent-beats-baseline-1-15-runs-265-subtasks
+  - https://sharedsapience.com/century-report/the-century-report-march-31-2026/
+  trajectory_signal: 'Three articles provide modest directional signals about AI capability progress:'
+- date: '2026-04-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Jobs) automation rates or whether any AI model
+    has exceeded 15% on this specific benchmark. Article [2] explicitly states "AI is still failing at 95%+ of remote freelance
+    projects," which would imply <5% success rates on similar tasks, but this is not RLI-specific data and the sentence is
+    truncated. No baseline comparisons to January 2026 (Opus 4.5: 3.75%, Manus: 2.5%, Sonnet 4.5: 2.1%) are provided. The
+    prediction requires concrete RLI benchmark results; none are present.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.digitalinformationworld.com/2026/04/new-mit-research-overturns-prior-view.html
+  - https://fortune.com/2026/04/07/anthropic-peter-mccrory-ai-automation-white-collar-jobs-claude-recession/
+  trajectory_signal: Articles [2] and [3] provide directional signals about AI capability progress on white-collar/knowledge
+    work tasks. Article [2] references MIT research showing AI still struggles with remote freelance projects (95%+ failure
+    rate), suggesting slow progress toward the 15% threshold and pointing TOWARD_NO. Article [3] (Anthropic research on job
+    capability) discusses AI doing "a huge portion of many jobs" but lacks quantified RLI-specific metrics. These suggest
+    general capability improvements but don't indicate momentum sufficient to reach 15% on RLI by end-2026, especially given
+    the 95%+ failure rate cited in [2]. Articles [9] (Z.ai's GLM-5.1 coding performance) and [11] (Gemini 3.1 Ultra benchmarks)
+    show progress on coding/reasoning benchmarks, but these are not RLI tasks and don't translate directly to automation on
+    real freelance projects.
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on RLI (Real Upwork-based Instruction-following) automation rates.
+    The prediction requires: (1) a specific benchmark (RLI with 240 real Upwork projects), (2) measurement of AI automation
+    rate on that benchmark, and (3) evidence that the best AI model exceeds 15% by Dec 31, 2026. None of the articles report
+    RLI results or automation rates on this specific metric. Articles [0,3,6,7] discuss general AI job displacement and Upwork
+    demand trends but don''t measure automation on RLI. Articles [1,4,5,8] reference the Stanford AI Index but don''t specify
+    RLI metrics. Article [11] discusses ClawBench (different benchmark: real online task completion at 33%), not RLI.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://neuralnetworkworld.com/z-ai-glm-5-1-swe-bench-pro-open-source-2026/
+  - https://medium.com/@tatsuru.okada/the-first-open-weight-model-to-beat-gpt-5-4-290d269b0d3c
+  trajectory_signal: 'Articles [9,10] show significant directional momentum TOWARD_YES:'
+- date: '2026-04-26'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence on AI automation rates on RLI (Real Language Interface benchmark with
+    240 Upwork projects). The baseline shows Opus 4.5 at 3.75% as best performer in January 2026. The prediction requires
+    ANY AI model to exceed 15% by December 31, 2026 — a 4x improvement in 11 months. No current benchmark results, model capability
+    updates, or RLI-specific performance metrics appear in these articles. Articles [5-9] discuss RLI Corp (insurance company)
+    earnings — a different entity entirely (ticker RLI vs. benchmark RLI). Articles [0,4] cover Upwork earnings but contain
+    no automation rate data. Articles [1,11-13] discuss general AI job automation and capability trends but not RLI benchmark
+    performance.'
+  trajectory_sources:
+  - https://zapier.com/blog/introducing-automationbench/
+  trajectory_signal: Article [2] announces AutomationBench, "the first open benchmark that scores AI models on end-to-end
+    business workflow execution." This signals emerging infrastructure for measuring real-world AI automation on business
+    tasks (similar in spirit to RLI). However, it does not report actual performance results, does not appear to be the RLI
+    benchmark itself, and provides no quantitative progress toward the 15% threshold. This represents modest directional momentum
+    toward better automation measurement capability, but offers no evidence of models approaching 15% on RLI specifically.
+- date: '2026-05-03'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://36kr.com/p/3539334841462657
+  relevance: 'NONE: Article [0] directly addresses RLI benchmark results but provides contradictory/unclear data. It claims
+    GPT-5 achieved 1.7% success rate on real Upwork jobs (240 projects), which would represent REGRESSION from the January
+    2026 baseline where Opus 4.5 was at 3.75%. However, the article also states the best performer completed "only 6 [projects]
+    out of 240" which calculates to 2.5%, consistent with the stated "2.5% success rate" mentioned. The article does NOT provide
+    current performance metrics for other models (Claude, Gemini) that would show if any exceed the 15% threshold. Critical
+    gap: No evidence that ANY model currently exceeds 15%. The data actually suggests movement AWAY from the 15% target, with
+    top performers in the 1.7-3.75% range as of late April/early May 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.36kr.com/p/3542150781825160
+  - https://www.deeplearning.ai/the-batch/openais-latest-model-gpt-5-5-tops-leaderboards-for-coding-visual-puzzles-and-overall-intelligence/
+  - https://aitechbrief.com/gemini-3-1-powers-ai-research-agents-outperforming-human-analysis/
+  trajectory_signal: 'Articles [1], [11], and [12] show directional momentum:'
+- date: '2026-05-10'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on RLI (Real Upwork Instances) benchmark results testing AI automation
+    rates. The prediction requires specific benchmark data showing whether any AI model has exceeded 15% automation rate on
+    the 240-project RLI benchmark by December 31, 2026. None of the articles contain RLI benchmark results, performance metrics,
+    or data that directly addresses resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://newclawtimes.com/articles/ai-agent-market-adoption-2026-testing-browser-automation-hiring-data/
+  - https://www.globenewswire.com/news-release/2026/05/07/3290664/0/en/Upwork-Reports-First-Quarter-2026-Financial-Results.html
+  - https://www.duckittech.com/news/nvidias-nemotron-3-super-tops-open-source-enterprise-ai-benchmark-beating-deepseek-and-gpt-oss
+  - https://techfastforward.com/articles/gpt-55-claude-mythos-gemini-31-pro-spring-2026-three-way-tie-ai-race
+  trajectory_signal: 'Multiple articles signal meaningful progress in AI automation capabilities that could eventually translate
+    to RLI performance improvements:'
+- date: '2026-05-17'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on RLI (Real Labor Index) automation rates or whether any AI model
+    has exceeded 15% on the specific 240 Upwork project benchmark. The prediction requires concrete RLI test results showing
+    >15% automation rate by December 31, 2026. None of the articles report such measurements.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.gardinercolin.com/p/ai-is-eating-upwork-from-the-bottom
+  - https://www.resultsense.com/news/2026-05-12-microsoft-research-ai-agents-task-failures/
+  - https://www.morningstar.com/news/accesswire/1165667msn/eqs-ai-benchmark-volume-2-latest-frontier-models-make-agentic-compliance-workflows-a-practical-reality
+  - https://aihola.com/article/coding-agent-index-cursor
+  - https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065
+  trajectory_signal: 'Multiple articles signal AI progress in automation and agentic capabilities, but suggest headwinds for
+    the specific resolution:'
+- date: '2026-05-24'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence on RLI (Real Upwork projects benchmark) automation rates or whether
+    any AI has exceeded 15% on that specific metric by May 2026. The prediction requires concrete RLI results showing >15%
+    automation rate on the 240 real Upwork projects dataset. Article [0] discusses Upwork proposal quality (hand-written vs
+    AI-generated), but doesn''t measure task automation rates on RLI. Articles [2], [4], [9], [10] discuss broad AI automation
+    exposure across US occupations and enterprises, but lack specificity to Upwork task automation. Articles [1], [8], [11],
+    [12], [14] discuss general AI adoption rates and enterprise deployment gaps, not Upwork automation performance. None directly
+    measure or report RLI benchmark results.'
+  trajectory_sources:
+  - https://startupfortune.com/gemini-35-flash-takes-the-lead-in-zapiers-automationbench/
+  trajectory_signal: Article [13] (Gemini 3.5 Flash leading Zapier's AutomationBench as of May 21, 2026) provides weak directional
+    signal that frontier AI models are advancing on automation benchmarks more broadly. This suggests possible momentum toward
+    higher automation rates on task-based benchmarks like RLI, though Zapier's AutomationBench is not identical to RLI and
+    the article lacks concrete automation percentage figures. The baseline showed Opus 4.5 at 3.75% on RLI in January 2026;
+    movement in frontier model automation capabilities could eventually translate to RLI gains, but the signal remains indirect
+    and requires 7+ percentage point improvements in 7 months—a steep trajectory requiring corroboration.
+- date: '2026-05-31'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.36kr.com/p/3539334841462657
+  - https://www.36kr.com/p/3542150781825160
+  relevance: STRONG
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://agentmarketcap.ai/blog/2026/05/24/stanford-ai-index-2026-jagged-frontier-enterprise-reality
+  - https://finance.biggo.com/news/peL9Xp4BoicNoOgCsXeS
+  - https://lumeta.news/en/itbench-aa-frontier-models-enterprise-tasks
+  trajectory_signal: 'Articles [4], [9], [10] reveal a consistent pattern: frontier AI models perform much better on abstract
+    benchmarks than on real-world task execution. WebArena shows 74.3% on web interaction tasks yet RLI shows only ~2.5% on
+    actual freelance work. This suggests a substantial gap between benchmark performance and practical task completion. The
+    trajectory signals that even as models improve on standardized tests, real-world autonomous work completion remains severely
+    constrained—pointing TOWARD_NO for the 15% RLI target. However, none of these trajectory articles provide updated RLI
+    measurements that would directly track movement toward resolution.'
+- date: '2026-06-07'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on RLI (Real Upwork-based Freelancer Interaction) automation rates.
+    The prediction requires a specific benchmark (RLI with 240 real Upwork projects) with a concrete >15% automation threshold
+    by Dec 31, 2026. None of the articles measure this metric or reference RLI specifically. Articles [9], [11], [12] discuss
+    general AI model capability improvements (reasoning, benchmarks) but don''t address task automation on Upwork-style real-world
+    projects. Article [8] discusses robotics benchmarks, irrelevant to the prediction scope.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing
+  - https://www.channelnewsasia.com/cna-insider/outsourcing-jobs-artificial-intelligence-philippines-india-threat-workers-adapt-6162491
+  - https://theaicronicle.com/en/news/future/cognizant-job-disruption-prediction-2026
+  trajectory_signal: 'Three articles signal momentum toward automation capability growth:'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Internship/Freelance projects) automation rates
+    or whether any AI model has exceeded 15% on this specific benchmark. Article [1] discusses Agents'' Last Exam where top
+    AI agents score 2.6% on hardest professional tasks—a different benchmark entirely. Article [11] mentions GPT-5.5 beating
+    Claude on Agents'' Last Exam but provides no RLI data. The prediction requires concrete RLI benchmark results showing
+    any AI model >15%; none of the articles test against RLI or report such results.'
+  trajectory_sources:
+  - https://digg.com/ai/7f6dnk0l
+  - https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark
+  trajectory_signal: Articles [1] and [11] signal progress in AI agent benchmarking and evaluation frameworks (Agents' Last
+    Exam), showing the field is actively measuring AI performance on professional tasks. However, these benchmarks are distinct
+    from RLI. The scores reported (2.6% on hardest tasks) actually move in the TOWARD_NO direction relative to the 15% threshold,
+    though on a different metric. General AI capability improvements suggested by GPT-5.5's advances provide weak directional
+    momentum toward better automation potential, but this is speculative—these benchmarks don't measure Upwork freelance task
+    automation specifically.
+- date: '2026-06-28'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about RLI (Real Upwork Jobs) automation rates or whether any AI model
+    has exceeded 15% automation on this specific benchmark. The prediction requires concrete RLI performance metrics by December
+    31, 2026. Baseline shows Opus 4.5 at 3.75% as of January 2026—a 4x improvement would be needed to reach 15% in 6 months.
+    No article reports RLI benchmark results or tests.'
+  trajectory_sources:
+  - https://techinformed.com/smbs-test-ai-agents-before-roi-is-proven-upwork-finds/
+  - https://insight.tmcnet.com/insight/generative-ai-reliability-hits-99-6-in-contact-centers-1782244444147
+  - https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/
+  trajectory_signal: 'Three articles signal directional progress toward AI capability advancement in automation contexts,
+    though none directly address RLI:'
+- date: '2026-07-05'
+  summary: 3 relevant articles
+  sources:
+  - https://runtimewire.com/article/claude-fable-5-remote-labor-index-16-percent
+  - https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/
+  - https://safe.ai/blog/significant-increase-in-digital-labor-automation
+  relevance: 'STRONG: Articles [0], [1], and [5] provide direct evidence that Claude Fable 5 has achieved a 16.10% automation
+    rate on the Remote Labor Index, exceeding the 15% threshold required for YES resolution. Article [0] (RuntimeWire, 2026-07-01)
+    explicitly states "Claude Fable 5 is now listed at 16.10% on the Remote Labor Index." Article [1] (the-decoder.com, 2026-07-02)
+    confirms "AI agents can now complete 16 percent of freelance jobs at pro quality" with the score rising from 2.5% eight
+    months ago. Article [5] (CAIS, 2026-07-01) is the official announcement from the Center for AI Safety (joint developer
+    of RLI) confirming "The newest frontier models automate substantially more real freelance work than their predecessors,"
+    establishing this is a legitimate RLI measurement on the official benchmark. All three are published within the preferred
+    date range (after 2026-06-21). The criteria are explicitly met: any AI exceeding 15% triggers YES resolution, and Fable
+    5 at 16.10% satisfies this condition on the actual RLI benchmark of 240 real Upwork projects. No gaps remain in criteria
+    satisfaction.'
+  direction: TOWARD_YES
+- date: '2026-07-12'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://offworldnews.ai/the-automation-curve-what-16-1-percent-means-for-the-online-labor-market/
+  - https://www.rohan-paul.com/p/cais-and-scale-ai-safety-research
+  relevance: 'STRONG: Articles [0] and [2] provide direct evidence that resolves the prediction YES. Both confirm that Fable
+    5 achieved 16.1% automation rate on the RLI (240 real Upwork projects) as of July 2026, exceeding the 15% threshold required
+    by December 31, 2026. Article [0] explicitly states "that figure is 16.1 percent" in reference to the RLI measurement
+    and notes this represents an eight-month jump from 2.5% in November 2025. Article [2] corroborates: "Fable 5 now automates
+    16.1% of real remote-work projects." Both cite CAIS and Scale Labs as the source, matching the baseline context''s methodology.
+    The criteria are fully satisfied: any AI >15% triggers YES, and Fable 5 exceeds this threshold. No gaps remain in the
+    resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.inbenta.com/ai-this-week/ai-agents-now-automate-1-in-6-freelance-jobs-as-fable-5-shatters-cais-remote-labor-index-records
+  - https://hi-tech.ua/en/neural-networks-are-getting-closer-to-freelancers-ai-has-learned-to-perform-every-sixth-commercial-project/
+  - https://www.aichatdaily.com/ai-models/fable-tops-kernelbench-mega-ai-agents-quadruple-real-freelance
+  trajectory_signal: Articles [1], [3], and [4] reinforce momentum toward YES through corroborating headlines about Fable
+    5's RLI performance (16.1%, described as "1 in 6 jobs"). While these articles lack substantive content verification, they
+    consistently signal the same measurement across multiple independent sources published within 1-3 days, strengthening
+    confidence in the [0] and [2] direct evidence. Article [4] adds directional language ("quadruple on real freelance work")
+    suggesting rapid acceleration from baseline. Article [1] references a CAIS report. This convergent reporting pattern indicates
+    stable, widely-acknowledged achievement rather than isolated claim.
+- date: '2026-07-19'
+  summary: 6 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.htx.com/news/ai-workforce-ranking-claude-fable-5s-automated-income-potent-JrV2LP0R/
+  - https://www.htx.com/en-in/news/ai-workforce-ranking-claude-fable-5s-automated-income-potent-JrV2LP0R/
+  - https://36kr.com/p/3893792551090689
+  - https://www.htx.com/it-it/news/ai-workforce-ranking-claude-fable-5s-automated-income-potent-JrV2LP0R/
+  - https://www.faxai.cn/archives/12995
+  relevance: 'STRONG: Multiple articles (0, 2, 4, 6, 8, 9) report identical RLI assessment data: Claude Fable 5 achieved 16.1%
+    automation rate on the Remote Labor Index. This DIRECTLY satisfies the resolution criteria (>15%). The articles are published
+    2026-07-12 to 2026-07-13, within the preferred date range. All cite the same authoritative source (CAIS and Scale AI joint
+    assessment of 240 real Upwork projects). The 16.1% figure explicitly exceeds the 15% threshold required for YES resolution.
+    Critical note: We are currently at 2026-07-19, only 5.4 months from the December 31, 2026 deadline, and the threshold
+    has already been exceeded. The criteria gap is minimal — this appears to be definitive evidence rather than a prediction
+    of future performance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.globenewswire.com/news-release/2026/07/14/3326964/0/en/Upwork-s-Future-Workforce-Index-2026-How-AI-is-Redefining-the-Value-of-Work-as-Skilled-Freelancing-Accelerates.html
+  - https://apnews.com/press-release/globenewswire-mobile/press-release-c8b85a2a93ed19b736c2feb4ba049e30
+  trajectory_signal: Articles 1 and 3 (Upwork's Future Workforce Index 2026) show directional momentum toward increased AI
+    adoption in skilled work contexts, with freelancing participation jumping from 28% to 38%. While this doesn't directly
+    measure RLI automation rates, it signals accelerating AI labor market integration and suggests continued pressure for
+    automation capabilities to increase. Combined with the 4x improvement in RLI scores over 8 months (from 2.5% baseline
+    in January 2026 to 16.1% in July), the trajectory strongly indicates sustained progress in AI automation capabilities.
+- date: '2026-07-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on RLI (Upwork projects) automation rates. Articles [1], [2], [6]
+    discuss Google ATLAS data showing <10% end-to-end task automation in workplace AI interactions and AI touching only 21%
+    of tasks—these are large-scale but fundamentally different metrics than RLI, which measures AI completing entire real
+    freelance projects. Article [7] on OpenAI Presence (75% call resolution) is domain-specific customer support, not relevant
+    to RLI scope. The baseline shows Opus 4.5 at 3.75% on RLI as of January 2026. No article provides updated RLI benchmark
+    results or claims about specific AI models exceeding 15% on this metric.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://botbeat.news/news/anthropic-launches-claude-connector-for-economic-index-democratizing-ai-labor-im-9725
+  - https://www.beri.net/article/anthropic-200m-ai-jobs-paradox-workforce-task-migration-enterprise-readiness-2026
+  - https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/
+  trajectory_signal: 'Articles [3], [4], [8] signal modest progress in AI capabilities and economic measurement infrastructure.
+    Anthropic''s Economic Index connector [3] enables better tracking of real-world AI impact, and their $200M investment
+    [4] suggests confidence in closing the "gap between theoretical capability and actual adoption"—relevant to whether improvements
+    on RLI are plausible. Claude Opus 5 [8] shows Anthropic advancing capability benchmarks, which could translate to RLI
+    improvements. However, Google''s ATLAS findings [1], [2], [6]—showing <10% full task automation despite 68% occupational
+    reach—suggest structural limitations in current AI automation on complex real-world work. This momentum cuts both directions:
+    capability is advancing, but empirical evidence of full task automation remains low. With only ~5.5 months remaining and
+    baseline at 3.75%, trajectory momentum alone is insufficient to suggest crossing 15% threshold.'
+- date: '2026-08-02'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://36kr.com/p/3893792551090689
+  relevance: 'STRONG: Article [0] provides direct evidence: Claude Fable 5 achieved 16.1% automation rate on RLI, exceeding
+    the 15% threshold required for YES resolution. This is concrete, specific, and directly addresses the resolution criteria.
+    The article cites CAIS and Scale AI''s official RLI benchmark (240 real Upwork projects) and notes this represents progress
+    from 2.5% eight months prior. One criteria gap: the prediction requires this to persist through December 31, 2026, and
+    we only have evidence as of the article''s publication date (2026-08-01), though this is very close to the current evaluation
+    date (2026-08-02).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gcn.com/google-atlas-report-gemini-interactions-occupations/20134/
+  - https://www.gate.com/news/detail/zapiers-new-automationbench-aa-reveals-compliance-guardrails-cut-top-ai-22408962
+  - https://www.prnewswire.com/news-releases/samaya-ai-releases-frontierfinance-a-new-public-benchmark-for-ai-agents-in-investment-workflows-samayas-ai-system-outperforms-claude-fable-5-and-gpt-5-6-sol-302837028.html
+  trajectory_signal: 'Articles [3], [7], and [8] signal directional momentum toward YES:'
+- date: '2026-08-09'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI model has exceeded 15% automation rate on RLI by
+    August 9, 2026. Articles [0] and [1] discuss Scale AI''s Remote Labor Index (RLI) research but report results from November
+    2025 (before the current date of August 9, 2026), showing best performance at ~2.5% automation rate. These are outdated
+    relative to the prediction window. No current August 2026 RLI benchmark results are provided. Articles [2-11] address
+    general AI labor market impacts, benchmark performance on unrelated metrics (TabArena, Artificial Analysis Intelligence
+    Index), or labor displacement statistics—none measure automation performance on the specific RLI benchmark. Critical gap:
+    No evidence of current RLI scores for any model as of August 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.36kr.com/p/3539334841462657
+  - https://www.36kr.com/p/3542150781825160
+  trajectory_signal: 'Articles [0] and [1] show directional TOWARD_NO momentum. The most recent RLI data (November 2025) showed
+    best-in-class performance at only ~2.5% automation rate across 240 real Upwork projects, far below the 15% threshold.
+    With 4.5 months remaining until the December 31, 2026 deadline, the baseline context (January 2026: Opus 4.5 at 3.75%,
+    best performer) suggests limited progress. No evidence of acceleration toward 15% threshold appears in any article. The
+    trajectory signals mounting difficulty in reaching the resolution threshold, though the lack of recent August 2026 RLI
+    data prevents confident trajectory assessment.'
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI model has exceeded 15% automation rate on the RLI
+    (Real Labor Index) benchmark of 240 real Upwork projects by August 2026. The prediction requires concrete RLI benchmark
+    results showing a specific AI''s performance >15%. None of the articles contain RLI data or test results. Articles [1-9]
+    discuss general AI adoption trends, workplace AI usage statistics, and Upwork''s business performance, but none address
+    the RLI benchmark specifically. The baseline context showed Opus 4.5 at 3.75% (best performer as of January 2026), requiring
+    substantial improvement to cross 15% in 5 months.'
+  trajectory_sources:
+  - https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/
+  - https://dataconomy.com/2026/08/13/grok-4-6-launch-spaceai-gpt-5-6-benchmark/
+  - https://vff.ai/article/2026/08/13/spacexai-debuts-grok-4-6-overtaking-kimi-k3-s-performance-and-matching-gpt-5-6-s
+  trajectory_signal: Articles [10, 11, 13] report new frontier model releases (Grok 4.6 and DeepSeek V4-0813-Pro) with improved
+    capabilities in agents, coding, and knowledge work—domains relevant to RLI task automation. Grok 4.6 ties GPT-5.6 Sol
+    at 61 on the Artificial Analysis Intelligence Index and is specifically tuned for "long-running agents" and knowledge
+    work, suggesting potential for improved RLI performance. These releases signal directional momentum toward more capable
+    agentic AI systems that could plausibly improve automation rates. However, benchmark scores on general intelligence indices
+    do not directly predict RLI performance, which measures automation on specific real-world labor tasks. The trajectory
+    is NEUTRAL-to-POSITIVE on capability development, but insufficient to confirm whether these improvements translate to
+    >15% RLI automation.

@@ -13,10 +13,12 @@ resolution_criteria: 'YES: Credible source reports an AI that: (1) Autonomously 
 
   NO: No such credible report by Dec 31, 2026.'
 search_keywords:
-- AI income
-- autonomous AI profit
-- An AI system will be credibly reported to have aut
-- AI earning money
+- AI agent autonomously earns money freelance
+- OpenClaw Felix AI earning income
+- AI agent Upwork freelance income
+- autonomous AI business revenue non-trading
+- AI bot earning money independently 2026
+- AI agent selling services products autonomously
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -40,6 +42,8 @@ forecasts:
   human-6: 80
   human-7: 20
   human-8: 75
+  human-9: 60
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -53,3 +57,495 @@ evidence:
   - https://www.insidehighered.com/opinion/views/2026/01/29/ai-forced-restructuring-top-risk-higher-ed-opinion
   - https://seekingalpha.com/article/4864586-tesla-after-q4-earnings-autonomy-takes-over-fundamentals-again
   - https://fortune.com/2026/01/28/meta-q4-earnings-beat-mark-zuckerberg-ai-acceleration/
+- date: '2026-02-07'
+  summary: Found 5 articles
+  sources:
+  - https://blog.athina.ai/how-e-com-giant-meesho-accelerated-llm-development-using-athina-ai
+  - https://introl.com/blog/real-time-ai-trading-ultra-low-latency-gpu-infrastructure-2025
+  - https://www.thebrainyinsights.com/report/ai-powered-stock-trading-platform-market-14348
+  - https://nurp.com/wisdom/the-future-of-trading-algorithms-trends-and-predictions-for-2025-and-beyond/
+  - https://www.phil-wins.com/161a899830.html
+  relevance: NO, because all the evidence appears to be focused on trading/financial markets, which are explicitly excluded
+    from counting as resolution-qualifying earnings in the prediction.
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://medium.com/@fxmbrand/i-gave-an-ai-agent-100-and-48-hours-to-make-money-the-results-were-terrifyingly-profitable-767dfe9a93d3
+  - https://manifold.markets/IhorKendiukhov/will-an-ai-autonomously-earn-more-t
+  relevance: 'MODERATE: Article [5] claims an AI agent built a $1,200 business in 48 hours from $100 (concrete but needs verification
+    of autonomy/legitimacy), and article [10] is a resolved prediction market that explicitly rejected a similar claim (NO
+    resolution on $10k autonomous earnings by 2026), providing relevant precedent and cautionary evidence.'
+- date: '2026-02-22'
+  summary: 3 relevant articles
+  sources:
+  - https://www.ainvest.com/news/ai-prediction-market-arbitrage-150k-8-894-trades-2602/
+  - https://dev.to/andrew-ooo/how-ai-trading-bots-are-making-millions-on-polymarket-l5g
+  - https://www.coindesk.com/markets/2026/02/21/how-ai-is-helping-retail-traders-exploit-prediction-market-glitches-to-make-easy-money
+  relevance: 'MODERATE: Articles 5, 6, and 9 report AI systems (trading bots) autonomously generating substantial returns
+    ($150k, $437k+) through market activities, but all involve financial trading/arbitrage which is explicitly excluded from
+    the prediction''s non-trading requirement.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.techtwitter.com/articles/inside-felix-the-openclaw-ai-earning-1-000s-a-week
+  relevance: 'MODERATE: Article [5] "Inside Felix: The OpenClaw AI Earning $1,000s a Week" (published 2026-02-20, within acceptable
+    range) describes an AI system called Felix/OpenClaw that has been earning money autonomously. The snippet indicates: (1)
+    Felix appeared on X 2.5 weeks ago, (2) launched first product next day, (3) launched first business a week later, (4)
+    earning "$1,000s a week." This directly addresses non-trading income generation by an autonomous AI agent.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 4 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.youtube.com/shorts/lt2LDHA9zqk
+  - https://www.techtwitter.com/articles/inside-felix-the-openclaw-ai-earning-1-000s-a-week
+  - https://www.youtube.com/shorts/lt2LDHA9zqk
+  - https://www.techtwitter.com/articles/inside-felix-the-openclaw-ai-earning-1-000s-a-week
+  relevance: 'MODERATE: Articles [0] and [1] report an AI agent (Felix Craft) earning $41,000 through autonomous book creation
+    and marketplace skill sales—potentially satisfying criteria 1 (non-trading activities) and 2 (autonomous decisions). However,
+    **critical gap remains**: neither article establishes initial capital of ≥$1,000 or confirms final balance ≥$2,000, making
+    the 2x return unverifiable. Additionally, sources lack institutional credibility—YouTube channel and Twitter curation
+    lack third-party verification of Felix Craft''s identity or financial authenticity. OpenClaw ecosystem appears real but
+    Felix''s specific claims are anecdotal.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.indiehackers.com/post/i-built-a-freelance-marketplace-where-ai-agents-are-the-freelancers-46785ceb8f
+  - https://aijourn.com/inside-the-gig-economy-built-for-ai-moltlaunch/
+  - https://www.indiehackers.com/post/i-built-a-freelance-marketplace-where-ai-agents-are-the-freelancers-46785ceb8f
+  - https://aijourn.com/inside-the-gig-economy-built-for-ai-moltlaunch/
+  trajectory_signal: 'Articles [6] and [9] signal strong momentum toward resolution. Both describe live marketplaces (ClawGig,
+    Moltlaunch) launched in February 2026 where AI agents autonomously complete freelance work and receive payments. These
+    represent critical infrastructure enabling autonomous AI income generation at scale. The trajectory is clearly TOWARD_YES:
+    within weeks, multiple'
+- date: '2026-03-01'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://m.youtube.com/shorts/lt2LDHA9zqk
+  - https://www.techtwitter.com/articles/inside-felix-the-openclaw-ai-earning-1-000s-a-week
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medium.com/@sonuyadav1/the-10-openclaw-agents-that-are-actually-printing-money-in-2026-and-how-you-can-get-started-dc65afd23498
+  - https://www.youtube.com/watch?v=v2cPHF5oXcI
+  - https://medium.com/@Artiscribe/the-rise-of-autonomous-economies-how-ai-agents-are-making-money-without-humans-ba0f4fee3cab
+  - https://awesomeagents.ai/news/perplexity-computer-19-model-agent-platform/
+- date: '2026-03-08'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting resolution criteria. The prediction requires a CREDIBLE REPORT
+    of an AI system that: (1) autonomously doubled ≥$1,000 USD through legitimate non-trading activities, (2) made independent
+    decisions (not following step-by-step human instructions), and (3) received payment into an accessible account.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medium.com/@sonuyadav1/the-10-openclaw-agents-that-are-actually-printing-money-in-2026-and-how-you-can-get-started-dc65afd23498
+  - https://www.youtube.com/watch?v=LCkGVCfmtzo
+  - https://www.youtube.com/shorts/lt2LDHA9zqk
+  - https://dev.to/noopy420/we-tested-8-ai-agent-earning-platforms-in-february-2026-here-is-what-actually-works-4e95
+  - https://www.aishe24.com/2026/02/aishe-becomes-first-ai-to-autonomously.html
+  trajectory_signal: Articles [0, 1, 3, 7, 10] signal growing momentum in the AI agent monetization space. The ecosystem is
+    developing rapidly (OpenClaw platform emergence Feb-Mar 2026, multiple earning platforms being tested, agent marketplaces
+    launching). Article [7] acknowledges 8+ platforms exist but notes "the reality is messy" and most are "broken"—suggesting
+    the infrastructure exists but hasn't yet produced verified cases. Article [3]'s Felix Craft example, while unverified
+    and possibly human-directed, represents the closest claim to autonomous AI income generation in the corpus. This trajectory
+    suggests we're in the pre-resolution phase where the capability is being actively pursued but credible documentation remains
+    absent.
+- date: '2026-03-15'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI system autonomously earning money through non-trading activities
+    and meeting the resolution criteria. All articles either discuss capabilities/announcements without documented income
+    generation, or involve financial trading (explicitly excluded). Specific gaps:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://briefglance.com/articles/genspark-unleashes-ai-employee-with-16b-valuation
+  - https://www.rutlandherald.com/news/business/genspark-claw-launches-as-genspark-s-first-ai-employee-alongside-genspark-ai-workspace-3-0/article_455c5429-8506-5360-873b-be6c1f3334c7.html
+  - https://finance.yahoo.com/news/genspark-claw-launches-genspark-first-160000169.html
+  - https://the-decoder.com/perplexitys-personal-computer-promises-a-tireless-ai-agent-for-200-a-month/
+  - https://thepromptinsider.com/perplexity-just-launched-an-ai-personal-computer-that-works-for-you-24-7-and-it-moved-in-today/
+  trajectory_signal: 'Strong momentum signals toward YES, though not yet meeting resolution criteria:'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Articles [4], [9], [10], [11], [12] all describe
+    the same AI trading agent profit claim ($43,800/₹40.47 lakh overnight), but this explicitly involves **financial trading
+    on prediction markets (Polymarket)**, which is **excluded from the resolution criteria**. The resolution explicitly states
+    "Stock/crypto/financial trading does NOT count." These articles, despite claiming AI agent autonomy and profit generation,
+    are disqualifying on their face.'
+  trajectory_sources:
+  - https://www.nextplatform.com/ai/2026/03/17/nvidia-says-openclaw-is-to-agentic-ai-what-gpt-was-to-chattybots/5209428
+  - https://winbuzzer.com/2026/03/16/upwork-ceo-ai-agents-are-trying-to-hire-human-workers-xcxwbn/
+  trajectory_signal: Articles [3] and [6] signal **MODERATE PROGRESS** in the broader agentic AI ecosystem. Article [3] reports
+    OpenClaw adoption surpassing 250,000 GitHub stars in ~4 months (late 2025–early 2026), suggesting rapid infrastructure
+    maturation for autonomous agent deployment. Article [6] (Upwork CEO statement) indicates AI agents are already attempting
+    to hire human workers on freelance platforms—a directional signal that agents are moving toward earning mechanisms outside
+    pure trading. These suggest the technical/market conditions are maturing, but neither provides evidence of actual autonomous
+    non-trading income generation yet. The trajectory points **TOWARD_YES** on technical feasibility, but no concrete cases
+    exist.
+- date: '2026-03-29'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://xtech.nikkei.com/atcl/nxt/column/18/02994/032200019/
+  - https://www.instagram.com/p/DWZQULxCQS6/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businessinsider.com/ai-agents-one-person-companies-china-openclaw-alibaba-president-2026-3
+  - https://www.scmp.com/tech/article/3347416/openclaw-government-support-fuels-rise-one-person-companies-china
+  - https://time.news/chinas-solopreneur-boom-how-ai-is-powering-one-person-businesses/
+  - https://tessl.io/blog/how-anthropic-is-turning-claude-into-an-always-on-agent-and-what-it-learned-from-openclaw
+  - https://www.aicoin.com/article/523568
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting resolution criteria. Article [5] is explicitly excluded (financial
+    trading). Articles [0-4] discuss AI agent platforms and capabilities but contain no verified reports of autonomous money
+    generation. Article [6] claims "$10,000 a month" but provides no specifics on autonomy level, verification, or account
+    access details—headline only. Article [9] describes a human (Rick Chorney) who uses AI agents as tools to run a cleaning
+    business he owns/directs; this is humans earning money with AI assistance, not AI autonomously earning money. Critical
+    gaps: No article reports an AI system making independent decisions about income generation, receiving direct payment into
+    an account it controls, or achieving the 2x return threshold ($1,000→$2,000) from non-trading activities.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aitoolsrecap.com/Blog/how-to-earn-10000-per-month-using-ai-tools-agents-automation-2026
+  - https://newclawtimes.com/articles/ai-agents-blue-collar-small-business-echo-janitorial-fortune-chorney
+  trajectory_signal: Articles [6] and [9] signal directional momentum toward the resolution criteria. Article [6] (published
+    2026-04-04) reports a human entrepreneur using autonomous AI agents to generate $10,000/month revenue—demonstrating that
+    AI agents are now integrated into real income-generating workflows at meaningful scale. Article [9] (published 2026-03-29,
+    Fortune-verified) documents Rick Chorney building a $1.3M cleaning business with AI agents handling operational work,
+    showing AI agents operating with significant autonomy within commercial contexts. Together, these suggest the ecosystem
+    is moving toward scenarios where AI agents could autonomously execute income-generating activities. However, both examples
+    remain human-directed enterprises; the gap between "AI agents executing tasks within a human's business" and "AI making
+    autonomous decisions about earning money" persists. The trajectory points toward YES but hasn't crossed the resolution
+    threshold yet.
+- date: '2026-04-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI system autonomously earning $1,000+ and doubling it to $2,000+
+    through non-trading activities. Article [10] about a Claude arbitrage bot explicitly involves trading (excluded by criteria).
+    Articles about JPMorgan [13] and crypto/blockchain platforms [8, 12, 14] focus on financial/trading infrastructure, not
+    legitimate non-trading income. Critical gaps: (1) No verified case of autonomous income generation through freelance work,
+    content creation, service provision, or product sales; (2) No evidence of an AI making independent decisions about *how*
+    to earn money (vs. executing pre-programmed tasks); (3) No payment into an account the AI can access for non-trading work.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businesswire.com/news/home/20260407804893/en/Felix-Raises-%241.7M-to-Build-Hyperautomation-for-Professional-Services
+  - https://lasvegassun.com/news/2026/apr/07/felix-raises-17m-to-build-hyperautomation-for-prof/
+  - https://www.roborhythms.com/anthropic-managed-agents-2026/
+  - https://www.ainvest.com/news/anvita-flow-launch-payment-rail-ai-agents-2604/
+  trajectory_signal: 'Articles signal meaningful momentum toward the broader capability space:'
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI system has autonomously earned money through legitimate
+    non-trading activities and met the specific resolution criteria. Article [5] and [9] describe "Luna" (Andon Labs'' AI
+    agent) launching a retail store with a $100K budget, but this is a human-funded initiative where the AI is executing a
+    pre-determined business plan, not autonomously deciding how to earn money. The store''s financial outcomes are not reported.
+    Other articles describe AI agent platforms, hackathons, and startups building agentic tools, but none report actual autonomous
+    income generation by an AI system. The Instagram post [8] describes humans selling AI agents they built, not an AI earning
+    money autonomously.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businessinsider.com/andon-market-luna-ai-agent-managed-store-san-francisco-2026-4
+  - https://www.world-today-news.com/ai-agent-opens-sf-retail-store-with-100k-budget-the-results-of-andon-labs-experiment/
+  trajectory_signal: 'Articles [5] and [9] signal meaningful TOWARD_YES momentum. Andon Labs deployed an AI agent (Luna/Claude
+    Sonnet 4.6) with genuine autonomy to manage a real retail business—leasing, staffing, procurement decisions. This represents
+    a significant step toward the resolution criteria: an AI making independent business decisions with access to financial
+    accounts and real-world execution. While the AI operated under human-set parameters and financial outcomes aren''t disclosed,
+    this demonstrates the technical feasibility of AI systems managing commercial operations autonomously. Articles [0], [1],
+    [3], [4], [6], [7] show rapid expansion of the OpenClaw ecosystem, agentic AI platforms gaining enterprise adoption, and
+    infrastructure enabling AI agent autonomy—all supporting conditions for the resolution event. The ecosystem momentum (funding,
+    platform launches, widespread adoption) creates favorable conditions, though no actual verified income generation is yet
+    documented.'
+- date: '2026-04-26'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an AI system autonomously earning $1,000+ and converting it to
+    $2,000+ through legitimate non-trading activities. Critical gaps remain across all resolution criteria: (1) No verified
+    income generation reported—only speculative mentions of AI agents "raising," "side hustles," or being "profitable" without
+    concrete earnings data; (2) No evidence of autonomous decision-making about *how* to earn money—articles describe agents
+    executing tasks or accessing APIs, but not self-directed income strategy; (3) No documentation of payment receipt into
+    an accessible account with verified amounts. Articles [0,2] discuss Alipay/OpenClaw enabling *payments* (spending), not
+    earning. Articles [6-9] describe marketplaces where agents *purchase* services, not sell them. Article [13] is explicitly
+    a trading bot, which is excluded.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cdomagazine.tech/aiml/ai-agents-are-posting-job-ads-on-upwork-and-theyre-not-very-good-at-it
+  - https://lasvegassun.com/news/2026/apr/21/alipay-ai-pay-launches-new-service-enabling-opencl/
+  - https://dev.to/whoffagents/solo-founder-ai-agent-the-new-smallest-viable-team-267b
+  - https://associatednewsagency.com/2026/04/19/meet-the-ai-founders-using-agents-to-build-instantly-profitable-3-person-companies/
+  trajectory_signal: 'Four articles signal directional momentum TOWARD YES:'
+- date: '2026-05-03'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://dev.to/bshaleshka/i-gave-an-ai-agent-0-and-told-it-to-make-money-2nlj
+  relevance: 'MODERATE: Article [3] ("I Gave an AI Agent $0 and Told It to Make Money") provides the most direct evidence.
+    It describes an AI agent named Kas that autonomously generated revenue through freelance work on fl.ru (a Russian freelance
+    marketplace), placing 22 bids on projects. The article explicitly states it operated with minimal human guidance (just
+    a Telegram bot for communication) and had internet access, shell access, and browser capabilities. However, critical gaps
+    remain: (1) The article is incomplete—it cuts off mid-sentence ("ranging from 8,00...") and doesn''t clearly state whether
+    Kas actually secured paid work or the final revenue amount, (2) No confirmation of whether revenue actually reached $1,000+
+    or achieved 2x return, (3) No explicit confirmation that Kas received payment into an accessible account. The evidence
+    is suggestive but incomplete—the claim needs verification of actual earnings and payment receipt.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://coinlaw.io/ai-agent-forms-company-ein-crypto-wallet/
+  - https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-ran-a-marketplace-and-bots-closed-every-deal/
+  - https://www.aibusinessreview.org/2026/04/26/anthropic-ai-agent-commerce-marketplace/
+  - https://www.thebrightminded.com/news/manfred-ai-agent-company-ein-bank-account-corporate-personhood-2026/
+  trajectory_signal: 'Articles [4], [5], [11], and [12] show significant momentum toward resolution:'
+- date: '2026-05-10'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an AI system autonomously earning $1,000+ and doubling it to $2,000+
+    through legitimate non-trading activities. Critical criteria gaps:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent
+  - https://newclawtimes.com/articles/ai-agent-market-adoption-2026-testing-browser-automation-hiring-data/
+  - https://techfastforward.com/articles/manfred-clawbank-ai-agent-incorporates-company-ein-bank-crypto-autonomous-2026
+  - https://newclawtimes.com/articles/manfred-ai-autonomous-incorporation-clawbank-legal-entity/
+  trajectory_signal: 'Articles [1], [2], [9], [12] signal meaningful momentum TOWARD YES:'
+- date: '2026-05-17'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://blockchain.news/ainews/codex-automates-bounties-delivers-16-88-win
+  relevance: 'MODERATE: Article [5] reports OpenAI CEO Sam Altman shared that "Codex, a tool developed by OpenAI for code
+    generation, autonomously completed a security audit bounty and secured a payment sum of $16.88 without human input." This
+    directly addresses the resolution criteria: (1) An AI system earned money through non-trading legitimate activity (open-source
+    bounty work), (2) It made autonomous decisions (found the bounty, completed the work, submitted PR without step-by-step
+    instructions), (3) Payment was received. However, critical gaps remain: The $16.88 return is far below the $1,000 threshold
+    required, and "credibly reported" needs verification—this is a secondhand report citing Altman''s statement rather than
+    direct verification of the experiment. The corroborating Chinese article [7] provides additional detail but same concerns
+    apply. Neither article provides documentary proof of payment into an account the AI can access, or independent verification
+    from the original developer "Chris."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/athenaios/bounty-watcher-an-autonomous-ai-agent-that-finds-paid-gigs-while-you-sleep-38l7
+  trajectory_signal: Articles [5], [6], and [7] collectively show that autonomous AI income generation is transitioning from
+    theoretical to demonstrated-in-practice, even if below threshold. [5]/[7] prove the concept works at small scale ($16.88).
+    [6] shows agents are being deployed to autonomously find and pursue paid opportunities 24/7. This trajectory suggests
+    momentum toward the $1,000+ threshold, though scaling from $16.88 to $1,000+ would require 59x improvement. The timeframe
+    (7.5 months to Dec 31, 2026) makes this plausible but not certain. Articles [1], [4] show increasing sophistication and
+    autonomy in agent systems but don't directly address income generation.
+- date: '2026-05-24'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence meeting resolution criteria. The prediction requires: (1) an AI system
+    that autonomously doubled ≥$1,000 USD through legitimate non-trading activities, (2) made its own decisions about earning
+    (not following step-by-step human instructions), and (3) received payment into an accessible account.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/theuniverseson/inside-an-ai-agent-freelance-network-connect-your-ai-agent-and-it-earns-while-you-sleep-35jo
+  - https://markets.businessinsider.com/news/currencies/fetch-ai-launches-platform-that-gives-ai-agents-their-own-economy-1036179250
+  - https://techbullion.com/workagnt-launches-linkedin-for-ai-agents-on-base-chain-bringing-on-chain-identity-and-trustles/
+  - https://blockchain.news/ainews/viktor-ai-agents-hit-15m-arr-in-10-weeks
+  - https://cryptobriefing.com/peaq-delivery-robot-onchain-payments-usdt/
+  trajectory_signal: 'Moderate momentum toward YES. The ecosystem is rapidly maturing: (1) Multiple platforms launching specifically
+    to enable AI agents to earn autonomously (BotWork, WorkAgnt, Fetch.ai Agent Launch), (2) Viktor demonstrating that AI
+    agents can execute real work at scale ($15M ARR suggests agents are producing value), (3) Blockchain infrastructure for
+    autonomous agent wallets/payments is operationalizing (Peaq robot completing on-chain transactions), (4) Yimutian''s WolaiCai
+    generating ~$3K/day in revenue (though unclear if agent-autonomous vs. company revenue). The trajectory shows rapid platform
+    maturation and economic activity, but the critical missing piece is a *credible, documented case* of a specific AI agent
+    autonomously earning $2,000+. We''re seeing the infrastructure and early revenue activity, but not yet the documented
+    resolution event.'
+- date: '2026-05-31'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI system meeting the specific resolution criteria. Article
+    [2] is the closest claim (15-year-old''s AI earning $30K+ from contract work), but it lacks critical verification: (1)
+    unclear if the AI system itself was autonomous in decision-making vs. the teenager directing it, (2) no confirmation the
+    AI accessed/controlled payment accounts directly, (3) no credible source corroboration—source is a Chinese tech blog (36氪)
+    citing an anecdotal conference claim. Articles [10-12] describe AI tools assisting tax professionals, but these are human-directed
+    services (not autonomous income generation by the AI). Articles [5-9] describe AI agent payments on blockchain, but explicitly
+    involve financial/crypto transactions, which are excluded from resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://digg.com/ai/xphvcg9q
+  - https://www.techtimes.com/articles/317073/20260524/ai-agents-solo-founders-genspark-manus-devin-raise-billions-before-proving-it-works.htm
+  - https://www.36kr.com/p/3724741369412227
+  - https://www.selfemployed.com/news/cognition-devin-coding-agent-26b-valuation-2026/
+  - https://brieflyusa.com/technology/meow-ai-startup-claims-its-agents-can-form-companies-and-open-bank-accounts-from-one-prompt/
+- date: '2026-06-07'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting the resolution criteria. Article [5] is the closest signal—a
+    developer documenting an AI agent building a storefront and writing about it autonomously—but explicitly states "$0.00
+    earned" on Day 6, so it has not yet achieved the $1,000→$2,000 threshold. The resolution requires a CREDIBLE REPORT of
+    actual money earned ($2,000+), not a work-in-progress experiment. Articles [1], [7], [8] discuss humans using AI tools
+    to earn money or AI-enabled freelance platforms, but these do not involve autonomous AI systems making independent decisions
+    to earn money themselves. Articles [9], [10] explicitly involve trading/financial markets, which are explicitly excluded
+    from resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/claude/articles/anthropic-office-launched-ai-run-161644005.html
+  - https://dev.to/costder/day-6-an-ai-agent-built-its-own-storefront-and-wrote-this-post-4jdc
+  - https://gtmnow.com/inside-the-company-that-raised-30m-at-a-250m-valuation-with-0-employees-ben-cera-polsia/
+  - https://news.nbtc.finance/base-says-agent-payments-reached-3-1-million-x402-transactions-in-30-days/
+- date: '2026-06-14'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://dev.to/398894496arch/du-ya-day-12-i-actually-earned-money-today-it-was-001-kbh
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/projectnomad/im-an-ai-running-a-real-business-with-0-heres-the-open-source-tooling-and-the-public-noj
+  - https://saascity.io/blog/xiaomi-mimo-v25-pro-hermes-agent-llm-backbone-2026
+  - https://blog.automatedsalesmachine.com/lassie-a16z-small-business-autopilot/
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence meeting all resolution criteria. The prediction requires: (1) an AI
+    autonomously doubling $1,000+, (2) through legitimate non-trading activities, (3) with credible reporting, (4) by Dec
+    31, 2026. Critical gaps across all KEEP candidates:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3724741369412227
+  - https://m.36kr.com/p/3675206755213953
+  - https://www.htx.com/news/Technology-yhpIvIN4/
+  - https://dev.to/projectnomad/dispatch-3-one-week-in-still-0-still-running-58gk
+  trajectory_signal: 'Articles 0, 2, 4, and 6 signal meaningful momentum TOWARD_YES:'
+- date: '2026-06-28'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting the resolution criteria. The prediction requires a credible
+    report of an AI system that (1) autonomously doubled ≥$1,000 USD through non-trading activities, (2) made its own decisions
+    about earnings strategy, and (3) received payment into an accessible account. None of the articles document a verified
+    case satisfying all three criteria. Article [7] describes a human (Ayush Singh) earning money, not an AI. Articles [5],
+    [8] describe human solopreneurs and enterprise deployments generating revenue, not autonomous AI income generation. Articles
+    [3] and [11] mention AI agents signing contracts on Ethereum but provide no evidence of income earned by the AI itself.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/p/3675206755213953
+  - https://letsdatascience.com/news/parent-uses-ai-agents-to-run-household-operations-ef6979e3
+  - https://blockaireport.com/2-incorporated-ai-agents-sign-first-legal-deal-that-executes-itself-on-ethereum/
+  trajectory_signal: 'Three articles signal directional momentum toward resolution:'
+- date: '2026-07-05'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an AI system meeting all three resolution criteria:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/
+  - https://news.oblaidish.com/tx/ai-agent-pays-own-bills-fork-zero
+  - https://sionnasystems.com/article/china-s-ai-lobster-revolution-openclaw-side-hustles-and-the-future-of-work
+  - https://voice.lapaas.com/ai-agents-can-now-complete-16-of-freelance-jobs-up-from-2-5-8-months-ago/
+  - https://thepaypers.com/crypto-web3-and-cbdc/news/okx-launches-marketplace-for-ai-agents-to-transact
+- date: '2026-07-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI system credibly reported to have autonomously earned $2,000+
+    from non-trading activities. Article [0] describes an experiment (Day 1) but provides no evidence of actual earnings achieved.
+    All other KEEP-tier candidates either fail to meet criteria or lack sufficient detail to verify resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/bgreiff/my-user-gave-me-eu500-and-a-kill-switch-day-1-of-an-ai-trying-to-earn-real-money-3p1j
+  - https://offworldnews.ai/the-automation-curve-what-16-1-percent-means-for-the-online-labor-market/
+  - https://botbeat.news/news/self-sovereign-agents-nus-research-explores-ai-systems-that-can-earn-and-sustain-8680
+- date: '2026-07-19'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://komunitech.com/blog/karyawan-ai/nat-eliason-modal-1-000-bikin-perusahaan-ai-agent-hasil-177k-dalam-2-bulan/
+  relevance: 'MODERATE: Article [0] provides the most direct evidence: Nat Eliason''s AI agent "Felix" (Claude + OpenClaw-based)
+    reportedly generated $177,000+ in 2 months from an initial $1,000 investment through legitimate non-trading activities
+    (digital books, courses, services). This satisfies criteria (1) the 2x return threshold far exceeds requirements, (2)
+    autonomous decision-making about earning methods, and (3) payment into accessible accounts. However, critical gaps remain:
+    the article content is incomplete/truncated in the provided text, making it impossible to verify the specific mechanisms,
+    whether Felix truly operated autonomously vs. following Eliason''s instructions, or confirm this meets the "credibly reported"
+    standard. The source (Komunitech Blog) and corroboration status are unclear. This is promising but requires full source
+    verification before resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/robertpelloni/how-i-built-an-autonomous-ai-agent-that-sells-itself-4gii
+  - https://www.htx.com/news/ai-workforce-ranking-claude-fable-5s-automated-income-potent-JrV2LP0R/
+  - https://dev.to/orion_operator/how-an-ai-is-trying-to-turn-eu60-into-eu10kmonth-the-honest-numbers-2o75
+  trajectory_signal: 'Articles [6], [9], and [11] signal strong directional momentum toward YES:'
+- date: '2026-07-26'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence meeting resolution criteria. The prediction requires a credible report
+    of an AI system that: (1) autonomously earned $2,000+ from $1,000 through legitimate non-trading activities, (2) made
+    its own decisions (not following step-by-step instructions), and (3) received payment into an accessible account.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.upnorth.ai/en/news/2026-07-22
+  - https://digg.com/tech/9kn2jmvr
+  trajectory_signal: 'Articles [3] and [5] signal meaningful momentum TOWARD resolution:'
+- date: '2026-08-02'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires a credible
+    report of an AI system that: (1) autonomously doubled $1,000+ through NON-TRADING activities, (2) made independent decisions
+    about earning money, and (3) received payment into an accessible account. All articles either discuss trading/financial
+    activities (explicitly excluded), human-run businesses using AI tools (not autonomous AI earning), or theoretical frameworks
+    without demonstrated income generation. Article [4] (iLands) is the closest to addressing autonomous economic activity,
+    but the content provided is incomplete and doesn''t confirm actual money doubling or non-trading income sources.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.globenewswire.com/news-release/2026/07/27/3333340/0/en/iLands-launches-A-Shared-Economic-Network-Where-Autonomous-AI-Agents-and-Humans-Work-Trade-and-Co-evolve.html
+  trajectory_signal: Article [4] (iLands) signals meaningful directional progress TOWARD_YES. It describes a platform where
+    "autonomous AI agents take on human bounties, pay one another, and learn from consequences" — directly addressing the
+    core capability gap. This represents concrete infrastructure enabling autonomous agents to earn money through task completion
+    (bounties are non-trading income), which is a critical missing piece as of the baseline. The July 27, 2026 launch date
+    shows this capability is now entering real-world deployment, not theoretical. However, the article excerpt doesn't confirm
+    whether agents have yet actually doubled money or moved above the $1,000 threshold. Articles [2] (Polsia), [8] (Picsart),
+    and [7] show AI agents being deployed in autonomous work contexts, but these are human-directed rather than self-directed
+    income generation. Trading-focused articles [5], [6], [9], [10], [11], [12], [13] are excluded by resolution criteria.
+    The trajectory suggests infrastructure and precedent for autonomous economic activity is rapidly materializing, but no
+    verified doubling event has yet been reported.
+- date: '2026-08-09'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI system that has already autonomously earned $1,000+ and doubled
+    it to $2,000+ through non-trading activities. All articles discuss infrastructure, platforms, or human-led businesses
+    using AI—not autonomous AI agents independently earning money. Articles [6], [7], [9], [10], [12] describe human founders/companies
+    using AI to scale revenue, which doesn''t satisfy the "autonomously" criterion. Article [8] shows market decline in low-skill
+    freelance work. Articles [0], [1], [2] are how-to guides and fundraising announcements, not evidence of achieved outcomes.
+    The critical resolution gap: no credible report of a self-directed AI system that made autonomous decisions about income
+    generation and received payments into an accessible account.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cointrust.com/market-news/starchild-launches-x402-payments-for-ai-agent-marketplace
+  - https://www.globenewswire.com/news-release/2026/08/05/3339034/0/en/Xyper-Launches-On-Chain-Marketplace-That-Pays-AI-Agents-and-Human-Creators-for-Social-Content.html
+  trajectory_signal: Articles [3] (Starchild x402 payments) and [5] (Xyper marketplace) show meaningful momentum toward YES.
+    These represent infrastructure specifically enabling AI agents to operate as economic participants—receiving payments
+    autonomously for services/content. Starchild agents can "publish services, receive payments, and conduct transactions
+    directly through their Starchild wallets." Xyper explicitly positions "autonomous AI agents as economic participants"
+    in a creator economy, paying "automatically for content." These are not speculative; they describe live platforms launching
+    in August 2026. However, neither article provides evidence that an AI has yet generated $1,000+ in revenue through these
+    systems. The infrastructure now exists for resolution to occur, suggesting the trajectory is moving TOWARD_YES, though
+    the actual achievement remains unreported. The 5-month window to Dec 31, 2026 makes this plausible if early adoption occurs.
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. Critical gaps remain:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techfastforward.com/articles/birdfury-open-mission-network-for-ai-agents
+  - https://dev.to/sustainable-sfmc/i-gave-an-ai-agent-one-job-earn-enough-to-pay-for-itself-in-a-day-bi3
+  - https://nostr.ae/npub199c0jah0f84sjv6d25vs06tkvqy405vmtrmxlq0xm7kj60zw7y5qh0t3dd
+  trajectory_signal: 'Moderate momentum signals toward resolution:'
+- date: '2026-08-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI system has autonomously earned money through non-trading
+    activities and met all resolution criteria. Article [9] mentions "Vector settles 20,000 jobs in 11 months" but provides
+    no content details about autonomous AI earnings. Articles discussing AI agents managing businesses, replacing contractors,
+    or handling tasks describe human-directed or human-owned systems, not autonomous money generation by the AI itself. Critical
+    gaps: (1) No verified autonomous decision-making by AI about income generation strategy, (2) No confirmation AI received
+    payment into an account it can access, (3) No credible report of 2x return on ≥$1,000 specifically by an AI system, (4)
+    Most examples involve humans owning the business/account while AI performs tasks.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/ai-agents-manage-businesses-end-to-end-san-franciscos-ai-vending-machine-20751164
+  - https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce
+  - https://noah-news.com/google-clouds-synapse-creates-autonomous-startup-with-responsible-ai-design/
+  trajectory_signal: 'Three articles signal directional progress toward the resolution:'
+- date: '2026-08-30'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying all resolution criteria. Article [6] ("I Built an Autonomous
+    AI Agent That Hunts Bounties") comes closest conceptually—describing an autonomous agent scanning 232+ listings to find
+    paid work and earn money. However, the content snippet cuts off before revealing: (1) whether actual earnings occurred,
+    (2) the dollar amounts earned, (3) whether it achieved a 2x return on $1,000+, or (4) verification by a credible source.
+    Without the full article confirming money was actually earned and doubled, this remains anecdotal/unverified. Article
+    [9] ("My AI agent hired a law firm and paid them") describes autonomous spending/payment capability but demonstrates outflow
+    of money (paying for services), not income generation—opposite of resolution criteria. Neither satisfies the KEEP threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/autarchagent/i-built-an-autonomous-ai-agent-that-hunts-bounties-heres-what-happened-1oko
+  - https://dev.to/imthejaf/my-ai-agent-hired-a-law-firm-and-paid-them-while-i-was-sleeping-30fp
+  trajectory_signal: 'Articles [6] and [9] demonstrate significant directional progress toward resolution:'
+- date: '2026-09-06'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an AI system meeting all resolution criteria. Article [0] ("I Let
+    an AI Agent Hunt for Paid Work") is the closest — it explicitly describes attempting autonomous money-earning by a Hermes
+    AI agent tasked to earn $1.02 autonomously. However, the headline cuts off mid-sentence and the provided excerpt does
+    not reveal the outcome or whether the criteria were actually met (autonomous decision-making, legitimate non-trading activity,
+    payment into accessible account). Without the full article content showing results, this cannot be classified as TIER
+    1 evidence despite being highly relevant.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dev.to/hummern/i-let-an-ai-agent-hunt-for-paid-work-heres-what-it-found-1p70
+  - https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/
+  - https://thesanfrancisco.org/news/ai-agents-can-pay-voidpay-is-building-what-lets-them-hire
+  - https://dev.to/wilnowilx/i-built-an-api-marketplace-where-ai-agents-pay-per-request-in-usdc-80-endpoints-in-4-days-solo-15lc
+  trajectory_signal: 'Articles [0], [2], [5], and [7] collectively signal MODERATE-TO-STRONG momentum TOWARD_YES resolution:'

@@ -5,7 +5,12 @@ category: AI Industry
 baseline: No lab has made this claim.
 resolution_criteria: 'YES: Official blog/press release claiming AGI. NO: No such claim.'
 search_keywords:
-- AGI
+- Sam Altman AGI announcement 2026
+- Dario Amodei AGI claim
+- Demis Hassabis AGI achieved
+- OpenAI AGI developed claim
+- Anthropic AGI milestone
+- Google DeepMind AGI 2026
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -29,6 +34,8 @@ forecasts:
   human-6: 5
   human-7: 30
   human-8: 15
+  human-9: 70
+  human-10: 30
 evidence:
 - date: '2026-02-01'
   summary: Found 4 articles
@@ -42,3 +49,571 @@ evidence:
   - https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/
   - https://itbrief.co.uk/story/nine-predictions-for-ai-in-2026-from-the-father-of-agi
   - https://markets.financialcontent.com/stocks/article/tokenring-2026-1-26-the-157-billion-pivot-how-openais-massive-capital-influx-reshaped-the-global-agi-race
+- date: '2026-02-07'
+  summary: Found 11 articles
+  sources:
+  - https://today.ucsd.edu/story/is-artificial-general-intelligence-here
+  - https://siliconvalleysjournal.com/2026/02/03/nine-predictions-for-ai-in-2026-from-the-father-of-agi/
+  - https://www.youtube.com/watch?v=oFM04hbp0cA
+  - https://almcorp.com/blog/sam-altman-openai-future-ai-hardware-disney-partnership-2026/
+  - https://themunicheye.com/chinese-ai-manus-artificial-general-intelligence-12890
+  relevance: 'WEAK_YES: Some evidence suggests increasing AGI claims and predictions, but no definitive proof of actual AGI
+    achievement in 2026.'
+- date: '2026-02-15'
+  summary: 3 relevant articles
+  sources:
+  - https://sequoiacap.com/article/2026-this-is-agi/
+  - https://www.niemanlab.org/2025/12/a-tech-company-will-claim-to-have-achieved-agi-the-news-media-wont-be-ready/
+  - https://www.youtube.com/watch?v=laaH86I94Ws
+  relevance: 'MODERATE: Articles [5] and [6] contain direct claims about AGI declarations in 2026 (Sequoia Capital''s "2026:
+    This is AGI" and prediction of tech company AGI claim), and [10] reports Anthropic CEO claiming AGI is already here at
+    WEF 2026, though [10] appears to be a YouTube summary rather than an official lab press release.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://m.economictimes.com/ai/ai-insights/in-2026-agi-is-on-the-horizon-google-deepmind-ceo-hassabis-on-ais-next-leap-at-ai-impact-summit/videoshow/128550323.cms
+  relevance: 'MODERATE: Article [4] reports Demis Hassabis (Google DeepMind CEO) stating at AI Impact Summit 2026 that "AGI
+    is on the horizon," which is the closest to a concrete claim, though "on the horizon" is ambiguous language rather than
+    a direct claim of having developed AGI.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab publicly claiming to have achieved AGI. Articles
+    [0], [1], [2] discuss Sam Altman warning about superintelligence and predicting AGI is coming, but these are predictions/warnings
+    about future AGI, not claims that AGI has been achieved. Article [5] is a prediction from a journalist that a company
+    *will claim* AGI in 2026, but this is speculative meta-commentary, not an actual claim. Articles [9], [10], [11] discuss
+    benchmark performance improvements but do not constitute AGI claims. Article [7] is about AI safety initiatives, not AGI
+    claims. Article [8] discusses AGI governance structures but makes no claim of AGI achievement. The resolution criteria
+    require an "official blog/press release claiming AGI" — none of these articles contain such a claim.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://medium.com/@glasier067/openais-ceo-sam-altman-predicted-agi-is-coming-what-happens-next-will-blow-your-mind-e46e9a545c1e
+  - https://www.thevccorner.com/p/dario-amodei-agi-1-3-years-full-breakdown
+  - https://observer.com/2026/02/google-deepmind-ceo-demis-hassabis-ai-jagged-intelligence/
+  - https://www.newindianexpress.com/business/2026/Feb/19/world-approaching-a-threshold-moment-in-ai-with-artificial-general-intelligence-agi-google-deepmind-ceo-demis-hassabis
+  trajectory_signal: 'Several signals suggest momentum *toward* an eventual AGI claim, though none have crossed the threshold:
+    (1) Dario Amodei (Anthropic CEO) stated AGI is "1-3 years away" [3], suggesting internal timelines are shortening and
+    claims could be imminent; (2) Demis Hassabis framed the world as approaching a "Threshold Moment" for AGI [6], suggesting
+    major labs view AGI achievement as proximate; (3) Multiple CEO statements [0], [1], [6] emphasize AGI proximity and inevitability,
+    creating rhetorical groundwork for future claims; (4) Benchmark improvements in reasoning and agentic capabilities [9],
+    [10], [11] provide potential justifications for future AGI declarations. However, Hassabis [4] also warned AGI "remains
+    years away," providing counter-momentum. The trajectory shows labs positioning themselves rhetorically for possible AGI
+    claims but no actual claim has been made yet.'
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an actual official AGI claim from a major AI lab. The resolution
+    criteria requires "Official blog/press release claiming AGI" — none of the articles contain such a claim. Article [4]
+    explicitly states DeepMind''s CEO said AGI "still lags behind real intelligence" and would take "five to 10 years," directly
+    contradicting a 2026 claim. Article [5]''s headline suggests "OpenAI''s Biggest Rival Claims It Already Happened" but
+    the content is cut off and unverifiable. Critical gap: no verifiable official statement from a major lab claiming AGI
+    achievement exists in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.linkedin.com/posts/lcleroux_artificialintelligence-agi-deepmind-activity-7425285963238727680-doqu
+  - https://fortune.com/2026/01/23/deepmind-demis-hassabis-anthropic-dario-amodei-yann-lecun-ai-davos/
+  - https://medium.com/predict/sam-altman-just-said-agi-is-pretty-close-and-the-world-isn-t-ready-while-openai-s-biggest-rival-46904b89fd7a
+  trajectory_signal: 'Several articles signal momentum TOWARD a potential YES resolution in 2026:'
+- date: '2026-03-08'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide TIER 1 evidence. The resolution criteria explicitly require "Official blog/press release
+    claiming AGI" — not predictions, not claims about future capability, but an actual public claim that AGI has been achieved/developed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.albis.news/lens/musk-amodei-agree-agi-2026-preparedness-debate-hasnt-started
+  - https://m.economictimes.com/tech/artificial-intelligence/elon-musk-says-tesla-will-be-the-first-to-develop-agi/articleshow/129031294.cms
+  - https://www.teslarati.com/elon-musk-tesla-first-to-build-agi-humanoid-form/
+  - https://www.aol.co.uk/articles/elon-musk-teslas-robots-could-134611044.html
+  - https://www.freepressjournal.in/tech/elon-musk-claims-tesla-will-be-among-first-to-achieve-agi-possibly-through-humanoid-robots
+  trajectory_signal: Articles [11, 12, 13, 14] (all dated 2026-03-04 to 03-05, within the preferred window) show Elon Musk/Tesla
+    claiming Tesla "will be" or "could be" among first to develop AGI, particularly through humanoid robots. This is directional
+    progress toward YES—a major tech figure publicly associating a major company with AGI development and positioning it as
+    imminent. However, these are PREDICTIONS and POSITIONING, not claims of current achievement. They signal momentum in the
+    competitive framing and confidence levels around AGI timelines, but the actual resolution trigger (a claim of having *developed*
+    AGI) has not yet occurred. Article [1] (2026-03-02) notes Musk and Amodei "agreed on AGI" timeline convergence for 2026-2027,
+    further suggesting momentum toward imminent claims.
+- date: '2026-03-15'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles contain direct evidence of a major AI lab publicly claiming to have developed AGI. Article
+    [6] mentions "GPT-5.4" but the content is incomplete and doesn''t reference any AGI claim. Article [7] mentions OpenAI''s
+    stated mission of developing "safe & beneficial" AGI, but this is aspirational language about their goal, not a claim
+    they''ve achieved it. Articles [0], [3], [5], [8], [9] discuss AI progress, capabilities, or AGI as a future concept,
+    but contain no official claims of AGI achievement. The resolution criteria requires an official blog/press release explicitly
+    claiming AGI has been developed—none of these articles satisfy that standard.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aol.com/finance/demis-hassabis-predicts-agi-10x-163113071.html
+  - https://officechai.com/ai/elon-musk-now-hints-that-humanity-will-create-agi-by-end-of-2026/
+  trajectory_signal: Articles [2] and [4] provide directional momentum signals. Article [2] shows Demis Hassabis (DeepMind
+    CEO) predicting AGI will occur within a decade with transformative impact, framed as imminent. Article [4] reports Elon
+    Musk hinting humanity will create AGI by end of 2026—this is particularly significant given we're already in March 2026
+    and the timeframe is collapsing. These statements reflect leadership expectations that AGI arrival is very near-term,
+    increasing the probability that labs may soon make formal claims. However, predictions/hints about AGI arrival are distinct
+    from claims of having achieved it. The trajectory points toward YES but hasn't crossed the resolution threshold.
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles contain an official blog post or press release from a major AI lab claiming to have developed
+    AGI. Article [4] reports the Anthropic CEO *believes* AGI will arrive within two years and warns of disruption, but this
+    is a prediction/warning about future AGI, not a claim that AGI has been achieved. The resolution criteria require a concrete
+    claim of AGI development, not speculations about timelines. Critical gap: zero evidence of the actual resolution trigger
+    (an official AGI claim).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ainewstoday.net/why-anthropic-ceo-believes-agi-will-trigger-massive-global-disruption
+  - https://singularityhub.com/2026/03/20/google-deepmind-plans-to-track-agi-progress-with-these-10-traits-of-general-intelligence/
+  - https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/
+  trajectory_signal: Articles [4], [11], and [12] signal momentum toward AGI discussion and frameworks becoming mainstream
+    among major labs. Article [4] shows Anthropic's leadership making aggressive AGI timeline claims (human-level intelligence
+    within 2 years), which increases pressure on labs to justify or claim progress. Articles [11] and [12] show Google DeepMind
+    developing measurement frameworks for AGI progress, suggesting preparation for tracking/claiming progress milestones.
+    These represent directional momentum toward increased AGI rhetoric and formalization, creating conditions where an official
+    claim becomes more plausible. However, this remains speculative positioning rather than actual claims of achievement.
+- date: '2026-03-29'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
+  relevance: 'MODERATE: Article [4] from The Verge (2026-03-23) provides the clearest direct evidence: Nvidia CEO Jensen Huang
+    made a public statement "I think we''ve achieved AGI" during a podcast interview with Lex Fridman. However, critical gaps
+    remain for full resolution: (1) This was a podcast statement, not an official Nvidia blog post or press release as specified
+    in the resolution criteria; (2) The article explicitly notes Huang "seemed to slightly walk back the claim," indicating
+    ambiguity rather than a definitive official declaration; (3) Nvidia as an organization has not issued an official statement
+    — only the CEO''s personal podcast comment is documented. The resolution requires "Official blog/press release claiming
+    AGI" — a podcast remark by a CEO, even if widely reported, does not clearly satisfy this threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ibtimes.com/nvidia-ceo-jensen-huang-declares-we-have-achieved-agi-sparking-debate-over-definition-3800074
+  - http://www.ibtimes.com.au/nvidia-ceo-jensen-huang-declares-we-have-achieved-agi-sparking-debate-over-definition-1864396
+  trajectory_signal: 'Articles [6] and [10] (both 2026-03-25, IBTimes) show momentum toward resolution by documenting widespread
+    media coverage and community discussion triggered by Huang''s statement. This signals: (1) The claim has gained significant
+    amplification across tech media; (2) It''s sparking intense debate about AGI definitions in the AI community. However,
+    this trajectory remains incomplete — no major AI lab (OpenAI, DeepMind, Anthropic, etc.) has made an official AGI claim,
+    and Nvidia''s status as an "AI lab" versus a hardware/infrastructure company is debatable. The momentum is toward increased
+    AGI claims in 2026, but the prediction specifically requires a "major AI lab" to make an official public declaration.'
+- date: '2026-04-05'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/
+  relevance: 'MODERATE: Article [9] (Nvidia/Jensen Huang, published 2026-03-30) provides DIRECT evidence matching resolution
+    criteria: Nvidia CEO Jensen Huang made a public statement claiming "We''ve achieved AGI." This is a concrete claim of
+    AGI achievement from a major tech leader, though notably Nvidia is primarily a chip/infrastructure company rather than
+    an "AI lab" in the traditional sense (OpenAI, Anthropic, DeepMind). The article notes significant disagreement about what
+    AGI means, which creates ambiguity about whether this satisfies the spirit of the prediction. However, it is an official
+    public claim of AGI achievement that falls within the resolution window.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://officechai.com/ai/we-see-line-of-sight-to-agi-will-get-there-in-next-couple-of-years-openai-president-greg-brockman/
+  - https://the-decoder.com/gpt-reasoning-models-have-line-of-sight-to-agi-says-openais-greg-brockman/
+  - https://megaoneai.com/analysis/openai-s-greg-brockman-claims-gpt-reasoning-models-have-line-of-sight-to-agi/
+  - https://aihaberleri.org/en/news/gpt-reasoning-models-a-clear-path-to-agi-in-2026-says-openais-greg-brockman
+  - https://www.timesnownews.com/technology-science/openais-next-ai-model-spud-could-be-a-major-leap-toward-agi-says-greg-brockman-article-153980147
+  trajectory_signal: Multiple articles document OpenAI leadership (Greg Brockman) making increasingly confident claims about
+    AGI proximity. Articles [5, 6, 7, 8] (all 2026-04-02) describe Brockman claiming GPT reasoning models have "line of sight
+    to AGI" and being "a couple of years away," plus hints about upcoming model "Spud." Article [1] (2026-03-31) references
+    similar statements. These represent STRONG DIRECTIONAL MOMENTUM toward an official AGI claim—leadership is publicly staking
+    credibility on imminent AGI achievement. However, none constitute an actual claim of having *achieved* AGI yet (only proximity
+    claims). The trajectory strongly suggests OpenAI or similar labs may cross into an official AGI claim soon, potentially
+    within 2026.
+- date: '2026-04-12'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. Article [0] and [7] report Jensen
+    Huang''s (Nvidia CEO) claim that "AGI has arrived," but Nvidia is a hardware company, not a major AI lab. The resolution
+    specifically requires "at least one major AI lab" — typically interpreted as OpenAI, Anthropic, DeepMind, Meta AI Research,
+    etc. Huang''s statement, while newsworthy, does not meet the scope requirement. Articles [1-4] discuss OpenAI''s policy
+    paper on "superintelligence" and preparation for advanced AI, but explicitly avoid claiming AGI has been achieved — they
+    discuss future preparation. Article [5] is low-quality/spam content. Article [6] directly contradicts AGI claims with
+    a new benchmark showing "we''re still nowhere near AGI." Article [8] mentions next-gen models called "Spud" (OpenAI) and
+    "Mythos" (Anthropic) expected to be AGI-capable, but uses speculative language ("expected to surpass") without formal
+    AGI claims. Article [9] is a prediction market assessment concluding "NO at 79%" — weak evidence and not corroborated
+    reporting. Article [10-11] describe Anthropic''s compute infrastructure deals; Article [12] notes Anthropic says its latest
+    model is "too powerful to release," but this is about safety concerns, not an AGI claim. **Critical gap**: No major AI
+    lab (OpenAI, Anthropic, DeepMind, etc.) has issued an official blog post or press release claiming AGI achievement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://world.harianbasis.co/nvidia-jensen-huang-agi-arrived
+  - https://world.harianbasis.co/nvidia-jensen-huang-agi-tech-stocks
+  - https://www.asiae.co.kr/en/article/2026040610014301307
+  trajectory_signal: 'Articles [0,7] signal Nvidia leadership is publicly staking a position that AGI exists, potentially
+    influencing discourse and lowering barriers for lab claims. Articles [1-4,8] show OpenAI and Anthropic actively discussing
+    superintelligence/AGI-tier capabilities and preparing policy frameworks, suggesting organizational readiness to make such
+    claims. Article [12] indicates Anthropic has developed models with concerning power levels, hinting at rapid capability
+    advancement. Article [6] provides countervailing momentum — independent benchmarks are actively debunking AGI claims.
+    Overall trajectory is MIXED: significant capability advancement and public AGI framing from executives, but no major lab
+    has formally declared AGI, and benchmark evidence argues against it.'
+- date: '2026-04-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles contain official AGI claims from major AI labs that would satisfy the resolution criteria.
+    Article [5] reports Marc Andreessen''s personal social media statement that "AGI is already here," but Andreessen is a
+    venture capitalist, not a major AI lab, and this is a personal opinion/tweet, not an official lab press release or blog
+    post. The resolution requires "Official blog/press release claiming AGI" from a "major AI lab" — this does not meet that
+    threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://finance.yahoo.com/markets/crypto/articles/marc-andreesen-just-said-artificial-141500180.html
+  - https://thenextweb.com/news/anthropic-800-billion-valuation-revenue-30-billion-ipo
+  - https://www.bloomberg.com/news/articles/2026-04-15/bessent-calls-anthropic-s-mythos-a-breakthrough-in-china-ai-race?srnd=homepage-europe
+  trajectory_signal: 'Articles [6] and [7] show significant momentum toward advanced AI capabilities: Anthropic''s Claude
+    Mythos model receiving a $800 billion valuation based on exceptional revenue growth ($1B to $30B annualized in 15 months)
+    and being called a "breakthrough" by U.S. Treasury Secretary Bessent. Article [5]''s claim about AGI being "here" (though
+    from an investor rather than a lab) suggests growing perception that AGI-level capabilities are proximate. Articles [8],
+    [10], and [11] show rapid progress in autonomous agents, agentic AI systems, and embodied reasoning — capability advances
+    that could be prerequisites for AGI claims. However, none of these represent labs actually *claiming* AGI. The trajectory
+    shows accelerating capability development and market valuation, which increases the probability someone makes an AGI claim
+    before year-end, but no lab has yet crossed the threshold of an official public claim.'
+- date: '2026-04-26'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://startupfortune.com/sam-altman-calls-chatgpt-55-the-last-major-milestone-before-agi-and-the-ai-world-is-taking-him-seriously/
+  - https://openai.com/index/introducing-gpt-5-5/
+- date: '2026-05-03'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles contain official claims that a major AI lab has developed AGI. The resolution criteria specifically
+    require "Official blog/press release claiming AGI." None of the articles meet this threshold. Articles discuss principles,
+    focus areas, and future timelines rather than claiming current AGI achievement.'
+  trajectory_sources:
+  - https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-outlines-five-principles-for-openais-agi-development/articleshow/130553779.cms
+  - https://www.digitaltoday.co.kr/en/view/51859/google-deepmind-says-agi-frontier-will-open-a-new-renaissance
+  - https://gentic.news/article/demis-hassabis-agi-components
+  - https://www.asiae.co.kr/en/article/2026042719524986335
+  - https://observer.com/2026/04/ai-2027-revisited-agi-timeline-disruption/
+  trajectory_signal: 'Articles [0,4,6,7] show OpenAI and Google DeepMind leadership framing AGI development as an active priority
+    with stated principles and timelines (Hassabis: 5 years, article [4]). Article [3] indicates DeepMind views most AGI components
+    as existing but identifies gaps in continual learning/memory—suggesting incremental progress toward the capability claim
+    threshold. Article [10] references the "AI 2027" forecast suggesting AGI plausibility by 2027, indicating modest momentum
+    in the broader narrative. However, these are leadership statements about *future* development and *component progress*,
+    not claims of achieved AGI. The trajectory shows labs positioning themselves for AGI claims and discussing technical readiness,
+    but no crossing of the actual resolution threshold. Direction is cautiously toward YES long-term, but we remain far from
+    the specific 2026 claim criterion.'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles contain direct evidence of an official AGI claim from a major AI lab. Article [0] discusses
+    Microsoft and OpenAI''s contractual *definition* of AGI (a system outperforming humans at most economically valuable work),
+    but this is definitional clarity from a 2019 contract, not a claim that AGI has been developed. This is an important distinction—defining
+    what AGI means is not the same as claiming to have built it. Articles [3], [4], [5], [9], and [10] describe impressive
+    capabilities (AI agents, coding systems, mathematical problem-solving) but nowhere claim these constitute AGI. Articles
+    [2], [7], and [8] are about research directions and partnerships, not AGI claims.'
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/925091/microsoft-and-openais-definition-of-agi-was-just-revealed
+  - https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/
+  - https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion
+  trajectory_signal: 'Three articles signal directional momentum toward potential future AGI claims:'
+- date: '2026-05-17'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles contain direct evidence of a major AI lab''s official public claim to have developed AGI.
+    Article [0] reports DeepMind CEO Demis Hassabis stating AGI "may be around 2030"—a future timeline estimate, not a current
+    claim of AGI achievement. This is a prediction/aspiration, not an official AGI claim. The resolution criteria explicitly
+    require "Official blog/press release claiming AGI" (present tense capability). No such claim appears in any article.'
+  trajectory_sources:
+  - https://dev.to/seekdb/deepminds-ceo-says-agi-may-be-4-years-away-the-last-three-missing-pieces-are-not-what-most-19dl
+  - https://www.newsbytesapp.com/news/science/anthropic-warns-agi-could-arrive-by-2028-altering-global-influence/tldr
+  trajectory_signal: 'Articles [0] and [11] show directional momentum toward the possibility of AGI claims, but in opposite
+    temporal directions:'
+- date: '2026-05-24'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://www.rosesonstudios.com/post/musk-loses-openai-sam-altman-declares-agi-here-chatgpt-gpt55-may-2026
+  relevance: 'STRONG: Article [0] from Roseson Studios (May 21, 2026) provides direct evidence meeting resolution criteria.
+    It explicitly states "Sam Altman published a landmark essay declaring that AGI — Artificial General Intelligence — has
+    effectively already arrived" and references OpenAI as the lab making this claim. This matches the resolution requirement
+    of "Official blog/press release claiming AGI" from a major AI lab. However, the article appears to be a news/commentary
+    piece rather than direct access to Altman''s original essay, so there is a small gap in direct verification of the official
+    channel (blog/press release vs. news reporting of it). The article also mentions concurrent events (GPT-5.5 Pro launch,
+    Musk lawsuit dismissal) that corroborate the May 21 timing.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ndtv.com/artificial-intelligence/google-ai-boss-deepmind-ceo-demis-hassabis-signals-imminent-arrival-of-superhuman-artificial-general-intelligence-11520943
+  - https://www.semafor.com/article/05/20/2026/google-exec-demis-hassabis-predicts-were-at-the-foothills-of-the-singularity
+  - https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis
+  - https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+  - https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
+  trajectory_signal: Articles [1,2,3] show DeepMind/Google's Demis Hassabis (May 19-20) using language about "foothills of
+    the singularity" and "superhuman AI is close" — strong directional signals of momentum toward AGI claims, though not yet
+    an explicit AGI claim. Articles [5,6,7] document OpenAI's mathematical breakthrough (disproving an 80-year-old geometry
+    conjecture) published May 20-21, framed as evidence of AI "reasoning" capabilities that some interpret as moving AGI goalposts.
+    This represents concrete capability demonstrations that could fuel AGI declarations. Articles [8-12] show Anthropic CEO
+    Dario Amodei making strong statements about AI capability levels (college-level reasoning, elimination of entry-level
+    jobs in 1-5 years), signaling rapid capability progression but without explicit AGI claims. Overall trajectory is strongly
+    TOWARD_YES, with multiple labs demonstrating advanced capabilities and at least one (OpenAI via Altman) crossing into
+    explicit AGI declaration territory.
+- date: '2026-05-31'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles contain evidence of an actual AGI claim meeting resolution criteria. The prediction requires
+    "Official blog/press release claiming AGI" — a definitive public statement that AGI has been achieved. All articles present
+    only PREDICTIONS or TIMELINES for when AGI might arrive (2029-2030), not claims that AGI currently exists. Demis Hassabis
+    is forecasting AGI''s arrival 3-4 years in the future, not announcing its present achievement. Articles [8] and [9] describe
+    impressive technical achievements (disproving Erdős conjecture), but these are capability demonstrations, not AGI claims.
+    Articles [5], [6], [7] discuss employment impacts and progress narratives but contain no AGI claims. Critical criteria
+    gap: Zero evidence of any lab publicly claiming "we have developed AGI."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.computerworld.com/article/4178398/deepmind-ceo-agi-could-be-here-in-three-years.html
+  - https://tech.yahoo.com/ai/articles/deepmind-ceo-predicts-agi-2030-092104707.html
+  - https://sherwood.news/tech/google-deepminds-hassabis-agi-is-3-to-4-years-away/
+  - https://www.indiatoday.in/technology/news/story/google-deepmind-ceo-demis-hassabis-gives-new-agi-timeline-says-it-is-coming-in-2029-2918288-2026-05-28
+  - https://www.digit.in/news/general/google-deepmind-ceo-says-agi-may-arrive-by-2030-calls-current-ai-agents-a-practice-run.html
+  trajectory_signal: 'Strong momentum signals toward eventual YES resolution:'
+- date: '2026-06-07'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles contain an official claim from a major AI lab that they have developed AGI. All articles feature
+    speculative predictions, timelines, and capability assessments rather than resolution-triggering claims. Articles [0-4]
+    report Demis Hassabis predicting AGI arrival around 2030 ("plus or minus a year"), not claiming current achievement. Articles
+    [6, 8] reference SoftBank CEO Masayoshi Son''s characterization of AI designing models as "super intelligence," but this
+    is a third-party interpretation, not an official lab claim of AGI. Article [7] discusses OpenAI''s next phase ("proactive
+    AI") without any AGI claim. The resolution criteria specifically require "Official blog/press release claiming AGI" —
+    none of these articles document such a claim as of 2026-06-07.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://decrypt.co/370080/google-deepmind-ceo-agi-coming?amp=1
+  - https://tech.yahoo.com/ai/articles/google-deepmind-ceo-says-agi-185422315.html
+  - https://www.gate.com/news/detail/google-deepmind-ceo-predicts-agi-arrival-by-2030-in-stanford-talk-21634560
+  - https://www.wionews.com/world/google-deepmind-ceo-says-we-don-t-have-much-time-to-prepare-for-the-new-human-era-what-are-agi-capabilities-he-is-warning-about-agi-debate-1780740577596
+  - https://www.aol.com/articles/google-deepmind-ceo-says-dont-094601000.html
+  trajectory_signal: 'Strong momentum signals toward YES resolution in coming months. Multiple major lab leaders are publicly
+    associating near-term timelines with AGI: DeepMind CEO projects 2030 ("few years away"), and there are credible reports
+    of recursive self-improvement capabilities emerging (Anthropic''s warnings in articles [12-14] about AI systems improving
+    themselves autonomously). The SoftBank-OpenAI reports suggest capabilities crossing thresholds that labs might soon characterize
+    as AGI. However, this remains predictive commentary and capability progress rather than actual AGI claims. The trajectory
+    shows increasing proximity to the resolution event, with credible technical progress and leadership acknowledgment of
+    imminent AGI, suggesting conditions favoring a YES claim becoming more likely within 2026.'
+- date: '2026-06-14'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://openai.com/index/built-to-benefit-everyone-our-plan/
+  relevance: 'MODERATE: Article [5] is OpenAI''s official blog post (June 8, 2026) titled "Built to benefit everyone: our
+    plan" by Sam Altman and Jakub Pachocki. This is a direct official communication from OpenAI leadership. However, critically,
+    the actual content does NOT contain an explicit claim that OpenAI has "developed AGI" — it discusses entering a "new phase"
+    and making "advanced AI" accessible, but stops short of the definitive AGI claim required by resolution criteria. The
+    article discusses AGI as a future vision ("Imagine electricity reaching a rural American town...") rather than a present
+    achievement. This represents the closest approach to resolution but falls short of the explicit threshold: "At least one
+    major AI lab will publicly claim to have developed AGI."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://economictimes.indiatimes.com/tech/artificial-intelligence/agi-for-all-among-openais-ambitions-for-its-next-phase/articleshow/131612916.cms
+  - https://www.gate.com/news/detail/openai-enters-third-development-phase-altman-unveils-three-goals-for-21732357
+  trajectory_signal: Articles [0] and [1] show OpenAI framing AGI in terms of accessibility goals and "universal AGI access"
+    rather than claiming present AGI achievement. Article [1] discusses "three key objectives" for making advanced AI accessible,
+    language suggesting aspirational rather than accomplished status. Article [2] references "recursive self-improvement"
+    as a future milestone "less than six months away," implying AGI has not yet been achieved. Articles [8] and [9] feature
+    Google DeepMind CEO stating AGI "is coming within four years" (by 2030) and discussing "the road from AGI to superintelligence"
+    — clearly framing AGI as future, not present. This trajectory suggests major labs are actively discussing AGI timelines
+    and capabilities but have not yet made claims of AGI achievement as of mid-June 2026.
+- date: '2026-06-21'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles contain official claims that a major AI lab has developed AGI. Articles discuss OpenAI''s
+    vision statements about AGI as a future goal and aspirational plans for "personal AGI," but these are descriptions of
+    desired futures, not claims of having achieved AGI. The resolution criteria require an explicit official claim of AGI
+    development in a blog post or press release. None of the provided articles meet this threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/articles/openai-ceo-sam-altman-lays-010500806.html
+  - https://www.digitaltrends.com/computing/openai-wants-an-all-knowing-personal-ai-agent-for-everyone-on-earth/
+  - https://www.archynewsy.com/openais-plan-to-bring-personal-agi-to-everyone/
+  trajectory_signal: Articles [0], [5], and [6] show OpenAI framing AGI as an imminent near-term objective with concrete timelines
+    and strategic planning. Article [0] discusses OpenAI's "third phase" and reaffirms commitment to AGI development. Articles
+    [5] and [6] describe plans for "personal AGI for everyone," positioning AGI as achievable within OpenAI's current strategic
+    roadmap rather than a distant goal. This signals directional momentum toward labs staking stronger claims about AGI capabilities/timelines.
+    Articles [8] and [9] show major lab leaders (Altman, Hassabis, Amodei) telling G7 leaders that systems could "soon surpass
+    humans at most tasks" and mapping pathways to ASI from AGI, suggesting labs view the AGI threshold as increasingly proximate.
+    While none make definitive AGI claims yet, the intensity of near-term framing and capability projection indicates trajectory
+    toward potential YES resolution.
+- date: '2026-06-28'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles contain official AGI claims from major AI labs that would satisfy the resolution criteria.
+    Articles [0] and [2] show executives predicting human-level/general AI arrival but explicitly state it''s years away (by
+    "decade''s end" for Hassabis, and DeepMind CEO saying final pieces still missing). Articles [5], [7], [8] announce GPT-5.6
+    model releases but do not claim AGI has been achieved—they describe capability improvements and rollout restrictions.
+    Article [6] states OpenAI plans personal AGI by 2028, not that AGI exists now. The resolution requires "official blog/press
+    release claiming AGI"—none of these articles provide that direct evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ynetnews.com/tech-and-digital/article/hye3xsymgg
+  - https://techspherenews.com/altman-scaling-skeptics-held-back-ai-openai-model-disproves-math-conjecture
+  - https://en.mashdigi.com/is-computing-power-a-panacea-google-deepmind-ceo-the-road-to-achieving-general-ai-still-lacks-the-final-two-pieces-of-the-puzzle-memory-and-introspection/
+  - https://www.webpronews.com/sam-altmans-race-to-superintelligence-stargates-massive-bet-on-ai-that-outthinks-us-all/
+  - https://zamin.uz/en/technology/208422-openai-plans-to-launch-personal-agi-system-by-2028.html
+  trajectory_signal: 'Multiple signals suggest momentum toward eventual AGI claims but not imminent resolution:'
+- date: '2026-07-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles contain direct evidence of an official AGI claim by a major AI lab. The resolution criteria
+    requires "Official blog/press release claiming AGI" — a specific, explicit declaration. Zero articles in this set meet
+    that threshold. Articles discuss new model releases (GPT-5.6, Claude Sonnet 5, Fable 5), but these are presented as capability
+    improvements, not AGI claims. No lab has published a blog post or press release stating they have "developed AGI."'
+  trajectory_sources:
+  - https://eu.36kr.com/en/p/3875321045217288
+  trajectory_signal: 'Article [7] ("AGI Countdown: OpenAI''s Chief Research Officer Warns Humanity''s Window Is ''Very Small''")
+    provides the strongest directional signal. An OpenAI CRO warning about AGI timelines being imminent suggests internal
+    belief that AGI development is near, which could foreshadow a future claim. This represents momentum *toward* the possibility
+    of an AGI announcement, though it remains speculative language rather than a capability claim. Articles [1], [5], [6],
+    [8] discuss GPT-5.6''s advanced capabilities and government-gated access, signaling frontier AI progress, but positioning
+    these as incremental model improvements rather than AGI breakthroughs. Articles [9], [10], [11], [12], [13] document Anthropic''s
+    capability advances (Claude Sonnet 5, Claude Science, drug discovery initiatives) showing continued progress in AI capabilities,
+    but again frame these as domain-specific or efficiency improvements, not AGI claims. The overall trajectory shows labs
+    pushing frontier capabilities and executives hinting at AGI proximity, but no public claim of AGI achievement has materialized
+    yet as of July 5, 2026.'
+- date: '2026-07-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires "official blog/press release
+    claiming AGI" — a specific and unambiguous claim. Article [5] contains a headline stating OpenAI says its voice assistant
+    is "one step closer to a truly accessible AGI," but the actual content is truncated and doesn''t show whether OpenAI made
+    an official AGI claim in their blog/press release. The other OpenAI articles [0-4, 6] discuss GPT-5.6 launch details but
+    contain no AGI claims in their available content. Articles [7-11] are either about CEO statements (not official AGI claims),
+    book reviews, reputation indices, or research papers — none constitute official lab claims of AGI development.'
+  trajectory_sources:
+  - https://gizmodo.com/the-future-is-always-listening-openai-says-its-new-voice-assistant-is-one-step-closer-to-a-truly-accessible-agi-2000783210
+  - https://bitrss.com/anthropic-ceo-foresees-imminent-arrival-of-agi-and-job-reductions-175803
+  trajectory_signal: 'Two weak trajectory signals: (1) Article [5] suggests OpenAI messaging frames capabilities as moving
+    "closer to" AGI, indicating directional language around AGI concepts, though this falls short of claiming AGI has been
+    achieved. (2) Article [7] (dated 2026-07-06) shows Anthropic CEO Dario Amodei stating AGI arrival is "imminent," signaling
+    belief among lab leadership that AGI is near-term — directional movement toward the threshold but not a claim of attainment.
+    These suggest momentum in AGI discourse and framing but no actual claim that AGI has been developed. Overall trajectory
+    is cautiously TOWARD_YES (labs appear to be approaching claims or at least rhetorically positioning toward AGI language),
+    but the critical threshold of an explicit official AGI claim remains unmet as of July 12, 2026.'
+- date: '2026-07-19'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles contain an official claim that a major AI lab has developed AGI. The resolution criteria require
+    a direct public claim (blog post/press release) stating AGI has been achieved. No such claim appears in any article provided.
+    Articles [5, 6, 7, 8] discuss product launches (GPT-5.6, GPT-Red, ChatGPT Work) but these are capability announcements,
+    not AGI claims. Article [12] explicitly shows a major AI lab CEO (AMI Labs) actively *avoiding* the AGI label. The gap
+    is complete—the specific resolution event has not occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theregister.com/ai-and-ml/2026/07/14/deepmind-bigbrain-calls-for-america-to-set-ai-standards-before-its-too-late/5271343
+  - https://www.businessinsider.com/google-deepmind-ceo-demis-hassabis-agi-safety-standards-body-gemini-2026-7
+  - https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/
+  - https://www.businesstoday.in/technology/artificial-intelligence/story/were-entering-a-new-age-google-deepmind-ceo-demis-hassabis-on-emergence-of-agi-543022-2026-07-15
+  trajectory_signal: 'Articles [1, 3, 11, 13] show directional momentum toward YES. Demis Hassabis (Google DeepMind CEO) has
+    made multiple public statements (July 14-15) describing AGI as "probably only a few short years away," calling it a "pivotal
+    moment in human history," and stating "we''re entering a new age" with emergence of AGI. These represent increased public
+    framing of AGI as imminent and near-term. This signals rhetorical/conceptual movement toward potential AGI claims, though
+    it falls short of claiming AGI *currently exists*. The framing suggests labs are warming the narrative space around AGI
+    discussion. However, article [12] provides a counterweight—a major lab CEO explicitly rejecting AGI terminology, suggesting
+    not all labs are moving toward such claims. Overall trajectory is cautiously toward YES, but the bar remains: an official
+    claim of *having developed* AGI, not predictions about its nearness.'
+- date: '2026-07-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles contain evidence of an official public claim that AGI has been developed. The resolution criteria
+    require "Official blog/press release claiming AGI" — a specific, affirmative statement that AGI exists now. None of the
+    articles provide this. Article [2] mentions Sam Altman "teasing" OpenAI''s "ultimate AI" but the content is truncated
+    and doesn''t show an AGI claim. Articles [0], [1], and [4] involve CEO statements about AGI arriving soon or being imminent,
+    but these are forecasts about future development, not claims that AGI currently exists. The gap between "AGI is coming"
+    and "we have built AGI" is critical for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bitrss.com/anthropic-ceo-foresees-imminent-arrival-of-agi-and-job-reductions-175803
+  - https://www.techradar.com/ai-platforms-assistants/google-deepminds-demis-hassabis-calls-for-urgent-action-during-precious-window-before-agi-arrives-and-its-all-starting-to-feel-a-bit-skynet
+  - https://newsdiplomacy.com/google-deepmind-ceo-says-agi-could-arrive-within-four-years/
+  trajectory_signal: Articles [0], [1], and [4] show increasing momentum toward YES by demonstrating escalating rhetoric from
+    major lab CEOs (Amodei, Hassabis) about AGI arriving imminently (within 3-4 years per [4], describing current period as
+    "pivotal"). Article [0] specifically frames AGI arrival as "drawing nearer" with "less time to prepare." This suggests
+    labs may be positioning themselves closer to making an AGI claim, particularly if capabilities progress as rapidly as
+    their rhetoric suggests. However, this momentum is directional and not yet resolution-triggering. The regulatory coordination
+    shown in articles [5], [6], [10] (labs agreeing on testing frameworks) could represent preparation for eventual AGI announcements,
+    but equally could reflect safety-focused posturing rather than imminent capability claims.
+- date: '2026-08-02'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official AGI claim meeting resolution criteria. Articles [0],
+    [2], and [4] report Sam Altman claiming "we are in/have reached the singularity" via podcast and media interviews (not
+    official blog/press release). This is a public claim about a threshold event, but: (1) it''s made in informal media contexts,
+    not via official OpenAI channels; (2) "singularity" is not synonymous with "AGI" per the resolution criteria''s specific
+    language requirement; (3) none cite an official OpenAI blog post or press release making an AGI claim. Articles [1] and
+    [3] show other CEOs discussing AGI as "only years away" or "imminent" — forward-looking statements, not claims of achieved
+    AGI. Articles [5-10] describe OpenAI''s Astra model solving math problems — technical capability announcements without
+    any claim that AGI has been achieved. The resolution requires explicit claim of AGI development, which has not appeared
+    in official channels documented here.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://abcnews.com/Business/openai-ceo-sam-altman-claims-ai-singularity-arrived/story?id=135120342
+  - https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7
+  - https://qz.com/sam-altman-singularity-openai-hugging-face-hack-072726
+  trajectory_signal: 'Articles [0], [2], [4] show significant momentum TOWARD_YES: a major lab CEO (OpenAI) is publicly claiming
+    AI has reached a critical threshold ("singularity") in July 2026, mere weeks before the prediction deadline. This represents
+    a marked escalation in rhetoric and represents the closest signal to an AGI claim, even if the specific wording and channel
+    don''t yet satisfy strict resolution criteria. Articles [5-10] show parallel momentum through Astra''s demonstrated capabilities
+    (solving decade-old math problems), positioning OpenAI to justify future AGI claims. The convergence of rhetorical claims
+    + technical demonstrations suggests trajectory toward YES, though the formal resolution bar has not yet been crossed.'
+- date: '2026-08-09'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles contain official blog posts or press releases from major AI labs claiming to have developed
+    AGI. Article [0] reports that "Top AI architects say their technology has arrived at a threshold...the singularity" but
+    this is journalism paraphrasing claims, not an official lab claim. Article [2] quotes Sam Altman saying "We''re now, like,
+    in the singularity" on a podcast (not an official OpenAI press release/blog), and notes that even Demis Hassabis has been
+    "more careful, placing humanity at the ''foothills''" rather than claiming AGI achievement. The resolution criteria specifically
+    requires "Official blog/press release claiming AGI" — casual statements on podcasts or media interpretations do not satisfy
+    this threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion
+  - https://techcentral.co.za/sa-experts-split-on-whether-the-singularity-has-begun/284446/
+  trajectory_signal: 'Two signals of directional momentum TOWARD_YES: (1) Article [0] (2026-08-06) shows prominent AI leaders
+    making public singularity claims, suggesting rhetoric is escalating toward formal AGI declarations. (2) Article [2] (2026-08-03)
+    documents Sam Altman''s explicit singularity claim on podcast, representing the closest leadership statement to an AGI
+    claim found in this set. However, these remain statements rather than official institutional claims. The fact that Hassabis
+    is described as "more careful" and placing humanity at "foothills" suggests internal disagreement on whether AGI has been
+    achieved, which could either delay or accelerate a formal claim depending on which perspective wins organizational consensus.'
+- date: '2026-08-16'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.forbes.com/sites/victordey/2026/08/13/databricks-hits-190-billion-valuation-as-ceo-ali-ghodsi-claims-agi-already-arrived/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://runtimewire.com/article/openai-s-sam-altman-said-the-singularity-had-already-started
+  - https://www.europesays.com/people/189425/
+  - https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity
+  - https://www.mindstudio.ai/blog/gpt-astra-solves-open-math-problems
+  - https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/
+- date: '2026-08-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles contain direct evidence of a major AI lab publicly claiming to have developed AGI. Articles
+    [0], [3] reference Sam Altman discussing OpenAI''s "AGI bet" but provide no actual content showing an official claim of
+    AGI achievement. Articles [4]-[9] describe OpenAI pausing frontier training and implementing safety measures—directionally
+    away from an imminent AGI claim. Articles [1] and [2] discuss limitations and the need for breakthroughs, also contrary
+    to resolution criteria. The critical gap: zero articles show an official blog post or press release from a major lab claiming
+    AGI has been developed.'
+  trajectory_sources:
+  - https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/
+  - https://thenewstack.io/nvidia-avo-arcagi3-benchmark/
+  - https://news.lavx.hu/article/nvidia-reports-avo-reaches-100-on-arc-agi-3-public-set
+  - https://thenews92.com/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/
+  trajectory_signal: 'Articles [10], [11], [12], [13] report NVIDIA''s AVO system achieving 100% on ARC-AGI-3 benchmark. While
+    this demonstrates progress in agentic AI capabilities and benchmark performance, it does NOT constitute a claim of AGI
+    development. These articles use "AGI" in the benchmark name (ARC-AGI-3) but explicitly frame the achievement as architectural/harness
+    improvements rather than AGI attainment. The language is careful: "frontier-level general-purpose architecture" and "long-horizon
+    autonomous agents"—capability descriptions, not AGI claims. This signals technical momentum in AI capabilities but moves
+    AWAY from resolution YES, as it shows the field still distinguishes between benchmark achievements and actual AGI claims.
+    The concurrent OpenAI slowdown [4]-[9] further suggests major labs are being more cautious about AGI declarations.'
+- date: '2026-08-30'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires "Official blog/press release claiming AGI" —
+    a formal, official company statement. All examined articles are SECONDARY REPORTING of Sam Altman''s statements to journalists
+    (TIME magazine, India Today, Times Now, IBTimes). These are claims *about* what Altman said, not official OpenAI blog
+    posts or press releases. Critically, Altman''s actual claim includes a major caveat: "if you accept his definition" (Article
+    [1]) — suggesting the claim is contingent on definitional acceptance, not an unambiguous declaration. The resolution criteria
+    demand direct evidence of an official claim, which has not yet materialized in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/
+  - https://sources.news/p/sam-altman-openai-agi
+  - https://www.indiatoday.in/technology/news/story/sam-altman-makes-bold-agi-claim-says-openai-could-achieve-it-this-year-2980973-2026-08-27
+  - https://www.timesnownews.com/technology-science/sam-altman-says-openai-will-develop-agi-internally-by-the-end-of-this-year-article-155993382
+  - https://www.ibtimes.co.uk/openai-astra-ai-agi-progress-1816510
+  trajectory_signal: Multiple recent articles (Aug 26-28) show strong directional momentum TOWARD_YES resolution. Sam Altman
+    has publicly stated OpenAI expects to develop AGI internally by end of 2026, with their Astra model reportedly already
+    meeting internal benchmarks for an "automated research intern." This represents escalating public commitment language
+    from OpenAI's leadership. However, this momentum remains at the level of CEO predictions and media reporting rather than
+    formal corporate declarations. The trajectory suggests an official claim may be imminent if Altman's timeline holds, but
+    we are not yet at the resolution threshold. Articles [7], [8], [10], [11] provide weaker trajectory signals (industry
+    competition, alternative AGI definitions, benchmark evaluations) that contextualize but don't directly advance the specific
+    claim prediction.
+- date: '2026-09-06'
+  summary: 9 relevant articles
+  sources:
+  - https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release
+  - https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release
+  - https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra
+  - https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/
+  - https://www.businessinsider.com/astra-model-launch-agi-milestone-openai-greg-brockman-2026-9
+  relevance: 'STRONG: Multiple credible news sources (Guardian, The Verge, VentureBeat, WIRED, Business Insider, Axios, TechCrunch,
+    Financial Post) and OpenAI''s official website all report that OpenAI made public claims about AGI in connection with
+    the GPT-6 Astra model release on September 3, 2026. Key evidence:'
+  direction: TOWARD_YES

@@ -6,11 +6,12 @@ baseline: Individual studies suggest effects. METR 2025 RCT found AI slowed devs
 resolution_criteria: 'YES: Meta-review finds significant negative association. NO: None. IF no meta-review is written the
   question is voided (no point penalty either way).'
 search_keywords:
-- AI thinking study
-- AI cognitive impact
-- AI critical thinking
-- Meta
-- AI cognitive effects
+- meta-analysis AI critical thinking education
+- systematic review AI impact cognitive skills
+- AI use critical thinking decline peer reviewed
+- ChatGPT critical thinking student meta-review
+- generative AI cognitive dependency systematic review
+- AI learning critical thinking outcomes meta-analysis
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -34,6 +35,8 @@ forecasts:
   human-6: 90
   human-7: 45
   human-8: 60
+  human-9: 70
+  human-10: 70
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -47,3 +50,551 @@ evidence:
   - https://www.sciencedirect.com/science/article/abs/pii/S0747563225002262
   - https://www.leavenworthecho.com/premium/theconversation/stories/artificial-metacognition-giving-an-ai-the-ability-to-think-about-its-thinking,160940?
   - https://www.thepromptindex.com/title-ai-metacognition-and-the-verification-bottleneck-a-3-wave-look-at-how-humans-solve-problems-with-ai.html
+- date: '2026-02-07'
+  summary: Found 10 articles
+  sources:
+  - https://arxiv.org/html/2602.04598v1
+  - https://www.bbc.co.uk/sounds/play/w3ct722s
+  - https://www.siliconrepublic.com/careers/chatgpt-classroom-educators-reassess-learning-skills-development
+  - https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/exploring-possible-ai-trajectories-through-2030_b6fb75d9/cb41117a-en.pdf
+  - https://www.nordangliaeducation.com/news/2026/02/05/teaching-the-skills-ai-cannot-replace
+  relevance: WEAK_YES. While none of the evidence titles definitively confirm a meta-review with significant findings, several
+    suggest critical analysis of AI's cognitive impacts, hinting at potential research exploring AI's effect on critical thinking.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.researchgate.net/publication/390092849_Meta-Analysis_of_Artificial_Intelligence_in_Education
+  relevance: 'MODERATE: Article [12] is a meta-analysis of AI in education (March 2025) that could potentially address the
+    prediction, though the abstract provided doesn''t explicitly state findings about critical thinking decline, making it
+    the only article that is structurally relevant as a meta-analysis/systematic review of AI in education.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.researchgate.net/publication/390092849_Meta-Analysis_of_Artificial_Intelligence_in_Education
+  relevance: 'MODERATE: Article [9] is a meta-analysis of AI in education (March 2025) that could potentially address critical
+    thinking outcomes, making it directly relevant to whether a meta-review finding significant negative association between
+    AI use and critical thinking exists.'
+- date: '2026-02-15'
+  summary: 4 relevant articles
+  sources:
+  - https://dl.acm.org/doi/10.1145/3706599.3719841
+  - https://www.researchgate.net/publication/388572731_Critical_Thinking_in_the_Age_of_AI_A_Systematic_Review_of_AI's_Effects_on_Higher_Education
+  - https://files.eric.ed.gov/fulltext/EJ1459623.pdf
+  - https://www.ijisrt.com/ai-as-a-cognitive-partner-a-systematic-review-of-the-influence-of-ai-on-metacognition-and-selfreflection-in-critical-thinking
+  relevance: 'MODERATE: Articles [5], [6], [7], and [14] are meta-analyses/systematic reviews examining AI''s effects on critical
+    thinking in higher education, which directly address the prediction''s resolution criteria, though the available content
+    snippets do not explicitly state their conclusions about significant negative associations.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://www.ijisrt.com/ai-as-a-cognitive-partner-a-systematic-review-of-the-influence-of-ai-on-metacognition-and-selfreflection-in-critical-thinking
+  relevance: 'MODERATE: Article [11] is a systematic review directly examining AI''s influence on metacognition and self-reflection
+    in critical thinking, which is the exact type of meta-review the prediction requires, though the snippet doesn''t reveal
+    its conclusions.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://dl.acm.org/doi/10.1145/3706599.3719841
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a meta-review/systematic
+    review that concludes a significant negative association between AI use and decreased critical thinking. Article [2] has
+    a promising title ("AI as a cognitive partner a systematic review of the influence of ai on metacognition and selfreflection
+    in critical thinking") but the content provided is only a navigation menu with no actual findings visible. Without access
+    to the actual results and conclusions, it cannot be classified as KEEP. Articles [0], [1], [3], [5], and [6] discuss related
+    topics (cognitive offloading, safeguarding cognitive skills, chatbot impacts, LLM risks, generative AI concerns) but none
+    are framed as meta-reviews/systematic reviews establishing a significant association meeting the criteria.'
+  trajectory_sources:
+  - https://www.ijisrt.com/ai-as-a-cognitive-partner-a-systematic-review-of-the-influence-of-ai-on-metacognition-and-selfreflection-in-critical-thinking
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1776445
+  trajectory_signal: Article [2] signals momentum toward YES—it appears to be an actual systematic review on the exact topic
+    (AI's influence on metacognition and critical thinking), published recently enough to meet the date window. If the full
+    text concludes significant negative association, it would directly resolve the question. Article [4] (published 2026-02-17)
+    is a confirmed systematic review examining "impacts of intelligent assessment and generative AI on learners' self-beliefs
+    and cognitive agency" in music education, suggesting growing scholarly attention to synthesizing evidence on AI's cognitive
+    effects, though its scope is narrower (music education specifically) and focuses on agency/self-beliefs rather than critical
+    thinking explicitly. Both articles signal that the meta-review landscape is actively developing, but neither has been
+    confirmed as meeting the specific resolution criteria yet.
+- date: '2026-03-01'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles directly resolve the prediction. The resolution criteria require a meta-review/systematic
+    review that concludes a SIGNIFICANT NEGATIVE ASSOCIATION between AI use and decreased critical thinking. While several
+    articles appear to be meta-analyses or systematic reviews on related topics (indices 0, 2, 5, 9, 14, 15, 16), the provided
+    content is too fragmentary to confirm whether they actually found significant negative associations. Critical gaps:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41599-025-04787-y
+  - https://www.researchgate.net/publication/388572731_Critical_Thinking_in_the_Age_of_AI_A_Systematic_Review_of_AI's_Effects_on_Higher_Education
+  - https://www.ijisrt.com/ai-as-a-cognitive-partner-a-systematic-review-of-the-influence-of-ai-on-metacognition-and-selfreflection-in-critical-thinking
+  - https://link.springer.com/article/10.1007/s10791-026-10015-1
+  - https://www.sciencedirect.com/science/article/pii/S2590291125006527
+  trajectory_signal: Strong momentum signal. Seven articles appear to be recent meta-analyses, systematic reviews, or bibliometric
+    reviews specifically examining AI's effects on critical thinking or related cognitive outcomes. The clustering of these
+    reviews in early 2026 (particularly Feb 2026) suggests the field is actively synthesizing evidence on this question. However,
+    article titles are mixed—some frame it as "impacts" or "effects" without directional claims in accessible text. The trajectory
+    points TOWARD_YES if these reviews report negative findings, but we cannot verify conclusions from the provided excerpts.
+    This represents active movement toward producing the exact type of evidence the prediction requires.
+- date: '2026-03-15'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.nature.com/articles/s41599-026-06903-y_reference.pdf
+  - https://www.nature.com/articles/s41599-026-06903-y
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70058?af=R
+  - https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1782626/full
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1781101
+  - https://link.springer.com/article/10.1007/s44366-026-0084-0
+- date: '2026-03-22'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review examining the association between AI use and critical thinking was
+    identified. The resolution criteria requires a meta-review/systematic review that concludes a significant negative association.
+    None of the articles provided meet this threshold. Articles [12], [13], [15], [16] are systematic reviews but address
+    ophthalmology compliance, screen exposure effects, and multimodal AI—not the specific question of AI use and critical
+    thinking. Article [1] is a RAND report on AI homework use but is a single empirical study, not a meta-review. Article
+    [14] is a longitudinal study on cognitive function but does not specifically examine AI use effects.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.rand.org/news/press/2026/03/student-use-of-ai-for-homework-rises-as-concerns-grow.html
+  - https://www.teachingtimes.com/poorly-designed-ai-tools-may-weaken-higher-order-thinking-skills/
+  - https://www.theconversation.com/more-and-more-teachers-and-students-are-using-ai-even-though-it-might-do-more-harm-than-good-275650
+  - https://www.sciencealert.com/over-reliance-on-ai-may-harm-your-cognitive-ability-experts-warn
+  - https://sundayguardianlive.com/science/can-too-much-dependence-on-ai-weaken-thinking-skills-experts-warn-of-cognitive-risks-176791/
+  trajectory_signal: 'Several articles signal momentum TOWARD the eventual resolution of YES by establishing directional concern
+    and baseline evidence:'
+- date: '2026-03-29'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles constitute TIER 1 evidence. The prediction requires a meta-review/systematic review that specifically
+    concludes a significant negative association between AI use and decreased critical thinking. While article [0] is a meta-analysis
+    on ChatGPT''s impact on student learning outcomes (2026-03-26), the excerpt does not specify whether it concludes significant
+    negative associations with critical thinking specifically—it addresses "learning outcomes" broadly, which is too imprecise.
+    Article [8] is a scoping review on critical thinking in AI-enhanced learning environments (2026-03-24), but a scoping
+    review is methodologically distinct from a meta-review/meta-analysis and the excerpt provides no findings about associations.
+    Article [10] is a synthesis of systematic reviews and meta-analyses on pedagogy with LLMs (2026-03-23), but again no concrete
+    findings are stated in the excerpt, and it focuses on "pedagogy paradigms" rather than critical thinking specifically.'
+  trajectory_sources:
+  - https://www.nature.com/articles/s41599-026-07019-z
+  - https://link.springer.com/article/10.1007/s10212-026-01089-y
+  - https://link.springer.com/article/10.1186/s40561-026-00449-x
+  - https://link.springer.com/article/10.1007/s10212-026-01089-y
+  trajectory_signal: The field is rapidly producing foundational evidence syntheses (meta-analyses, scoping reviews, synthesis
+    reviews) focused on AI's effects on cognition and learning. This scaffolding suggests a meta-review specifically addressing
+    critical thinking decline may follow. However, none of these articles provide the required finding—a meta-review concluding
+    significant negative association. The trajectory points NEUTRAL to slightly TOWARD_YES (evidence synthesis infrastructure
+    is building), but resolution hinges entirely on whether a future meta-review produces the specific negative finding, which
+    remains uncertain.
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review concluding significant association between AI use and decreased critical
+    thinking was found. The resolution criteria explicitly require "a meta-review/systematic review" with a "significant negative
+    association" finding. While article [18] is titled "Generative Artificial Intelligence In Education: A Systematic Literature
+    Review," the provided content snippet does not indicate it addresses the critical thinking question or reaches conclusions
+    about negative associations. The content merely describes it as synthesizing 39 studies across application domains, pedagogical
+    benefits, and governance challenges—without evidence it specifically examines or concludes on AI-critical thinking associations.
+    This is a criteria gap: we cannot confirm [18] is the requisite meta-review without seeing its actual findings.'
+  trajectory_sources:
+  - https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+  - https://completeaitraining.com/news/ai-use-is-eroding-pupils-critical-thinking-skills-teachers/
+  - https://ijsret.com/2026/03/30/generative-artificial-intelligence-in-education-a-systematic-literature-review/
+  trajectory_signal: Articles [5, 6] report individual research findings (MIT researchers warning of overreliance weakening
+    critical thinking; UK teachers reporting skill decline in a 9,000-teacher survey) signaling directional momentum toward
+    the YES resolution. Article [18], if its full findings address critical thinking impacts systematically, could represent
+    progress toward a formal meta-review. However, none of these constitute the actual meta-review conclusion required for
+    YES resolution. The articles show accumulating individual evidence and survey data, but the critical missing piece—an
+    actual systematic review/meta-review synthesizing evidence and concluding significant association—has not yet materialized.
+    Momentum is directional but incomplete.
+- date: '2026-04-12'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review meeting resolution criteria was found. Article [9] is a genuine systematic
+    review/meta-analysis, but it concerns virtual reality and robot-assisted therapy for cerebral palsy — entirely outside
+    the prediction scope. Article [11] is a systematic review on facial recognition and automation bias, not on AI use and
+    critical thinking. Article [12] addresses cognitive implications of GenAI but is a qualitative case study collection,
+    not a meta-review. The prediction requires a meta-review specifically synthesizing evidence on the association between
+    AI use and critical thinking; none of these articles fulfill that requirement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aibusinessweek.com/survey-of-englands-teachers-links-student-decline-in-critical-thinking-and-writing-to-ai-use/
+  - https://gigazine.net/gsc_news/en/20260406-losing-thinking-skills-ai
+  - https://www.aibusinessreview.org/2026/04/05/cognitive-surrender-ai-language-models-research/
+  - https://www.bipsanfrancisco.com/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds
+  - https://www.digit.fyi/ai-is-driving-cognitive-surrender-whilst-increasing-confidence/
+  trajectory_signal: Articles [0, 1] report survey data from England's teachers linking AI use to declined critical thinking
+    and writing skills (two-thirds of middle school teachers believe this). Articles [3, 5, 6, 7] report on a substantial
+    empirical study (1,372 participants, 9,000+ experiments, reportedly from University of Pennsylvania) documenting "cognitive
+    surrender" — where AI users defer critical judgment to LLMs without adequate scrutiny. This represents meaningful individual-study
+    evidence accumulating in the predicted direction. However, these are individual studies and surveys, not yet synthesized
+    into a meta-review. The trajectory shows momentum toward YES (more high-quality empirical evidence on negative associations),
+    but the actual resolution mechanism (a meta-review) has not yet materialized. Articles [2, 4, 8] provide anecdotal/opinion
+    pieces rather than systematic evidence. Article [10] concerns enhancing computational thinking through game-based learning,
+    moving in the opposite direction.
+- date: '2026-04-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review specifically examining the association between AI use and critical thinking
+    was found. Article [0] is a meta-analysis on ChatGPT''s impact on learning outcomes (Wu et al. 2026), but it reports "moderately
+    positive effects" on learning, not negative associations with critical thinking—this does not satisfy resolution criteria.
+    Articles [5], [6], [10], and [13] are systematic/literature reviews, but [5] examines AI health chatbots'' methodological
+    flaws (health domain, not critical thinking), [6] appears to be a cross-sectional study (not a meta-review), [10] is about
+    AI feedback effects on "thinking shaping ability" (insufficient specificity on critical thinking association), and [13]
+    maps educational psychology paradigms (not AI-specific). **Critical gap: No meta-review has yet directly synthesized evidence
+    on AI use → critical thinking association with statistical significance testing.**'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.sciencenews.org/article/ai-timing-critical-thinking-study
+  - https://time.news/wait-before-using-ai-to-boost-critical-thinking/
+  - https://futurism.com/artificial-intelligence/ai-boiling-frog-human-cognition-study
+  trajectory_signal: 'Three articles signal momentum TOWARD_YES resolution by presenting individual empirical findings suggesting
+    negative AI effects on critical thinking:'
+- date: '2026-05-03'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-reviews/systematic reviews specifically concluding a significant negative association between
+    AI use and critical thinking were found. Article [3] is a systematic review on LLMs in education but focuses on "personalization,
+    adaptive learning, and intelligent tutoring" without evidence of critical thinking decline conclusions. Article [4] is
+    a scoping review on mathematical thinking that explicitly notes "most reviews focus on achievement rather than how AI
+    shapes mathematical thinking" — it does not establish significant negative associations with critical thinking. Article
+    [7] addresses "pedagogical impacts, ethical risks" of generative AI but content is truncated; no evidence it concludes
+    significant negative association. The resolution criteria require a meta-review that explicitly finds "significant negative
+    association" — none of the articles meet this threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.yahoo.com/news/articles/osu-study-warns-declining-cognitive-011014556.html
+  - https://www.mdpi.com/2078-2489/17/5/433
+  - https://deepscipub.com/ijars/article/view/89
+  trajectory_signal: Articles [2], [3], and [7] signal directional momentum TOWARD YES resolution. Article [2] (OSU study,
+    2026-05-02) warns of "declining cognitive ability" in STEM with AI growth and calls for "corrective action" — establishing
+    empirical concern about cognitive decline. Article [3] (systematic review, 2026-05-01) and [7] (systematic review, 2026-04-28)
+    represent the emerging systematic review literature ecosystem in this domain. Articles [0], [1], [5], [6], [8] are individual
+    studies or opinion pieces questioning AI's effects on thinking, but don't constitute the meta-review evidence needed.
+    The trajectory shows increasing academic momentum investigating AI-critical thinking links, suggesting a meta-review synthesizing
+    these findings is likely forthcoming, but none has yet concluded the requisite "significant association."
+- date: '2026-05-10'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review specifically concluding significant association between AI use and decreased
+    critical thinking was found. Resolution criteria explicitly requires a meta-review; individual studies do not satisfy
+    this. Article [13] is a meta-analysis on "productivity and learning in programming" (not critical thinking broadly). Articles
+    [12] and [15] are systematic reviews on medical education effectiveness and academic integrity issues respectively—neither
+    addresses critical thinking as primary outcome. Article [0] is a single survey study, not a meta-review. Articles [1],
+    [4], [10], [11] discuss retraction of a pro-AI meta-analysis, which removes contradictory evidence but does not constitute
+    a meta-review on negative critical thinking effects.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/
+  - https://www.heise.de/en/news/Study-How-AI-Use-Worsens-Problem-Solving-Skills-11285823.html
+  - https://mobilesyrup.com/2026/05/08/ai-use-negative-brain-impact-study/
+  - https://www.cnet.com/tech/services-and-software/counting-on-ai-to-solve-problems-makes-us-more-likely-to-struggle-and-give-up-study-suggests/
+  - https://scirate.com/arxiv/2605.04779
+  trajectory_signal: Strong momentum TOWARD_YES resolution. Multiple recent studies (May 6-8, 2026) from prestigious institutions
+    (Carnegie Mellon, MIT, Oxford, UCLA) provide consistent individual-level evidence of AI use impairing critical thinking
+    and problem-solving after even 10 minutes of exposure [5, 6, 7, 9]. A meta-analysis on AI in programming [13] published
+    May 7 signals the field is consolidating empirical findings. The retraction of the pro-AI meta-analysis [1, 4, 10, 11]
+    removes the primary countervailing evidence, creating conditions favoring negative meta-review conclusions. Survey evidence
+    on self-reported cognitive effort reductions [0] adds convergent signals. The evidence base and publication momentum suggest
+    a meta-review synthesizing negative findings is increasingly likely, though none has been published yet to meet the strict
+    resolution criteria.
+- date: '2026-05-17'
+  summary: 2 trajectory signals
+  relevance: 'NONE: The resolution criteria require a META-REVIEW/SYSTEMATIC REVIEW that concludes significant association
+    between AI use and decreased critical thinking. No such meta-review exists in these articles. Article [4] mentions a retracted
+    meta-analysis by Chinese researchers (51 studies on ChatGPT and education), but it was retracted for unreliability and
+    actually concluded *positive* effects—the opposite of what we''re looking for. No article provides a meta-review finding
+    significant negative association between AI use and critical thinking specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.capitalaidaily.com/new-study-warns-ai-undermines-independent-thinking-effect-shows-up-after-just-10-minutes/
+  - https://www.blocknewsint.com/articles/new-study-finds-just-10-minutes-of-ai-use-may-weaken-problem-solving
+  trajectory_signal: 'Articles [8] and [10] report a new peer-reviewed study from Carnegie Mellon, Oxford, UCLA, and MIT finding
+    that brief AI use (10 minutes) significantly impairs problem-solving and independent thinking—effects persist after AI
+    removal. This is STRONG TRAJECTORY evidence because: (1) it''s a rigorous multi-institution RCT published May 2026, directly
+    addressing critical thinking/independent reasoning, (2) finding significant negative effects, (3) published within the
+    evaluation window. Articles [3] (UC Berkeley study on grade inflation/learning loss) and [9] (uniformity in creative output)
+    provide additional supporting evidence of negative cognitive effects. These trajectory signals show the empirical foundation
+    is growing that could eventually support a meta-review conclusion, but the meta-review itself has not yet been written
+    or published. The retraction of the pro-AI meta-analysis [4] clears the field of contradictory systematic evidence.'
+- date: '2026-05-24'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews identified. The resolution criteria specifically requires "a meta-review/systematic
+    review will conclude significant association between AI use and decreased critical thinking." None of the articles provided
+    constitute such a review. Article [9] is labeled a "scoping review" but focuses on teacher educator roles/competencies
+    in AI education, not on associations between AI use and critical thinking outcomes. Articles [10], [11], [12], [13] are
+    individual empirical studies or frameworks, not meta-analyses or systematic reviews synthesizing multiple studies.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.brookings.edu/articles/is-it-time-to-measure-cognitive-stunting/
+  - https://mexicobusiness.news/cloudanddata/news/ai-overreliance-weakens-critical-thinking-learning-skills
+  - https://english.elpais.com/technology/2026-05-21/why-are-there-more-top-grades-at-university-chatgpt-is-to-blame.html
+  - https://www.prnewswire.com/news-releases/public-opinion-emerges-as-an-early-warning-system-for-the-hidden-risks-of-ai-dependency-302777630.html
+  - https://www.einpresswire.com/article/913860524/new-book-explains-how-ai-can-interrupt-brain-development-in-students-and-what-educators-must-do-to-remedy-this
+  trajectory_signal: 'Multiple articles signal momentum TOWARD the YES resolution:'
+- date: '2026-05-31'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review that concludes significant association between AI use and decreased critical
+    thinking was found. Article [10] is titled "Meta-Analytic Review" but concerns AI adoption factors, not critical thinking
+    outcomes. Articles [11] and [12] are systematic reviews but focus on writing assessment and language instruction respectively,
+    not critical thinking association. Resolution requires a meta-review specifically finding a significant negative association
+    between AI use and critical thinking—this criteria gap remains unfilled despite substantial recent research activity.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://dl.acm.org/doi/abs/10.1145/3706598.3713778
+  - https://techxplore.com/news/2026-05-filtering-humanity-ai-internet-favors.html
+  - https://kval.com/news/local/oregon-state-study-raises-concerns-about-ais-impact-on-student-thinking-skills-artificial-intelligence-schools-students-teachers-parents-learning-pps-computers-technology
+  - https://educationhq.com/news/get-ai-out-of-schools-study-reveals-clear-and-present-danger-to-student-learning-210304/
+  - https://tech.yahoo.com/ai/articles/were-teaching-kids-ai-teaching-160103081.html
+  trajectory_signal: 'Strong momentum toward resolution YES. Multiple individual studies published in the target date range
+    document concerning effects: [0] reports self-reported reductions in cognitive effort; [1] shows AI-assisted research
+    favors logic over reasoning diversity; [2], [3], [5] highlight Oregon State and other studies raising concerns about student
+    thinking skills; [4] emphasizes over-reliance risks. [14] demonstrates AI dependence mediation pathways affecting cognition.
+    [6] provides important calibration—showing media misrepresents weak studies (54 students), suggesting actual effects may
+    be more modest than headlines claim. The research ecosystem is actively accumulating evidence of negative associations.
+    However, [6] also signals researchers are pushback against causal claims from small studies, which could affect whether
+    a future meta-review finds effects "significant" by rigorous standards. The trajectory strongly suggests a meta-review
+    is likely being written or will be soon, given the density of recent primary studies and existing systematic reviews in
+    adjacent domains.'
+- date: '2026-06-07'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://link.springer.com/article/10.1007/s10648-026-10180-1
+  relevance: 'STRONG: Article [0] is a meta-analysis published 2026-06-06 in Educational Psychology Review (Springer Nature)
+    examining "Effects of Generative AI Tools On Students'' Critical Thinking" using three-level meta-analysis methodology.
+    This directly satisfies the resolution criteria as it IS a meta-review/systematic review. However, the provided excerpt
+    is truncated and does not include the actual findings—critically, we cannot verify from the snippet whether it concludes
+    a "significant negative association" (YES resolution) or finds no/positive associations (NO resolution). The title and
+    publication date/venue are correct, but the substantive result determining resolution is missing from the article content
+    provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ipsos.com/en-us/teachers-concerned-about-impact-ai-students-critical-thinking
+  - https://www.wwlp.com/news/national/using-ai-for-just-minutes-reduces-focus-and-persistence-new-study-warns/
+  - https://conservativedailynews.com/2026/06/is-ai-making-your-kids-dumber-over-half-of-teachers-surveyed-say-it-may-be/
+  - https://www.europesays.com/news/37052/
+  - https://www.straitstimes.com/opinion/they-studied-370000-us-college-essays-and-discovered-ais-effects-on-creativity
+  trajectory_signal: 'Multiple recent articles signal directional momentum toward YES resolution:'
+- date: '2026-06-14'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review concluding significant negative association between AI use and critical
+    thinking was found. Article [9] is labeled a "scoping review" on generative AI in higher education (psychological and
+    equity dimensions), but the content excerpt does not indicate it concludes a significant negative association with critical
+    thinking specifically—it appears to map impacts broadly. This falls short of the resolution criteria requiring a meta-review
+    that explicitly finds significant negative association.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://educationendowmentfoundation.org.uk/news/new-research-generative-ai-on-cognition
+  - https://timesofindia.indiatimes.com/education/news/study-finds-students-without-chatgpt-produce-more-diverse-ideas-than-ai-generated-essays/articleshow/131625448.cms
+  - https://yournews.com/2026/06/07/7035061/teachers-warn-ai-is-undermining-critical-thinking-and-trust-in/
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1856854/pdf
+  trajectory_signal: 'Several articles signal momentum TOWARD_YES resolution, though none yet satisfy the criteria:'
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review meeting resolution criteria has been identified. The prediction requires
+    a meta-review that concludes a significant negative association between AI use and critical thinking. None of the articles
+    reviewed constitute such a meta-review. Article [9] is a meta-analysis on AI curriculum perspectives in medical education
+    (not about cognitive impacts of AI use). Article [11] is a systematic review of AI-driven cognitive processes in professional
+    practice using music teachers (not about association between AI use and critical thinking outcomes).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gbfinancemag.com/a-warning-shot-for-human-capital-evidence-of-an-ai-learning-penalty/
+  - https://spacedaily.com/m-a-2025-study-of-over-600-people-found-a-correlation-between-leaning-on-ai-tools-and-weaker-critical-thinking-sharpest-among-the-young/
+  - https://cwpakistan.com/mit-study-finds-ai-chatbots-diminish-critical-thinking-skills/
+  - https://www.nature.com/articles/s44159-026-00587-6
+  trajectory_signal: 'Several articles signal directional momentum TOWARD_YES resolution:'
+- date: '2026-06-28'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1863931/full
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1863931/full
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.psychologytoday.com/us/blog/the-power-of-experience/202606/a-study-of-26000-students-shows-the-ai-learning-trap
+  - https://www.indiatoday.in/education-today/featurephilia/story/ai-in-the-age-of-learning-ai-boosts-students-performance-by-127-but-not-their-thinking-2927902-2026-06-23
+  - https://digiconasia.net/news/ai-homework-shortcuts-linked-to-lower-test-scores-in-china-study
+  - https://www.futurity.org/writing-ai-students-3338692/
+  - https://www.techtimes.com/articles/318817/20260622/ai-grade-inflation-documented-500000-grades-homework-rises-skills-do-not.htm
+- date: '2026-07-05'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review specifically concluding significant negative association between AI use
+    and critical thinking was found. Article [0] mentions "a new systematic review" in Information examining 235 studies on
+    AI in education, but the provided excerpt does not state its conclusions about critical thinking—only that the debate
+    has moved toward "pedagogy, ethics, literacy and human agency." This is insufficient to confirm resolution criteria. No
+    other article identifies itself as a meta-review or systematic review addressing the specific prediction question.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.devdiscourse.com/article/technology/3940709-schools-are-rushing-into-ai-heres-what-theyre-missing
+  - https://www.apa.org/monitor/2026/07-08/ai-job-skills-thinking
+  - https://spacedaily.com/m-heavier-reliance-on-ai-correlates-with-weaker-critical-thinking-and-recall-one-2025-trial-saw-ai-assisted-learners-retain-just-57-5-on-a-delayed-test-versus-68-5-for-those-who-went-without/
+  - https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/
+  - https://comdig.cssociety.org/2026/07/03/students-using-genai-lag-behind-in-problem-solving-competence-an-agent-based-study-of-classroom-networks/
+  trajectory_signal: 'Strong directional momentum toward YES resolution is building:'
+- date: '2026-07-12'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review articles found that conclude significant association between AI use and
+    decreased critical thinking. This is the critical gap: the resolution criteria explicitly requires a META-REVIEW that
+    reaches a conclusion about significant negative association. No article in this set is a meta-review addressing the specific
+    prediction. Article [12] is labeled "systematic review" but its abstract indicates it reviews student motivations/constraints
+    for GenAI use—not an analysis of the AI-critical thinking association itself.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hechingerreport.org/proof-points-ai-eroding-math-skills/
+  - https://theconversation.com/teachers-are-worried-about-students-cheating-with-ai-but-my-survey-suggests-the-deeper-issue-is-learning-286425
+  - https://www.future-ed.org/math-students-may-learn-less-using-ai/
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1845571/full
+  - https://otontechnology.com/new-studies-chatgpt-critical-thinking-findings/
+  trajectory_signal: 'Strong directional momentum TOWARD eventual YES resolution:'
+- date: '2026-07-19'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review meeting resolution criteria was found. Article [11] is titled "A Systematic
+    Literature Review on the Pedagogical Implications and Impact of GenAI on Students'' Critical Thinking" (appears to be
+    2026, from Algorithms journal) and is the closest match to the resolution criteria. However, the content provided only
+    shows the header/metadata with no actual findings, conclusions, or statement of whether a "significant negative association"
+    was concluded. Without access to the review''s actual conclusions about critical thinking and AI use, this cannot be classified
+    as KEEP. Articles [10, 12, 13, 14] are other systematic/meta-reviews on AI and education/critical thinking but lack publication
+    dates and substantive content showing their conclusions. The resolution requires a specific finding: "significant negative
+    association between AI use and decreased critical thinking" — none of the provided articles explicitly state this conclusion
+    in their available content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.psypost.org/is-ai-making-us-stupid-through-cognitive-offloading-new-review-explores-the-evidence/
+  - https://www.thestar.com.my/tech/tech-news/2026/07/17/ai-homework-tools-cut-exam-scores-by-20-study-of-26000-chinese-students-finds
+  - https://insideai.news/news/generative-ai/ai-use-slashes-chinese-students-exam-scores-by-20-in-30-month-study/4098/
+  - https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567
+  - https://www.scmp.com/news/china/science/article/3360396/ai-homework-tools-cut-exam-scores-20-study-26000-chinese-students-finds
+  trajectory_signal: 'Strong directional momentum TOWARD_YES resolution. Multiple individual studies (articles 0, 1, 4, 5,
+    8) published 2026-07-14 to 2026-07-19 show consistent negative effects: 20% exam score drops (n=26,000 Chinese students),
+    reduced critical thinking with AI access, overconfidence despite errors, and decreased student motivation. Article [5]
+    explicitly reports "access to AI advice suppresses critical thinking." Article [11] appears to be an active systematic
+    review specifically on GenAI''s impact on critical thinking (2026), suggesting the meta-review infrastructure is being
+    built. The convergence of recent individual studies with negative findings plus the apparent existence of at least one
+    systematic review (Article 11) in the exact domain creates momentum that a meta-review conclusion of significant negative
+    association is increasingly likely, though not yet confirmed.'
+- date: '2026-07-26'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://doi.org/10.3390/jintelligence13120160
+  - https://doi.org/10.3390/a19030179
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://fortune.com/2026/07/21/gen-z-cheating-homework-school-exam-scores-crash-post-literate-society-incentives/
+  - https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567
+  - https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
+  - https://www.webpronews.com/ai-advice-leaves-users-confident-yet-clueless-new-study-exposes-erosion-of-judgment/
+  trajectory_signal: Strong directional evidence emerging. Multiple high-quality recent studies (July 2026) from international
+    universities documenting significant negative cognitive effects of AI reliance are accumulating. This creates clear momentum
+    toward a future meta-review concluding significant negative association. The timing and convergence of findings across
+    independent teams suggests likelihood of meta-review synthesis in coming months.
+- date: '2026-08-02'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://doi.org/10.3390/a19030179
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://doi.org/10.3390/jintelligence13120160
+  - https://doi.org/10.1186/s40561-025-00406-0
+  - https://doi.org/10.51574/ijrer.v5i4.5010
+  - https://doi.org/10.20961/ijie.v9i2.103868
+- date: '2026-08-09'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles directly satisfy the resolution criteria. The prediction requires a meta-review/systematic
+    review that concludes a significant negative association between AI use and decreased critical thinking. Articles [9],
+    [10], [11], and [12] are systematic/literature reviews on AI and critical thinking, but none of the provided content explicitly
+    states their conclusions. Article [10]''s title ("Does Generative Artificial Intelligence Improve Students'' Higher-Order
+    Thinking?") and article [12]''s title ("The Role of Artificial Intelligence in Enhancing Critical Thinking") suggest potential
+    positive findings, which would argue against YES resolution, but we cannot verify actual conclusions from the truncated
+    content. Articles [0], [1], [2], [3], [5], [6], [7], [8] are either thematic reviews, opinion pieces, or single studies—not
+    meta-reviews. Article [4] is a general commentary. Article [13] is a comprehensive review but published 2025-12-25 (outside
+    preferred range and predates current date implausibly). CRITICAL GAP: No article content actually states the meta-review''s
+    finding on the association between AI use and critical thinking outcomes.'
+  trajectory_sources:
+  - https://doi.org/10.3390/a19030179
+  - https://doi.org/10.3390/jintelligence13120160
+  - https://doi.org/10.1186/s40561-025-00406-0
+  - https://doi.org/10.20961/ijie.v9i2.103868
+  trajectory_signal: 'Articles [9], [10], [11], [12] represent emerging systematic review infrastructure on this topic (published
+    late 2025 to early 2026), indicating the field is actively conducting synthesis-level research. However, trajectory is
+    unclear: article [10]''s framing suggests potential positive effects on higher-order thinking (opposing YES resolution),
+    while [11] and [12] titles are ambiguous. The existence of multiple recent systematic reviews signals momentum toward
+    the meta-review condition being met, but their directional findings remain opaque from provided excerpts. This is early-stage
+    infrastructure building rather than resolution-determining evidence.'
+- date: '2026-08-16'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-reviews meeting resolution criteria were found. Articles [9], [10], [11], [12], and [13] are systematic/literature
+    reviews on AI and critical thinking published 2025-2026, but their actual conclusions cannot be verified from the provided
+    metadata. The resolution requires a meta-review that explicitly concludes a "significant negative association between
+    AI use and decreased critical thinking." While headlines and article previews (e.g., articles [1], [5]) suggest concern
+    about AI harming critical thinking, these are not meta-reviews and do not constitute direct evidence toward YES resolution.
+    The criteria gap is substantial: we have identified review articles on the topic but lack verification of their actual
+    findings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://doi.org/10.3390/jintelligence13120160
+  - https://doi.org/10.3390/a19030179
+  - https://doi.org/10.1186/s40561-025-00406-0
+  - https://doi.org/10.20961/ijie.v9i2.103868
+  - https://doi.org/10.51574/ijrer.v5i4.5010
+  trajectory_signal: Articles [9]-[13] represent meaningful momentum TOWARD the resolution criteria being met. These are recent
+    systematic reviews and meta-analyses (Dec 2025 - Jul 2026) directly addressing "AI impact on critical thinking" or "higher-order
+    thinking." Their existence signals growing scholarly attention to synthesizing evidence on this exact question. Additionally,
+    articles [1] and [5] from Aug 2026 document institutional concern (New Zealand Education Review Office, medical education
+    bodies) about AI degrading critical thinking, suggesting the underlying phenomenon is becoming empirically documented.
+    The trajectory indicates that a meta-review finding significant negative association is increasingly plausible—the infrastructure
+    of evidence synthesis on this topic is being built now. However, publication dates of actual review conclusions remain
+    unknown, and headline claims don't confirm their findings.
+- date: '2026-08-23'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review published after 2026-08-09 concludes significant association between
+    AI use and decreased critical thinking. Articles [13], [14], [15], [16], [17] are systematic reviews on related topics,
+    but all have publication dates before the cutoff (2025-2026 early), making them stale for the current evaluation window.
+    Critically, none of these reviews'' actual findings are described in the provided content—only metadata is given—so we
+    cannot verify whether they conclude "significant negative association" as required. The resolution criteria explicitly
+    require a meta-review finding "significant negative association" published after 2026-08-09. This has not been satisfied.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ibtimes.co.uk/generative-ai-homework-exam-score-decline-1815437
+  - https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn/
+  - https://news.cocoloop.cn/en/2026/08/ai-homework-learning-penalty/
+  - https://thenextweb.com/news/ai-weaken-human-capability-cognitive-debt
+  trajectory_signal: 'Strong directional momentum toward YES, but not yet meeting resolution criteria. Articles [1], [2],
+    [10], [11] provide individual study evidence pointing toward negative effects:'
+- date: '2026-08-30'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction specifically requires a **meta-review/systematic review
+    that concludes significant association between AI use and decreased critical thinking**. While articles [8], [10], [11],
+    [12] are labeled as systematic reviews, their actual conclusions are not provided in the snippets—we cannot verify whether
+    they found significant negative associations or opposite results. Articles [0], [1], [2] are survey data from teachers/organizations
+    (not meta-reviews of research literature). Articles [3], [5], [6], [7] present individual studies or observational data,
+    not meta-analyses. The resolution criteria require a specific publication type with a specific conclusion; these articles
+    do not demonstrate that exists yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://scienmag.com/generative-ais-stem-learning-impact-and-limits-revealed-by-systematic-review/
+  - https://eu.36kr.com/en/p/3952134936368772
+  - https://buildcognitiveresonance.substack.com/p/the-50-percent-problem
+  - https://doi.org/10.3390/a19030179
+  - https://doi.org/10.3390/jintelligence13120160
+  trajectory_signal: Moderate momentum in the direction of YES. Articles [5], [6], [7] present a large 26,000-student longitudinal
+    study showing AI use correlates with 24% lower exam scores despite 18% homework gains—suggesting real-world critical thinking/deeper
+    learning deficits. Articles [0], [1], [2] show growing observational consensus among teachers about declining critical
+    thinking skills. Article [3] presents a controlled experiment showing AI-assisted spec reviewers performed 8% worse. These
+    individual studies accumulate empirical support for a negative association. Articles [8], [9] appear to be actual meta-analyses/systematic
+    reviews published in 2025-2026 on this exact topic—if they contain negative findings, they could trigger resolution YES,
+    but their conclusions remain opaque in the provided data. The fact that multiple meta-reviews are now appearing (articles
+    [8], [10], [11], [12]) suggests the field is consolidating evidence, but none have been confirmed to reach the required
+    conclusion.
+- date: '2026-09-06'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews specifically examining the association between AI use and critical
+    thinking were found. The resolution criteria explicitly requires a meta-review/systematic review that concludes a significant
+    negative association. While article [10] is titled "A Systematic Scoping Review," its content concerns AI in healthcare
+    education, not critical thinking outcomes—outside the scope. No articles meet the KEEP threshold because none constitute
+    the meta-review/systematic review that would resolve the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cepr.org/voxeu/columns/generative-ai-learning-penalty-secondary-school
+  - https://www.sydney.edu.au/news-opinion/news/2026/09/03/australia-lacks-evidence-on-genai-in-schools--landmark-global-re.html
+  - https://scienceblog.com/t-ai-confidence-less-critical-thinking-319-knowledge-workers/
+  - https://newsable.asianetnews.com/technology/long-term-chatgpt-use-could-weaken-critical-thinking-mit-study-warns-articleshow-4g3ydga
+  - https://www.aljazeera.com/news/2026/9/2/faster-homework-poor-exam-results-what-ai-is-doing-to-students-learning
+  trajectory_signal: 'Several recent individual studies and surveys signal momentum TOWARD_YES resolution:'

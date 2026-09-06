@@ -5,10 +5,11 @@ category: Research
 baseline: 'Jan 2026: 0.44% (4-mo avg). Top issues poll 15-30%. 2% = ~5x increase.'
 resolution_criteria: 'YES: 4-month average ≥2%. NO: <2%.'
 search_keywords:
-- AI public concern
-- Gallup poll technology
-- technology problem poll
-- Gallup technology
+- Gallup most important problem computers technology
+- Gallup MIP poll technology AI 2026
+- Americans most important problem technology
+- Gallup open-ended poll AI concern percentage
+- computers technology Gallup monthly poll
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +33,8 @@ forecasts:
   human-6: 80
   human-7: 20
   human-8: 15
+  human-9: 50
+  human-10: 20
 evidence:
 - date: '2026-02-01'
   summary: Found 3 articles
@@ -45,3 +48,515 @@ evidence:
   - https://www.marketplace.org/story/2026/01/26/most-americans-concerned-about-ai-even-as-it-drives-economy
   - https://techstrong.ai/features/gallup-poll-ai-use-at-work-slows-even-as-power-users-lean-in/
   - https://www.economicsobservatory.com/who-trusts-ai
+- date: '2026-02-07'
+  summary: Found 11 articles
+  sources:
+  - https://calmatters.org/economy/technology/2026/02/newsom-needs-more-ai-regulation-to-be-president-say-unions/
+  - https://www.gallup.com/analytics/701519/worlds-most-important-problem-report.aspx
+  - https://apnews.com/article/poll-gallup-top-issue-democracy-economy-inflation-housing-2b04063cf966a7227715b85410fbd4fa
+  - https://time.com/7371825/trump-data-center-ai-backlash-ai-america-china/
+  - https://thehill.com/homenews/education/5720796-states-education-ai-regs-trump-order/
+  relevance: UNCLEAR. While the evidence titles suggest technological issues are increasingly prominent, none directly indicates
+    the specific Gallup polling metric of ≥2% identifying computers/technology as the most important problem.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.gallup.com/analytics/701519/worlds-most-important-problem-report.aspx
+  relevance: 'NONE: No articles contain concrete Gallup polling data on Americans identifying computers/technology as the
+    most important problem—article [0] mentions a Gallup World Poll but about global concerns (economy), not U.S. technology
+    concerns, and remaining articles discuss AI regulation, workplace AI use, or education AI adoption rather than Gallup''s
+    "most important problem" polling metrics.'
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles directly measure whether computers/technology reached ≥2% in Gallup''s "Most Important Problem"
+    polling. Article [0] is a world problems report (not US-specific). Article [6] shows Gallup''s historical MIP data exists
+    but contains no actual percentages. Critical gap: no data showing current or recent US technology/computer percentages
+    in Gallup MIP polling needed to assess resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54123-most-americans-say-ai-artificial-intelligence-will-reduce-number-jobs-in-us-united-states-february-13-16-2026-economist-yougov-poll
+  - https://today.yougov.com/technology/articles/54123-most-americans-say-ai-artificial-intelligence-will-reduce-number-jobs-in-us-united-states-february-13-16-2026-economist-yougov-poll
+  trajectory_signal: Articles [3] and [4] (both 2026-02-17, within preferred range) show growing salience of AI concerns among
+    Americans—majorities express distrust in AI, think companies are overinvesting, and believe AI will reduce jobs. This
+    represents directional momentum toward technology becoming a more prominent national concern. However, this is attitudinal
+    data (views *about* AI), not Gallup MIP polling (spontaneous mentions of tech as *most important problem*). The increased
+    anxiety about AI could eventually translate into higher MIP percentages, but that translation has not yet occurred. Articles
+    [1], [2], [9], [11], [13] document rising workplace AI adoption but don't address problem salience. Article [5] is from
+    2020 (stale). Article [7] addresses national conditions broadly but not technology specifically.
+- date: '2026-03-01'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology will reach ≥2% as "most important
+    problem" in Gallup polling by Dec 31, 2026. Article [0] is a generic Gallup trend page with no data. Article [1] is a
+    prediction market showing current forecaster estimates (17% believe <0.5%, 23% believe 0.5-1%), not actual polling data.
+    Articles [2], [3], [4], [5], [6] discuss other topics (AI at work, general predictions, big business threats, global problems,
+    historical trends) but contain no specific data on computers/technology as "most important problem." Articles [7-10, 13,
+    15] discuss AI adoption, usage, and concerns generally—not the specific Gallup "most important problem" metric. CRITICAL
+    GAP: We need actual Gallup MIP polling data from Feb 15, 2026 onward showing the percentage citing computers/technology
+    as the top problem. The baseline is 0.44% (Jan 2026 4-month average), requiring ~5x increase to hit 2% threshold.'
+  trajectory_sources:
+  - https://www.gallup.com/workplace/701195/frequent-workplace-continued-rise.aspx
+  - https://www.gallup.com/workplace/699689/ai-use-at-work-rises.aspx
+  - https://techxplore.com/news/2026-01-americans-ai-gallup-poll.html
+  trajectory_signal: Articles [11], [12], and [14] document rising AI adoption at work (10% daily use in Q4 2025 rising to
+    12%, 26% using AI weekly, 45% using it at least a few times yearly). This shows growing integration of AI/technology into
+    American work life, which *could* theoretically increase salience as a "problem" if concerns about displacement, ethics,
+    or disruption translate into top-problem mentions. However, these articles measure adoption/usage rates, not concern ranking.
+    The direction is weakly TOWARD_YES (increased technology prominence in daily life may increase problem perception), but
+    this is indirect and speculative. No actual MIP polling data showing computers/technology concern rising.
+- date: '2026-03-08'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology has reached ≥2% in Gallup''s "Most
+    Important Problem" polling. Article [5] (FOX 9, March 3, 2026) appears to report on MIP findings but the content is truncated
+    and doesn''t reveal the actual data. Article [6] reports government at 29%, immigration at 20%, economy and inflation
+    following—but cuts off before showing technology metrics. Articles [1], [4], [9], [12] discuss AI workplace adoption (not
+    MIP sentiment), and articles [10], [11] are Gallup topical landing pages with minimal content. The critical gap: no article
+    shows actual MIP polling percentages for computers/technology category for recent periods (Feb-Mar 2026).'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.fox9.com/news/what-most-americans-say-country-top-problem-is
+  - https://news.gallup.com/poll/702719/government-leads-nation-top-problem.aspx
+  - https://news.gallup.com/poll/694685/americans-prioritize-safety-data-security.aspx
+  - https://news.gallup.com/poll/692435/major-threat-next-tech-thing.aspx
+  trajectory_signal: Articles [14] and [15] show Americans have concerns about AI safety/data security and view AI as a major
+    threat—suggesting technology IS entering public consciousness as a concern. Article [5] (March 3, 2026) explicitly covers
+    "what most Americans say the country's top problem is," positioned as recent MIP data, though the actual numbers aren't
+    visible in provided content. However, article [6] ("Government Still Leads...") suggests the MIP landscape is dominated
+    by government (29%), immigration (20%), economy, and inflation—with no mention of technology breaking through to top-tier
+    status. This directional signal points AWAY from the 5x increase (0.44% → 2%) needed by end-2026, despite growing AI concern
+    as an issue category.
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward the resolution criteria. The prediction requires Gallup polling
+    data showing ≥2% of Americans identifying computers/technology as the "most important problem" (a 4-month average). None
+    of the articles contain such polling data or even mention this specific Gallup question. Article [0] mentions "Gallup"
+    but reports workplace AI adoption statistics (43-41% using AI), not responses to the "most important problem" question.
+    Articles [5], [6], and [8] discuss Americans'' views of AI risks/benefits, but these are opinion/sentiment metrics, not
+    the specific "most important problem" identification metric required for resolution. The baseline context shows 0.44%
+    in January 2026—a 5x increase needed by December 2026 is a substantial gap with no direct evidence of progress toward
+    it yet.'
+  trajectory_sources:
+  - https://www.gallup.com/workplace/702983/adoption-rapidly-growing-public-sector.aspx
+  - https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/
+  - https://www.nbcnews.com/politics/politics-news/poll-majority-voters-say-risks-ai-outweigh-benefits-rcna262196
+  trajectory_signal: 'Articles [0], [5], and [6] signal directional momentum around AI prominence in public discourse and
+    adoption:'
+- date: '2026-03-22'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of Gallup polling data on Americans identifying computers/technology
+    as the most important problem. The resolution criteria requires a 4-month average ≥2% from Gallup''s "most important problem"
+    polling specifically. None of the articles present this metric. Article [7] mentions "Cost-of-living crisis is Americans''
+    top issue, new poll finds" but does not specify the source or provide comparative data on technology/computers rankings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ipsos.com/en-us/most-americans-agree-government-should-regulate-ai-party-splits-emerge-how
+  - https://www.redfin.com/news/survey-ai-fears-housing-affordability/
+  - https://www.geneonline.com/survey-finds-60-of-americans-concerned-ai-could-replace-jobs-and-impact-housing-affordability/
+  - https://wpta21.marketminute.com/article/abnewswire-2026-3-20-most-americans-think-googles-ai-is-biased-theyre-using-it-anyway
+  - http://www.openpr.com/news/4433686/most-americans-think-google-s-ai-is-biased-they-re-using-it
+  trajectory_signal: 'Articles [1, 3, 4, 11, 12] show growing concern and salience of AI/technology issues among Americans:'
+- date: '2026-03-29'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on Gallup''s "most important problem" polling data tracking computers/technology
+    identification at the 2% threshold. The resolution criteria specifically requires Gallup polling data showing ≥2% (4-month
+    average) identifying computers/technology as the most important problem. None of the articles present this specific metric
+    or data point. Articles [0], [2], and others discuss AI/technology sentiment broadly, but sentiment polling differs from
+    Gallup''s "most important problem" methodology, which uses open-ended responses to a specific question about the nation''s
+    most pressing issues.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.guardian.co.uk/commentisfree/2026/mar/24/midterm-elections-ai-voters
+  - https://www.washingtonpost.com/technology/2026/03/26/americans-dont-trust-ai-will-probably-keep-using-it-anyway/
+  - https://yougov.com/en-us/articles/54402-vast-majorities-of-democrats-and-republicans-are-concerned-about-technologys-effect-on-misinformation-and-personal-privacy
+  trajectory_signal: 'Three articles signal directional momentum that could contribute to resolution:'
+- date: '2026-04-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on the specific Gallup polling measure required for resolution: "≥2%
+    of Americans identify computers/technology as most important problem."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.foxnews.com/politics/fox-news-poll-broad-anxiety-about-ai-doesnt-extend-jobs
+  - http://www.ibtimes.com/nearly-half-us-college-students-consider-changing-majors-due-ai-concerns-poll-finds-3800794
+  - https://www.oica.org/ai-protection
+  - https://digitalmarketreports.com/news/64795/poll-shows-americans-using-ai-more-while-trust-remains-low-and-concerns-rise/
+  trajectory_signal: 'Articles [5, 6, 9, 10] show meaningful momentum toward YES:'
+- date: '2026-04-12'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria. The prediction requires ≥2% of Americans
+    identifying "computers/technology" as the most important problem in Gallup polling (4-month average by Dec 31, 2026).
+    None of the articles report this specific metric from Gallup''s "most important problem" tracking poll. Articles [0-2]
+    report healthcare as top concern (61%), but this measures worry about a specific issue, not identification of technology/computers
+    as the most important problem. The baseline context shows 0.44% as of January 2026, requiring a ~5x increase to hit 2%.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/iris-2026-icc-survey-highlights-consumer-gap-between-feeling-secure-and-actually-staying-secure-302735144.html
+  - https://www.digitalinformationworld.com/2026/04/americans-use-ai-more-but-express-low.html
+  - https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx
+  - https://www.k12dive.com/news/gen-z-ai-gallup-poll-negative-sentiment/817188/
+  - https://www.filmogaz.com/212434
+  trajectory_signal: 'Articles [3-7, 9] signal growing public concern about AI and technology issues, which could eventually
+    translate into higher "most important problem" polling:'
+- date: '2026-04-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence addressing whether computers/technology will be identified as the
+    "most important problem" in Gallup polling. The resolution criteria requires a specific 4-month average ≥2% on the "most
+    important problem" question—a particular Gallup survey item that asks respondents to name the single most pressing issue
+    facing the country. None of the articles present data on this metric. Articles [1, 3, 5, 6, 7] discuss AI adoption and
+    workplace use from Gallup polls, but these measure employee engagement with AI tools, not public perception of technology/computers
+    as a *top national concern*. This is a categorical mismatch—workplace adoption surveys are fundamentally different from
+    "most important problem" polling. Articles [2, 4] address environmental concern and ratings, which are also off-topic.
+    Articles [8, 9, 10, 11] are academic reviews unrelated to the prediction. **Critical gap:** No baseline data on current
+    "most important problem" mentions for computers/technology in 2026, and no evidence of the ~5x increase needed to reach
+    2%.'
+  trajectory_sources:
+  - https://apnews.com/article/ai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367
+  - https://www.gallup.com/workplace/704225/rising-adoption-spurs-workforce-changes.aspx
+  - https://www.gallup.com/workplace/704252/workplace-separates-adopters-holdouts.aspx
+  - https://techxplore.com/news/2026-04-ai-employees-gallup-poll.html
+  - https://www.gmtoday.com/business/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup/article_ecba3352-a007-5aec-a04c-d6c7987a4d22.html
+  trajectory_signal: Articles [1, 3, 5, 6, 7] signal *increasing salience of AI in the public consciousness* and workplace
+    adoption (50% of employed adults now use AI at least a few times yearly, up from 46% last quarter). This represents growing
+    integration of technology into daily life and conversations. However, this is a WEAK and INDIRECT signal for the prediction.
+    Rising *use* of AI does not necessarily translate to AI/computers becoming a *top national concern* on par with economy,
+    inflation, healthcare, and immigration—which typically dominate "most important problem" responses. Workplace adoption
+    momentum could plausibly eventually drive public concern about job displacement, skills gaps, or regulation, but this
+    trajectory is speculative and requires intervening factors (visible job losses, regulatory crises, etc.). **Direction:**
+    Slight momentum toward trajectory, but no evidence yet of breakthrough into top-tier national concern rankings.
+- date: '2026-04-26'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of computers/technology polling at ≥2% as "most important problem"
+    in Gallup''s standard "most important problem" question. This is the specific metric that resolves the prediction. Articles
+    [0-5, 12] discuss AI-related concerns (backlash, skepticism, negative views on privacy/jobs) but do NOT cite actual Gallup
+    "most important problem" polling data showing computers/technology at any percentage. Articles [6-11] are off-topic (Congress
+    disapproval, environment, depression rates, EU health systems). The critical gap: no source document actually reports
+    Gallup''s "most important problem" question results for computers/technology category for 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://startupfortune.com/gen-z-uses-ai-more-than-ever-but-a-new-gallup-poll-shows-their-excitement-has-collapsed/
+  - https://cleantechnica.com/2026/04/20/with-wider-use-the-dangers-of-ai-become-apparent-to-more-people/
+  - https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs
+  - https://www.aol.com/articles/fox-news-poll-voters-see-220002767.html
+  - https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks
+  trajectory_signal: 'Articles 1, 2, 4, 5, 12 show DIRECTIONAL MOMENTUM toward YES by documenting growing AI-related concerns
+    among Americans:'
+- date: '2026-05-03'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology will reach ≥2% as Americans'' most
+    important problem by Dec 31, 2026. Articles [0], [1], [2], [4], [5], [10] address most important problems but focus on
+    economy, affordability, and politics—not technology. Article [7] discusses driverless cars as a future expectation but
+    not as current "most important problem." The resolution criteria requires Gallup polling data on the specific question
+    "most important problem facing the country" with technology/computers reaching ≥2% average over 4 months. No such data
+    is presented. Critical gap: No baseline current percentage for technology/computers in the "most important problem" category
+    is provided in these articles; we only know it was 0.44% in Jan 2026 from prediction context.'
+  trajectory_sources:
+  - https://pshra.org/gallup-half-of-employed-american-adults-now-use-ai-on-the-job/
+  - https://www.wpr.org/news/latest-marquette-polls-find-deep-skepticism-data-centers-artificial-intelligence
+  - https://www.yahoo.com/news/articles/poll-gop-voters-skeptical-ai-110000511.html
+  - https://link.springer.com/article/10.1007/s00146-026-03023-8
+  trajectory_signal: 'Articles [3], [6], [8], [12] signal growing public concern and debate around AI/technology:'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of computers/technology polling at ≥2% as an important problem in
+    Gallup surveys. Article [1] explicitly states AI is ranked as Americans'' "29th most important issue" according to a recent
+    survey, and notes that "outside the tech bubble, Americans really don''t care about AI yet." This directly contradicts
+    the resolution criteria. The baseline (0.44% in Jan 2026) remains the most recent concrete Gallup data on this specific
+    metric. No new Gallup "most important problem" polling data showing computers/technology has moved significantly is presented
+    in any article.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://marginalrevolution.com/marginalrevolution/2026/05/do-americans-really-hate-ai.html
+  - https://alltechmagazine.com/how-is-ai-perceived-in-society/
+  - https://www.gate.com/news/detail/latest-politico-poll-45-of-americans-say-crypto-investment-too-risky-44-20784900
+  trajectory_signal: 'Articles [1], [3], and [11] show directional signals, but they all point TOWARD_NO rather than TOWARD_YES:'
+- date: '2026-05-17'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of whether Americans identify "computers/technology" as the most important
+    problem in Gallup polling. The resolution criteria require a specific 4-month average ≥2% from Gallup''s "most important
+    problem" question. While baseline context shows 0.44% in January 2026, none of these articles cite current Gallup "most
+    important problem" polling data. Articles [0-4] discuss AI sentiment, concerns, and skepticism but conflate this with
+    what Americans rate as their "most important problem"—a critical distinction Gallup tracks separately. The prediction
+    requires ~5x growth in a specific metric; no articles measure this metric or provide trajectory data toward it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54762-most-americans-say-artificial-intelligence-ai-development-moving-too-fast-twice-as-many-ai-pessimists-as-ai-optimists-may-9-11-2026-economist-yougov-poll
+  - https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+  - https://www.annenbergpublicpolicycenter.org/americans-pessimistic-about-ais-impact-and-want-more-regulation/
+  - https://www.aol.com/news/gen-z-increasingly-skeptical-angry-190006260.html
+  - https://www.kpvi.com/interests/gen-z-increasingly-skeptical-of-and-angry-about-artificial-intelligence/article_3f6579d0-bf0f-59fe-ae37-ad62dbe3f14e.html
+  trajectory_signal: Articles 0-4 show growing negative sentiment toward AI among Americans (pessimism > optimism, Gen Z anger
+    increasing, concerns about job displacement and regulation). Articles 1, 6, 8, 10 show 70-71% opposition to AI data centers
+    (Gallup data from March 2-18, released May 13). This indicates rising salience and concern about technology/AI infrastructure
+    issues in the American consciousness. However, "opposition to data centers" and "general pessimism about AI" do not directly
+    translate to identifying computers/technology as the *most important problem facing the nation*—which competes against
+    inflation, healthcare costs, deficit, and other economic issues dominating top-problem polling [5, 7]. The trajectory
+    shows *increased visibility* of technology concerns but lacks evidence these have risen enough in priority ranking to
+    reach 2% on Gallup's most-important-problem metric. Direction is TOWARD_YES but with uncertain magnitude; sentiment shifts
+    don't guarantee threshold achievement by Dec 2026.
+- date: '2026-05-24'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles directly provide evidence on whether "computers/technology" reached ≥2% as the "most important
+    problem" in Gallup polling. The baseline context specifies this requires specific Gallup "most important problem" polling
+    data (4-month averages), and none of these articles report that metric. Articles [0, 3, 4, 8] discuss Gallup surveys on
+    AI concerns, regulation adequacy, and productivity impacts, but these measure different constructs (worry about misuse,
+    regulatory gaps, workplace benefits) rather than ranking technology as the "most important problem facing the country."
+    Articles [1, 2, 6, 7, 9, 10] report the May 2026 Gallup poll on data center opposition (70-71%), which is a concrete finding
+    but doesn''t address the "most important problem" category ranking required for resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cbsnews.com/news/opinion-poll-government-ai-jobs/
+  - https://finance.yahoo.com/sectors/technology/articles/amazon-meta-microsofts-ai-data-150118422.html
+  - https://www.forbes.com/sites/jamesbroughel/2026/05/20/why-americans-are-turning-against-data-centers/?ss=ai
+  - https://www.indianagazette.com/news/the-government-hasn-t-done-enough-to-regulate-ai-most-americans-say-in-a-new/article_19adedc1-9094-5eac-bbf8-835bd307cda2.html
+  - https://tech.yahoo.com/ai/articles/why-americans-turning-against-data-093928742.html
+  trajectory_signal: 'Articles collectively show strong momentum TOWARD_YES on AI/technology salience:'
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology will reach ≥2% as Americans'' most
+    important problem in Gallup polling by Dec 31, 2026. The baseline (Jan 2026: 0.44%) requires a 5x increase. While articles
+    [3] and [8] reference Gallup polling on AI-related concerns, neither reports the specific metric needed for resolution:
+    the percentage identifying computers/technology as the single most important problem facing the country. Article [8] cites
+    a Gallup poll showing 71% oppose AI data center construction, but opposition to a specific infrastructure project differs
+    fundamentally from naming "computers/technology" as the nation''s top problem. Articles [1], [4], [6] show public concern
+    about data centers but don''t address the "most important problem" metric. Articles [5], [1] show prices/economy dominating
+    current concerns (39% naming prices as single most important problem in May 2026), which crowds out other issues. Critical
+    gaps: No data on current percentage identifying computers/technology as most important problem in May-June 2026; no trend
+    data showing directional movement toward 2%.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://timebulletin.us/fox-news-poll-voters-see-ai-regulation-as-urgent-rank-safeguards-ahead-of-innovation/
+  - https://www.fool.com/investing/2026/05/30/opposition-ai-data-centers-nuclear-startup-oklo/
+  trajectory_signal: Articles [3] and [8] signal growing salience of AI regulation and data center concerns. Fox News Poll
+    [3] shows 77% find AI regulation "extremely" or "very" urgent (late May 2026), and Gallup [8] shows 71% opposition to
+    data center construction. This suggests AI/technology is rising in public consciousness. However, these measure specific
+    policy concerns, not ranking of technology as the nation's *most important problem*—a much higher bar. Current polling
+    shows prices/economy dominating the "most important problem" category. The trajectory suggests modest momentum toward
+    technology concerns becoming more salient, but substantial additional resonance would be needed to reach 2% by Dec 2026.
+- date: '2026-06-07'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles directly report Gallup polling data on "computers/technology" as the most important problem
+    facing America, which is the specific resolution criterion. The prediction requires a 4-month rolling average ≥2% by December
+    31, 2026. Articles [5] and [6] reference "a recent Gallup poll" but provide no actual percentages for the "most important
+    problem" metric. Without concrete Gallup MIP (most important problem) data showing the current trend line toward 2%, there
+    is no TIER 1 evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54888-more-expect-artificial-intelligence-ai-affect-economy-negatively-than-positively-americans-split-how-ai-will-impact-their-lives-may-29-june-1-2026-economist-yougov-poll
+  - https://www.csmonitor.com/USA/Society/2026/0601/artificial-intelligence-fears-american-public-opinion
+  - https://www.ipsos.com/en-us/comparing-us-and-global-attitudes-toward-ai
+  - https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash
+  - https://www.postregister.com/freeaccess/americans-overwhelmingly-oppose-data-centers-women-most-of-all/article_275a5d2e-a719-571f-96c3-95e56387b27f.html
+  trajectory_signal: 'Multiple recent articles (published 2026-06-01 to 06-06, within preferred date range) document strong
+    negative sentiment toward AI and technology among Americans:'
+- date: '2026-06-14'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on Gallup polling data measuring what percentage of Americans identify
+    "computers/technology" as the most important problem. The resolution criteria requires a 4-month average ≥2% from Gallup
+    specifically. None of the articles present Gallup''s "most important problem" polling results or mention computers/technology
+    reaching that threshold. Article [6] mentions "The Nation''s Pulse" tracking Americans'' top priorities but doesn''t specify
+    the metric or provide relevant data.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54762-most-americans-say-artificial-intelligence-ai-development-moving-too-fast-twice-as-many-ai-pessimists-as-ai-optimists-may-9-11-2026-economist-yougov-poll
+  - https://gvwire.com/2026/06/10/half-of-americans-fear-ai-could-put-someone-in-their-household-out-of-work-reuters-ipsos-poll-finds/
+  - https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/
+  - https://theplanettools.ai/blog/gallup-poll-71-percent-americans-oppose-ai-data-centers-june-2026
+  trajectory_signal: 'Articles [0, 2, 4, 5] show strong momentum indicating growing public concern about AI and technology
+    issues:'
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about whether computers/technology will reach ≥2% as the "most important
+    problem" in Gallup''s open-ended polling by Dec 31, 2026. The critical gap: none of these articles cite actual Gallup
+    "most important problem" data showing the current percentage or tracking toward 2%. Articles [1] and [6] reference Gallup
+    employment data but not the MIP metric. The resolution criteria specifically requires a 4-month average ≥2% in Gallup''s
+    open-ended "most important problem" question—a precise metric that none of these articles address directly.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54762-most-americans-say-artificial-intelligence-ai-development-moving-too-fast-twice-as-many-ai-pessimists-as-ai-optimists-may-9-11-2026-economist-yougov-poll?stream=top
+  - https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/
+  - https://www.foxnews.com/politics/fox-news-poll-move-over-big-brother-voters-see-big-tech-greater-threat-us
+  - https://theaiinsider.tech/2026/06/18/most-americans-hold-negative-views-of-ai-despite-rising-daily-use-pew-research-finds/
+  trajectory_signal: 'Articles 0, 2, 5, 7 show growing public concern about AI/tech:'
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of computers/technology reaching ≥2% as Americans'' most important
+    problem in Gallup polling. The resolution criteria requires a specific Gallup "most important problem" poll question with
+    a 4-month rolling average ≥2%. None of the articles cite such data. Article [5] mentions "From Standard List, 26% Rate
+    Economy as Top Issue" but doesn''t address technology/computers specifically and lacks the Gallup MIP poll context needed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.webpronews.com/americas-sharp-turn-against-ai-polls-reveal-deepening-distrust-despite-rising-use/
+  - https://www.thecentersquare.com/national/article_6df1e739-d622-4260-a77d-2bdbe69fa274.html
+  - https://www.futurity.org/americans-support-regulations-ai-3338912/
+  - https://www.lightreading.com/ai-machine-learning/most-americans-fear-ai-but-hope-is-splitting-the-country
+  - https://techstrong.ai/articles/ai-literacy-emerges-as-new-fault-line-in-tech-layoffs-gallup-study-finds/
+  trajectory_signal: 'Articles [0-4] collectively signal MODERATE MOMENTUM toward YES resolution:'
+- date: '2026-07-05'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology will reach ≥2% in Gallup''s "most
+    important problem" polling by Dec 31, 2026. Article [4] appears to be about Gallup''s most important issues poll (directly
+    relevant to resolution criteria), but the content provided is only navigation elements with no actual data. This is a
+    critical gap—we cannot verify current polling levels or trends. All other KEEP-tier candidates fail because they measure
+    sentiment about AI/technology (concern, negativity, support for regulation) rather than explicit identification of computers/technology
+    as the "most important problem" in Gallup''s specific polling format.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54285-many-americans-think-ai-companies-should-be-able-to-limit-how-us-military-uses-tools-march-6-9-2026-economist-yougov-poll
+  - https://officechai.com/ai/2-5x-as-many-americans-believe-ais-impact-on-society-will-be-negative-than-positive-young-most-pessimistic-pew-report/
+  - https://theoutpost.ai/news-story/bipartisan-support-surges-for-ai-regulation-as-poll-shows-68-want-mandatory-safety-reviews-27996/
+  - https://www.statista.com/statistics/1362236/most-important-voter-issues-us/
+  - https://www.newsmax.com/us/democrats-gop-ai/2026/06/29/id/1261220/
+  trajectory_signal: 'Articles [1, 2, 3, 8, 9] show sustained and growing public concern about AI/technology: 40% expect AI''s
+    negative impact (Pew, Feb 2026); 68% support AI regulation (June 2026); 63% fear rapid AI advancement (July 2026); 12%
+    of scams now involve AI (June 2026). This represents directional momentum toward heightened technology salience in public
+    consciousness. Article [4] potentially contains actual Gallup data on issue rankings but is unreadable in the provided
+    content. The trajectory signals are moderate—public concern about technology is clearly rising, but these are measurements
+    of sentiment/worry about AI specifically, not yet evidence that "computers/technology" ranks as Americans'' top problem
+    in Gallup''s aggregate polling. The gap between 0.44% (baseline Jan 2026) and 2% (target) is substantial; growing concern
+    is necessary but insufficient without seeing actual Gallup problem-ranking data.'
+- date: '2026-07-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward the resolution criteria. The prediction requires Gallup polling
+    showing ≥2% of Americans identifying "computers/technology" as the most important problem (4-month average by Dec 31,
+    2026). Baseline is 0.44% as of Jan 2026—a ~5x increase is needed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hamiltonstrategies.com/2026/07/06/big-tech-surpasses-big-government-as-americans-top-concern-new-poll-finds/
+  - https://www.movieguide.org/news-articles/poll-finds-americans-see-big-tech-as-threat-to-nations-future.html
+  trajectory_signal: 'Articles [3] and [9] signal MODERATE MOMENTUM toward YES. They document a significant shift in public
+    perception: Americans increasingly viewing Big Tech/tech as a major national concern (52% in Fox News poll by July 2026),
+    surpassing government concerns. This directional trend suggests growing salience of tech issues. Combined with articles
+    [1], [4], [6], [7] documenting widespread worry about AI''s pace and job displacement effects, there is clear evidence
+    that tech/AI anxiety is rising substantially in the 6 months since baseline (Jan 2026: 0.44%). However, this momentum
+    has NOT YET translated into measurable movement in Gallup''s specific "most important problem" metric—the only data that
+    resolves the prediction. The gap between growing concern and actual Gallup ranking remains unknown.'
+- date: '2026-07-19'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Gallup polling data on Americans identifying computers/technology
+    as the "most important problem." The resolution criteria require a specific 4-month average ≥2% from Gallup''s Most Important
+    Problem poll—a narrow, measurable threshold. None of the articles present this data or recent Gallup MIP results. Articles
+    [0] and [6] address confidence in Big Tech (related but different metric). Articles [1-5] discuss AI sentiment, concerns
+    about tech advancement, and trust in AI—adjacent topics but not the specific Gallup MIP question being forecasted.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54888-more-expect-artificial-intelligence-ai-affect-economy-negatively-than-positively-americans-split-how-ai-will-impact-their-lives-may-29-june-1-2026-economist-yougov-poll
+  - https://yougov.com/en-us/articles/45142-wconcerns-americans-about-future-us-tech-industry
+  - https://yougov.com/en-us/articles/53214-most-americans-use-ai-for-quick-answers-but-avid-users-trust-it-more
+  - https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study-q1-2026/
+  - https://yougov.com/en-us/articles/49793-share-americans-who-think-computers-are-more-intelligent-than-people-doubled-since-2022-technology-poll
+  trajectory_signal: 'Articles [1-5] collectively show MODERATE MOMENTUM toward YES, signaling growing salience of technology/AI
+    concerns among Americans:'
+- date: '2026-07-26'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology will be identified as the "most important
+    problem" in Gallup polling by end-2026. Article [5] shows inflation at 24% as most important issue (with jobs/economy
+    at 12%), and [6] identifies "threats to democracy" as top concern—neither mentions technology/computers as a problem.
+    The prediction requires a Gallup-specific measure of "most important problem" identification reaching ≥2% (4-month average).
+    No articles report Gallup''s "most important problem" polling data tracking this metric. Articles about AI adoption, AI
+    concerns, deepfakes, and governance discuss technology broadly but do not measure public perception of computers/technology
+    as the *most important problem facing the country*, which is the specific resolution criterion.'
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54888-more-expect-artificial-intelligence-ai-affect-economy-negatively-than-positively-americans-split-how-ai-will-impact-their-lives-may-29-june-1-2026-economist-yougov-poll
+  - https://www.semafor.com/article/07/21/2026/more-us-employees-are-using-ai-poll-finds
+  trajectory_signal: 'Articles [1], [8], and [0] show increased AI workplace adoption (47-52% of employees), growing public
+    concern about AI''s negative effects (65% say advancing too quickly, 47% expect negative societal effects), and awareness
+    of AI risks (deepfakes, propaganda, military use). This signals rising salience of technology issues in public consciousness.
+    However, the trajectory is currently TOWARD_NO: competing problems (inflation at 24%, democracy concerns) dominate the
+    "most important problem" rankings, and concern about AI doesn''t yet translate to it being named as the single most important
+    problem. The gap from 0.44% (Jan 2026 baseline) to 2% represents a ~5x increase needed in just 5 months—while momentum
+    exists, current polling shows technology issues remain peripheral to voters'' stated top concerns.'
+- date: '2026-08-02'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of computers/technology being cited as "most important problem" in
+    Gallup polling, which is the specific resolution criterion. Article [1] explicitly states "Government remains most-cited
+    issue as nation''s top problem," directly contradicting the prediction. The baseline context shows technology/computers
+    at only 0.44% as of January 2026—a starting point far below the 2% threshold needed. To resolve YES, this metric would
+    need to rise 5x by December 2026 based on a 4-month rolling average.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://news.gallup.com/poll/712751/americans-cool-toward.aspx
+  - https://news.gallup.com/poll/713018/economic-confidence-improves-july.aspx
+  - https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it
+  - https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup?amp=1
+  - https://www.wate.com/news/national/more-now-say-ai-does-more-harm-than-good-survey/
+  trajectory_signal: 'Articles [0, 2, 3, 4, 6] document a *negative* trajectory for AI/technology sentiment from July-August
+    2026. They show:'
+- date: '2026-08-09'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether computers/technology has reached ≥2% in Gallup''s "most
+    important problem" polling. Articles [0-10] focus on AI sentiment, skepticism, specific use cases (financial advice, data
+    centers), and concern about deepfakes—not on Gallup''s tracking of "most important problem" rankings. The prediction requires
+    a 4-month average reaching 2% by Dec 31, 2026. Baseline was 0.44% in January 2026. Zero articles reference Gallup''s "most
+    important problem" poll directly or provide updated percentages for this specific metric. Articles [11-15] are academic
+    papers with unknown/old publication dates and lack relevance.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://forklog.com/en/gallup-ai-skepticism-in-the-us-rises-to-39/
+  - https://yougov.com/en-us/articles/54888-more-expect-artificial-intelligence-ai-affect-economy-negatively-than-positively-americans-split-how-ai-will-impact-their-lives-may-29-june-1-2026-economist-yougov-poll
+  - https://yougov.com/en-us/articles/46058-majorities-americans-are-concerned-about-spread-ai
+  - https://www.prismnews.com/news/americans-increasingly-oppose-ai-data-centers-over-costs
+  - https://www.21alivenews.com/2026/08/06/new-poll-suggests-most-americans-are-not-sold-ai-data-center-boom/
+  trajectory_signal: 'Articles [0, 1, 3, 4, 7] show INCREASING CONCERN about AI among Americans—rising skepticism (39%), perception
+    of negative economic impact, majority concern about deepfakes/propaganda (71% oppose data centers, 65% say AI advancing
+    too quickly). This suggests growing salience of AI/technology issues in public consciousness. However, this trajectorial
+    momentum faces a critical headwind: Articles [5, 6] show that in August 2026, the actual "most important problem" rankings
+    remain dominated by inflation/cost of living and economy—not technology. This indicates that despite rising AI concern,
+    technology hasn''t displaced established top-tier issues in Gallup''s priority polling. The trajectory shows movement
+    TOWARD technology becoming more salient, but remains far below the 2% threshold and faces competitive displacement from
+    established economic concerns. Direction is TOWARD_NO because baseline (0.44%) would need a 5x increase in just 4 months,
+    and current trajectory data shows technology concerns remain secondary priorities.'
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of Gallup polling data on Americans identifying computers/technology
+    as their "most important problem." The resolution criteria requires a specific Gallup metric (4-month average ≥2% by Dec
+    31, 2026), and no article contains this data point. The baseline shows 0.44% in January 2026, requiring a 5x increase
+    to hit the threshold. Without actual Gallup "most important problem" polling results, there is no KEEP-tier evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/54762-most-americans-say-artificial-intelligence-ai-development-moving-too-fast-twice-as-many-ai-pessimists-as-ai-optimists-may-9-11-2026-economist-yougov-poll
+  - https://yougov.com/en-us/articles/46058-majorities-americans-are-concerned-about-spread-ai
+  - https://www.prnewswire.com/news-releases/opposition-to-local-data-centers-rises-sharply-annenberg-survey-finds-302847483.html
+  trajectory_signal: 'Articles [0], [1], and [6] show directional momentum suggesting Americans are increasingly focused on
+    technology/AI concerns:'
+- date: '2026-08-23'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Gallup polling data on Americans identifying computers/technology
+    as the "most important problem." The resolution criteria requires a 4-month average ≥2% from Gallup''s specific "most
+    important problem" question—a precise measurement that none of these articles address. Articles [0-4, 6] measure related
+    but distinct constructs: concern about AI, negative sentiment toward AI, job loss worries, and views on AI development
+    speed. These are sentiment measures, not Gallup''s "most important problem" ranking.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/
+  - https://ssrs.com/news/young-adults-concerned-about-ai/
+  - https://yougov.com/en-us/articles/54762-most-americans-say-artificial-intelligence-ai-development-moving-too-fast-twice-as-many-ai-pessimists-as-ai-optimists-may-9-11-2026-economist-yougov-poll
+  - https://www.theregister.com/ai-and-ml/2026/08/19/more-than-half-of-americans-now-view-ai-negatively/5289736
+  - https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/
+  trajectory_signal: 'Articles [0, 1, 2, 3, 4, 6] (all published 2026-08-18 to 2026-08-21, within preferred date range) show
+    STRONG MOMENTUM in the directional sense, but momentum toward sentiment rather than toward the specific resolution criteria:'
+- date: '2026-08-30'
+  summary: 6 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ktnv.com/news/7-out-of-10-americans-oppose-data-centers-new-gallup-poll-finds
+  - https://news.sbs.co.kr/amp/news.amp?news_id=N1008720077
+  - https://newrepublic.com/article/214795/ai-data-center-backlash-inevitable
+  - https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html
+  - https://tippinsights.com/americans-fear-higher-costs-strains-on-electricity-grid-from-data-centers-i-i-tipp-poll/
+- date: '2026-09-06'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. The prediction requires ≥2% of Americans
+    identifying computers/technology as the "most important problem" in Gallup polling by Dec 31, 2026. Baseline (Jan 2026):
+    0.44%. None of these articles cite actual Gallup polling data on what Americans identify as their "most important problem"
+    — the specific metric that triggers YES/NO resolution. Articles discuss opposition to data centers (70%+), AI job-loss
+    fears, and negative sentiment toward AI, but these measure opposition/concern about specific tech issues, not whether
+    "computers/technology" ranks as Americans'' *most important problem overall* in Gallup''s standard MIP (Most Important
+    Problem) polling.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yougov.com/en-us/articles/55479-nearly-two-thirds-americans-oppose-data-center-construction-in-their-community-august-28-31-2026-economist-yougov-poll
+  - https://www.businessinsider.com/voter-ai-backlash-tech-data-center-david-weigel-peter-kafka-2026-9
+  - https://cryptobriefing.com/americans-oppose-data-centers-local-builds/
+  - https://www.fxbus.com/en/news/20260903152636088234.html
+  - http://ai-in-highered.blogspot.com/2026/04/gallup-gen-z-growing-more-negative.html
+  trajectory_signal: 'Strong directional momentum TOWARD_YES. Multiple high-quality signals (all published within the preferred
+    date range of Aug 23 - Sep 6, 2026) indicate rapidly escalating salience of technology/AI issues among Americans:'

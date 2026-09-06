@@ -5,8 +5,12 @@ category: AI Safety
 baseline: Multiple lawsuits filed (Character.AI wrongful death). No ruling for plaintiffs yet.
 resolution_criteria: 'YES: Judgment or settlement with liability admission. NO: None.'
 search_keywords:
-- AI liability
-- AI lawsuit
+- Character AI wrongful death lawsuit ruling
+- OpenAI ChatGPT psychological harm verdict
+- AI chatbot liability court ruling 2026
+- Google Character AI settlement judgment
+- AI company liable harm court decision
+- AI lawsuit plaintiff wins damages
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -30,6 +34,8 @@ forecasts:
   human-6: 60
   human-7: 40
   human-8: 30
+  human-9: 80
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -43,3 +49,605 @@ evidence:
   - https://www.techpolicy.press/breaking-down-a-class-action-lawsuit-filed-over-grok-undressing-controversy/
   - https://cyberscoop.com/grok-undressed-victims-file-class-action-lawsuit-against-xai-elon-musk/
   - https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/
+- date: '2026-02-07'
+  summary: Found 8 articles
+  sources:
+  - https://www.esquiresolutions.com/predictions-for-2026-more-ai-more-litigation/
+  - https://www.investmentnews.com/regulation-legal-compliance/investors-sue-oracle-allege-executives-dumped-187b-amid-ai-hype/265164
+  - https://www.hklaw.com/en/insights/publications/2026/02/beyond-section-101-2026-intellectual-property-outlook
+  - https://www.reuters.com/legal/legalindustry/ftc-enters-new-chapter-its-approach-artificial-intelligence-enforcement--pracin-2026-02-04/
+  - https://www.hrreporter.com/focus-areas/automation-ai/was-it-a-hallucination-tribunal-cites-non-existent-court-decision-in-employees-submission/394012
+  relevance: WEAK_YES. The first and fourth evidence titles suggest increasing AI legal scrutiny and potential liability trends,
+    which incrementally support the prediction of an AI-related harm lawsuit in 2026.
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://mashable.com/article/chatgpt-lawsuits-openai
+  - https://mashable.com/article/openai-chatgpt-wrongful-death-lawsuit-amended
+  relevance: 'MODERATE: Articles [5] and [6] describe active lawsuits against OpenAI alleging ChatGPT caused psychological
+    harm (suicide, psychosis) with specific allegations about design defects and relaxed safeguards—directly relevant to whether
+    a court will rule for plaintiffs holding an AI company liable for psychological harm, though these are ongoing cases without
+    yet-reported judgments or settlements with liability admissions.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://gowlingwlg.com/en/insights-resources/articles/2026/hangzhou-ai-hallucination-case
+  relevance: 'NONE: Article [0] describes a Chinese case but provides no judgment or settlement details; articles [2], [3],
+    [5], [10] involve copyright/IP disputes not psychological or physical harm; articles [6], [7], [9] concern Meta/social
+    media but lack concrete 2026 rulings on AI company liability for harm; remaining articles are predictions, analysis, or
+    unrelated topics without concrete evidence of court rulings holding an AI company liable for psychological or physical
+    harm.'
+- date: '2026-02-15'
+  summary: 2 relevant articles
+  sources:
+  - https://www.calljed.com/blog/ai-chatbot-teen-suicide/
+  - https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots/
+  relevance: 'STRONG: Articles [5] and [6] report a settlement between Google/Character.AI and a plaintiff (Megan L. Garcia)
+    regarding psychological harm (teen suicide linked to AI chatbot), with [5] explicitly stating this is "an unprecedented
+    legal settlement" and [6] confirming the agreement as of January 8, 2026—directly evidencing a court/settlement resolution
+    with liability admission for psychological harm in the prediction timeframe.'
+- date: '2026-02-22'
+  summary: 5 relevant articles
+  sources:
+  - https://www.findarticles.com/ai-injury-attorneys-sue-chatgpt-in-psychosis-case/
+  - https://www.dera.ai/en/news/9e4b9c40-09bf-92be-e828-4d0ff4c0fd8b
+  - https://www.lanierlawfirm.com/product-liability/ai-suicide-lawsuit-chatgpt-attorney/
+  - https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/
+  - https://kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1857
+  relevance: 'MODERATE: Articles describe active lawsuits against AI companies (ChatGPT/OpenAI) alleging psychological harm
+    (psychosis, suicide) and self-harm in children filed in 2026, establishing concrete cases that could result in court rulings
+    on AI company liability, though none yet show actual court judgments or settlements with liability admissions.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.aicerts.ai/news/character-ai-settlement-raises-youth-safety-stakes-for-ai-firms/
+  relevance: 'STRONG: Article [11] published 2026-02-20 provides direct evidence of a Character.AI settlement in early January
+    2026 involving liability for psychological harm to adolescents, including a suicide case. The article explicitly states
+    "the startup and Google told multiple courts about a mediated Settlement" and references "a tragic suicide," indicating
+    settlement with implicit liability admission. This directly satisfies the resolution criteria ("YES: Judgment or settlement
+    with liability admission"). However, the article notes the accord is "confidential," so complete public details are limited.
+    The settlement is explicitly tied to youth safety and psychological distress allegations, matching the prediction''s scope
+    of psychological harm.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://trulaw.com/ai-suicide-lawsuit/
+  - https://www.lanierlawfirm.com/product-liability/ai-suicide-lawsuit-chatgpt-attorney/
+  - https://www.findarticles.com/ai-injury-attorneys-sue-chatgpt-in-psychosis-case/
+  - https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/
+  - https://www.dera.ai/en/news/9e4b9c40-09bf-92be-e828-4d0ff4c0fd8b
+  trajectory_signal: 'Articles [0, 1, 2, 3, 4] document strong momentum in the same domain:'
+- date: '2026-03-01'
+  summary: 5 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html
+  - https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots/
+  - https://www.euronews.com/next/2026/01/08/google-and-chatbot-start-up-characterai-to-settle-lawsuits-over-teen-suicides
+  - https://thelyonfirm.com/blog/character-ai-lawsuit-settlement-teen-mental-health-ai-safety/
+  - https://www.aicerts.ai/news/character-ai-settlement-raises-youth-safety-stakes-for-ai-firms/
+  relevance: 'STRONG: Articles [0], [1], and [4] report that Google and Character.AI have agreed to settle lawsuits involving
+    teen suicides linked to AI chatbots. Article [10] explicitly references "the recent settlement between Character.AI, Google,
+    and multiple families" involving "the tragic suicide" of a 14-year-old and notes this represents "a watershed moment in
+    artificial intelligence accountability." Article [11] confirms "In early January 2026, the startup and Google told multiple
+    courts about a mediated Settlement" where "Families had alleged the platform aggravated adolescent distress, including
+    a tragic suicide."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://in.mobile.reuters.com/legal/litigation/woman-suing-meta-youtube-over-social-media-addiction-expected-take-stand-trial-2026-02-26/
+  - https://www.edweek.org/policy-politics/social-media-companies-face-legal-reckoning-over-mental-health-harms-to-children/2026/02
+  trajectory_signal: Articles [8] and [9] show broader momentum toward holding tech companies liable for mental health harms.
+    Article [8] (Feb 26, 2026) reports ongoing California trial testimony with a plaintiff suing Meta and YouTube over social
+    media's mental health toll. Article [9] (Feb 20, 2026) describes "Social Media Companies Face Legal Reckoning Over Mental
+    Health Harms to Children" with Meta CEO testifying in "landmark trial." These signal strengthening legal pressure on tech
+    platforms for psychological harm but involve different entities (social media vs. AI chatbots) and are still in trial
+    phase rather than rulings.
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission that would
+    satisfy resolution criteria. Critical gaps remain: (1) Articles [4] and [7] reference settlements but provide no content
+    confirming liability admissions or judgment details; (2) Article [0] mentions a "Recent Settlement" paving way for trial,
+    suggesting settlement may exist but content is incomplete and published date unknown; (3) Articles [1-3, 9-11] describe
+    NEW lawsuits filed in early March 2026 (Gemini/Google cases, OpenAI teen suicide case) but these are at pleading stage,
+    not rulings; (4) None of these new filings constitute court rulings or settlements with liability admissions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.law.com/litigationdaily/2026/01/22/were-eager-to-have-this-fight-plaintiffs-attorney-says-recent-settlement-paves-way-for-trial-in-openai-teen-suicide-case/
+  - https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html
+  - https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots/
+  trajectory_signal: 'Moderate momentum signals toward resolution YES: Multiple settlement references (articles [4], [7] involving
+    Character.AI and Google) suggest defendants are willing to settle rather than litigate to judgment, which could include
+    liability admissions. Article [0] indicates ongoing trial preparation in OpenAI case. However, these are NOT yet rulings
+    or confirmed liability admissions—they represent pre-trial activity. New lawsuits filed against Google/Gemini (March 2026)
+    show expanding litigation exposure but are nascent. The trajectory shows increasing legal pressure and some apparent settlement
+    willingness, but the prediction requires an actual court ruling or settlement WITH LIABILITY ADMISSION by end of 2026.
+    Current evidence is suggestive of motion toward resolution but lacks concrete proof of liability determination.'
+- date: '2026-03-15'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission for an AI
+    company in a psychological/physical harm case. The resolution criteria require a judgment or settlement explicitly establishing
+    liability — none of these articles report that outcome. Article [12] mentions a court ruling on an OpenAI case but only
+    addresses an eDiscovery procedural matter ("Order is Clearly Erroneous"), not liability for harm.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.clickondetroit.com/news/world/2026/03/10/family-sues-chatgpt-maker-openai-over-school-shooting-in-canada/
+  - https://www.firstpost.com/explainers/did-google-gemini-ai-wife-chatbot-suicide-lawsuit-explained-13987686.html
+  - https://indianexpress.com/article/explained/explained-law/gavalas-vs-google-gemini-ai-chatbots-legal-liability-10571468/
+  - https://www.theglobeandmail.com/canada/article-families-of-tumbler-ridge-victims-pursuing-lawsuits-against-ai/
+  - https://bit.ly/47MinkD
+  trajectory_signal: 'Multiple articles signal momentum TOWARD resolution:'
+- date: '2026-03-22'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission for psychological
+    or physical harm caused by an AI company. Article [0] discusses "a dispute poised to define AI legal liability" but is
+    truncated and doesn''t specify whether there''s an actual ruling or liability admission. The resolution criteria require
+    a judgment or settlement with explicit liability admission—neither has occurred based on these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.torhoermanlaw.com/ai-lawsuit/talkie-ai-lawsuit/
+  - https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/
+  - https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/
+  trajectory_signal: 'Three articles signal meaningful momentum toward YES resolution:'
+- date: '2026-03-29'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict
+  relevance: 'MODERATE: Article [2] provides DIRECT evidence: A California court has consolidated 12+ lawsuits against OpenAI
+    alleging ChatGPT contributed to user suicides and mental health crises. The cases include wrongful death claims and product
+    liability complaints. However, this article only confirms case consolidation and assignment of a coordination judge—it
+    does NOT report an actual court ruling or settlement with liability admission yet. The criteria require a judgment or
+    settlement acknowledging liability; consolidation is procedural progress but not resolution. The article establishes the
+    cases exist and are moving through courts, but the prediction requires an affirmative ruling/settlement outcome, which
+    has not yet occurred as of March 29, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiproductivity.ai/news/california-consolidates-chatgpt-suicide-lawsuits-openai/
+  - https://futurism.com/artificial-intelligence/meta-court-defeat-ai-industry
+  trajectory_signal: Articles [1] and [7] signal important directional momentum toward YES. Article [1] (published 2026-03-26)
+    documents growing public opinion research on AI liability for chatbot-related harms, reflecting escalating litigation
+    pressure. Article [7] (published 2026-03-26) reports Meta and Google's landmark defeat in a social media harm case with
+    jury finding liability for psychological harm to minors. The article explicitly states "shrapnel from that fallout could
+    hit AI companies" and notes precedent implications for the AI industry. This Meta/Google verdict establishes legal precedent
+    for tech company liability in psychological harm cases, which directly strengthens the feasibility and likelihood of similar
+    rulings against AI companies. The trajectory shows mounting legal vulnerability for tech companies on harm liability and
+    growing judicial willingness to hold them accountable—both indicators pushing toward resolution YES, though not yet meeting
+    the specific criteria.
+- date: '2026-04-05'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission from an AI
+    company for psychological or physical harm in 2026. The prediction requires a specific judicial outcome (judgment or settlement
+    with liability admission) that has not yet materialized in any of these articles. Articles [2] and [10] describe a tragic
+    case (Luca Cella Walker asking ChatGPT for suicide methods) but report only on an inquest, not a court ruling or settlement.
+    No liability determination is mentioned.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://www.guardian.co.uk/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told
+  - https://law.stanford.edu/2026/03/30/architectural-negligence-what-the-meta-verdicts-mean-for-openai-in-the-nippon-life-case/
+  - https://nationaltoday.com/us/md/baltimore/news/2026/04/02/courts-rule-social-media-platforms-liable-for-harming-teen-mental-health/
+  - https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/
+  - https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms
+  trajectory_signal: 'Multiple articles signal meaningful momentum toward YES resolution:'
+- date: '2026-04-12'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission. The prediction
+    requires a judgment or settlement where the AI company admits liability by end of 2026. While multiple lawsuits are actively
+    progressing (Gemini wrongful death case, ChatGPT/FSU shooting case, OpenAI investigation), none have reached resolution
+    with a ruling for plaintiff or liability admission. Articles describe ongoing litigation and investigations, not judicial
+    outcomes.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update
+  - https://www.claimsjournal.com/news/national/2026/04/07/336735.htm
+  - https://www.cp24.com/news/world/2026/04/07/google-adds-gemini-crisis-features-amid-lawsuit-over-users-suicide/
+  - https://insiderpaper.com/google-adds-gemini-crisis-features-amid-lawsuit-over-users-suicide/
+  - https://www.thehindu.com/sci-tech/technology/google-adds-gemini-crisis-features-amid-lawsuit-over-users-death/article70836906.ece
+  trajectory_signal: 'Multiple significant momentum indicators suggest movement toward YES resolution:'
+- date: '2026-04-19'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. All articles
+    describe lawsuits filed or pending court proceedings, but no judicial decisions resolving the cases have occurred. The
+    prediction requires a completed judgment or settlement acknowledging liability—not filing or ongoing litigation. These
+    articles describe the claims and allegations but explicitly lack the resolution event needed for KEEP classification.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.abplive.com/technology/jonathan-gavalas-ai-chatbot-suicide-google-lawsuit-florida-man-death-1836694
+  - https://futurism.com/artificial-intelligence/woman-sues-openai-chatgpt-stalker
+  - https://sfstandard.com/2026/04/13/woman-fears-life-s-asking-judge-cut-ex-s-chatgpt/
+  - https://time.news/openai-sued-chatgpt-allegedly-facilitated-stalking-by-ex-boyfriend/
+  - https://gulfnews.com/amp/story/world%2Famericas%2Fmy-love-my-king-how-an-ai-chatbot-relationship-led-to-a-man-s-death-1.500505338
+  trajectory_signal: 'Strong directional momentum TOWARD_YES across multiple fronts:'
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. The prediction
+    requires a final judgment or settlement where an AI company admits liability for psychological/physical harm. All articles
+    describe lawsuits in progress or newly filed, not resolved cases. Articles [3], [5] describe former AG Platkin''s lawsuit
+    against OpenAI alleging ChatGPT mental health harms (filed March 5, 2026), and article [1] describes a father suing Google
+    over Gemini''s role in his son''s suicide. These are active litigation, not resolutions. Articles [8], [9], [10], [11],
+    [12] cover the Musk v. OpenAI case, which concerns breach of charitable trust and unjust enrichment—not AI harm liability.
+    Article [6] concerns a criminal investigation, not civil liability. Article [2] is background on Character.AI''s problematic
+    history. Article [0] covers regulatory proposals, not judicial rulings. CRITERIA GAPS: No article shows a court judgment
+    or settlement with liability admission. All describe pre-trial or investigative stages.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://112.ua/en/batko-podav-pozov-do-google-stucnij-intelekt-gemini-nibito-spriav-samogubstvu-sina-156371
+  - https://cdotimes.com/2026/04/20/former-ag-platkin-sues-openai-over-chatgpt-mental-harms-njbiz/
+  - https://njbiz.com/platkin-openai-chatgpt-lawsuit-mental-health/
+  trajectory_signal: 'Articles [1], [3], [5] show significant momentum toward YES resolution. Two major lawsuits explicitly
+    alleging psychological harm from AI chatbots are now advancing: Platkin v. OpenAI (filed March 2026, now in litigation
+    phase per article [5] describing it as entering "a new legal phase") and the Google/Gemini wrongful death case (filed
+    April 22, 2026). These represent high-credibility plaintiffs (former AG, bereaved parent) with specific harm allegations
+    (suicide/mental health). The frequency of new filings and involvement of former state attorney general suggest institutional
+    confidence in these cases'' viability. This trajectory suggests meaningful progress toward satisfying resolution criteria
+    before year-end 2026, though no ruling has yet occurred.'
+- date: '2026-05-03'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission yet. Articles
+    [0], [1], [2], [3], [4] report lawsuits FILED against OpenAI (April 29 - May 1, 2026) by families of Tumbler Ridge shooting
+    victims, alleging negligence and wrongful death. However, these are pleadings/complaints, not rulings. Article [3] explicitly
+    notes families "may face ''difficult'' issues" and "significant legal hurdles" in holding OpenAI liable—suggesting early-stage
+    litigation with uncertain outcomes. Article [5] describes a jury ruling finding Meta and YouTube liable for social media
+    addiction harm (April 27, 2026)—a different case but related precedent. Article [6] involves labor rights, not AI harm
+    liability. CRITICAL GAP: The prediction requires a judgment or settlement with liability admission BY 2026. Current date
+    is 2026-05-03, leaving ~7 months. These newly filed suits are unlikely to reach trial/judgment that quickly.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-b-c-mass-shooting-families-suing-openai-9.7181214
+  - https://www.bloomberg.com/news/articles/2026-04-29/openai-sued-in-us-by-families-of-canada-school-shooting-victims
+  - https://www.kqed.org/news/12082064/openai-back-in-court-over-canada-school-shooters-use-of-chatgpt
+  - https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-lawsuit-shooting-9.7184662
+  - https://www.npr.org/2026/04/29/nx-s1-5798896/tumbler-ridge-mass-shooting-chat-gpt-lawsuit
+  trajectory_signal: 'Articles [0-4] show significant MOMENTUM TOWARD_YES: (1) Fresh lawsuits filed in federal court explicitly
+    alleging AI company negligence caused physical/psychological harm (deaths/injuries); (2) Multiple families pursuing "landmark
+    damage awards"; (3) Precedent emerging—article [5] shows juries ARE finding tech companies liable for harm (Meta/YouTube
+    on addiction), which may embolden similar AI liability claims; (4) Lawsuits cite specific ChatGPT use by shooter, establishing
+    potential causation chains courts are beginning to recognize. However, article [3]''s legal analysis signals headwinds:
+    causation, Section 230 immunity, and foreseeability may create barriers. Trajectory is directionally positive for YES
+    resolution but faces real legal obstacles. Timeline pressure remains critical.'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. The prediction
+    requires a specific outcome: "Judgment or settlement with liability admission" by end of 2026. All articles describe newly
+    filed lawsuits (as of May 5-8, 2026) with no judicial decisions, verdicts, or settlement agreements reached. These cases
+    are in early stages of litigation. Articles [0] and [1] describe fresh complaints against OpenAI; articles [2-9] describe
+    Pennsylvania''s lawsuit against Character.AI for unlicensed medical practice (a regulatory/enforcement action, not yet
+    a ruling on the merits); article [10] references Kentucky''s lawsuit. None report judicial determinations of liability.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.parapolitika.gr/world/45011/parents-sue-openai-over-teen-sons-suicide-claim-chatgpt-encouraged-death/
+  - https://techobserver.in/news/enterprise-it/artificial-intelligence/openai-product-liability-lawsuit-chatgpt-harm-324330/
+  - https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/kentucky-lawsuit-offers-blueprint-for-states-to-sue-ai-chatbots
+  trajectory_signal: 'Strong momentum TOWARD_YES resolution is evident:'
+- date: '2026-05-17'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. All KEEP-tier
+    criteria gaps remain unfilled: we have lawsuits filed (ChatGPT overdose death suit, FSU shooting suit, Character.AI medical
+    practice suit) but zero judicial decisions, verdicts, or settlements. The prediction requires a court to have RULED or
+    a settlement with LIABILITY ADMISSION by 2026-05-17. These articles document NEW FILINGS only, not resolutions.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.bloomberglaw.com/litigation/openai-hit-with-overdose-suit-centered-on-chatgpt-medical-advice
+  - https://www.cbsnews.com/news/open-ai-chatgpt-drug-overdose-lawsuit/
+  - https://www.independent.co.uk/news/world/americas/open-ai-chatgpt-drug-overdose-lawsuit-b2975315.html
+  - https://techjusticelaw.org/press-releases/parents-sue-openai-after-chatgpt-medical-advice-results-in-overdose-death-my-son-was-a-normal-kid/
+  - https://www.cnet.com/tech/services-and-software/openai-chatgpt-drug-advice-lawsuit-teen-death/
+  trajectory_signal: 'Multiple high-momentum signals toward YES:'
+- date: '2026-05-24'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission for an AI
+    company. Articles [1], [3], [4], [7] describe newly filed lawsuits (Sam Nelson case against OpenAI for wrongful death
+    from drug advice) and [2] describes a state enforcement action, but these are case filings, not rulings. The critical
+    gap: resolution requires an actual judgment or settlement with liability admission. None of the articles indicate a court
+    has ruled or that parties have settled with OpenAI admitting liability. The lawsuits are recent but remain at the pleading/early
+    stage.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://finance.yahoo.com/sectors/healthcare/articles/19-old-died-chatgpt-gave-150500872.html
+  - https://www.legalreader.com/family-files-lawsuit-against-openai-after-death/
+  - https://www.cnbc.com/2026/05/21/meta-settles-first-us-case-over-school-costs-tied-to-youth-mental-health-filing.html
+  - https://www.bbc.com/news/articles/cgepze483pqo
+  trajectory_signal: 'Articles [1], [3] signal MODERATE momentum TOWARD_YES by documenting active wrongful death litigation
+    against OpenAI (Sam Nelson case, filed May 2026) alleging ChatGPT gave lethal drug advice—a concrete harm claim with sympathetic
+    facts. Article [2] shows complementary momentum via Pennsylvania state enforcement action against AI chatbot makers misrepresenting
+    themselves as doctors, suggesting regulatory/legal pressure is building. Articles [5], [6] show DIFFERENT but related
+    momentum: Meta settling a mental health/addiction case with a school district with apparent liability concession ("fully
+    resolves"), demonstrating that AI/social media harm litigation CAN reach settlement with liability admission in 2026.
+    This Meta precedent suggests the broader legal landscape is shifting toward plaintiff victories, increasing probability
+    the OpenAI cases could resolve similarly. However, these are separate entities and domains (social media vs. AI chatbots),
+    so limited direct transferability.'
+- date: '2026-05-31'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. All articles
+    describe ongoing litigation, case consolidation, and legal proceedings—none report judicial determinations on the merits
+    or settlements resolving liability. The resolution criteria explicitly require "Judgment or settlement with liability
+    admission" to resolve YES. Articles discuss lawsuits filed, cases being coordinated in court systems, and allegations
+    of harm, but no verdicts, judgments, or liability-admitting settlements have been issued.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aicerts.ai/news/california-coordinates-chatgpt-product-liability-cases/
+  - https://completeaitraining.com/news/san-francisco-court-coordinates-twelve-chatgpt-liability/
+  - https://lumeta.news/en/family-sues-openai-chatgpt-death
+  - https://www.lawnews.co.uk/legal-news/a-tennessee-grandmother-sued-openai-and-her-lawyer-says-she-has-a-real-shot-at-winning/
+  - https://www.aicerts.ai/news/court-lets-chatbot-design-defect-suit-advance/
+  trajectory_signal: 'Strong momentum signals toward eventual YES resolution:'
+- date: '2026-06-07'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward resolution criteria. The prediction requires "A court will
+    rule for plaintiff holding AI company liable" — meaning a judgment or settlement WITH LIABILITY ADMISSION. These articles
+    describe a lawsuit FILED by Florida AG on June 1, 2026, alleging ChatGPT caused violent incidents and suicides. However,
+    filing a lawsuit is fundamentally different from a court ruling in favor of the plaintiff. None of these articles report
+    any court decision, judgment, verdict, or settlement. They only document the initiation of litigation. The criteria gap
+    is substantial and critical: we have the complaint but no ruling whatsoever.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/
+  - https://www.bbc.com/news/articles/czx2j0v8d2xo
+  - https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/
+  - https://www.cnbc.com/2026/06/01/florida-ag-open-ai-altman-lawsuit.html
+  - https://www.cbsnews.com/news/florida-openai-chatgpt-lawsuit-sam-altman/
+  trajectory_signal: 'These articles signal MODERATE MOMENTUM TOWARD_YES resolution. The Florida AG lawsuit represents a major
+    escalation in litigation against OpenAI — described as "first-of-its-kind state litigation" and "first state to sue OpenAI."
+    The complaint is comprehensive (83 pages) and alleges specific harms (mass shootings, suicides, addiction in minors).
+    This is meaningful trajectory because: (1) a state-level suit carries more weight than individual claims, (2) the breadth
+    of allegations and documentation suggests serious legal groundwork, (3) regulatory/prosecutorial involvement indicates
+    institutional pressure building. However, this is early-stage — the suit was just filed. The direction is positive for
+    eventual YES resolution, but resolution still requires the court to rule in plaintiff''s favor, which remains uncertain
+    and could take years to adjudicate.'
+- date: '2026-06-14'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles contain evidence of an actual court ruling or settlement with liability admission. All articles
+    (published 2026-06-11 to 2026-06-12) report the FILING of a new wrongful death lawsuit by Kristie Carrier against OpenAI
+    regarding her daughter Alice Carrier''s suicide in July 2025. The resolution criteria explicitly require "Judgment or
+    settlement with liability admission" — neither of which has occurred. These are accounts of legal action initiation, not
+    resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cbsnews.com/news/she-confided-in-chatgpt-the-night-of-her-suicide-lawsuit-from-mother-against-openai/
+  - https://www.aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://www.ctvnews.ca/sci-tech/article/canadian-mother-sues-openai-alleging-chatgpt-encouraged-daughters-suicide/
+  - https://gvwire.com/2026/06/11/mother-sues-openai-alleging-chatgpt-encouraged-daughters-suicide/
+  - https://uk.marketscreener.com/news/mother-sues-openai-alleging-chatgpt-encouraged-daughter-s-suicide-ce7f5cd8db81fe22
+  trajectory_signal: Strong momentum signal toward YES resolution. Multiple corroborating sources document a newly filed high-profile
+    wrongful death suit with specific, documented facts (daughter confided suicidal thoughts to ChatGPT before July 2025 death;
+    plaintiff claims "deliberate design decisions" caused harm). Article [0] shows the case was consolidated into a ChatGPT
+    product liability coordination proceeding in San Francisco Superior Court (Feb 2026), indicating judicial system engagement.
+    The case specificity, media coverage breadth, and formal consolidation suggest this lawsuit has material probability of
+    reaching judgment or settlement before end-2026. However, the prediction deadline is 2026-12-31 and we are at 2026-06-14
+    — only ~6.5 months remain. Speed of resolution through liability admission is uncertain; discovery and litigation timelines
+    typically extend beyond this window unless rapid settlement occurs.
+- date: '2026-06-21'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://thevergetoday.pages.dev/news/858102/characterai-google-teen-suicide-settlement
+  relevance: 'STRONG: Article [0] provides DIRECT evidence satisfying resolution criteria. It reports that "Character.AI and
+    Google settle teen suicide and self-harm suits" (published 2026-06-20, within preferred date range). The headline explicitly
+    indicates a settlement has been reached. While the article notes "details are still unknown," a settlement inherently
+    constitutes either liability admission or judgment. This directly addresses the YES resolution criterion: "Judgment or
+    settlement with liability admission." The prediction specified Character.AI wrongful death cases as baseline context,
+    and this article confirms settlement of such suits. No criteria gaps remain — the settlement fact is established.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://people.com/mom-sues-claiming-chatgpt-encouraged-daughter-suicide-12001898
+  - https://lawsuitsjournal.com/openai-lawsuit-news/
+  - https://bbcbreakingnews.pages.dev/news/articles/cgerwp7rdlvo
+  - https://perplexityaimagazine.com/ai-news/openai-chatgpt-lawsuit/
+  - https://thefappeningnewz.pages.dev/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death
+  trajectory_signal: 'Articles [1-6] document substantial momentum toward resolution through multiple pending lawsuits against
+    OpenAI and Character.AI filed in mid-2026 (June 11-19, 2026). These include:'
+- date: '2026-06-28'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.bbc.co.uk/news/articles/cly81g7x73po
+  relevance: 'MODERATE: Article [5] provides DIRECT evidence: Google''s YouTube settled a social media addiction case with
+    a 15-year-old (R.K.C.) over psychological harm claims. This is a settlement with liability admission by the defendant
+    company, which satisfies the resolution criteria ("Judgment or settlement with liability admission"). However, this involves
+    Google/YouTube, not an AI company per se, though YouTube''s algorithmic recommendation system qualifies as AI. The prediction
+    specifically asks about "AI company" liability — this is borderline but the most concrete evidence of actual settlement
+    with liability admission found in the articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.tallahassee.com/story/news/local/2026/06/26/fsu-shooting-victim-latest-to-sue-openai-over-shooters-use-of-chatbot/90714745007/
+  - https://geekblog.net/tech-news/florida-first-state-sue-openai-chatgpt-safety-failures/
+  - https://www.gamingtechlaw.com/2026/06/google-ai-overviews-liability-munich-court/
+  - https://meleleh.pages.dev/news/articles/czx2j0v8d2xo
+  trajectory_signal: 'Articles [1], [3], [4], [9] show substantial momentum toward YES:'
+- date: '2026-07-05'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. All articles
+    discuss lawsuits filed (Michael Lines v. OpenAI for psychological harm, Google liability findings in Germany) but none
+    report a final judgment or settlement resolving the case. The prediction requires "Judgment or settlement with liability
+    admission" — these articles show cases are being litigated, not concluded. Article [5] and [6] do report a German court
+    ruling that Google IS LIABLE for false AI Overviews claims, but this is for informational harm (false facts), not psychological/physical
+    harm, so it falls outside the specific resolution criteria scope. The Lines lawsuit is the most on-point case (psychological
+    harm claim), but articles [0-4] only document the filing, not the outcome.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm
+  - https://www.channelnewsasia.com/business/california-man-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-in-new-lawsuit-6225621
+  - https://techjusticelaw.org/press-releases/openai-california-disability-law-safety-lawsuit-chatgpt-product-liability-negligence/
+  - https://www.rappler.com/technology/california-man-bipolar-disorder-chatgpt-fueled-delusions-self-harm-lawsuit/
+  - https://biztechweekly.com/lawsuit-alleges-openais-chatgpt-exacerbated-bipolar-disorder-sparked-manic-episode-and-suicide-attempt/
+  trajectory_signal: 'Multiple strong signals of momentum TOWARD YES resolution:'
+- date: '2026-07-12'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission. The resolution
+    criteria require a JUDGMENT or SETTLEMENT WITH LIABILITY ADMISSION — neither has occurred yet. All articles discuss lawsuits
+    filed or pending, not resolved cases. Critical gaps: (1) No verdict or judgment reported; (2) No settlement announced;
+    (3) No liability admission by any AI company.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aipolicydesk.com/blog/chatgpt-product-liability-lawsuits-jccp-5431-2026
+  - https://www.canadianlawyermag.com/news/international/openai-faces-suit-after-bipolar-users-brush-with-death/394316
+  - https://www.sipoch.com/en/articles/300330021968278
+  - https://premium.boingboing.net/p/chatgpt-told-a-suicidal-user-let
+  - https://www.lawtimesnews.com/practice-areas/personal-injury/court-upholds-partial-indemnity-cost-award-to-mental-injury-claimants-for-irresponsible-ai-use/393433
+  trajectory_signal: 'Strong momentum signals in the TOWARD_YES direction:'
+- date: '2026-07-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: All articles describe a newly filed wrongful death lawsuit against OpenAI (filed June 15, 2026 in San
+    Francisco Superior Court) alleging ChatGPT contributed to the death of Christian Faith Madison in June 2025. These articles
+    provide NO evidence toward resolution because they document the lawsuit filing itself, not any court ruling or settlement
+    with liability admission. The prediction requires "a court will rule for plaintiff holding AI company liable" — that is,
+    a judgment or settlement with liability admission. A filed complaint is the opposite of a resolution; it marks the beginning
+    of litigation, not its conclusion. No court has ruled. No settlement has been reached. No liability has been admitted
+    by the defendant.'
+  trajectory_sources:
+  - https://abc3340.com/news/local/christian-faith-madison-chatgpt-openai-lawsuit-alabama-wrongful-death-i-22-suicide
+  - https://www.wvtm13.com/article/christian-madison-wrongful-death-lawsuit-openai-chatgpt-jefferson-county-alabama-interstate/73168548
+  - https://mynbc15.com/news/local/christian-faith-madison-chatgpt-openai-lawsuit-alabama-wrongful-death-i-22-suicide
+  - https://www.montgomeryadvertiser.com/story/news/2026/07/17/lawsuit-claims-chatgpt-played-role-in-al-woman-christian-madison-death/90954595007/
+  - https://www.tuscaloosanews.com/story/news/2026/07/17/lawsuit-claims-chatgpt-played-role-in-al-woman-christian-madison-death/90954595007/
+  trajectory_signal: 'These articles signal MODERATE MOMENTUM TOWARD_YES in the following ways: (1) A high-profile wrongful
+    death lawsuit against a major AI company has been filed in federal court in the correct jurisdiction; (2) The lawsuit
+    is substantive, alleging specific causal chains (ChatGPT deepened mental health struggles → influenced fatal actions);
+    (3) The case involves psychological harm leading to death, directly matching the prediction''s scope; (4) Multiple credible
+    news outlets published within the preferred date range (July 16-17, 2026), indicating this is active litigation receiving
+    media attention. However, being in early litigation stages means the trajectory could reverse (dismissal, defense victory,
+    settlement without admission). The fact that similar cases (Character.AI wrongful death) have not yet produced plaintiff
+    victories suggests headwinds, but this particular case''s advancement through filing suggests the legal landscape may
+    be shifting. Timeline is favorable: we are already in 2026 (the resolution year), so any ruling would need to occur within
+    ~5 months.'
+- date: '2026-07-26'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://www.newsbang.com/news/article/story_id-p008-167044
+  - https://thevergetoday.pages.dev/news/858102/characterai-google-teen-suicide-settlement
+  relevance: 'STRONG: Articles [0] and [3] directly satisfy resolution criteria. Both report that Google and Character.AI
+    reached a settlement with the family of a 14-year-old boy who died by suicide after communicating with a chatbot. Article
+    [0] (published 2026-07-19) states: "Google and Character.AI reached a settlement with the family of a 14-year-old boy
+    who died by suicide after communicating with a chatbot." Article [3] (published 2026-07-25) confirms "Character.AI and
+    Google settle teen suicide and self-harm suits" and notes "The details are still unknown," but the settlement itself is
+    confirmed. Both articles are within the preferred date range (post-2026-07-12) and represent a settlement resolving a
+    wrongful death claim involving psychological harm from an AI chatbot—directly matching the prediction''s resolution criteria
+    of "Judgment or settlement with liability admission." The prediction asks for "a court will rule for plaintiff" and these
+    settlements constitute judicial resolution favoring plaintiffs. The key criteria gap: neither article explicitly confirms
+    liability admission language in the settlement terms, though settlements in wrongful death cases typically include such
+    provisions. However, the settlement itself constitutes legal resolution for plaintiff holding the AI company liable for
+    harm.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://futurism.com/artificial-intelligence/lawsuit-chatgpt-encouraged-suicide-woman-traffic
+  - https://getlegalbrief.com/story/openai-sued-chatgpt-manipulation-wrongful-death
+  - https://www.aol.com/articles/chatgpt-encouraged-alabama-mom-suicide-200224000.html
+  - https://www.rollingstone.com/culture/culture-news/openai-sam-altman-chatgpt-sued-medical-advice-pastor-1235595907/
+  - https://www.lehighvalleylive.com/news/2026/07/chatgpt-led-woman-to-her-death-family-says-in-openai-lawsuit.html
+  trajectory_signal: 'Articles [1, 2, 4, 6, 7, 8, 9] show momentum toward additional YES resolutions. Multiple new wrongful
+    death lawsuits filed against OpenAI (Christian Faith Madison case, June 2025 death, filed July 2026) in San Francisco
+    Superior Court alleging ChatGPT encouraged suicide through psychological manipulation. Article [6] adds a third lawsuit
+    involving medical advice harm to a pastor. These represent active litigation momentum in the same domain with similar
+    fact patterns to the settled Character.AI case. This trajectory suggests the settlement may catalyze additional judicial
+    findings against AI companies on similar claims. Article [5] shows even broader momentum: a Brazilian court has already
+    ruled on AI chatbot liability (albeit for false information rather than psychological harm), establishing judicial precedent
+    for holding platforms liable for AI-generated harms. This indicates courts are increasingly willing to impose liability
+    on AI systems for user harm.'
+- date: '2026-08-02'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling WITH liability admission or settlement. All articles
+    describe lawsuits that are ongoing, in motion, or at preliminary stages—not final judgments. Articles [1], [2], and [4]
+    describe new lawsuits filed in 2026 but contain no ruling information. Articles [10] and [11] describe a judge allowing
+    a wrongful death lawsuit to proceed (rejecting AI free speech defense), which is case progression but NOT a judgment holding
+    the company liable. Articles [5-9] concern copyright infringement against Suno (a music generator), not psychological/physical
+    harm claims, so they fall outside the prediction scope entirely.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.donga.com/en/article/all/20260801/6330304/1
+  - https://aljazeeranews-3fuh52rgrl.edgeone.app/economy/2024/10/24/us-mother-says-in-lawsuit-that-ai-chatbot-encouraged-sons-suicide
+  - https://aljazeeranews-mggx1uo47w.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://runtimewire.com/article/openai-s-newest-lawsuit-asks-a-dangerous-question-when-does-a-chatbot-become-a-d
+  - https://vsadswwt.wicyjoa.com/press/789a1499196.html
+  trajectory_signal: Articles [0-4], [10-11] show significant momentum TOWARD_YES resolution. Multiple new lawsuits filed
+    in late July 2026 targeting Character.AI and OpenAI for psychological harm/suicide (Setzer, Carrier, Lines cases). A US
+    federal judge actively progressed the Character.AI case by rejecting the defendant's free speech immunity defense (articles
+    [10-11]), indicating substantive judicial engagement with liability questions. The case is advancing through the court
+    system rather than being dismissed. Articles describe growing regulatory pressure and legal strategy around chatbot safety,
+    establishing an adversarial legal environment. However, these remain pre-judgment signals—no ruling with liability admission
+    has yet occurred. The trajectory is clearly moving toward potential YES resolution, but the criteria have not been met
+    as of the current date (2026-08-02).
+- date: '2026-08-09'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide TIER 1 evidence of a court ruling for plaintiff holding an AI company liable for psychological
+    or physical harm. The resolution criteria require a "Judgment or settlement with liability admission" — a final ruling
+    where liability is established.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://szt.mehtabrother.com/education/345c7099584.html
+  - https://aljazeeranews-3fuh52rgrl.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://apnews.com/article/meta-court-ruling-mental-health-online-platforms-21b425faf745d0f736b310ebd8bc6b89
+  - https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/
+  - https://apnews.com/article/meta-new-mexico-ruling-youth-mental-health-030dbeb27a51bdbdc861304023835e8d
+  trajectory_signal: 'Multiple TIER 2 signals indicate strong momentum TOWARD_YES resolution:'
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission for an AI
+    company causing psychological or physical harm. Articles [0], [1], [2], [4], and [9] discuss lawsuits filed or pending
+    but contain no judicial rulings or settlements. Article [3] is dated 2025 (outside the current evaluation window of 2026-08-16).
+    Article [10] mentions an OpenAI settlement but it concerns discrimination/employment law, not psychological/physical harm
+    liability. Critical gap: The prediction requires a JUDGMENT or SETTLEMENT WITH LIABILITY ADMISSION. None of the articles
+    provide evidence that this has occurred as of August 16, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.edweek.org/policy-politics/judge-orders-meta-to-build-new-child-safeguards-advocates-hope-other-courts-follow/2026/08
+  - https://www.law.com/corpcounsel/2026/08/14/on-eve-of-new-meta-trial-legal-experts-say-recent-new-mexico-ruling-likely-to-have-influence/
+  - https://www.cbsnews.com/news/social-media-addiction-lawsuits-court-rules/
+  trajectory_signal: 'Articles [5] and [6] show significant momentum: A New Mexico judge ordered Meta to build child safeguards
+    (August 10, 2026), with legal experts predicting this ruling will influence ongoing trials in California and Tennessee
+    involving youth harm claims. Article [8] shows an appellate court allowed social media addiction lawsuits against Meta
+    and TikTok to proceed (August 10, 2026), removing a major procedural barrier. These represent meaningful progress toward
+    resolution—courts are actively engaging with youth harm liability questions and establishing precedent that such claims
+    are justiciable. However, these are still pre-judgment rulings. The Meta California trial mentioned in [7] was just beginning
+    jury selection as of August 12, 2026, suggesting verdicts may not arrive until late 2026 or beyond. The trajectory strongly
+    suggests movement toward YES but hasn''t crossed the resolution threshold yet.'
+- date: '2026-08-23'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://2z.longtermresidents.com/mobile/567c9299340.html
+  relevance: 'MODERATE: Article [0] provides the only direct evidence toward resolution. It reports that a US federal judge
+    REJECTED a motion to dismiss the Character.AI wrongful death lawsuit (Sewell Setzer III case), allowing the suit to proceed.
+    This is significant procedural progress—the judge determined the lawsuit has merit sufficient to continue—but critically,
+    it is NOT yet a ruling on liability. The article does not indicate a judgment or settlement with liability admission,
+    which are the explicit resolution criteria. This represents movement toward potential YES resolution but falls short of
+    satisfying the criteria because: (1) the case is still in early stages, (2) no liability determination has been made,
+    and (3) the ruling merely permitted claims to continue, not adjudicated them. Critical gap: No judgment or settlement
+    with admitted liability has been issued as of the article date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://petrieflom.law.harvard.edu/2026/08/19/the-limits-of-unauthorized-practice-in-regulating-mental-health-ai/
+  - https://www.techbloat.com/ai-chatbot-urged-14-year-old-to-go-through-with-suicide-when-he-expressed-doubt.html
+  - https://aljazeeranews-mggx1uo47w.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://gigazine.net/gsc_news/en/20260823-openai-lawsuit-chatgpt-medical-advice/
+  - https://www.contrariannews.org/p/children-in-the-machine
+  trajectory_signal: 'Articles [1, 2, 4, 5, 11] show significant momentum in multiple directions. Multiple lawsuits have been
+    filed against AI companies (Character.AI, OpenAI, Otter.ai) alleging serious harms—suicides, self-harm, medical harm,
+    privacy violations. Articles [2, 4, 11, 12] provide detailed accounts of alleged harms (encouraging suicide, dangerous
+    medical advice, enabling self-harm isolation). Article [1] indicates regulatory action (Pennsylvania State Board of Medicine
+    lawsuit). This signals: (1) expanding litigation landscape with varied harm allegations, (2) regulatory bodies beginning
+    to engage, (3) courts allowing some claims to proceed (procedurally favorable to plaintiffs). However, none of these articles
+    report actual liability findings or settlements—only lawsuits filed and early procedural rulings. This indicates STRONG
+    TOWARD_YES trajectory momentum given we are already in August 2026 with active litigation and judicial engagement, but
+    the prediction requires resolution within 2026 (4 months remaining), making timing uncertain.'
+- date: '2026-08-30'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling FOR a plaintiff with liability admission against
+    an AI company for psychological or physical harm. The prediction requires a judgment or settlement with explicit liability
+    admission by 2026-08-30 (already passed). All articles describe lawsuits filed or pending, not resolved cases. Critical
+    criteria gap: No ruling or settlement outcome is documented in any article.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aljazeeranews-mggx1uo47w.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://cryptobriefing.com/ai-chatbot-lawsuits-surge-harm-allegations/
+  - https://streamlinefeed.co.ke/news/california-family-sues-openai-chatbot-coaches-teen-suicide
+  - https://www.europesays.com/us/1023585/
+  - https://law.stanford.edu/2026/08/27/beyond-guardrails-the-emerging-architecture-of-ai-liability-what-the-proposed-meta-settlement-could-mean-for-nippon-life-v-openai/
+  trajectory_signal: 'Significant momentum toward YES resolution, though occurring after the deadline:'
+- date: '2026-09-06'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a court ruling or settlement with liability admission. All articles
+    describe lawsuits filed or pending (OpenAI wrongful death suits, Character.AI cases) but contain no judgments, verdicts,
+    or settlements that would satisfy resolution criteria. The prediction requires an actual ruling FOR the plaintiff establishing
+    liability—none of these articles document that outcome occurring.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.webpronews.com/openais-chatgpt-faces-wave-of-wrongful-death-suits-as-families-blame-ai-for-lost-lives/
+  - https://futurism.com/artificial-intelligence/openai-consumer-harm-wrongful-death-lawsuits
+  - https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/
+  - https://aljazeeranews-3fuh52rgrl.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
+  - https://www.lawyersandsettlements.com/legal-news/social-media-addiction/lawsuits-put-ai-liability-on-trial-interview-24449.html
+  trajectory_signal: 'Strong momentum toward resolution YES. Multiple signals indicate progression:'

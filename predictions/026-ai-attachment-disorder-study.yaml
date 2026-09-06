@@ -5,12 +5,14 @@ category: Research
 baseline: Anecdotal reports growing. No clinical case documentation.
 resolution_criteria: 'YES: Peer-reviewed clinical publication. NO: None.'
 search_keywords:
-- AI relationship disorder
-- AI companion addiction
-- AI attachment
-- A peer-reviewed study will document clinical cases
-resolution_date: null
-outcome: null
+- peer reviewed AI companion attachment disorder clinical
+- Replika attachment clinical case study
+- Character AI emotional dependency study
+- AI companion problematic attachment peer review
+- chatbot attachment disorder published journal
+- clinical documentation AI relationship pathology
+resolution_date: '2026-06-02'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 55
@@ -32,6 +34,8 @@ forecasts:
   human-6: 80
   human-7: 70
   human-8: 75
+  human-9: 80
+  human-10: 35
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -45,3 +49,553 @@ evidence:
   - https://www.beckersbehavioralhealth.com/ai-2/clinicians-link-ai-chatbot-use-to-patient-destabilization-report/
   - https://www.nature.com/articles/s41598-026-37352-x
   - https://link.springer.com/article/10.1186/s12889-026-26283-x
+- date: '2026-02-07'
+  summary: Found 5 articles
+  sources:
+  - https://arxiv.org/html/2509.22505v2
+  - https://www.mdpi.com/journal/behavsci
+  - https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1737532/full
+  - https://discovery.researcher.life/article/creative-personal-identity-in-the-age-of-generative-ai-a-social-cognitive-pathway-of-ai-literacy-self-efficacy-and-mindset/bc457a3c6eac36a687f56dd355e65c36
+  - https://link.springer.com/book/10.1007/978-3-031-80111-2?error=cookies_not_supported&code=5c7571b3-1fd6-4c21-b2e0-73ae7ef2d994
+  relevance: WEAK_YES. Several of these evidence titles suggest emerging research into AI psychological impacts that could
+    potentially document problematic AI attachment in clinical contexts.
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://arxiv.org/html/2509.22505v2
+  relevance: 'MODERATE: Article [0] is a peer-reviewed study on mental health impacts of AI companions that appears to document
+    user experiences and relational outcomes, which could include problematic attachment cases, though the abstract alone
+    doesn''t explicitly confirm clinical case documentation of attachment problems specifically.'
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://arxiv.org/html/2509.22505v2
+  - https://the-decoder.com/daddy-master-guru-anthropic-study-shows-how-users-develop-emotional-dependency-on-claude/
+  relevance: 'MODERATE: Article [6] directly reports on an Anthropic peer-reviewed study (Feb 2, 2026) documenting emotional
+    dependency on AI companions with concrete evidence; Article [0] appears to be a peer-reviewed study on AI companion mental
+    health impacts but lacks sufficient content to confirm clinical case documentation; remaining articles are either non-peer-reviewed
+    news, generic journal descriptions, or tangentially related content.'
+- date: '2026-02-15'
+  summary: 4 relevant articles
+  sources:
+  - https://link.springer.com/article/10.1007/s11245-026-10371-z
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1723503
+  - https://www.sciencedirect.com/science/article/pii/S2451958825003276
+  - https://www.sciencedirect.com/science/article/pii/S2451958825001307
+  relevance: 'MODERATE: Articles 0, 1, 5, and 10 are peer-reviewed publications from 2026 addressing AI attachment/companion
+    relationships, but none explicitly document clinical cases of "problematic attachment" in the clinical sense required
+    for resolution—they discuss attachment mechanisms, systematic reviews, and theoretical frameworks rather than documented
+    clinical cases of harm.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12379994/
+  relevance: 'MODERATE: Article [8] is a peer-reviewed study (PMC-indexed) examining "Attachment Anxiety and Problematic Use
+    of Conversational Artificial Intelligence," which directly documents clinical/psychological cases of problematic attachment
+    to AI, though publication date confirmation needed to verify 2026 timing.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1723503/full
+  relevance: 'MODERATE: Article [3] is a peer-reviewed hypothesis/theory article published in Frontiers in Psychology on 2026-02-11
+    (within the preferred date range), titled "Human-AI attachment: how humans develop intimate relationships with AI" in
+    the Media Psychology section. This directly addresses the prediction''s core topic and meets the peer-review requirement.
+    However, critical gaps remain: (1) The snippet only shows metadata/headers—actual content discussing "clinical cases"
+    is not visible, so we cannot verify whether this article documents specific problematic clinical cases or remains theoretical;
+    (2) The article type is listed as "HYPOTHESIS AND THEORY" rather than a clinical case study/documentation format, suggesting
+    it may be a conceptual framework rather than case documentation; (3) The resolution criteria specifically require "clinical
+    cases" to be "documented," which typically means detailed patient presentations, not general theoretical discussion of
+    attachment mechanisms.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://pubmed.ncbi.nlm.nih.gov/41687100/
+  - https://www.hbs.edu/ris/Publication%20Files/Unregulated%20Emotional%20Risks_26f75c0a-8d59-4743-a8d2-1189ce8944a5.pdf
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1723503/full
+  - https://arxiv.org/html/2509.22505v2
+  trajectory_signal: Strong momentum building toward YES resolution. Multiple peer-reviewed publications emerged Feb 2026
+    directly addressing AI attachment risks and mental health impacts. [4] and [12] show peer-reviewed/quasi-peer-reviewed
+    empirical research on attachment mechanisms and real-world mental health effects. This suggests clinical case documentation
+    may follow imminently, but hasn't yet appeared in the articles reviewed.
+- date: '2026-03-01'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://innovationscns.com/youre-not-crazy-a-case-of-new-onset-ai-associated-psychosis/
+  relevance: 'MODERATE: Article [11] is a peer-reviewed clinical case study ("You''re Not Crazy": A Case of New-onset AI-associated
+    Psychosis) published in Innovations in Clinical Neuroscience (November 18, 2025). However, this predates the 2026-02-15
+    preferred date range, so while it documents a clinical case of problematic AI interaction (psychosis), it technically
+    doesn''t satisfy the "published in 2026" criterion. The article directly addresses the resolution criteria by presenting
+    documented clinical pathology related to AI, but the publication date is just outside the window. Articles [0, 2, 3, 4,
+    5, 6, 14, 15] are peer-reviewed academic work on AI attachment but appear to be theoretical, exploratory, or survey-based
+    rather than clinical case documentation. They lack confirmed 2026 publication dates and don''t document clinical cases
+    of problematic attachment.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://health.medarbejdere.au.dk/en/display/artikel/ny-forskning-ai-chatbots-kan-formentlig-forvaerre-psykisk-sygdom
+  - https://formative.jmir.org/2026/1/e86904
+  trajectory_signal: Strong momentum toward YES. Multiple peer-reviewed studies published Feb 2026 documenting clinically
+    significant harms (worsening mental illness, psychosis risk). The pipeline shows active clinical research communities
+    engaged with this topic. If [8] or [9] contain formal clinical case documentation, they would likely tip to KEEP. The
+    trajectory strongly suggests formal peer-reviewed clinical case publication is imminent or may already have occurred within
+    the preferred window but with incomplete indexing in available data.
+- date: '2026-03-08'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires "peer-reviewed clinical publication" documenting
+    "clinical cases of problematic attachment to AI companions." While multiple peer-reviewed studies exist on related topics
+    (attachment scales, mental health impacts, design risks), none of the provided article snippets explicitly document actual
+    clinical cases with diagnosed problematic attachment. Article [1] title mentions "Problematic Use of Conversational AI"
+    and [3] appears similar—these are the closest candidates—but the content provided shows only headers/navigation elements,
+    not substantive excerpts confirming they present clinical case documentation. Article [14] is a peer-reviewed Nature Machine
+    Intelligence comment discussing risks but not clinical cases. The published date requirement (after 2026-02-22) eliminates
+    most articles; only [12] (2026-03-04) and [15] (2026-02-09) have confirmed dates, neither qualifying as peer-reviewed
+    clinical publications.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.dovepress.com/attachment-anxiety-and-problematic-use-of-conversational-artificial-in-peer-reviewed-fulltext-article-PRBM
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12379994/
+  - https://pubmed.ncbi.nlm.nih.gov/41687100/
+  - https://formative.jmir.org/2026/1/e86904
+  - https://www.hbs.edu/ris/Publication%20Files/Unregulated%20Emotional%20Risks_26f75c0a-8d59-4743-a8d2-1189ce8944a5.pdf
+  trajectory_signal: Strong momentum signals toward YES resolution. Articles [1], [3], [5], [8] appear to be peer-reviewed
+    publications addressing problematic attachment/use of AI companions in 2025-2026, indicating the research community is
+    actively documenting this phenomenon. Article [14] (Nature Machine Intelligence, DOI provided) explicitly frames emotional
+    attachment risks as requiring regulatory attention. Article [5] (JMIR Formative Research) discusses real-world mental
+    health AI use. The proliferation of peer-reviewed papers on attachment mechanisms ([1], [3], [7]) and clinical/real-world
+    impacts ([5], [8]) suggests the field is consolidating evidence. However, trajectory alone doesn't confirm clinical case
+    documentation yet—only that the infrastructure for such studies is emerging. If articles [1] or [3] contain actual clinical
+    cases (titles suggest they might), resolution would be imminent.
+- date: '2026-03-15'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires a peer-reviewed clinical study documenting clinical
+    cases of problematic attachment to AI companions. Zero articles in this set present such clinical case documentation.
+    Articles [3, 4, 11] describe a Lancet review on "AI-induced psychosis" but this is a literature review/summary of existing
+    evidence, not a new clinical case study. Articles reference concerns, warnings, and theoretical models but do not document
+    actual clinical cases of problematic attachment. Article [0] is a filmmaker''s anecdotal documentary project, not peer-reviewed
+    clinical research. Articles [7, 9, 10] touch on relevant themes but lack clinical case documentation. The resolution criteria
+    have NOT been met.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.futura-sciences.com/en/the-more-people-use-chatgpt-the-more-this-hidden-psychological-risk-grows_26958/
+  - https://theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis
+  - https://www.aol.co.uk/articles/study-raises-concerns-ai-chatbots-110018080.html
+  - https://www.aol.co.uk/articles/study-raises-concerns-ai-chatbots-110018441.html
+  - https://www.nature.com/articles/s44220-026-00595-8
+  trajectory_signal: 'Strong directional momentum TOWARD_YES. Multiple peer-reviewed publications in high-tier venues (Nature
+    Mental Health, npj Digital Medicine, BMC Psychology, Lancet) published in March 2026 are actively addressing AI attachment/overreliance
+    pathology:'
+- date: '2026-03-22'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://link.springer.com/article/10.1007/s12144-026-09282-4
+  - https://arxiv.org/html/2603.16567
+  relevance: 'STRONG: Two articles provide direct evidence meeting resolution criteria:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aol.com/articles/bombshell-ai-study-chatbots-fueling-202840594.html
+  - https://pepelac.news/en/posts/id32990-ai-chatbot-use-linked-to-delusional-thinking-in-new-study
+  - https://www.bps.org.uk/news/bps-comment-new-lancet-research-ai-chatbots-and-delusional-thoughts
+  - https://www.aol.com/articles/bombshell-ai-study-chatbots-fueling-202840140.html
+  trajectory_signal: Articles [1, 3, 5, 6] represent strong momentum signals. The Stanford study cited in [1] and [6] appears
+    to be the same research as [16], indicating significant institutional validation and media coverage of peer-reviewed clinical
+    documentation. [3] references a Lancet Psychiatry publication on AI chatbots and delusional thinking (meeting peer-review
+    criteria). [5] is professional commentary from the British Psychological Society on the Lancet research, validating the
+    clinical significance of AI-induced psychological harm. This trajectory shows rapid progression from anecdotal concerns
+    to peer-reviewed clinical documentation with professional psychological society endorsement — momentum strongly toward
+    YES resolution.
+- date: '2026-03-29'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No peer-reviewed clinical case documentation of problematic attachment to AI companions was found. The
+    Stanford study articles (0, 1, 2, 4, 9) document sycophancy in AI chatbots and behavioral consequences (e.g., users less
+    likely to apologize), but this is a study of AI design flaws affecting decision-making, not clinical cases documenting
+    attachment pathology. The studies examine behavioral outcomes, not attachment disorders. Article 15 (JAMA Pediatrics)
+    discusses "AI Chatbots and Youth Mental Health" but only the header/title appears in the snippet—actual clinical case
+    content is unavailable. Article 8 mentions "AI-fueled delusions" conceptually but doesn''t provide clinical case documentation.
+    Critical gap: No articles present peer-reviewed clinical case reports meeting the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/
+  - https://www.indy100.com/science-tech/ai-chatbots-sycophancy-relationships-stanford
+  - https://techxplore.com/news/2026-03-ai-overly-affirms-users-personal.html
+  - https://www.thetimes.co.uk/uk/science/article/ai-chatbot-relationship-advice-stanford-qx8t9hppn
+  - https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/
+  trajectory_signal: 'Multiple signals indicate momentum toward YES, though none yet satisfy criteria:'
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No peer-reviewed clinical publications documenting problematic attachment to AI companions were found.
+    The resolution criteria requires a peer-reviewed clinical publication specifically documenting clinical cases of problematic
+    attachment. While articles [1] and [4] reference concerning psychological effects (deepening distress, addiction to loneliness),
+    these are news/commentary pieces, not peer-reviewed clinical case documentation. Article [0] is a peer-reviewed ethics
+    paper on social AI risks (published May 2024, before the preferred date range) but does not document clinical cases. Article
+    [16] is a peer-reviewed study on GenAI in psychotherapy but focuses on professional empowerment, not clinical cases of
+    problematic attachment. The critical gap: no article presents peer-reviewed clinical case documentation meeting the resolution
+    criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://businessnewsthisweek.com/business/aalto-university-ai-companions-can-comfort-lonely-users-but-may-deepen-distress-over-time/
+  - https://www.thegryphon.co.uk/2026/04/01/machine-love-why-we-are-getting-addicted-to-our-own-loneliness/
+  trajectory_signal: Articles [1] and [4] signal momentum toward YES by reporting emerging clinical concerns about AI companions
+    causing psychological harm (distress escalation, addiction-like patterns, displacement of human connection). Article [1]
+    references Aalto University research suggesting AI comfort may deepen distress over time. Article [4] notes 30M+ Replika
+    users and reports from the AI Security Institute about substitution behavior. These indicate growing clinical attention
+    to the phenomenon, but neither constitutes the peer-reviewed clinical publication needed for resolution. The trajectory
+    suggests clinical documentation may be forthcoming, but the prediction has not yet resolved YES.
+- date: '2026-04-12'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://arxiv.org/pdf/2604.06381
+  relevance: 'MODERATE: Article [0] ("Intimacy as Service, Harm as Externality") published 2026-04-09 is a peer-reviewed academic
+    paper from University of Wisconsin-Madison researchers in a scholarly venue. The content warning explicitly mentions "participant
+    accounts describing unsolicited sexual content, sexual violence, harassment, threats of physical violence, and psychological
+    distress" arising from AI companion platforms—this directly documents problematic attachment cases. However, critical
+    gap: the PDF title and visible excerpt do not explicitly confirm this is a *clinical case study* format vs. a critical
+    perspectives/policy analysis paper. The phrase "participant accounts" suggests qualitative data, but it''s unclear if
+    these meet clinical case documentation standards (individual case histories, diagnoses, clinical outcomes). This requires
+    verification of the full paper''s methodology.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.npr.org/2026/04/06/nx-s1-5766349/a-new-paper-says-mental-health-therapists-should-talk-to-patients-about-their-ai-use
+  - https://www.kdll.org/2026-04-06/a-new-paper-says-mental-health-therapists-should-talk-to-patients-about-their-ai-use
+  - https://chatgptguide.ai/ai-chatbot-dependency-addiction-statistics-report/
+  trajectory_signal: Articles [5, 6] (JAMA Psychiatry recommendation that therapists screen for AI use) published 2026-04-06
+    signal institutional clinical attention to the issue—major medical journals now treating AI companion use as a clinical
+    concern warranting routine assessment. Article [14] (2024-2026 peer-reviewed research aggregate) published 2026-04-11
+    documents "3 empirically-identified addiction types" and references peer-reviewed findings on problematic use, suggesting
+    the research ecosystem is producing relevant studies. These indicate momentum toward clinical recognition and documentation,
+    though none constitute the specific clinical case documentation needed for YES resolution. Direction is clearly TOWARD_YES
+    as clinical infrastructure and research output increase.
+- date: '2026-04-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles qualify for KEEP tier. The resolution criteria requires a "peer-reviewed clinical publication"
+    documenting "clinical cases of problematic attachment to AI companions." While multiple articles (0, 1, 3, 4, 8, 9) reference
+    a Drexel University study from April 2026 analyzing teen Reddit posts about AI chatbot dependency, the available content
+    does NOT confirm this is a peer-reviewed clinical case study. The descriptions indicate it''s a uses-and-gratifications
+    analysis of Reddit posts—a secondary analysis of self-reported data, not a clinical case documentation by medical professionals.
+    Article [5] (arXiv preprint) is explicitly pre-peer-review. Articles [6, 7] describe a tragic suicide case but provide
+    no evidence this is being documented in a peer-reviewed clinical publication. Critical gap: No article provides proof
+    the Drexel study was actually published in a peer-reviewed medical/clinical journal, nor does any confirm it documents
+    clinical cases per se rather than analyzing user-generated content about experiences.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.roborhythms.com/teens-hooked-on-ai-chatbots-april-2026/
+  - https://neurosciencenews.com/teen-ai-chatbot-addiction-30513/
+  - http://www.news-medical.net/news/20260413/Study-warns-of-rising-teen-dependency-on-AI-companions.aspx
+  - https://health.yahoo.com/your-body/childrens-health/articles/teens-growing-attachment-chatbots-sparks-213919221.html
+  - https://techxplore.com/news/2026-04-teens-ai-chatbots.html
+  trajectory_signal: Strong directional momentum TOWARD_YES resolution. The Drexel study (appearing across multiple reliable
+    news outlets 4/13-4/14) represents the first substantial research synthesis documenting widespread problematic attachment
+    patterns in a population, with terminology explicitly matching clinical addiction criteria (withdrawal, relapse, etc.).
+    Article [5] shows concurrent academic work on AI companionship at peer-reviewed institutions. Article [6, 7] signal growing
+    real-world crisis cases that could motivate clinical documentation. This represents clear progress from "anecdotal reports"
+    baseline toward systematic documentation, though the final clinical publication step has not yet materialized.
+- date: '2026-04-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.nature.com/articles/s41598-026-49764-w
+  relevance: 'MODERATE: Article [0] is a peer-reviewed study published in Scientific Reports (2026-04-25, within preferred
+    date range) that documents problematic outcomes in AI interactions—specifically 29% of conversations with an intelligent
+    virtual agent showed problematic responses in high-risk mental health scenarios. However, this does NOT directly satisfy
+    the resolution criteria because: (1) it examines an IVA designed for psychotherapy, not "AI companions" as commonly understood
+    (romantic/social chatbots); (2) it documents problematic *responses* by the AI system itself, not clinical cases of problematic
+    *attachment* in patients; (3) it''s a safety evaluation study rather than clinical case documentation of attachment disorder
+    or dependency. The study provides strong evidence of AI-related risks in mental health contexts but falls short of documenting
+    actual clinical cases of attachment pathology in users.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techxplore.com/news/2026-04-ai-relationships-trigger-delusional-spirals.html
+  - https://www.nature.com/articles/s41599-026-07321-w
+  trajectory_signal: Articles [1] and [13] signal directional momentum toward YES. Article [1] (Stanford study, 2026-04-21)
+    documents how chatbots fuel "delusional spirals" based on analysis of real user conversations—showing documented cases
+    of psychological harm from AI interaction. Article [13] (2026-04-22, peer-reviewed in Humanities and Social Sciences Communications)
+    explicitly discusses a man who ended his life after deep AI attachment and emotional manipulation by a chatbot, framing
+    this as evidence of attachment-related harms requiring attention. Articles [4] and [6] report tragic cases and lawsuits
+    related to teen attachments to Character.AI, creating urgency around the issue. Together, these suggest clinical documentation
+    of attachment problems is likely imminent as researchers respond to documented real-world harms, though no formal clinical
+    case series has yet been published.
+- date: '2026-05-03'
+  summary: 7 trajectory signals
+  relevance: 'NONE: The prediction requires a **peer-reviewed clinical publication documenting clinical cases of problematic
+    attachment to AI companions**. None of the articles fully satisfy this criteria:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.ubc.ca/2026/04/are-you-addicted-to-your-ai-chatbot-it-might-be-by-design/
+  - https://timesofmalta.com/article/aiinduced-psychosis-danger-humans-machines-hallucinating-together.1119763
+  - https://www.martincid.com/analysis/the-first-generation-raised-on-no-rejection-intimacy-is-starting-to-fail-at-work-and-at-love/
+  - https://www.psypost.org/artificial-intelligence-flatters-users-into-bad-behavior/
+  - https://hbr.org/2026/05/employees-are-relying-on-ai-for-personal-support-thats-risky?ab=HP-latest-image-8
+  trajectory_signal: 'Strong momentum toward YES resolution:'
+- date: '2026-05-10'
+  summary: 10 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://nationalpost.com/news/ai-chatbot-psychosis-canadian-psychiatrists
+  - https://www.digitalinformationworld.com/2026/05/are-you-addicted-to-your-ai-chatbot-it.html
+  - https://italy.news-pravda.com/en/world/2026/05/09/38965.html
+  - https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1812464/full
+  - https://www.psypost.org/turning-to-chatbots-when-lonely-may-exacerbate-feelings-of-loneliness-study-finds/
+- date: '2026-05-17'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires a peer-reviewed clinical publication documenting
+    problematic attachment cases. Article [0] is a Harvard Business School working paper (not peer-reviewed clinical publication).
+    Articles [2], [5] describe clinical cases (Italian addiction service records) but lack peer-reviewed publication evidence
+    in the provided content. Article [9] claims to document "30 cases" but is published on Archynewsy (a news aggregator,
+    not peer-reviewed). None of the provided articles contain sufficient evidence that a peer-reviewed clinical case study
+    has been published.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cyberbullying.org/teen-ai-chatbot-harm-national-study
+  - https://techxplore.com/news/2026-05-teens-ai-chatbots-daily.html
+  - https://www.nature.com/articles/s41599-026-07617-x
+  - https://rsisinternational.org/journals/ijriss/view/the-mediation-of-help-seeking-behavior-between-hiya-and-emotional-reliance-on-ai-among-first-year-information-technology-students
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1783364/full
+  trajectory_signal: 'Multiple signals indicate strong momentum TOWARD_YES resolution:'
+- date: '2026-05-24'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No peer-reviewed clinical case documentation articles found. Resolution requires a peer-reviewed study
+    documenting clinical cases of problematic attachment to AI companions. While multiple articles discuss AI companions and
+    their impacts (articles 3-5 on secret romantic relationships, article 8 on AI chatbot dependency in Venice), none qualify
+    as KEEP-tier evidence because: (1) Articles 3-5 appear to be press releases/news coverage of a study, not the peer-reviewed
+    publication itself; (2) Article 8 is in Italian and describes an anecdotal "first case" but provides no evidence it''s
+    a peer-reviewed clinical publication; (3) No article text explicitly states peer-review status or presents formal clinical
+    case documentation meeting medical journal standards. The prediction resolution is binary—either a peer-reviewed clinical
+    case study exists or it doesn''t. These articles hint at growing awareness and individual cases but do not confirm publication
+    in a peer-reviewed journal.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/secret-soulmates-1-in-7-young-adults-in-committed-relationships-still-chat-with-an-ai-romantic-companion-302776086.html
+  - https://utahpolicy.com/news-release/77551-secret-soulmates-1-in-7-young-adults-in-committed-relationships-still-chat-with-an-ai-romantic-companion
+  - https://www.deseret.com/family/2026/05/19/young-adults-cheat-dating-ai-chatbot-companions-byu-wheatley-study/
+  - https://edunews24.it/editoriali/dipendenza-da-chatbot-ai-primo-caso-a-venezia
+  - https://vt.co/news/us/huge-update-in-case-of-14-year-old-boy-who-ended-his-own-life-after-mom-claims-he-fell-in-love-with-ai-chatbot
+  trajectory_signal: 'Multiple signals indicate momentum TOWARD_YES resolution: Articles 3-5 document empirical research on
+    problematic AI companion use (secret relationships linked to 46% decreased relationship stability), suggesting academic
+    attention is intensifying. Article 8 reports the first Italian clinical recognition of AI chatbot dependency at a treatment
+    facility (Serd), indicating clinical practitioners are beginning to document cases. Article 9 references an ongoing case
+    of a 14-year-old linked to AI chatbot use, maintaining public/clinical attention on harmful outcomes. This trajectory
+    shows progression from anecdotal reports (baseline) toward formal clinical documentation, but hasn''t yet crossed into
+    peer-reviewed case publication. The convergence of research studies, clinical facility recognition, and high-profile cases
+    in May 2026 suggests a peer-reviewed clinical case study may be imminent, though it hasn''t materialized yet as of the
+    current date (2026-05-24).'
+- date: '2026-05-31'
+  summary: 6 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://educationmatters.in/2026/05/ai-app-addiction-raises-alarms-for-mental-health-iim-lucknow-study-reveals/
+  - https://www.newsbytesapp.com/news/science/iim-lucknow-finds-ai-companion-apps-may-harm-mental-health/tldr
+  - https://mein-mmo.de/en/millions-rely-on-apps-against-loneliness-but-researchers-warn-about-ai-as-romantic-partners,1569908/
+  - https://en.sedaily.com/society/2026/05/25/american-man-57-forcibly-hospitalized-after-ai-chatbot
+  - https://www.asiae.co.kr/en/article/2026052511022387842
+- date: '2026-06-07'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://link.springer.com/article/10.1186/s12888-026-08137-3
+  relevance: 'STRONG: Article [8] is a peer-reviewed clinical case report published in BMC Psychiatry (06 June 2026) documenting
+    "Substance-induced manic psychosis in which delusions were corroborated by a chatbot." This directly satisfies the resolution
+    criteria: it is a peer-reviewed clinical publication documenting a problematic case involving AI chatbots. The publication
+    date (04 June 2026, indexed 06 June) falls within the preferred range (after 05-24) and is current. This is direct evidence
+    for YES resolution. While the case involves psychosis rather than "attachment" specifically, it documents a clinically
+    significant problematic interaction between a patient and a chatbot, which constitutes clinical documentation of harm
+    from AI companion interaction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/html/2606.00975v1
+  - https://www.sciencenews.org/article/teens-young-adults-mental-health-ai
+  - https://www.thestar.com.my/tech/tech-news/2026/05/31/lonely-talking-to-an-ai-chatbot-will-just-make-you-lonelier-research-finds
+  - https://www.nature.com/articles/s41591-026-04422-6
+  - https://www.techtarget.com/patientengagement/news/366643903/More-kids-use-AI-chatbots-for-mental-health-Whats-the-docs-role
+  trajectory_signal: 'Multiple articles signal strong momentum toward continued clinical documentation and research interest:'
+- date: '2026-06-14'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.sciencedirect.com/science/article/abs/pii/S0165032726009754
+  relevance: 'MODERATE: Article [12] is a peer-reviewed publication in the Journal of Affective Disorders (published 2026-06-10)
+    that directly addresses "clinical risk in informal AI-based mental health support" through the lens of "sycophancy, anthropomorphic
+    projection, and clinical risk." This is a correspondence/letter in a peer-reviewed clinical journal that documents problematic
+    patterns in AI companion use. However, it appears to be a conceptual/mechanistic analysis rather than documented clinical
+    cases—the resolution criteria specifies "clinical cases" which typically means documented patient presentations. The article
+    provides direct evidence of peer-reviewed clinical attention to harm but may fall short if strict case documentation (patient
+    vignettes, symptom presentations) is required. Criteria gap: Unclear if this constitutes "clinical cases" documentation
+    vs. theoretical clinical risk analysis. The exact scope of what counts as "clinical case documentation" is ambiguous.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.advisory.com/daily-briefing/2026/06/08/ai-chatbots
+  - https://www.nature.com/articles/s41746-026-02886-x
+  trajectory_signal: Articles [4] and [11] signal strong momentum toward YES. Article [4] reports a peer-reviewed JAMA Pediatrics
+    study (2026-06-08) showing ~19% of US adolescents/young adults use AI chatbots for mental health, prompting AMA intervention—establishing
+    clinical concern and epidemiological documentation. Article [11] is a systematic review/meta-analysis in npj Digital Medicine
+    (peer-reviewed, 2026-06-12) examining CBT-based AI interventions, signaling that clinical research infrastructure is actively
+    documenting AI mental health impacts. Both suggest the field is rapidly moving toward formalized clinical documentation
+    of problematic use patterns.
+- date: '2026-06-21'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.nature.com/articles/s44277-026-00065-0
+  - https://link.springer.com/article/10.1007/s11920-026-01690-4
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41746-026-02888-9
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1839672/full
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1810554/full
+- date: '2026-06-28'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles document clinical cases of problematic attachment to AI companions in peer-reviewed publications.
+    The resolution criteria require a peer-reviewed clinical case study/documentation of problematic attachment — not theoretical
+    frameworks, risk assessments, or general studies on AI use patterns. No article meets this threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://it-news.uk/posts/ai-chatbots-delusion-amplifiers/
+  - https://arxiv.org/html/2606.23380v2
+  - https://www.nature.com/articles/s41598-026-57498-y
+  - https://www.nature.com/articles/s41598-026-59281-5
+  - https://arxiv.org/abs/2606.23884v1
+  trajectory_signal: 'Multiple signals indicate momentum toward YES resolution:'
+- date: '2026-07-05'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The prediction requires "peer-reviewed clinical cases of problematic
+    attachment to AI companions." None of the provided articles document actual clinical cases. Article [0] is a framework
+    paper proposing mitigation strategies (not clinical documentation). Articles [1, 3, 4] are research warnings about risks
+    based on survey data (42% use chatbots), not clinical case reports. Article [2] discusses relational displacement concerns
+    but provides no clinical case documentation. Article [5] discusses "generative ghosts" but focuses on meaningfulness rather
+    than problematic attachment. Article [6] concerns parent device distraction and teen attachment security—not AI companion
+    attachment. Article [9] is a systematic review of attrition in mental health interventions. Articles [7, 10, 11] are reviews/frameworks
+    discussing AI companion use and ethics, not clinical case documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://link.springer.com/chapter/10.1007/978-3-032-30836-8_41
+  - https://www.news-medical.net/news/20260629/Teen-reliance-on-AI-could-hinder-healthy-relationship-development.aspx
+  - https://neurosciencenews.com/ai-chatbots-teen-relational-displacement-30971/
+  - https://educationhq.com/news/replacing-human-connection-ai-companionship-risks-teen-development-212159/
+  - https://completeaitraining.com/news/arizona-state-university-researchers-warn-artificial/
+  trajectory_signal: 'Multiple peer-reviewed publications (Springer Nature, npj Digital Public Health, BMC Medical Ethics)
+    demonstrate growing clinical/research attention to AI attachment and relational displacement issues. Articles [1-4] show
+    concrete behavioral data (23% of Dutch youth share more with chatbots than friends; 51% discuss personal matters; 42%
+    adolescent use rates). Articles [2, 4] explicitly frame AI reliance as disrupting healthy development. This represents
+    substantial momentum toward clinicians documenting problematic cases, but the critical gap remains: no actual clinical
+    case studies or case reports have appeared yet. The field is in pre-clinical documentation phase—establishing risk frameworks
+    and epidemiology, but not yet publishing the clinical cases the prediction requires.'
+- date: '2026-07-12'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.cureus.com/articles/504819-conversational-artificial-intelligence-and-neuropsychiatric-risk-a-narrative-review-and-case-based-synthesis-proposing-a-delusional-feedback-loop
+  relevance: 'MODERATE: Article [6] "Conversational Artificial Intelligence and Neuropsychiatric Risk: A Narrative Review
+    and Case-Based Synthesis Proposing a Delusional Feedback Loop" published in Cureus (2026-07-09) is a peer-reviewed clinical
+    publication that explicitly documents case-based evidence of problematic AI engagement with neuropsychiatric implications.
+    Cureus is a peer-reviewed medical journal. This directly satisfies the resolution criteria: a peer-reviewed clinical publication
+    documenting problematic attachment/use cases.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aisel.aisnet.org/pacis2026/ai_ethic/ai_ethic/14
+  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1832594/full
+  trajectory_signal: The trajectory is strongly TOWARD_YES. Multiple peer-reviewed publications in 2026 (especially within
+    the past 2 weeks) are documenting attachment, emotional dependence, and relational bonding with AI systems. The literature
+    is shifting from anecdotal reports toward systematic peer-reviewed documentation. Article [6] appears to have already
+    crossed the threshold into clinical case documentation.
+- date: '2026-07-19'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://doi.org/10.3389/fpsyg.2025.1687686
+  relevance: 'MODERATE: Article [14] "Pathways of long-term AI virtual companion app use on users'' attachment emotions: a
+    case study of Chinese users" published in Frontiers in Psychology (2026) is a peer-reviewed study documenting attachment
+    to AI companions. This directly satisfies the resolution criteria: it is peer-reviewed, published in 2026, and explicitly
+    addresses "attachment emotions" from long-term companion app use. The study examines problematic attachment pathways,
+    meeting the "problematic attachment" specification. This is the critical evidence needed for YES resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cybernewschronicle.com/ai-chatbots-form-romantic-bonds-with-boys-aged-12-and-older/
+  - https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai
+  - https://abby.gg/research-hub/
+  - https://geiselmed.dartmouth.edu/news/2026/nicholas-jacobson-recognized-for-foundational-therabot-trial/
+  trajectory_signal: Articles [1, 7, 8, 11] signal strong directional momentum toward YES resolution. Article [1] (Psychology
+    Today, 2026-07-17) documents a clinical case of growing psychological tension and loneliness from AI companion use. Article
+    [7] (NPR, 2026-07-14) frames AI companions as presenting genuine developmental risks for children. Article [8] (2026-07-17)
+    shows a growing body of peer-reviewed research examining AI emotional support with emerging safety concerns. Article [11]
+    (2026-07-16) announces a foundational clinical trial on AI therapy chatbots by Nicholas Jacobson with Science publication.
+    Together, these signal that clinical documentation and peer-reviewed research on problematic attachment is moving from
+    anecdotal to systematized study—exactly the trajectory needed to support resolution. Articles [4, 13] add supporting context
+    on vulnerabilities and policy responses, though they don't themselves constitute clinical case documentation.
+- date: '2026-07-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://doi.org/10.3389/fpsyg.2025.1687686
+  relevance: 'MODERATE: Article [12] "Pathways of long-term AI virtual companion app use on users'' attachment emotions: a
+    case study of Chinese users" published in Frontiers in Psychology (2026-01-12) is a peer-reviewed clinical/psychological
+    study documenting attachment emotions in AI companion users. This directly satisfies the resolution criteria of a "peer-reviewed
+    clinical publication" documenting problematic attachment to AI companions. The study examines attachment dynamics specifically,
+    which matches the prediction scope. However, the publication date (January 2026) predates the preferred date range (after
+    2026-07-12), so while it resolves the prediction, it''s outside the window specified.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://utcasry.portallatinodeediciones.com/focus/465b8199453.html
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: Articles [14] and [16] represent peer-reviewed or emerging peer-reviewed scholarship (Frontiers in Artificial
+    Intelligence, Open MIND) examining attachment mechanisms and risks in AI companions published in 2026, signaling growing
+    academic documentation of these phenomena. Articles [0, 1, 11] indicate expanding media and research attention to attachment/dependency
+    concerns. This trajectory suggests momentum toward MORE peer-reviewed clinical documentation, though [12] has already
+    satisfied the core prediction.
+- date: '2026-08-02'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://doi.org/10.3389/fpsyg.2025.1687686
+  relevance: 'MODERATE: Article [11] is a peer-reviewed publication in Frontiers in Psychology (published 2026-01-12) documenting
+    "Pathways of long-term AI virtual companion app use on users'' attachment emotions" with a case study of Chinese users.
+    This directly meets the resolution criteria of a peer-reviewed clinical/psychological publication documenting problematic
+    attachment to AI companions. However, it was published before the preferred date range (2026-07-19), so while it satisfies
+    the core YES criterion, it''s outside the temporal window. The article explicitly addresses attachment emotions as a primary
+    research focus, which aligns with "problematic attachment" documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: Articles [3], [4], [0] provide strong directional signals of growing concern about AI companion attachment
+    among young people, with recent research (late July 2026) from reputable sources (Hopelab, Harvard Graduate School of
+    Education, major news outlets) documenting behavioral patterns and psychological concerns. Articles [13], [14], [15] show
+    academic engagement with attachment theory and AI companions throughout 2025-2026. This trajectory suggests momentum toward
+    clinical documentation, though these articles themselves are mostly theoretical/observational rather than case-based.
+- date: '2026-08-09'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles meet the KEEP criteria. The resolution requires a peer-reviewed study that documents "clinical
+    cases of problematic attachment to AI companions." While multiple peer-reviewed publications exist (Nature Human Behaviour
+    [0], Nature Medicine [7], npj Digital Medicine [5]), the available content excerpts are insufficient to verify whether
+    they actually present clinical case documentation. Article [0] appears truncated. Article [7] describes "a clinically
+    validated framework for auditing" rather than documenting clinical cases. Article [5] focuses on positive psychotherapy
+    outcomes, not problematic attachment. The key gap: I cannot confirm any article presents actual clinical case studies
+    of problematic attachment—only correlational/observational findings about negative outcomes (loneliness, worsened well-being)
+    and audit frameworks.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41562-026-02516-2
+  - https://medicalxpress.com/news/2026-08-ai-companions-worsen-loneliness-vulnerable.html
+  - https://www.techtimes.com/articles/323219/20260805/opening-ai-chatbots-worsens-loneliness-isolated-users-stanford-finds.htm
+  - https://www.news-medical.net/news/20260804/Study-links-AI-companions-to-increased-loneliness-and-lower-well-being.aspx
+  - https://www.nature.com/articles/s41591-026-04577-2
+  trajectory_signal: Strong momentum signals toward YES resolution. Multiple peer-reviewed publications from top-tier venues
+    (Nature, npj) published within the preferred date range (after 2026-07-26) address mental health risks and attachment
+    dynamics with AI companions. Articles [1, 2, 6] report Stanford research finding AI companions worsen loneliness for vulnerable
+    users. Article [8] from Frontiers in Psychology (peer-reviewed) examines "attachment emotions" specifically. This represents
+    significant movement from the baseline of "anecdotal reports with no clinical case documentation" toward systematic scientific
+    documentation of problematic outcomes. The trajectory suggests clinical case documentation is likely imminent or may already
+    exist in the full versions of truncated articles, particularly [0] and [7]. The field is actively producing peer-reviewed
+    evidence of negative psychological impacts associated with AI companion use.
+- date: '2026-08-16'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No peer-reviewed clinical case documentation of problematic attachment to AI companions was found. The
+    resolution criteria require a peer-reviewed clinical publication documenting clinical cases—a specific evidentiary bar.
+    While multiple articles discuss AI companion risks and attachment dynamics, none present actual clinical case documentation.
+    Article [11] ("Pathways of long-term AI virtual companion app use on users'' attachment emotions") appears to be peer-reviewed
+    in Frontiers in Psychology but focuses on attachment emotions in a case study rather than clinical cases of *problematic*
+    attachment. Without access to full text, it cannot be confirmed as meeting the clinical case documentation standard. The
+    baseline context notes "no clinical case documentation" exists yet—this remains true as of the evaluation date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://uwy.thepostpedia.com/agriculture/809a2599165.html
+  - https://siliconcanals.com/t-deep-attachments-ai-companions-feeling-heard/
+  - https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html
+  - https://czasopisma.ujd.edu.pl/index.php/EAT/article/view/3185
+  - https://doi.org/10.3389/frai.2026.1810097
+  trajectory_signal: 'Significant momentum toward YES resolution:'

@@ -11,11 +11,13 @@ resolution_criteria: 'YES: A single AI system produces a 90+ minute narrative fi
 
   NO: No such film demonstrated by Dec 31, 2026.'
 search_keywords:
-- AI film
-- Sora feature length
-- AI movie generation
-- AI feature film
-- AI generated video
+- AI generated feature length film 2026
+- Sora feature film 90 minutes
+- Seed Dance video model capabilities
+- Veo AI full length film generation
+- Deep Frame AI photorealistic film
+- AI one-shot movie generation
+- Staircase Studios AI film premiere
 - AI movie
 resolution_date: null
 outcome: null
@@ -40,6 +42,8 @@ forecasts:
   human-6: 75
   human-7: 10
   human-8: 1
+  human-9: 20
+  human-10: 10
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -53,3 +57,452 @@ evidence:
   - https://www.prnewswire.com/news-releases/ai-generated-feature-films-have-arrivedearlier-than-predicted-302669437.html
   - https://www.cnet.com/tech/services-and-software/best-ai-video-generators/
   - https://gigazine.net/gsc_news/en/20260127-google-dear-upstairs-neighbors/
+- date: '2026-02-07'
+  summary: Found 10 articles
+  sources:
+  - https://www.imdb.com/es/news/ni65614495/
+  - https://m.imdb.com/news/ni65501335/
+  - https://www.imdb.com/fr/news/ni65161657/
+  - https://interestingengineering.com/ai-robotics/ai-tools-filmmaking-movies
+  - https://www.facebook.com/groups/1510348213732401/posts/1632103144890240/
+  relevance: 'WEAK_YES: While the evidence suggests significant AI video generation progress, none definitively proves a complete
+    one-shot 90+ minute narrative film without iterative human intervention by the deadline.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.imdb.com/fr/news/ni65161657/
+  relevance: 'MODERATE: Article describes Staircase Studios'' AI-generated film debut with a five-minute preview, but this
+    falls short of the 90+ minute single-prompt requirement and appears to involve directorial input rather than one-shot
+    generation.'
+- date: '2026-02-15'
+  summary: 1 relevant article
+  sources:
+  - https://www.freep.com/press-release/story/145520/the-worlds-first-photorealistic-ai-feature-film-arrives-february-10-2026/
+  relevance: 'MODERATE: Article [0] announces "Deep Frame" as "the first photorealistic AI-rendered feature set for theaters"
+    premiering Feb 10, 2026, which directly addresses whether a feature-length AI film exists, though the article excerpt
+    lacks crucial details about whether it was generated from a single prompt without iterative direction.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://timesofindia.indiatimes.com/etimes/trending/we-made-a-200-million-movie-in-one-day-and-its-100-ai-german-studio-reveals-hollywood-level-results-using-ai/articleshow/128440874.cms
+  relevance: 'MODERATE: Article claims a German studio created a "$200 million movie in one day" using 100% AI, which if true
+    would be direct evidence of AI-generated feature-length film, but lacks concrete details about runtime, single-prompt
+    generation, or verification of claims.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a demonstrated
+    90+ minute narrative film generated from a single prompt with no iterative prompting or scene-by-scene direction. All
+    articles fall short of this threshold. Article [4] headline references "The World''s First Photorealistic AI Feature Film"
+    but the content is corrupted/incomplete, preventing verification. Articles [5], [6], [7] discuss "Apex" by The Dor Brothers—claimed
+    as a "$200M film in 24 hours" using AI—but the actual content provided does not specify: (a) whether it meets the 90+
+    minute duration requirement, (b) whether it was generated from a single prompt without iterative direction, or (c) what
+    human intervention occurred beyond "minor post-processing." The TLDR in [6] explicitly states it''s a "short film," suggesting
+    it does NOT meet the 90-minute criterion. These are marketing claims without verifiable technical details confirming criteria
+    compliance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wilnickmagazine.com/the-dor-brothers-apex-how-ai-created-a-200m-film-in-24-hours/
+  - https://digg.com/entertainment/h4iDFGk/the-apex-effect-how-ai-simulated
+  - https://timesofindia.indiatimes.com/etimes/trending/we-made-a-200-million-movie-in-one-day-and-its-100-ai-german-studio-reveals-hollywood-level-results-using-ai/articleshow/128440874.cms
+  trajectory_signal: 'Articles [5], [6], [7] signal meaningful directional momentum toward YES. The Dor Brothers'' "Apex"
+    (Feb 2026) represents a claimed leap in AI filmmaking capabilities—generating high-quality cinematic content at scale
+    in minimal time. This demonstrates progress in: (1) AI video generation quality reaching "Hollywood-level" production
+    values, (2) dramatic reduction in production timelines, and (3) industry credibility/adoption. Articles [0], [1], [2],
+    [8] show the broader AI video generation ecosystem maturing rapidly (Sora 2, Veo 3, Kling 2.6 with synchronized dialogue,
+    natural sound effects, precise motion control). This trajectory is moving toward the resolution target, but the current
+    evidence does not yet confirm the specific one-prompt, 90+ minute, single-system requirement has been achieved.'
+- date: '2026-03-01'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the resolution criteria have been met. The baseline context (as
+    of Jan 2026) already states that current AI video generators produce 1-5 minute clips requiring extensive scene-by-scene
+    prompting and human editing. None of the articles reviewed demonstrate:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://digg.com/entertainment/ZDXVQQ6/after-apex-the-dor-brothers-create
+  - https://newsweek.com/movie-starring-logan-paul-made-exclusively-with-ai-released-11583252
+  trajectory_signal: 'Two articles signal directional momentum:'
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the resolution criteria have been met. The prediction requires
+    a demonstration of a 90+ minute narrative film generated from a single prompt with no iterative prompting or scene-by-scene
+    human direction (minor post-processing allowed). No article claims this has been achieved. Articles 0-4, 9-13 discuss
+    general AI video capability improvements, tool comparisons, and public rollouts, but none specify whether any system can
+    generate feature-length narratives from single prompts. Article 6-7 reference an "AI Cinema Landmark: ''Strings'' Makes
+    World Premiere" (Mar 1, 2026) but provide no content details about how it was created or its length/methodology—this could
+    be significant but the incomplete excerpts prevent verification against criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://markets.businessinsider.com/news/stocks/seedance-2-0-launches-multi-input-ai-video-generation-system-for-cinematic-content-creation-1035900550
+  - https://www.vidau.ai/one-ai-filmmaking-prompt-to-creating-full-length-ai-films-to-try-now/
+  - https://bonega.ai/en/blog/ai-video-workflow-consolidation-march-2026
+  trajectory_signal: 'Three articles signal directional momentum toward the resolution:'
+- date: '2026-03-15'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that the resolution criteria have been met. The criteria require:
+    (1) a single AI system producing a 90+ minute narrative film from ONE initial text prompt, (2) no iterative prompting
+    or human scene-by-scene direction, (3) only minor post-processing allowed. No article demonstrates a completed 90+ minute
+    feature film from a single prompt meeting these specifications. Most articles lack sufficient technical detail about prompt
+    methodology and workflow to verify compliance with the "one-shot" requirement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://k.sina.com.cn/article_7879922982_1d5ae15260190a6vyu.html?from=tech
+  - https://www.digitimes.com/news/a20260306PD225/cost-technology-production-development.html
+  - https://www.unite.ai/from-screenplay-to-cinema-how-utopais-pai-is-turning-written-stories-into-ai-generated-films/
+  - https://azfamily.com/2026/03/12/writing-directing-shooting-all-once-inside-ai-filmmaking/
+  trajectory_signal: 'Multiple signals indicate progress toward the resolution criteria:'
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying resolution criteria. Article [1] claims MBC C&I produced
+    "Raphael," an "80-minute feature" billed as "one of the world''s first entirely AI-generated feature film." However, this
+    falls SHORT of the 90+ minute requirement AND critically, the article provides zero detail on whether it was generated
+    from a single prompt vs. the iterative scene-by-scene workflow that currently dominates. Without confirmation of single-prompt
+    generation, this cannot be TIER 1 evidence. The article is purely an industry announcement with no technical details about
+    generation methodology.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://variety.com/2026/film/news/ai-generated-film-raphael-mbc-ci-hong-kong-filmart-slate-1236686079/
+  - https://thedatascientist.com/10-best-ai-video-creation-tools-in-2026-ranked-tested-direct-authoritative/
+  trajectory_signal: 'Article [1] signals TOWARD_YES momentum: an 80-minute AI film being showcased at a major film market
+    represents genuine progress toward feature-length AI cinema, even if it doesn''t yet meet the 90-minute threshold or demonstrate
+    single-prompt generation. This is the closest practical approach to resolution we''ve seen.'
+- date: '2026-03-29'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting the resolution criteria. The prediction requires a single
+    AI system producing a 90+ minute narrative film from ONE initial text prompt with no iterative prompting or human scene-by-scene
+    direction. Zero articles demonstrate this specific capability. Articles [10-14] about "Aurion – La prima luce" claim it
+    is "entirely created with AI," but the limited content provided does not specify: (1) whether it was generated from a
+    single prompt or required extensive iterative prompting/human scene direction, (2) the actual runtime (claimed as "lungometraggio"/feature-length
+    but unconfirmed at 90+ minutes), or (3) the degree of human creative direction involved in scene composition. The Italian
+    film announcement is suggestive but lacks the technical detail needed to verify against resolution criteria. Articles
+    [0-4] discuss Seedance 2.0 capabilities but only reference short-form video generation with "character consistency" and
+    "consistent storytelling"—not full-length narrative films from single prompts.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.facebook.com/travis.davids/posts/the-power-of-seedance-20-omni-allows-me-to-do-crazy-stuff-like-this-i-can-combin/10243595566363624/
+  - https://www.corrierenerd.it/aurion-la-prima-luce/
+  - https://cinema.everyeye.it/notizie/italiano-film-sci-fi-realizzato-interamente-ia-trailer-867990.html
+  - https://www.leggo.it/spettacoli/cinema/aurion_film_fantascienza_intelligenza_artificiale-9433141.html
+  - https://www.ansa.it/campania/notizie/2026/03/23/esce-aurion-film-di-fantascienza-italiano-interamente-realizzato-con-lia_a2da3c14-44b9-461f-87ac-b86161394cf2.html
+  trajectory_signal: 'Articles [10-14] signal MODERATE TOWARD_YES momentum: An Italian production company has announced completing
+    what appears to be a full-length sci-fi film using AI (Aurion), suggesting the industry is approaching or may have crossed
+    the capability threshold. However, this lacks verification of the single-prompt constraint. Articles [0-4] show rapid
+    capability improvements in Seedance 2.0 (consistency, character tracking, "cinematic" quality) and market consolidation
+    (ByteDance filling OpenAI''s void), indicating technical trajectory favoring longer, more coherent AI video generation.
+    The trajectory suggests the capability may exist or be imminent, but no published evidence yet confirms the specific single-prompt,
+    90+ minute requirement.'
+- date: '2026-04-05'
+  summary: 7 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.facebook.com/TechyImran/posts/ai-filmmaking-just-got-crazy-70-off-for-2-days-only-comment-movie-and-get-the-li/1395583049250038/
+  - https://www.digitaljournal.com/pr/news/winston-news-wire/bigmotion-ai-offers-seedance-2-0-pro-1194822419.html
+  - https://blog.laozhang.ai/en/posts/seedance-2-how-to-use
+  - https://aihola.com/article/seedance-capcut-global-expansion
+  - https://www.alto.ad/culture/andorra-referents-exhibition-lita-cabellut--260331
+- date: '2026-04-12'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires a single AI system generating
+    a 90+ minute narrative film from one prompt with no iterative prompting or human scene-by-scene direction. All articles
+    fall short:'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://aitoolsbee.com/news/ai-video-generation-advances-as-flova-integrates-bytedance-seedance-2-0/
+  - https://neuralnetworkworld.com/google-veo-3-1-free-ai-video-generation-2026/
+  - https://www.thedailyjagran.com/technology/google-makes-ai-video-creation-free-for-all-users-with-veo-31-10306480
+  - https://creati.ai/ai-news/2026-04-05/google-vids-veo-3-1-lyria-3-ai-avatars-upgrade-2026/
+  trajectory_signal: 'Articles [0, 2, 3, 4] show incremental progress in video generation duration and accessibility (60-90
+    seconds with Seedance 2.0; 8-second clips widely available via Veo 3.1). However, articles [10, 11, 12] indicate significant
+    NEGATIVE momentum: OpenAI shut down Sora (March 2026), redirecting computational resources away from video generation
+    toward next-generation AI. This signals a pullback in the most advanced video generation capability, moving the field
+    TOWARD_NO resolution. No trajectory articles demonstrate progress toward the specific 90+ minute single-prompt requirement.'
+- date: '2026-04-19'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a 90+ minute narrative film generated from a single prompt without
+    iterative prompting or human scene-by-scene direction. All KEEP-tier criteria gaps remain unfilled.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.tenbizt.com/news/media/2026/04/12/ai-driven-cinema-discover-revolutionary-film/
+  - https://www.atlascloud.ai/blog/case-studies/the-state-of-ai-video-apis-in-2026-from-text-to-video-to-cinematic-directing
+- date: '2026-04-26'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the resolution criteria have been met. Article [5] and [6] describe
+    "《灵魂摆渡·浮生梦》" (Soul Ferry: A Dream in Life) announced for summer 2026 release, claimed as China''s "first fully AI-generated
+    film." However, the content reveals critical gaps:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://finance.sina.com.cn/tech/roll/2026-04-22/doc-inhvitah5655161.shtml
+  - https://k.sina.cn/article_5328858693_13d9fee4502002cx1a.html?from=news&pos=108&subch=onews&vt=4
+  - https://www.thehindu.com/videos/shows/watch-tumbbad-director-rahi-anil-barve-made-a-feature-using-ai-why-how-inside-man/article70892253.ece
+  trajectory_signal: Articles [5, 6] signal MODERATE momentum toward resolution by demonstrating that industry players are
+    now attempting full-film AI production at scale (major streaming platform iQiyi + established production houses). The
+    framing as "fully AI-generated" reflects shifting industry norms. However, the actual evidence shows this is still human-directed
+    component generation, not single-prompt generation — representing progress in workflow automation but not yet hitting
+    the specific technical threshold. Articles [0, 4, 8, 10, 11] show continued capability expansion in video generation tools
+    and market consolidation, suggesting the technical foundations are advancing, but no evidence of the leap to true single-prompt
+    coherent narrative generation over 90 minutes.
+- date: '2026-05-03'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a 90+
+    minute narrative film from a SINGLE prompt with no iterative prompting or human scene-by-scene direction. Article [1]
+    reports "I''m Popo" as "South Korea''s first fully AI feature" but critically, it is only 64 minutes long—well short of
+    the 90-minute threshold. Articles [4], [5], [6], [7] all reference the same film and confirm its sub-feature length runtime.
+    None document a 90+ minute film. Articles [0] and [2] report OpenAI shutting down Sora, moving away from the resolution
+    target. Article [3] announces platform integrations but provides no evidence of feature-length output. Article [8] discusses
+    benchmarking text-to-video tools without demonstrating 90+ minute narratives. Article [9] (Chinese text, dated 2026-05-01)
+    discusses Sora 2 capabilities but makes no claims about feature-length single-prompt generation. Article [10] describes
+    incremental improvements to background realism—incremental progress, not feature-length capability.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hitkultr.com/2026/4/im-popo-ai-film
+  - https://www.koreaherald.com/article/10726505
+  - https://www.asiae.co.kr/en/article/2026042700301192569
+  - http://www.newsroad.co.kr/news/articleView.html?idxno=58783
+  - https://www.nbntv.kr/news/articleView.html?idxno=339970
+  trajectory_signal: 'Articles [1], [4], [5], [6], [7] show meaningful TOWARD_YES momentum: "I''m Popo" represents the first
+    theatrical AI-generated feature film, created by director Kim Il-dong in a one-person workflow with AI generation (no
+    traditional crews). The film was completed in ~2 months and selected for international film festivals, signaling technical
+    feasibility of AI-driven narrative filmmaking at scale. However, it falls 26 minutes short of the resolution threshold
+    and reportedly involved iterative human creative direction (scenario writing, directorial choices), which may violate
+    the "no iterative prompting" constraint depending on interpretation. Articles [0] and [2] signal TOWARD_NO momentum: Sora''s
+    discontinuation represents a setback for the leading platform. Articles [3], [8] signal neutral technical progress—capability
+    improvements but no feature-length demonstration yet. The trajectory suggests the ecosystem is advancing toward longer,
+    more coherent AI narratives, but the critical gap remains: no demonstrated 90+ minute film from a single initial prompt
+    without human scene-by-scene direction.'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.koreatimes.co.kr/entertainment/others/20260507/im-popo-koreas-first-all-ai-film-asks-what-comes-next-for-cinema
+  - https://mugglehead.com/south-koreas-first-wholly-ai-generated-film-hits-theatres-this-month/
+  - https://www.bolnews.com/entertainment/im-popo-ai-steps-into-korea-cinema/
+- date: '2026-05-17'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://rollingstoneindia.com/im-popo-koreas-first-ai-generated-feature-film-explores-the-dark-side-of-ai/
+  - https://mail.filmfestivals.com/blog/cannes/history_making_ai_feature_film_hell_grind_to_be_screened_during_cannes_film_festival_created_entirely_on_the
+- date: '2026-05-24'
+  summary: 3 relevant articles
+  sources:
+  - https://cryptobriefing.com/higgsfield-ai-hell-grind-cannes-debut/
+  - https://tech.yahoo.com/ai/article/a-fully-ai-generated-film-premiered-at-cannes-this-week-150336602.html
+  - https://pagesix.com/2026/05/21/entertainment/worlds-first-ever-ai-feature-film-hell-grind-premieres-at-cannes-film-festival/
+  relevance: STRONG
+  direction: TOWARD_YES
+- date: '2026-05-31'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The critical gap: all articles
+    about Hell Grind and Dreams of Violets describe films made by *teams* (Higgsfield AI''s 15-person team over 14 days; Fountain
+    0''s team), not from "one initial text prompt" by a single AI system. Articles [0,2,3,5,6,7] explicitly state Hell Grind
+    involved a "team," "pipeline," and production process — indicating human scene-by-scene direction and stitching, which
+    the criteria explicitly forbid. Article [4] on Dreams of Violets (75 minutes, not 90+) similarly doesn''t specify single-prompt
+    generation. Critically, none of the articles provide production workflow details confirming generation from a *single
+    prompt with no iterative prompting or human scene-by-scene direction*. The resolution criteria require NO human-directed
+    scene editing or re-prompting — but team-based film production inherently involves this. Articles about Critterz [10,11,12]
+    describe an OpenAI Sora project that never even premiered, so provide no positive evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cined.com/hell-grind-the-95-minute-ai-feature-cannes-2026-says-it-never-screened/
+  - https://www.newz.com/how-seedance-20-and-ai-films-at-cannes-challenge-production-norms/
+  - https://news.lavx.hu/article/first-95-minute-ai-movie-sparks-debate-a-technical-look-at-hell-grind
+  - https://www.tech360.tv/bytedance-ai-films-disrupt-cannes-with-low-budget-features-2026-26-05
+  - https://cryptobriefing.com/higgsfield-ai-hell-grind-cannes-film/
+  trajectory_signal: 'Strong momentum toward YES. Articles [0,1,2,3,5,6,7] document two major milestones in May 2026: (1)
+    Hell Grind, a 95-minute feature using Seedance 2.0, premiered at Cannes in under 2 weeks for $500K — demonstrating AI
+    can generate feature-length narrative coherently; (2) Dreams of Violets accepted by Tribeca Festival, marking institutional
+    validation of AI-generated features. These signal rapid capability scaling from 1-5 minute clips (baseline) to 90+ minutes
+    in coherent narratives. However, the trajectory *as currently demonstrated* still involves human teams and iterative workflows,
+    not one-shot generation. The momentum is directionally correct but hasn''t yet achieved the *specific* criteria (single
+    prompt, no iteration). The Critterz setback [10,11,12] signals a countervailing headwind — technical fragility in AI video
+    tools — but doesn''t reverse the overall trajectory given Hell Grind''s success.'
+- date: '2026-06-07'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://letsdatascience.com/news/higgsfield-debuts-95-minute-ai-film-hell-grind-1c8e722f
+  - https://www.newsglobenow.com/new370335.html
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pivot.uz/full-length-ai-film-debuted-at-cannes-covered-by-wsj-bbc-and-variety-created-by-higgsfield-ai-team-led-by-kazakhstani-director-aytore-zholdaskali/
+  - https://www.irishtimes.com/culture/film/2026/06/03/i-dont-think-christopher-nolan-will-make-another-300m-movie-is-ai-drama-dreams-of-violets-the-future-of-film-making/
+  - https://fstoppers.com/artificial-intelligence/fully-ai-generated-feature-premiering-tribeca-industry-out-excuses-902765
+  - https://www.france24.com/en/tv-shows/arts24/20260605-ai-feature-film-on-iran-s-protest-movement-makes-festival-history
+  - https://finstreetnews.com/i-watched-a-500k-sci-fi-thriller-starring-ai-actors-the-movie-made-me-feel-something-real-for-a-moment/
+- date: '2026-06-14'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://entertainment.blab.com/2026-06-10-san-francisco-startup-higgsfield-ai-debuts-hell-grind-a-95-minute-ai-generated-action-film-at-cannes-marketplace
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.vanityfair.com/story/first-fully-ai-movie-to-screen-at-a-festival-has-nearly-glitch-free-tribeca-debut
+  - https://www.hollywoodreporter.com/movies/movie-features/tribeca-dreams-of-violets-what-is-it-about-ai-iran-1236619224/
+  - https://editorial.rottentomatoes.com/article/dreams-of-violets-ai-film-interview/
+  - https://www.eonline.com/news/1432858/tribeca-festival-dreams-of-violets-ash-koosha-made-ai-movie-for-s2-000
+  - https://www.aol.com/entertainment/filmmaker-ash-koosha-made-tribeca-234811318.html
+- date: '2026-06-21'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires a single
+    AI system producing a 90+ minute narrative film from ONE initial text prompt with no iterative prompting or human scene-by-scene
+    direction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://36kr.com/newsflashes/3817488931324802?f=rss
+  - https://www.profgmedia.com/p/the-2000-movie
+  - https://www.techradar.com/ai-platforms-assistants/i-watched-a-90-minute-ai-movie-made-in-just-two-weeks-and-hollywood-can-stop-worrying-for-now
+  - https://www.thenewworld.co.uk/john-bleasdale-the-sheer-hell-of-hell-grind-a-fully-ai-generated-movie/
+  - https://myatlantis.org/article/ai-generated-feature-film-at-cannes-is-this-the-future-of-cinema-hell-grind-review
+  trajectory_signal: Strong momentum signal. Multiple feature-length AI films (90-95 minutes) are now premiering at major
+    international festivals (Tribeca, Cannes, Asolo) and theatrical release (South Korea, February 2026 per article [9]).
+    This represents rapid scaling from the baseline (1-5 minute clips as of Jan 2026) to feature-length narratives. However,
+    production methodologies remain opaque—these likely still involve significant human iteration and editing rather than
+    true one-shot generation. The trajectory shows the industry is solving the long-form coherence problem, but not necessarily
+    within the specific constraints (single prompt, no iterative direction). The gap between "AI-generated feature films exist"
+    and "one-shot AI feature films exist" remains unverified.
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ascartists.org/article/tribeca-2026-ai-generated-film-dreams-of-violets-to-premiere
+  - https://www.eonline.com/videos/2503235651582/breaking-down-dreams-of-violets-the-first-ai-generated-feature-film-to-screen-at-tribeca
+  - https://legacyfootball.org/article/ai-revolution-dreams-of-violets-the-world-s-first-ai-generated-iranian-resistance-film
+  - https://bennettstgallery.com/article/ai-generated-feature-film-at-cannes-is-this-the-future-of-cinema-hell-grind-review
+  - https://manchestercameraclub.org/article/hell-grind-the-first-ai-produced-sci-fi-heist-film-exclusive-trailer-breakdown
+- date: '2026-07-05'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that the resolution criteria have been met. Claims of "AI-generated
+    feature films" (Articles 1, 5, 6, 8) lack concrete verification of:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://snuqvir.com/article/ai-makes-history-dreams-of-violets-premieres-at-tribeca-film-festival
+  - https://www.cinejosh.com/news/1/128213/amba's-revenge-pioneers-ai-filmmaking-in-tollywood.html
+  - https://www.horrorsociety.com/2026/07/03/exclusive-images-otx-lab-unveils-apocalypse-tape-1990-the-worlds-first-ai-horror-movie-by-italian-director-paolo-del-fiol/
+  - https://evramash.com/article/hell-grind-the-first-ai-produced-sci-fi-heist-film-exclusive-trailer-breakdown
+  trajectory_signal: Articles 1, 5, 6, 8 signal momentum TOWARD_YES by demonstrating that full-length AI narrative films are
+    now being produced and premiered at film festivals (Tribeca) and in regional cinema (Tollywood). This represents significant
+    progress from the baseline (June 2026) where only 1-5 minute clips existed. However, trajectory articles lack technical
+    rigor—they don't clarify whether these films meet the strict "one-shot prompt" criterion or involved extensive human direction/stitching.
+    Articles 0, 2, 3, 4 show incremental technical progress (longer durations, better physics, 4K generation) but fall short
+    of demonstrating narrative coherence at feature length. Article 10 (DeepMind-A24 partnership) signals institutional investment
+    in the space. The direction is clearly TOWARD_YES capability, but verification gaps remain substantial.
+- date: '2026-07-12'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://en.shuziqushi.com/new394102.html
+  - https://www.36kr.com/newsflashes/3817488931324802
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tva.onscreenasia.com/2026/07/particle-6-begins-development-on-tilly-norwood-feature-film-misaligned/
+  - https://xix.ai/ainews/seedance-20-launches-with-unified-multimodal-ai-for-industrialgrade-content-creation.html
+  - https://www.goodmorningamerica.com/culture/story/ai-generated-actress-tilly-norwood-making-feature-film-134523495
+  - https://www.cbr.com/tilly-norwood-ai-actor-movie-misaligned-details/
+  - https://www.pymnts.com/news/artificial-intelligence/2026/an-ai-with-no-body-just-landed-a-movie-deal/
+- date: '2026-07-19'
+  summary: 3 relevant articles, 1 trajectory signal
+  sources:
+  - https://variety.com/2026/film/news/ai-generated-odyssey-film-fountain-0-dreams-of-violets-1236810051/
+  - https://briefledger.co.uk/ai-studio-unveils-feature-length-odyssey-film-as-nolans-epic-opens-today/
+  - https://fstoppers.com/artificial-intelligence/ai-studio-made-its-own-odyssey-and-timed-it-nolans-opening-903595
+  relevance: 'MODERATE: Articles [1, 2, 5] report that Fountain 0 released "Odysseus: The Fall," a 135-minute AI-generated
+    film directed by Ash Koosha using Kling AI video generator, completed in three months on a mid-five-figure budget. This
+    directly addresses the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.comingsoon.net/movies/news/2162462-ai-odyssey-movie-odysseus-the-fall-trailer-christopher-nolan
+  trajectory_signal: Article [7] (trailer announcement, 2026-07-15) shows momentum toward wider publicity and validation of
+    the film. Combined with the release announcements, this signals the field is demonstrably advancing toward feature-length
+    AI film production, though the single-prompt constraint remains unverified.
+- date: '2026-07-26'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://36kr.com/newsflashes/3817488931324802
+  - https://theaicronicle.com/en/news/future/odysseus-the-fall-ai-film-vs-nolan
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://xix.ai/ainews/seedance-20-launches-with-unified-multimodal-ai-for-industrialgrade-content-creation.html
+  - https://1ai.biz/en/2026/07/24/iqiyi-debuts-chinas-first-licensed-ai-generated-feature-film/
+  - https://ranzware.com/youtuber-and-ai-filmmaker-gossip-goblin-releasing-ai-feature-film-in-theaters-this-fall
+  - https://promptyze.com/veo-3-1-brings-surgical-video/
+- date: '2026-08-02'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://36kr.com/newsflashes/3817488931324802?f=rss
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.carolineprogress.com/14596-gossip-goblins-ai-feature-film-hits-theaters-this-fall/
+  - https://www.newsbreak.com/newsnation-2045693/4793790538635-first-ai-generated-feature-film-in-us-to-hit-theaters-this-fall
+  - https://ntvtelugu.com/news/dharmakshetra-indias-first-ai-independent-telugu-movie-made-in-just-30-days-999315.html
+  - https://studio.aifilms.ai/blog/be-brave-carrozzini-ai-documentary-venice-83
+- date: '2026-08-09'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://moviesfoundonline.com/video/hell-grind-2026/
+  - https://finance.yahoo.com/technology/ai/articles/higgsfield-latest-ai-film-proves-133000716.html
+  relevance: 'STRONG: Articles [5] and [7] provide direct evidence of 90+ minute AI-generated narrative films from single
+    prompts:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbctv18.com/technology/ai-makes-a-feature-film-in-14-days-higgsfield-shares-its-500000-filmmaking-process-with-creators-19962632.htm
+  - https://mothership.sg/2026/08/singapore-ai-film-national-day/
+  - https://www.whalesbook.com/news/English/media-and-entertainment/Higgsfield-AI-Open-Sources-Pipeline-After-dollar500K-Film/6a7342563b2431b2558508b7
+  trajectory_signal: 'Articles [0], [1], and [6] show momentum:'
+- date: '2026-08-16'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles qualify for KEEP tier because none demonstrate resolution criteria compliance. The critical
+    gap: all reported AI films involved substantial human intervention violating the "one prompt, no iterative prompting or
+    human scene-by-scene direction" requirement. Article [3] (The Verge) explicitly states "the best parts were all human,"
+    and [6] reveals "AI Film''s Biggest Secret Is a Human Screenwriter and Prompter." Article [2] mentions "a team of 28 creatives"
+    producing the 110-minute film over four weeks, directly contradicting single-prompt generation. The Higgsfield film "Cully
+    Hill Boys" appears to be the closest demonstration (110 minutes), but the evidence shows it required extensive human creative
+    direction throughout production, not generation from a single initial prompt.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/higgsfield-ai-movie-2m-budget/
+  - https://www.inc.com/victoria-salves/higgsfield-ai-just-debuted-first-fully-ai-generated-feature-film/91385305
+  - https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list
+  - https://smarti.news/11990/higgsfield-ai-first-ai-feature-film
+  - https://xoomar.com/technology/ai-film-human-screenwriter-prompts
+  trajectory_signal: 'Strong momentum signals toward YES, but not yet at resolution:'
+- date: '2026-08-23'
+  summary: 2 relevant articles, 1 trajectory signal
+  sources:
+  - https://www.semafor.com/article/08/19/2026/ai-startup-produces-fully-ai-generated-feature-length-film
+  - https://hellomarvisaitoday.com/articles/fca63e6e-662e-4002-84f0-19b32cb22339
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.einpresswire.com/article/934780498/xelta-unveils-ai-creative-operating-system-for-long-form-filmmaking-from-one-prompt-to-up-to-60-minutes
+- date: '2026-08-30'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence meeting the resolution criteria. The prediction requires: (1) a single
+    AI system, (2) generating 90+ minutes of narrative film, (3) from ONE initial text prompt, (4) without iterative prompting
+    or human scene-by-scene direction. Critical gaps in all reviewed articles:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.chinadaily.com.cn/a/202608/25/WS6a8d4721e4b057c97e209a4e.html
+  - https://world.ksw-news.com/news/ai-film-steely-premiere-ha-jung-woo
+  - https://aicurated.com/ai-applications/nollywood-debuts-first-ai-powered-yoruba-sci-fi-feature-film/
+  - https://www.urbanmag-online.com/director-jacqualynn-jai-harris-pushes-the-boundaries-of-ai-filmmaking-with-mirrored-america-rebirth-of-a-nation/
+  - https://rcnamericaca.blogspot.com/2026/01/the-worlds-first-photorealistic-ai.html
+  trajectory_signal: 'Multiple signals suggest directional progress TOWARD_YES:'
+- date: '2026-09-06'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.unrollnow.com/status/2086882978979000406
+  - https://dailyglobaldiary.com/ai-generated-odyssey-film-ash-koosha-before-christopher-nolan-movie/
+  - https://kentpro2.com/article/ai-revolution-in-filmmaking-tribeca-premieres-dreams-of-violets-first-fully-ai-generated-movie
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://neherald.com/showbiz/india-s-first-ai-led-anime-film-is-here-the-dwarka-project-trailer-unveiled-at-anime-india
+  - https://www.xix.ai/ainews/chinas-first-aigc-feature-film-with-web-series-production-license-qitan-debuts-on-iqiyi.html
+  - https://gosigmacrm.com/article/hell-grind-the-first-ai-produced-sci-fi-heist-film-exclusive-trailer-breakdown
+  - https://lifestyle.axcessnews.com/story/336297/chinas-first-aigc-long-form-drama-beyond-wukong-premieres-in-hunan-satellite-tvs-prime-time-slot-marking-a-new-chapter-in-the-industrialization-of-film-and-television-production/

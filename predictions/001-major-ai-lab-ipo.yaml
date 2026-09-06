@@ -5,12 +5,12 @@ category: AI Industry
 baseline: As of Jan 2026, none have gone public.
 resolution_criteria: 'YES: S-1 filing or IPO completed. NO: No filing by Dec 31, 2026.'
 search_keywords:
-- xAI
-- Mistral
-- Cohere
-- OpenAI
-- Anthropic
-- IPO
+- OpenAI IPO filing S-1 2026
+- Anthropic IPO 2026
+- xAI public offering stock
+- Mistral IPO filing
+- Cohere IPO 2026
+- AI lab stock market debut
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -34,6 +34,8 @@ forecasts:
   human-6: 20
   human-7: 45
   human-8: 70
+  human-9: 70
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -47,3 +49,574 @@ evidence:
   - https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html
   - https://businessengineer.ai/p/microsoft-in-the-ai-stack
   - https://forgeglobal.com/cohere_ipo/
+- date: '2026-02-07'
+  summary: Found 14 articles
+  sources:
+  - https://alexandre.substack.com/p/venture-chronicles-january-2026
+  - https://www.investing.com/news/transcripts/earnings-call-transcript-microsoft-q2-2026-sees-revenue-growth-stock-declines-93CH-4481140
+  - https://seekingalpha.com/article/4865022-nebius-earnings-preview-growth-now-rubin-expansion-ahead
+  - https://llm-stats.com/ai-news
+  - https://wellows.com/blog/ai-startups/
+  relevance: 'UNCLEAR: The evidence titles do not provide clear, direct information about an IPO for any of the specified
+    AI labs in 2026.'
+- date: '2026-02-08'
+  summary: 3 relevant articles
+  sources:
+  - https://mlq.ai/prediction/brief/ipos/ipos-prediction-markets-brief-february-07-2026-2026-02-07/
+  - https://markets.financialcontent.com/stocks/article/tokenring-2026-2-5-the-trillion-dollar-debut-openai-eyes-historic-2026-ipo-amidst-finance-hiring-spree-and-anthropic-rivalry
+  - https://builtin.com/articles/top-tech-ipos-2026
+  relevance: 'MODERATE: Articles 5 and 6 provide direct evidence of IPO filing/timing discussions (Article 5 mentions OpenAI
+    IPO market activity and H2 2026 preparations; Article 6 discusses OpenAI''s 2026 IPO plans), while Article 9 is a watchlist
+    of major AI companies potentially going public in 2026, though none confirm actual S-1 filings yet.'
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://mlq.ai/prediction/brief/ipos/ipos-prediction-markets-brief-february-07-2026-2026-02-07/
+  - https://markets.financialcontent.com/stocks/article/tokenring-2026-2-5-the-trillion-dollar-debut-openai-eyes-historic-2026-ipo-amidst-finance-hiring-spree-and-anthropic-rivalry
+  relevance: 'MODERATE: Article [5] reports prediction market activity showing OpenAI IPO markets are "split on 2026 timing
+    amid H2 preparations," and article [6] discusses OpenAI "eyeing" a 2026 IPO with hiring activity, but neither provides
+    concrete evidence of an actual S-1 filing or formal IPO announcement.'
+- date: '2026-02-15'
+  summary: 6 relevant articles
+  sources:
+  - https://fortune.com/2026/02/13/anthropics-380-billion-valuation-vaults-it-next-to-openai-spacex-among-largest-ipo-candidates/
+  - https://newsday.com/business/anthropic-claude-380b-valuation-openai-rivalry-ipo-v84252
+  - https://www.newser.com/story/383686/anthropic-joins-elite-group-on-the-cusp-of-going-public.html
+  - https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html?msockid=38c223cd907969790d7634cd910f6834
+  - https://siliconangle.com/2026/02/13/anthropic-databricks-raise-billions-next-stop-ipos/
+  relevance: 'MODERATE: Articles 5-11 provide concrete evidence that Anthropic has reached a $380B valuation (Feb 2026), is
+    being watched as an IPO candidate, and OpenAI CEO Sam Altman stated a public offering is "the most likely path," though
+    no S-1 filing or completed IPO has been announced yet.'
+- date: '2026-02-22'
+  summary: 3 relevant articles
+  sources:
+  - https://www.reuters.com/business/openai-lays-groundwork-juggernaut-ipo-up-1-trillion-valuation-2025-10-29/
+  - https://www.reuters.com/business/retail-consumer/anthropic-plans-an-ipo-early-2026-ft-reports-2025-12-03/
+  - https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html
+  relevance: 'STRONG: Article [5] reports OpenAI laying groundwork for IPO at up to $1 trillion valuation (October 2025);
+    Article [11] reports Anthropic plans IPO as early as 2026 with FT reporting; Article [12] reports Cohere topped revenue
+    targets with momentum building toward IPO, hitting $240M ARR in 2025.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 4 relevant articles
+  sources:
+  - https://moneymint.co.in/anthropic-stock-ipo-status-2026/
+  - https://techmarketbriefs.com/pre-ipo/anthropic/
+  - https://newsletter.strictlyvc.com/p/openai-is-thisclose-to-finalizing-a-new-raise-at-an-850b-valuation
+  - https://builtin.com/articles/top-tech-ipos-2026
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 3 relevant articles
+  sources:
+  - https://techmarketbriefs.com/pre-ipo/openai/
+  - https://www.facebook.com/SFBusinessTimes/posts/major-ipo-news-openai-is-laying-the-groundwork-for-a-public-listing-later-in-202/1533123232152514/
+  - https://opentools.ai/news/anthropic-prepares-for-potential-ipo-a-game-changer-in-ai
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://techmarketbriefs.com/pre-ipo/openai/
+  - https://www.salesforceben.com/openai-is-finalizing-100b-investment-as-execs-consider-going-public-in-q4/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.bloomberglaw.com/mergers-and-acquisitions/openai-funding-on-track-to-top-100-billion-in-latest-round-1
+  - https://lamartinierelawsoc.org/silicon-valley-ipo-watch-2026-openai-public-listing-buzz-and-spacexs-soaring-value/
+  - https://markets.financialcontent.com/wral/article/tokenring-2026-2-5-the-trillion-dollar-debut-openai-eyes-historic-2026-ipo-amidst-finance-hiring-spree-and-anthropic-rivalry
+  - https://coincentral.com/openai-funding-round-2026-what-we-know-about-the-100-billion-raise/
+  - https://www.ainvest.com/news/anthropic-openai-infrastructure-race-technological-adolescence-2602/
+- date: '2026-03-01'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an actual S-1 filing or completed IPO by any of the five specified
+    labs as of March 1, 2026. Article [2] mentions SpaceX "weighs confidential IPO filing as soon as March" (published Feb
+    28, 2026) but SpaceX is outside the prediction scope. Article [5] is a prediction market question asking "Will OpenAI
+    file an S-1 before March 15, 2026?" with only 21% forecasted probability—this is a question about resolution, not evidence
+    of filing. Articles [6], [7], [9] discuss OpenAI IPO plans but are either undated or from October 2025 (before the Feb
+    15, 2026 cutoff). None of these constitute TIER 1 evidence because they describe intentions/planning, not actual S-1 filings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tomtunguz.com/spacex-openai-anthropic-ipo-2026/
+  - https://www.thehindubusinessline.com/markets/spacex-weighs-confidential-ipo-filing-as-soon-as-march/article70686929.ece
+  - https://en.ilsole24ore.com/art/from-openai-to-anthropic-l-ai-and-ready-waltz-hypo-AIt0wM7
+  - https://mlq.ai/prediction/brief/ipos/discord-ipo-filing-energizes-2026-markets-as-march-deadline-looms-2026-02-23/
+  - https://kraneshares.com/will-anthropic-or-xai-ipo-in-2026/
+  trajectory_signal: 'Multiple signals point toward increased momentum in 2026:'
+- date: '2026-03-08'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://winbuzzer.com/2026/03/06/openai-hires-cooley-wachtell-law-firms-2026-ipo-xcxwbn/
+  relevance: 'MODERATE: Article [0] provides direct evidence: "OpenAI Hires Cooley, Wachtell to Lead 2026 IPO Push" (published
+    2026-03-06). Cooley and Wachtell are premier law firms specializing in IPO preparation and SEC filings. Hiring these firms
+    is a concrete, observable step in the IPO process that directly signals intent to file an S-1. However, the article content
+    itself is truncated/corrupted, preventing verification of specific details about timeline or filing status. This remains
+    evidence of groundwork/preparation rather than an actual S-1 filing or completed IPO, so it does not fully resolve the
+    criteria yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://winbuzzer.com/2026/03/06/openai-hits-25-billion-revenue-anthropic-closes-gap-xcxwbn/
+  - http://today.reuters.com/technology/openai-tops-25-billion-annualized-revenue-last-month-information-reports-2026-03-05/
+  - https://cio.economictimes.indiatimes.com/news/artificial-intelligence/openai-tops-25-billion-in-annualized-revenue/129192864
+  - https://www.thehindu.com/sci-tech/technology/openai-tops-25-billion-in-annualised-revenue-report/article70710003.ece
+  - https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html
+  trajectory_signal: 'Multiple articles document momentum toward OpenAI IPO: [1-4] establish OpenAI''s financial maturity
+    ($25B+ annualized revenue as of March 2026), [3] explicitly mentions "before potential IPO" in context of compute spending
+    plans, [9, 12] show Cohere similarly positioning for 2026 IPO with strong revenue ($240M ARR). Articles [6, 7] (though
+    undated) reference OpenAI laying groundwork for IPO at $1 trillion valuation. This constellation of signals—hiring elite
+    IPO counsel, hitting major revenue milestones, and explicit public discussion of IPO timing in 2026—indicates accelerating
+    trajectory toward S-1 filing. However, no actual S-1 filing has been announced as of March 8, 2026, leaving ~9.5 months
+    remaining in the year.'
+- date: '2026-03-15'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://mail.infomarine.net/en/insight/117-financial-news/65123-openai-raises-$110bn-from-amazon,-nvidia-and-softbank-ahead-of-ipo.html
+  relevance: 'MODERATE: Article [5] provides direct evidence: OpenAI has raised $110bn in funding ahead of an IPO, with a
+    reported fully diluted valuation of $840bn. However, this article does NOT report an S-1 filing or completed IPO—it describes
+    pre-IPO funding. The resolution criteria require "S-1 filing or IPO completed" by Dec 31, 2026. This article signals imminent
+    IPO activity but does not yet satisfy the hard resolution threshold. No other articles provide concrete evidence of actual
+    S-1 filings or completed IPOs; all remaining articles discuss preparations and plans rather than executed filings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitaltoday.co.kr/en/view/32105/openai-anthropic-ipo-profitability-race-heats-up
+  - https://finance.yahoo.com/news/openai-must-match-microsoft-size-110643647.html
+  - https://www.mk.co.kr/en/world/11984002
+  trajectory_signal: 'Articles [2], [3], and [6] provide directional momentum toward YES resolution:'
+- date: '2026-03-22'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html
+  - https://vucense.com/ai-intelligence/ai-ethics/openai-1-trillion-ipo-test-2026/
+  - https://www.kucoin.com/news/flash/openai-preparing-for-ipo-expected-as-early-as-q4-2026
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newsbytesapp.com/news/business/openai-s-ipo-could-happen-by-end-of-2026/story
+  - https://www.pymnts.com/artificial-intelligence-2/2026/openai-targets-q4-ipo-as-chatgpt-pivots-to-enterprise-applications/
+  - https://fortune.com/2026/03/20/spacex-openai-anthropic-could-be-3-of-the-biggest-venture-backed-ipos-of-all-time/
+  trajectory_signal: 'Articles [7], [8], and [10] reinforce trajectory momentum. [7] and [8] both report Q4 2026 IPO targeting
+    and pivot to enterprise business (strategic positioning for IPO). [10] (Fortune, 2026-03-20) contextualizes this within
+    broader mega-IPO environment: "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time,"
+    suggesting market conditions and investor appetite are favorable. Articles [2], [3], [4] show active fundraising and valuation
+    increases (Anthropic at $542B, OpenAI discussions with PE), indicating financial readiness. These signals collectively
+    suggest forward momentum toward S-1 filing in coming months.'
+- date: '2026-03-29'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://winbuzzer.com/2026/03/24/openai-flags-microsoft-reliance-risk-pre-ipo-filing-xcxwbn/
+  - https://longbridge.com/news/280224412
+  relevance: 'MODERATE: Articles [1] and [3] provide TIER 1 evidence. Article [1] explicitly states OpenAI has produced "a
+    document that resembles an IPO prospectus" with sections titled "Risks Related to the Transaction" — this is direct evidence
+    of pre-IPO filing activity that approaches the S-1 threshold. Article [3] corroborates this, describing the same prospectus-like
+    investor document. However, critical gap: Neither article confirms an actual S-1 filing has been submitted to the SEC.
+    A prospectus-like document prepared internally or shared with investors is preparation work, not the formal regulatory
+    filing required for YES resolution. The articles suggest OpenAI is in advanced pre-IPO stages but have not yet crossed
+    the threshold of formal S-1 submission.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://accessipos.com/anthropic-stock-ipo/
+  - https://www.cmcmarkets.com/en/optox/what-to-expect-from-two-of-the-biggest-ipos-of-2026-openai-and-anthropic
+  - https://www.aol.com/finance/anthropic-eyes-october-ipo-could-215736197.html
+  - https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-considers-fourth-quarter-ipo/
+  - https://www.theinformation.com/briefings/anthropic-discusses-q4-ipo-preps-advanced-claude-mythos-capybara-ai?rc=eorpda
+  trajectory_signal: 'Articles [0], [5], [8], [10], [11] show strong directional momentum toward YES. Multiple sources from
+    March 26-27, 2026 (current date March 29) report that Anthropic is actively considering an IPO "as soon as October 2026"
+    (Q4 2026), with executives in active discussions and potential $60B+ fundraising targets. Article [5] identifies both
+    OpenAI and Anthropic as "two of the biggest IPOs of 2026" on the horizon. This signals substantial momentum: both major
+    labs are in concrete IPO preparation phases with timelines that fall within the 2026 resolution window. The trajectory
+    is clearly TOWARD_YES, though formal filings have not yet materialized.'
+- date: '2026-04-05'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://letsdatascience.com/blog/spacex-175-trillion-ipo-orbital-ai-data-centers
+  relevance: 'MODERATE: Article [4] provides DIRECT evidence: SpaceX filed a confidential draft registration statement (Form
+    S-1 equivalent) with the SEC on April 1, 2026, targeting a $1.75 trillion valuation with a $75 billion capital raise.
+    This is a concrete S-1 filing that satisfies the resolution criteria. However, SpaceX is NOT one of the five specified
+    major AI labs (OpenAI, Anthropic, xAI, Mistral, Cohere), so while it demonstrates the filing has occurred, it does NOT
+    resolve the prediction YES unless one of the named labs files. The criteria gap: None of the five specified AI labs have
+    actually filed S-1s yet as of April 5, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://letsdatascience.com/blog/anthropic-revenue-doubled-60-billion-ipo-october-2026
+  - https://fastly.tipranks.com/news/the-fly/private-markets-spacex-files-for-ipo-anthropic-weighs-going-public-soon-thefly-news
+  - https://techstory.in/anthropic-targets-october-ipo-in-potential-60-billion-capital-raise/
+  - https://thisweekinnlp.substack.com/p/this-week-in-nlp-385
+  trajectory_signal: 'Multiple articles (1, 11, 12, 13) document strong momentum toward YES resolution:'
+- date: '2026-04-12'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.techjuice.pk/openai-ipo-key-facts-about-valuation-growth-and-risks/
+  relevance: 'MODERATE: Article [1] provides the most direct evidence: OpenAI is "preparing to go public as early as the fourth
+    quarter of 2026" with an internal timeline pointing toward a Nasdaq listing. The article notes the company has "expanded
+    its finance team, hired a head of investor relations and started informal talks with Wall Street banks." However, critically,
+    it states "No S-1 filing has been made with the SEC" as of April 6, 2026. This represents concrete progress toward the
+    resolution criteria (S-1 filing or IPO completion) but the criteria have not yet been satisfied. The article demonstrates
+    OpenAI is actively preparing for an IPO with specific timeline targets, but no formal SEC filing has occurred yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.fool.com/investing/2026/04/05/5-things-to-know-about-openai-before-its-ipo/?referring_guid=b685cc78-aeec-461c-b466-12a7abb0dcd6
+  - https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/
+  - https://www.digitaltoday.co.kr/en/view/46148/spacex-openai-anthropic-three-mega-ipos-loom
+  - https://seekingalpha.com/news/4572586-anthropic-openais-finances-ahead-of-ipos-reveal-computing-cost-challenges?feed_item_type=news
+  - https://fortune.com/2026/04/07/openai-drama-sam-altman-ipo-anthropic-cybersecurity-risks-eye-on-ai/
+  trajectory_signal: 'Multiple articles signal strong momentum toward YES resolution:'
+- date: '2026-04-19'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an S-1 filing or IPO completion by either Anthropic or OpenAI.
+    The resolution criteria require concrete filing/completion actions, which none of these articles demonstrate. Articles
+    [0], [2], [3], [5], [6] mention valuations and investor interest but contain incomplete content or are paywalled, preventing
+    verification of specific claims about IPO intent or timeline.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.oninvest.com/article/spacex-openai-and-the-london-listing-of-uzbekistan-s-national-fund-highlights-of-the-ipo-by-april-12
+  - https://usaemall.com/the-public-sours-on-ai-knowledge-facilities-as-anthropic-openai-look-to-ipo-unw/
+  - https://thenextweb.com/news/anthropic-800-billion-valuation-revenue-30-billion-ipo
+  - https://time.news/anthropic-valuation-hits-800-billion-as-vc-interest-surges-ahead-of-potential-ipo/
+  trajectory_signal: 'Articles 4, 7, 8, 9 signal directional momentum TOWARD_YES:'
+- date: '2026-04-26'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.sec.gov/Archives/edgar/data/1540171/000119312526173632/0001193125-26-173632-index.htm
+  - https://thenextweb.com/news/spacex-ipo-s1-musk-voting-control
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-openai-and-anthropic-set-stage-for-record-breaking-ipo-wave/articleshow/130483601.cms
+  - https://perplexityaimagazine.com/ai-tools/openai-122-billion-funding-2026/
+  - https://theconversation.com/openai-gets-set-to-go-public-can-we-entrust-the-financial-markets-with-chatgpt-and-ai-280943
+  trajectory_signal: Articles [1], [2], [4] show strong momentum toward IPOs in 2026. OpenAI specifically is described as
+    "gearing up" for an IPO "this year" (2026), and a major funding round ($122B) just closed in March-April 2026, typically
+    a precursor to going public. The broader IPO wave article cites OpenAI and Anthropic alongside SpaceX as imminent public
+    offerings. SpaceX's actual S-1 filing (outside scope) validates that the infrastructure/conditions for these offerings
+    exist. This signals TOWARD_YES on the resolution path, though it remains in the "preparation/imminent" stage rather than
+    completed filing for the in-scope companies.
+- date: '2026-05-03'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an S-1 filing or completed IPO. The resolution criteria explicitly
+    require either a securities filing or a completed IPO by December 31, 2026. None of the articles report that either has
+    occurred. Articles [3] and [11] mention IPO "pushes" and positioning, but these are preparatory statements, not actual
+    filings. Articles [5], [7], and [8] discuss OpenAI''s IPO timeline slipping to 2027, which is directionally relevant but
+    does not constitute the required filing evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html
+  - https://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value
+  - https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/
+  - https://www.morningstar.com/markets/ahead-ipo-push-openai-distances-itself-microsoft-partnership
+  - https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-05-10'
+  summary: 2 relevant articles, 7 trajectory signals
+  sources:
+  - https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo
+  - https://blockonomi.com/anthropic-secures-spacex-compute-ahead-of-june-ipo/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.morningstar.com/stocks/ahead-ipos-ai-giants-keep-making-circular-deals-heres-why-thats-risk
+  - https://aibusinessweekly.net/p/openai-ipo-25-billion-revenue-anthropic-race-2026
+  - https://pivot-to-ai.com/2026/05/08/openai-may-not-be-able-to-ipo-in-2026/
+  - https://www.wionews.com/world/ai-ipo-bubble-openai-xai-anthropic-trillion-dollar-valuations-1778314696852
+  - https://www.techi.com/openai-ipo/
+- date: '2026-05-17'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.sec.gov/Archives/edgar/data/1402328/000168316826003726/0001683168-26-003726-index.htm
+  - https://www.sec.gov/Archives/edgar/data/2109150/000119312526216625/0001193125-26-216625-index.htm
+  - https://www.sec.gov/Archives/edgar/data/2104882/000119312526215584/0001193125-26-215584-index.htm
+  relevance: 'STRONG: Three articles provide DIRECT evidence of S-1 filings:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://chaintechdaily.com/2026/05/10/openai-ipo-targets-late-2026-as-revenue-hits-25bn/
+  - https://finance.yahoo.com/markets/stocks/articles/openais-ipo-dream-gets-massive-110106707.html
+  - https://dojmt.gov/attorney-general-knudsen-asks-sec-to-strictly-scrutinize-openais-filings-to-protect-investors-ahead-of-ipo/
+  trajectory_signal: 'Articles [6] and [8] provide momentum signals: OpenAI is "actively preparing its OpenAI IPO for as early
+    as the fourth quarter of 2026" with major financial advisors (Goldman Sachs, JPMorgan, Morgan Stanley) and achieved $25bn
+    annualized revenue. Article [8] reports Microsoft''s $38B revenue cap agreement strengthens OpenAI''s investor appeal.
+    Article [3] shows state AGs requesting SEC scrutiny of OpenAI''s IPO filings, implying imminent formal filings. These
+    signal accelerating momentum toward additional major lab IPOs beyond what has already filed.'
+- date: '2026-05-24'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/
+  relevance: 'MODERATE: Article [3] provides DIRECT evidence: "SpaceX, the aerospace company founded by Elon Musk 24 years
+    ago, has finally made its IPO filing public" (published 2026-05-20). This confirms SpaceX has completed an S-1 filing,
+    satisfying the resolution criteria. However, SpaceX is NOT one of the five specified labs (OpenAI, Anthropic, xAI, Mistral,
+    Cohere). The prediction requires "at least one major AI lab" — SpaceX is an aerospace company, though xAI is mentioned
+    as a division. Articles [8] and [9] discuss xAI financials within SpaceX''s S-1 filing, but xAI appears to be a subsidiary/division
+    within SpaceX rather than filing independently. This creates ambiguity about whether xAI''s inclusion in a SpaceX filing
+    counts as xAI filing. Criteria gap: Unclear if SpaceX''s filing on behalf of xAI division satisfies the prediction (xAI
+    as standalone entity not confirmed to have filed independently).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/openai-confidential-ipo-filing-goldman-sachs/
+  - https://www.ctvnews.ca/business/article/openai-aiming-for-speedy-ipo-source-says-as-market-awaits-spacex-filing/
+  - https://www.cnbc.com/2026/05/20/openai-ipo-filing.html
+  - https://www.sfchronicle.com/tech/article/openai-ipo-filing-report-22268719.php
+  - https://siliconangle.com/2026/05/20/spacex-releases-ipo-filing-openai-reportedly-prepares-september-listing/
+  trajectory_signal: Articles [2, 4, 6, 7, 10] all report OpenAI preparing to confidentially file for IPO "as soon as Friday"
+    or "in the coming weeks/days" (published 2026-05-20 to 2026-05-21). Sources cite Goldman Sachs and Morgan Stanley involvement.
+    Article [10] mentions OpenAI "could submit paperwork...as early as Friday" with potential September listing. Article [2]
+    states filing "expected to file as soon as this week." This represents strong momentum toward YES resolution for OpenAI
+    specifically, though no actual filing has been confirmed yet. Article [1] frames an ongoing competitive "race" between
+    Musk and Altman. The trajectory strongly suggests imminent OpenAI filing within days/weeks of May 20.
+- date: '2026-05-31'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://ecmsource.com/openai-confidential-s1-filing-1-trillion-ipo-may-2026/
+  - https://aifounders.cz/en/openai-filed-its-s-1-now-the-subsidy-clock-is-running/
+  - https://www.winzheng.com/en/article/openai-s1-ipo-filing
+  relevance: 'STRONG: Articles [0], [2], and [6] provide direct evidence of S-1 filing—the explicit resolution criterion.
+    Article [0] (published 2026-05-27) reports OpenAI "confidentially filed a draft Form S-1 with the U.S. Securities and
+    Exchange Commission on or around May 22, 2026" with Goldman Sachs and Morgan Stanley as lead underwriters. Article [2]
+    (published 2026-05-27) corroborates the May 22 S-1 filing date, targeting September IPO. Article [6] (published 2026-05-24)
+    states "OpenAI has formally submitted its S-1 filing." All three confirm the S-1 filing occurred before the current evaluation
+    date (2026-05-31), directly satisfying the YES resolution criterion: "S-1 filing or IPO completed." No IPO completion
+    has occurred yet, but the S-1 filing alone triggers YES resolution. The prediction asked for "at least one major AI lab"
+    to "file for or complete an IPO" and OpenAI qualifies as a major lab that has filed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
+  - https://www.hpcwire.com/aiwire/2026/05/27/spacex-openai-and-anthropic-ipos-can-wall-street-finance-the-ai-boom/
+  - https://pitchbook.com/news/articles/anthropic-bests-openai-in-valuation-race-hitting-965b-with-series-h
+  trajectory_signal: Articles [1], [8], and [9] show momentum toward additional filings from other labs within the prediction
+    scope. Article [1] reports Anthropic raised $65B at $965B valuation "marking what could be the AI startup's last private
+    fundraising before debuting on the public markets" (published 2026-05-28). Article [9] (published 2026-05-29) confirms
+    Anthropic's $965B valuation and notes it "is currently valued at $852 billion" compared to OpenAI. Article [8] (published
+    2026-05-27) reports "Anthropic is said to be exploring a listing later this year." This signals near-term momentum toward
+    second lab IPO filings, though none have filed yet as of the evaluation date.
+- date: '2026-06-07'
+  summary: 6 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html
+  - https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/
+  - https://finance.yahoo.com/markets/stocks/articles/anthropic-eyes-ipo-big-techs-231600128.html
+  - https://www.bbc.co.uk/news/articles/c0k203kzp10o
+  - https://au.marketscreener.com/news/ai-giant-anthropic-confidentially-files-for-us-ipo-ce7f5dd9da8bf620
+  relevance: 'STRONG: Multiple credible sources (Reuters, BBC, TechCrunch, The Verge) confirm that Anthropic has filed a confidential
+    S-1 registration statement with the SEC on June 1, 2026. This directly satisfies the resolution criteria of "S-1 filing
+    or IPO completed" by December 31, 2026. Articles [0], [1], [3], [9], [10], [11] all corroborate this filing with consistent
+    details: confidential submission, draft registration statement, SEC filing, and positioning toward an IPO. The prediction
+    requires "at least one major AI lab" to "file for or complete an IPO in 2026" — Anthropic''s S-1 filing is concrete documentary
+    evidence meeting the first prong of the resolution criteria. The filing has occurred within the specified year and before
+    the prediction evaluation date.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techjacksolutions.com/ai-brief/xai-spacex-investor-roadshow-reportedly-starting-june-8-what/
+  - https://pitchbook.com/news/reports/q2-2026-an-eye-on-openai
+  - https://cybermediacreations.com/the-prospectus-where-the-ai-labs-singular-governance-history-meets-the-auditor/
+  trajectory_signal: Articles [4], [5], [6] show additional momentum toward YES resolution. xAI is conducting an investor
+    roadshow (reportedly starting June 8, 2026), signaling imminent IPO preparations. OpenAI is expected to confidentially
+    file its S-1 with the SEC "as soon as June 5, 2026" per article [6], with article [5] confirming Goldman Sachs involvement
+    in planning. Article [6] notes OpenAI's filing "has not been made public" but is expected imminently. This indicates a
+    second major lab (OpenAI) is in advanced IPO preparation stages. The trajectory strongly suggests multiple labs will file
+    or complete IPOs in 2026, reinforcing the YES direction beyond Anthropic's already-filed status.
+- date: '2026-06-14'
+  summary: 3 relevant articles
+  sources:
+  - https://openai.com/index/openai-submits-confidential-s-1/
+  - https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/
+  - https://pitchbook.com/news/reports/q2-2026-anthropic-the-s-1-expected-to-price-ai
+  relevance: STRONG
+  direction: TOWARD_YES
+- date: '2026-06-21'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://hobbyistnews.com/anthropic-files-confidential-ipo/
+  - https://icharles.com/articles/openai-ipo-confidential-sec-filing
+  - https://the1014.co.nz/openai-confidential-ipo-filing-sec/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
+  - https://theaiinsider.tech/2026/06/17/anthropic-surpasses-openai-in-business-spending-as-government-ban-rattles-ipo-prospects/
+- date: '2026-06-28'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://financenews.one/2026/06/22/openai-files-confidential-s-1-with-sec-in-step-toward-potential-ipo/
+  - https://www.datacenterdynamics.com/en/news/anthropic-confidentially-files-for-ipo-with-the-us-sec/
+  - https://aisheetreport.com/articles/2026-06-25-anthropic-and-openai-file-confidential-s-1s-in-unprecedented-1-8t-dual-ai-ipo-ra/
+  relevance: 'STRONG: Articles [0], [1], and [2] provide direct evidence satisfying the resolution criteria. Article [0] (2026-06-22)
+    reports OpenAI filed a confidential S-1 with the SEC. Article [1] (2026-06-24) reports Anthropic confidentially filed
+    for IPO with the US SEC (though the content snippet is sparse, the headline is clear). Article [2] (2026-06-25) corroborates
+    both filings, stating "Anthropic submitted draft IPO paperwork June 1 at a $965B valuation; OpenAI followed June 8 off
+    an $852B mark." These S-1 filings satisfy the explicit resolution criteria ("S-1 filing or IPO completed"). Two major
+    AI labs (OpenAI and Anthropic) have met the filing threshold. The prediction resolves YES. No criteria gaps remain—the
+    requirement is met.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.fool.com/investing/2026/06/23/spacex-anthropic-openai-go-public-2026-buy/
+  - https://cryptobriefing.com/openai-anthropic-ipo-filings-spacex/
+  - https://www.aol.com/finance/hiltzik-coming-ai-related-ipos-100000614.html
+  - https://www.businesstimes.com.sg/companies-markets/spacex-unitree-anthropic-openai-ultra-hyped-tech-listing-wave-backed-sound-fundamentals
+  trajectory_signal: Articles [3], [4], [9], [10] provide supporting context about momentum and market conditions. Article
+    [3] (2026-06-23) notes SpaceX successfully IPO'd on June 12, removing a potential market impediment and validating mega-cap
+    tech IPOs in 2026. Articles [4] and [8] reference potential timing delays (OpenAI considering 2027), but this is directionally
+    NEUTRAL—the S-1 filings themselves already satisfy resolution criteria regardless of completion timing. Articles [9] and
+    [10] offer analytical commentary on IPO valuations and market hype but don't alter the core fact that filings have occurred.
+    The trajectory signals strong momentum toward completion given the filings are already complete and market conditions
+    appear favorable post-SpaceX.
+- date: '2026-07-05'
+  summary: 3 relevant articles, 6 trajectory signals
+  sources:
+  - https://www.datacenterdynamics.com/en/news/openai-files-for-us-ipo-but-says-it-still-has-things-it-wants-to-do-while-private/
+  - https://bitrss.com/openai-reveals-confidential-ipo-filing-keeps-timing-open-219293
+  - https://www.ai.cm/article/openai-files-for-trillion-dollar-ipo-as-ai-infrastructure-costs-explode/
+  relevance: 'STRONG: Articles [0], [5], and [6] provide direct evidence of S-1 filing completion—the explicit resolution
+    criterion. All three confirm OpenAI has confidentially filed an S-1 registration with the SEC (published 2026-07-01, within
+    preferred date range). Article [5] explicitly states "OpenAI announced that it has confidentially submitted an S-1 registration
+    filing" and article [6] confirms "OpenAI has confidentially filed paperwork with the U.S. Securities and Exchange Commission
+    (SEC) for an initial public offering." This satisfies the "S-1 filing" prong of the YES resolution criteria. The confidential
+    filing is a formal, documented regulatory submission—not speculation or intent.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://m.au.investing.com/analysis/openai-ipo-everything-you-need-to-know-200614953?ampMode=1
+  - https://yellow.com/news/openai-anthropic-spacex-sized-ipos
+  - https://www.fool.com/investing/2026/07/02/openai-is-considering-a-2027-ipo-1-trillion-cap/
+  - https://www.crowdfundinsider.com/2026/06/288222-public-market-pricing-for-frontier-ai-including-spacex-anthropic-openai-analyzed-in-new-report/
+  - https://cryptobriefing.com/anthropic-ipo-filing-2026-valuation/
+  trajectory_signal: Articles [1, 2, 3, 4, 7, 8] all published 2026-06-29 to 2026-07-01 signal accelerating momentum toward
+    completion. Article [3] reveals OpenAI is "considering delaying its IPO until sometime next year" (2027), which is directionally
+    neutral on the filing (already done) but suggests potential delay in completion. Article [2] indicates Anthropic has also
+    confidentially filed, expanding the scope to multiple labs meeting criteria. Articles [4] and [8] frame these filings
+    as transformational events reshaping markets. The trajectory shows the prediction is actively progressing toward YES through
+    regulatory machinery already in motion.
+- date: '2026-07-12'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://karsane.com/article/openai-ipo-filing-2026-ai-cohort
+  - https://www.saasrise.com/news/openai-files-confidential-s1-eyes-public-market-as-852b-ai-saas-giant-6609ea94-2266-4eb5-9610-d253e7a8f0a8
+  relevance: 'STRONG: Articles [0] and [1] provide direct evidence satisfying the S-1 filing resolution criteria. Article
+    [0] explicitly states "OpenAI confidentially filed its S-1 on June 9" (published Jul 9, 2026). Article [1] corroborates
+    this with "OpenAI submitted a confidential draft S-1 to the SEC on June 8" (published Jul 5, 2026). These are concrete,
+    date-specific filings matching the resolution requirement. The only criteria gap is that the prediction requires "at least
+    one major AI lab" and we have one confirmed (OpenAI); however, articles [4] and [11] confirm Anthropic also filed confidentially
+    on June 1, 2026, so at minimum two of the five specified labs have now filed S-1s, exceeding the threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cryptobriefing.com/anthropic-openai-spacex-advance-toward-ipos-amid-market-buzz/
+  - https://www.techtimes.com/articles/320136/20260710/anthropic-tops-12-trillion-private-markets-passing-openai-race-ipo.htm
+  - https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
+  - https://regolith.com/news/ai-ipo-race-anthropic-openai-134
+  - https://www.fool.com/investing/2026/07/05/anthropic-could-be-a-1-trillion-ipo-this-fall-thes/
+  trajectory_signal: Articles [2, 4, 7, 8, 10, 11] show strong directional momentum toward YES. Multiple sources confirm Anthropic
+    filed confidentially June 1 and is advancing toward public markets (fall 2026 projected). Article [7] mentions "SpaceX
+    just launched to public markets" and suggests OpenAI and Anthropic "soon to come," indicating acceleration. Articles [4,
+    11] detail Anthropic's path to profitability ($1B quarterly profit estimated) versus OpenAI's cash burn, signaling both
+    companies are progressing through IPO pipeline stages. Valuations ($852B-$1.2T range) suggest serious institutional readiness.
+    However, these are still in confidential filing phase with actual IPO completion dates uncertain—the resolution requires
+    filing OR completion by Dec 31, 2026, which is satisfied by the filings already documented in KEEP tier articles.
+- date: '2026-07-19'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.datacenterdynamics.com/en/news/openai-files-for-us-ipo-but-says-it-still-has-things-it-wants-to-do-while-private/
+  - https://www.aol.com/articles/1-trillion-anthropic-ipo-why-162244000.html
+  - https://mlq.ai/news/anthropic-lines-up-investor-meetings-for-potential-october-ipo-at-nearly-1-trillion-valuation/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techi.com/openai-ipo/
+  - https://bitrss.com/openai-files-for-historic-ipo-as-anthropic-faces-model-restrictions-and-michael-saylor-warns-of-capital-drain-220911
+  - https://www.morningstar.com/stocks/what-delayed-openai-ipo-would-tell-investors
+  - https://financefeeds.com/anthropic-to-meet-ipo-investors-in-coming-weeks-as-october-listing-window-emerges/
+- date: '2026-07-26'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://aibizinsider.com/2026/07/20/anthropic-965b-valuation-ipo-openai-race-2026-07-20/
+  relevance: 'MODERATE: Article [1] provides DIRECT evidence: Anthropic confidentially submitted a draft S-1 to the SEC on
+    June 1, 2026. This satisfies the resolution criteria of "S-1 filing" for a major AI lab. The prediction requires "at least
+    one major AI lab...will file for or complete an IPO in 2026," and Anthropic''s S-1 filing directly meets the "file for"
+    component. The article is recent (2026-07-20), within the preferred date range, and provides specific dates and details
+    (June 1 SEC submission, $965B valuation, $47B run-rate revenue). No gaps remain for this criterion—filing has occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://yellow.com/news/openai-ipo-slips-2027-altman-valuation
+  - https://startupfortune.com/openai-adds-two-bank-ceos-to-its-board-as-ipo-signals-grow-stronger/
+  - https://augment.market/pulse/openais-reported-1t-ipo-target-ask-and-the-bonfire-economy
+  - https://www.webpronews.com/ai-giants-race-to-wall-street-anthropic-leads-a-pack-of-private-startups-eyeing-blockbuster-ipos/
+  trajectory_signal: 'Articles [0, 3, 5, 7] show strong momentum toward additional filings: OpenAI confidentially filed an
+    IPO prospectus in June 2026 (article [0]) with market expectations of announcement by March 1, 2027 (59% odds on Kalshi).
+    Board appointments of financial-services veterans ([3], [5]) signal IPO preparation. The overall competitive dynamic—Anthropic
+    leading, OpenAI "racing toward" Q4 2026 listing per article [1]—suggests accelerating timeline pressure. However, article
+    [0] explicitly states OpenAI is "leaning toward a 2027 stock market debut," which signals potential delay beyond the 2026
+    deadline. This creates directional tension: Anthropic has already filed (YES signal), but the other major lab most likely
+    to IPO in 2026 (OpenAI) appears to be deferring.'
+- date: '2026-08-02'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://aljazeeranews-mggx1uo47w.edgeone.app/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering
+  - https://www.gate.com/news/detail/anthropic-officially-kicks-off-its-ipo-how-much-is-the-most-anticipated-ai-21564221
+  - https://thevergetoday.pages.dev/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.actionnetwork.com/news/anthropic-ipo-vs-openai-ipo-vs-discord-ipo-kalshi-odds-and-breakdown-for-2026
+  - https://cryptoslate.com/predictions/market/openai-ipo-by/
+  - https://valueaddvc.com/pulse/openai-anthropic-washington-lobbying-alliance-2026
+- date: '2026-08-09'
+  summary: 4 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.ainvest.com/news/polymarket-bet-pays-10-5-1-anthropic-public-september-ipo-machine-running-2608/
+  - https://www.investing.com/news/stock-market-news/openai-files-confidentially-for-ipo-amid-tightening-ai-race-4731738
+  - https://aljazeeranews-3fuh52rgrl.edgeone.app/economy/2026/6/8/tech-giant-openai-files-for-us-initial-public-offering
+  - http://mendoz.fengmingmufen.com/archive/20260808/63b91799019.html
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.proactiveinvestors.com/companies/news/1096571/anthropic-is-compounding-openai-is-flatlining-and-the-betting-markets-have-noticed-1096571.html
+  - https://rallies.ai/news/spacex-overhang-threatens-ai-ipo-launch-window-b9872a633617f334
+  - http://edinburgh.baidu-sos.com.cn/market/2026/08/05/78c2299899.html
+- date: '2026-08-16'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.gate.com/news/detail/openai-to-file-confidential-ipo-documents-this-week-targeting-autumn-debut-21265381
+  - https://www.ibtimes.com/anthropic-has-filed-ipo-has-not-yet-discussed-valuation-report-3806394
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html
+  - https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/
+  - https://www.afr.com/world/north-america/anthropic-investors-bet-on-2-8trn-valuation-in-record-ipo-20260813-p60o5o
+  - https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326
+- date: '2026-08-23'
+  summary: 3 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.datacenterdynamics.com/en/news/openai-files-for-us-ipo-but-says-it-still-has-things-it-wants-to-do-while-private/
+  - https://groundtruth.day/news/both-frontier-labs-have-filed-to-go-public-and-the-fight-is-over-control.html
+  - https://qz.com/anthropic-ipo-spacex-record-raise-082026
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html
+  - https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html
+  - https://www.semafor.com/article/08/19/2026/openai-sales-growth-slows-unnerving-investors-ahead-of-planned-ipo
+  - https://thenextweb.com/news/openai-ipo-2027-friar-all-hands-valuation
+  - https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/
+- date: '2026-08-30'
+  summary: 3 relevant articles, 6 trajectory signals
+  sources:
+  - https://www.fool.com/investing/2026/08/26/prediction-this-upcoming-ipo-will-be-even-bigger-t/
+  - https://cryptobriefing.com/anthropic-s1-filing-amazon-investors/
+  - https://www.marketscreener.com/news/anthropic-plans-to-publicly-unveil-ipo-prospectus-after-labor-day-the-information-reports-ce7858ded08bf127
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://247wallst.com/investing/2026/08/24/openais-cfo-just-told-employees-the-ipo-is-coming-in-2027-or-sooner/
+  - https://www.fool.com/investing/2026/08/25/openais-ipo-wont-likely-happen-until-2027-heres-wh/
+  - https://gfdaily.com/no/tech/no-openai-cfo-targets-2027-ipo-says-earlier-debut-possible-mtb1t633
+  - https://www.fool.com/investing/2026/08/27/openai-is-reportedly-targeting-an-ipo-debut-above/
+  - https://betanews.com/article/anthropic-ipo-30-trillion-market/
+- date: '2026-09-06'
+  summary: 3 relevant articles, 5 trajectory signals
+  sources:
+  - https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms
+  - https://cryptobriefing.com/anthropic-set-to-file-ipo-prospectus-testing-ai-investment-appetite/
+  - https://bitcoinethereumnews.com/finance/anthropic-targets-mid-october-ipo-in-a-test-of-trillion-dollar-ai-valuations/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo
+  - https://www.ibtimes.com/openai-anthropic-move-towards-their-ipos-they-face-balancing-act-3807067
+  - https://www.webpronews.com/openais-852-billion-bet-inside-the-record-fundraising-that-paved-a-rocky-path-to-public-markets/
+  - https://www.techtimes.com/articles/326608/20260904/anthropic-15b-credit-line-banks-commit-1b-plus-each-lock-ipo-roles.htm
+  - https://finance.biggo.com/news/b29998be-b0b4-4927-aea0-42f78f575b0c

@@ -6,9 +6,12 @@ category: AI Safety
 baseline: Deepfakes appeared in elections but no official attribution of material impact.
 resolution_criteria: 'YES: Official finding of material election impact. NO: None.'
 search_keywords:
-- AI misinformation
-- AI election
-- deepfake election
+- AI deepfake election official investigation 2026
+- election commission AI disinformation impact finding
+- national election AI interference formal inquiry
+- deepfake political video government investigation
+- AI generated misinformation election result affected
+- election commission AI deepfake report
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -32,6 +35,8 @@ forecasts:
   human-6: 60
   human-7: 55
   human-8: 40
+  human-9: 80
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 2 articles
@@ -44,3 +49,498 @@ evidence:
   - https://www.rstreet.org/commentary/ai-and-elections-what-to-watch-for-in-2026/
   - https://www.facebook.com/KFYRtv/posts/nd-ag-wrigley-joins-34-states-demanding-action-on-ai-deepfakesfull-story-httpsww/1337402891758695/
   - https://courthousenews.com/hawaiis-deepfake-law-struck-down-over-free-speech-concerns/
+- date: '2026-02-07'
+  summary: Found 6 articles
+  sources:
+  - https://globalnews.ca/news/11649043/ai-deepfake-disinformation-us-trump/
+  - https://techpolicy.press/ai-disclosure-labels-risk-becoming-digital-background-noise
+  - https://www.chosun.com/english/world-en/2026/02/01/22N65IPMSVGDJA7PAN345GXK5Q/
+  - https://www.psychologytoday.com/ca/blog/psych-unseen/202602/fake-news-ai-deepfakes-and-the-pageant-of-the-unreal
+  - http://politicalhacking.blogspot.com/
+  relevance: 'WEAK_YES: Multiple articles suggest AI-generated misinformation is increasingly influencing election discourse,
+    with specific mentions of deepfakes in elections, but no definitive official finding of material impact yet.'
+- date: '2026-02-23'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of official findings attributing material election impact to AI-generated
+    misinformation or triggering formal investigations. The resolution criteria requires an "official finding of material
+    election impact"—a specific, documented determination by authorities. None of the articles present such findings. Article
+    [0] describes AI being "used" in India''s elections but contains no claim of official attribution or material impact determination.
+    Articles discussing regulatory responses ([1], [5], [6], [7], [8]) show policy reactions to the *risk* of AI-generated
+    content, not official findings of actual impact. Articles [3], [9], [10] discuss warnings and detection efforts but lack
+    any official impact attribution.'
+  trajectory_sources:
+  - http://www.outlookindia.com/national/manufacturing-reality-how-ai-is-rewriting-indias-election-playbook
+  - http://www.graaffreinetadvertiser.com/News/Article/National-News/iec-flags-generative-ai-and-hyper-local-disinformation-as-risk-ahead-of-local-elections-202602190953
+  - https://www.devdiscourse.com/article/law-order/3809711-iec-warns-of-ai-driven-deepfakes-ahead-of-2026-local-elections
+  trajectory_signal: 'Three articles signal directional momentum toward the prediction resolving YES, though none yet satisfy
+    resolution criteria:'
+- date: '2026-03-01'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an OFFICIAL FINDING or FORMAL INVESTIGATION that AI-generated misinformation
+    materially affected a specific national election. This is the core resolution requirement. While articles [0] and [9]
+    (same BBC story) document Russian AI disinformation campaigns targeting real individuals, they describe ongoing operations
+    without attribution of material election impact. Article [3] describes an AI disinformation network targeting Singapore''s
+    PM but does not cite official findings of electoral impact. Articles [6] and [7] describe government policy responses
+    (South Korea, India) but these are preventive measures, not findings of material impact that already occurred. None explicitly
+    state that election results were materially affected or that a formal investigation concluded such impact.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bbc.co.uk/news/articles/cx2r7grrdwzo
+  - https://www.journalismpakistan.com/ai-deepfakes-surge-ahead-of-2026-elections
+  - https://theonlinecitizen.com/2026/02/26/coordinated-ai-disinformation-network-targets-prime-minister-lawrence-wong
+  - https://www.chosun.com/english/national-en/2026/02/26/J4SAGWEHHZHMTMVNU2ZAS7YXGE/
+  - https://www.mondaq.com/india/new-technology/1749116/indias-2026-amendment-to-it-rules-regulation-of-deepfakes-ai-content-and-the-three-hour-takedown-regime
+  trajectory_signal: 'Multiple signals suggest movement TOWARD YES resolution:'
+- date: '2026-03-08'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of official findings that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. The resolution criteria require an explicit official attribution
+    of material impact—this has not been found in any article''s actual content.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.channelnewsasia.com/singapore/disinformation-ai-youtube-campaign-chinese-fake-videos-lawrence-wong-5973601
+  - https://www.malaymail.com/news/world/2026/03/03/nepal-election-how-ai-disinformation-is-threatening-the-vote-that-changed-everything/211131
+  - https://www.taipeitimes.com/News/world/archives/2026/03/04/2003853248
+  - https://www.dawn.com/news/1978061/ai-disinformation-turns-nepal-elections-into-digital-battleground
+  trajectory_signal: 'Articles [0], [8], [9], [10] show meaningful momentum TOWARD resolution:'
+- date: '2026-03-15'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an official finding that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. The resolution criteria require a specific official attribution
+    of material impact — a high bar. Article [6] mentions "over 10,000 ''AI·deepfake illegal election materials''" from South
+    Korea''s presidential election, but provides no evidence of an official determination that these materially affected the
+    outcome or triggered formal investigation into material impact. This is descriptive reporting of violations, not official
+    findings of material electoral impact.'
+  trajectory_sources:
+  - https://en.sedaily.com/society/2026/03/10/korea-deploys-ai-deepfake-detection-for-june-local-elections
+  - https://www.pressherald.com/2026/03/10/in-maine-a-democrat-led-crackdown-on-deepfake-ai-campaign-ads/
+  - https://www.cnn.com/2026/03/13/politics/james-talarico-ai-deepfake-republicans-midterms
+  - https://www.facebook.com/newswireLK/posts/youtube-has-expanded-its-ai-likeness-detection-tool-to-political-leaders-civic-f/1514774247325627/
+  - https://www.oversightboard.com/news/board-calls-for-new-rules-on-deceptive-ai-during-conflicts/
+  trajectory_signal: 'Strong momentum signals across multiple fronts:'
+- date: '2026-03-22'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered a formal investigation. The resolution criteria require a concrete official
+    attribution of material impact—a high bar not met by any article in this set. Articles [5], [8], [9] are duplicates showing
+    the Chief Election Commissioner warning against potential misuse of deepfakes during 2026 Indian Assembly elections, but
+    warnings and preventive measures are not findings of material impact. Article [0] mentions IEC warnings about disinformation
+    but provides no substantive content. Article [7] discusses White House AI compliance frameworks unrelated to election
+    impact findings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://nenow.in/national/election-commission-warns-against-ai-deepfakes-in-election-campaign.html
+  - https://www.aicerts.ai/news/deepfake-election-crisis-erodes-trust-urging-swift-safeguards/
+  - https://timesofindia.indiatimes.com/city/guwahati/ecis-bid-to-guard-democracy-in-age-of-ai-makes-disclaimers-must-for-content/articleshow/129617007.cms
+  - https://assets.thehansindia.com/news/national/cec-gyanesh-kumar-warns-of-tough-action-against-misuse-of-ai-deepfakes-in-campaign-1056866
+  - https://assamtribune.com/assam/eci-warns-against-ai-in-poll-campaign-why-assam-is-a-test-case-1609484
+  trajectory_signal: 'Articles [1], [3], 4, 5, 6, 10 show meaningful momentum toward YES resolution:'
+- date: '2026-03-29'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election. Articles 0-7 describe Kerala Police investigations into an AI-generated video targeting
+    PM Modi and India''s Election Commission, but these represent formal investigations being *initiated*, not official findings
+    of material election impact. The content confirms these are FIRs and legal notices under IT Act, but none state that material
+    impact on an election has been officially determined. The investigation is the process, not the resolution criterion.
+    Critical gap: No article states authorities have concluded the misinformation materially affected electoral outcomes.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.rediff.com/news/report/case-against-x-over-defamatory-ai-video-of-pm-eci-1/20260326.htm
+  - https://timesofindia.indiatimes.com/india/potential-to-mislead-fir-registered-against-x-for-ai-video-on-pm-modi-eci-chief-gyanesh-kumar/articleshow/129817472.cms
+  - https://www.news9live.com/elections/assembly/kerala-cyber-police-launches-investigations-against-x-over-ai-video-of-pm-and-election-commission-2948058
+  - https://www.rediff.com/news/report/case-against-x-over-defamatory-ai-video-of-pm-eci/20260326.htm
+  - https://www.onmanorama.com/news/kerala/2026/03/26/kerala-police-ai-video-case.html
+  trajectory_signal: 'Significant momentum signals toward resolution:'
+- date: '2026-04-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of official findings that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. The resolution criteria require an "official finding of material
+    election impact" — a specific, documented determination by authorities. While articles discuss concerns, warnings, and
+    regulatory responses, none demonstrate that an official body has made a formal finding attributing material election impact
+    to AI-generated misinformation. Article [0] is a fact-check report (not an official election impact finding). Article
+    [12] involves a deepfake case but concerns a morphed image of a PM and Shah Rukh Khan, not election material impact. Article
+    [10] involves fake Aadhaar cards, not AI-generated misinformation. Criteria gap: Missing official statements from election
+    commissions, courts, or governments explicitly finding that AI-generated misinformation materially affected election outcomes.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techsoma.africa/zambia-flags-ai-generated-content-as-national-security-threat-ahead-of-elections/
+  - https://www.newsbytesapp.com/news/india/indian-government-flags-ai-generated-deepfakes-seeks-stricter-social-media-rules/tldr
+  - https://www.storyboard18.com/digital/india-parliamentary-panel-warns-on-deepfakes-seeks-stronger-ai-regulation-framework-93808.htm
+  trajectory_signal: Articles [2], [3], [4] show MODERATE momentum toward YES. Zambia has formally declared AI-generated content
+    a "national security threat" ahead of 2026 elections [2]. India's government and Parliamentary panel are raising official
+    red flags about deepfakes threatening "election integrity" and public order [3], [4], with calls for stricter regulation.
+    These represent official governmental concern and escalating formal responses to AI-generated misinformation in election
+    contexts. However, these are still preventive/regulatory actions rather than post-election findings of material impact.
+    The trajectory signals rising official scrutiny and formal concern, which could lead to official investigations or impact
+    findings if election problems materialize. Articles [5], [7], [9] discuss AI's broader role in campaigns but lack official
+    attribution claims.
+- date: '2026-04-12'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an OFFICIAL FINDING of material election impact or formal investigation
+    attributing material effects to AI-generated misinformation. Critical gap: The resolution requires either (1) an official
+    entity formally concluding AI misinformation materially affected election outcomes, or (2) a formal investigation launched
+    with such attribution. Articles [2] and [3] describe complaints filed with election commissions in India, but these are
+    initial complaints—not official findings or formal investigations with causal attribution. Articles [0] and [4] describe
+    AI deepfakes flooding Hungary''s election but contain no official determination of material impact. Articles [6], [9],
+    [10] describe AI content appearing in elections or being used by politicians, but lack any official attribution of material
+    electoral consequences. None meet the "officially cited as materially affecting" threshold.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://euperspectives.eu/2026/04/hungarys-election-is-flooded-with-ai-deepfakes-and-nobody-is-stopping-them/
+  - https://www.kjct8.com/2026/04/10/investigatetv-deepfake-videos-politicians-possible-consequences-future-elections/
+  - https://www.thehindu.com/elections/kerala-assembly/udf-lodges-complaint-over-alleged-ai-generated-video-against-haripad-candidate/article70831472.ece
+  - https://www.millenniumpost.in/bengal/tmc-accuses-bjp-of-circulating-deepfake-video-targeting-mamata-moves-ec-for-action-654853
+  - https://pressway.net/news/305568-hungaryc_election_campaign_embroiled_in_controversy_over_ai-manipulated_videos_and_allegations_of_spreading_false_information
+  trajectory_signal: 'Multiple TRAJECTORY signals indicate momentum toward YES resolution:'
+- date: '2026-04-19'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered a formal investigation meeting resolution criteria. Articles discuss deepfakes
+    in elections but do not cite official determinations of material impact. Article [2] mentions a "deepfake probe" in Assam
+    elections but provides no evidence of a completed official finding of material election impact. Article [3] explicitly
+    states INEC will NOT base findings on AI analysis, suggesting investigative caution rather than attribution. No resolution
+    criteria are satisfied.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://algeriatech.news/deepfake-election-manipulation-ai-generated-political-ads-2026/
+  - https://newsbytes.ph/2026/04/14/dict-pco-doj-formalize-oplan-kontra-fake-news-amid-rising-deepfake-threats/
+  - https://www.newindianexpress.com/elections/assam-elections/2026/Apr/12/ajps-kunki-chowdhury-appears-before-police-denies-mcc-violation-flags-delay-in-deepfake-probe
+  - https://punchng.com/grok-analysis-screenshots-useless-in-amupitans-x-probe-inec/
+  - https://en.sedaily.com/politics/2026/04/14/pm-kim-vows-maximum-penalties-for-ai-generated-fake-news
+  trajectory_signal: 'Multiple articles signal strengthening momentum toward YES:'
+- date: '2026-04-26'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of official finding that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. Articles [0], [1], [5] describe a fake X account impersonating
+    a Nigerian INEC official with "AI-driven" elements noted, but this addresses coordinated impersonation of an official
+    rather than material election impact, and no official finding of material election effect on the actual election outcome
+    is documented. The criteria require "official finding of material election impact" — meaning documented causality between
+    AI misinformation and election results/integrity — which none of these articles establish.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.medianama.com/2026/04/223-eci-orders-3-hour-takedown-rule-ai-fake-content-elections/
+  - https://tmv.in/article/eci-orders-swift-removal-of-unlawful-ai-election-content-enforces-strict-labelling-norms-date=2026-04-20
+  - https://www.newindianexpress.com/nation/2026/Apr/19/fake-content-without-label-must-be-removed-within-three-hours-of-notice-eci
+  - https://www.newkerala.com/news/a/eci-warns-against-ai-generated-social-media-content-11000-971.htm
+  - https://www.pratidintime.com/national/remove-fake-ai-generated-content-on-social-media-within-3-hours-eci-11743276
+  trajectory_signal: 'Articles [2-4, 6, 8-10] signal MODERATE TRAJECTORY toward YES by showing:'
+- date: '2026-05-03'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of official findings that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. The resolution criteria requires an official attribution of material
+    impact—a high bar that none of these articles meet. Article [9] (Russian trolls creating fake election video) comes closest
+    by showing official attribution, but it describes a fake video rather than explicitly confirming material election impact
+    on outcomes. Articles [4] and [10-11] address election integrity issues but concern different mechanisms (authentic threat
+    videos, EVM taping) rather than AI-generated misinformation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.jagran.com/news/national-election-commission-is-strict-regarding-deepfakes-and-ai-in-lok-sabha-elections-fake-posts-will-have-to-be-removed-from-social-media-within-3-hours-23712404.html
+  - https://www.taipeitimes.com/News/taiwan/archives/2026/04/28/2003856370
+  - https://news.tf.co.kr/read/ptoday/2317289.htm
+  - https://timesofindia.indiatimes.com/city/raipur/fir-over-ai-deepfake-video-of-ex-cm-bhupesh-baghel-amid-congress-protests/articleshow/130586830.cms
+  - https://fullfact.org/politics/fake-reform-voters-street/
+  trajectory_signal: 'Multiple articles signal momentum toward YES resolution:'
+- date: '2026-05-10'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an official finding that AI-generated misinformation materially affected
+    a national election or triggered a formal investigation into material impact. Articles [0, 1, 3] describe South Korea''s
+    proactive monitoring and toughened election laws ahead of local elections, but document preventative efforts, not post-election
+    findings of material impact. Article [4] references a Texas Senate AI-generated video but provides no official determination
+    of electoral material effect. Article [6] mentions British voter concerns about deepfakes affecting behavior but contains
+    no official attribution of material impact. Articles [2, 5, 7, 8, 9, 10] address misinformation concerns, legal disputes,
+    or enforcement actions but do not establish official findings of material election impact—which is the specific resolution
+    criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.france24.com/en/live-news/20260507-ai-disinfo-tests-south-korean-laws-ahead-of-local-elections
+  - https://www.nst.com.my/opinion/columnists/2026/05/1435391/stamping-out-deepfakes-uphill-battle-s-koreas-election-regulator
+  - https://www.thestar.com.my/tech/tech-news/2026/05/08/ai-disinfo-tests-south-korean-laws-ahead-of-local-elections
+  - https://cnsmaryland.org/2026/05/08/experts-warn-of-future-campaigns-made-fake-thanks-to-ai/
+  - https://www.vrt.be/vrtnws/nl/2026/04/30/factcheck-unieke-proef-met-ai-detectietool-gelanceerd-tijdens-de/
+  trajectory_signal: 'Multiple articles signal momentum TOWARD_YES by showing: (1) Escalating sophistication of AI-generated
+    election content (articles [0, 1, 3, 4]); (2) Election authorities formally investigating and documenting AI misinformation
+    campaigns (South Korea''s National Election Commission tracking efforts); (3) Evidence of AI deepfakes being weaponized
+    in active campaigns (Texas Senate video, British local elections, Italian PM); (4) Growing institutional recognition that
+    AI misinformation poses electoral threats (policy reforms discussed in [2], [7]). The trajectory suggests increasing likelihood
+    that an official body will eventually attribute material electoral impact, but this threshold has not yet been crossed
+    as of the evidence date.'
+- date: '2026-05-17'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an "official finding of material election impact" or "formal investigation"
+    explicitly citing AI-generated misinformation as materially affecting a national election. The resolution criteria requires
+    official attribution of material impact—a high bar that none of these articles meet. Article [9] (Tanzania) discusses
+    an election inquiry that addressed digital misinformation, but it does not establish that AI-generated misinformation
+    was officially cited as *materially* affecting that election. The critical gap: no article documents an official body
+    (election commission, court, legislative body, etc.) formally concluding that AI misinformation materially altered electoral
+    outcomes or triggered a formal investigation on those grounds.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.therecordherald.com/story/news/local/2026/05/11/experts-warn-of-political-campaigns-made-fake-by-ai/89992236007/
+  - https://dailyinterlake.com/news/2026/may/12/digitally-altered-political-mailers-spur-lawsuit-over-montana-ai-law/
+  - https://kfor.com/news/local/stitt-considering-special-session-to-ban-ai-in-political-ads-following-news-4-investigation/
+  - https://www.bendsource.com/news/localnews/deschutes-county-candidate-accused-of-illegal-ai-fake-out-on-campaign-website/
+  - https://www.charlotteobserver.com/news/local/article315655358.html
+  trajectory_signal: 'Strong momentum signals across multiple jurisdictions and timeframes suggest increasing proximity to
+    resolution:'
+- date: '2026-05-24'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered formal investigation. The prediction requires a specific official attribution
+    of material impact—a high bar not met by any article here. Article [1] mentions a potential election law violation (Blakeman
+    AI video) but does not establish material election impact or an official finding thereof. Articles discuss concerns, monitoring,
+    and removal of content but not documented material effects on election outcomes.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://koreajoongangdaily.joins.com/news/2026-05-20/national/socialAffairs/Deepfakes-real-votes-Officials-contend-with-rise-in-AI-campaign-videos-ahead-of-June-3-election/2596698
+  - https://www.cityandstateny.com/politics/2026/05/hochul-said-what-blakeman-ai-video-may-have-violated-election-law/413645/?oref=csny-topic-lander-top-story
+  - https://www.resultsense.com/news/2026-05-21-demos-electoral-commission-ai-chatbots-scottish-election/
+  - https://www.wbaltv.com/article/ai-generated-ads-errors-elections-maryland/71330921
+  trajectory_signal: 'Strong directional signals toward YES resolution:'
+- date: '2026-05-31'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an official finding that AI-generated misinformation materially
+    affected an election or triggered a formal investigation. The resolution criteria require a specific official attribution
+    of "material impact" — not mere detection, circulation, or warnings about deepfakes. While articles [0-3] document widespread
+    deepfake circulation and voter exposure (30% in UK, 10,000+ reports in unnamed country), none cite an official determination
+    that these actually changed election outcomes or triggered formal investigations. Articles [5, 7] describe defensive measures
+    rather than documented impact. Articles [4, 6, 8, 9] describe government warnings and proposed regulations, but warnings
+    about potential harms are fundamentally different from official findings of material realized impact.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitaltoday.co.kr/en/view/59144/deepfake-reports-top-10000-ahead-of-local-elections-government-steps-up-response
+  - https://www.independent.co.uk/news/uk/politics/elections-ai-deepfakes-politics-b2986017.html
+  - https://www.the-independent.com/news/uk/politics/elections-ai-deepfakes-politics-b2986017.html
+  - https://uk.news.yahoo.com/one-three-voters-saw-deepfakes-073455022.html
+  - https://www.japantimes.co.jp/news/2026/05/28/japan/japan-election-campaign-ai-use-rules/
+  trajectory_signal: 'The articles signal substantial TOWARD_YES momentum across multiple dimensions:'
+- date: '2026-06-07'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered a formal investigation with such attribution.'
+  trajectory_sources:
+  - https://www.mk.co.kr/en/politics/12063328
+  - https://www.asiae.co.kr/en/article/incidents-accidents/2026060410425212950
+  - https://www.asiae.co.kr/en/article/2026060217233361516
+  trajectory_signal: Articles [0, 3, 6] signal growing institutional engagement with election-related deepfakes and AI misinformation
+    in recent elections (South Korea June 3 local elections, Nigeria presidential context). Article [3] shows large-scale
+    enforcement activity (4,191 offenders). Articles [1, 2, 5, 8, 9] show momentum toward stricter regulation and investigation
+    frameworks globally (Oklahoma, Philippines, Taiwan, Nigeria, UK). This trajectory suggests institutional capacity to investigate
+    and respond is increasing, but the trajectory is toward *prevention and investigation protocols* rather than toward official
+    findings of *material past impact*. Direction is weakly TOWARD_YES (building infrastructure for attribution) but the prediction
+    requires a specific factual finding that hasn't yet been established.
+- date: '2026-06-14'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an official finding that AI-generated misinformation materially
+    affected a national election. Articles [0, 1, 2, 3, 9] describe ongoing police investigations in South Korea into deepfake
+    distribution allegations during June 3 local elections, but these are investigations, not official findings of material
+    impact. The articles use language like "allegations," "suspected involvement," and "search and seizure" — indicating preliminary
+    investigation stages rather than concluded determinations. Critically, these are LOCAL elections in South Gyeongsang Province,
+    not national elections. The prediction specifies "a national election." This is a major scope mismatch.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.chosun.com/english/national-en/2026/06/09/4NUJ5RI65NCTTDTS3AXSRSV4XA/
+  - https://en.sedaily.com/technology/2026/06/09/police-raid-south-gyeongsang-province-over-fake-ai-video
+  - https://www.mk.co.kr/en/society/12069318
+  - https://www.asiae.co.kr/en/article/yeongnam/2026060913215051459
+  - https://www.mk.co.kr/en/society/12069231
+  trajectory_signal: 'Articles [0, 1, 2, 3, 9] signal MODERATE MOMENTUM TOWARD_YES for the broader phenomenon of AI-misinformation
+    election interference being formally investigated. South Korea''s formal police investigation into deepfake distribution
+    in election context represents escalation from the baseline (where deepfakes appeared but no official attribution occurred).
+    However, trajectory is significantly constrained by: (1) These are local, not national elections; (2) Investigations are
+    active but no findings/determinations have been publicly announced yet; (3) The accused campaign denies allegations. Articles
+    [4, 5, 6, 7, 8, 10] show growing global concern and policy responses (UK charity warning, Brazil electoral rules, Council
+    of Europe monitoring) but lack any official findings of material impact on actual election outcomes. These represent directional
+    momentum toward the prediction being triggered eventually, but no imminent resolution.'
+- date: '2026-06-21'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a specific national election or triggered a formal investigation into material impact. The resolution criteria
+    require explicit official attribution of material election consequences — not merely the existence of misinformation,
+    its detection, or preventative legislation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://betakit.com/canada-bans-sophisticated-deepfakes-of-political-figures/
+  - https://www.biometricupdate.com/202606/us-senators-propose-curbs-on-ai-generated-election-deception
+  - https://rollcall.com/2026/06/18/ai-deepfakes-bill-advanced-by-senate-judiciary-committee/
+  - https://credencewire.com/article/governors-coalition-election-deepfake-laws-2026
+  trajectory_signal: 'Strong momentum TOWARD_YES resolution:'
+- date: '2026-06-28'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered formal investigation. The resolution criteria requires a concrete official attribution
+    of material impact—not just evidence that AI misinformation exists, is being used, or influences voters generally. None
+    of these articles document such an official finding.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ibtimes.sg/how-japan-plans-fight-election-deepfakes-online-misinformation-before-2027-vote-88499
+  - https://www.hilltimes.com/2026/06/25/hard-to-know-does-bill-c-25-go-far-enough-protecting-elections-from-deepfakes-while-still-preserving-charter-rights/509276/
+  - https://www.europesays.com/iran/172586/
+  - https://www.poynter.org/fact-checking/2026/james-talarico-ken-paxton-ai-political-ads-texas/
+  - https://www.canberratimes.com.au/story/9296321/deepfakes-and-campaign-disinformation-in-crosshairs/
+  trajectory_signal: 'These articles show significant momentum toward the YES resolution:'
+- date: '2026-07-05'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide DIRECT evidence of official findings attributing material election impact to AI-generated
+    misinformation or formal investigations concluding such impact. Articles [0-7, 9-10] discuss preventive measures, concerns,
+    warnings, and proposed regulations—all BEFORE-the-fact activity. Article [8] on Slovenia is the closest to resolution
+    criteria, mentioning "alleged election interference" and secretly recorded videos aired before parliamentary polls, but
+    the content does not state that official findings have attributed material impact or triggered formal investigation completion.
+    The phrase "alleged" and the framing as a REQUEST for EU probe (not a completed finding) indicates this remains investigative,
+    not conclusive.'
+  trajectory_sources:
+  - https://www.byteseu.com/2163887/
+  trajectory_signal: 'Articles signal mounting momentum TOWARD resolution but remain at pre-impact stages:'
+- date: '2026-07-12'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered formal investigation. The resolution criteria requires concrete attribution
+    of material impact by official entities—this bar has not been met. Articles discuss AI-generated content (fake ads in
+    Oregon), regulatory concerns, and policy responses, but none cite official findings of material election impact.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.oregonlive.com/politics/2026/07/absurd-ai-attack-ads-facing-scrutiny-under-oregon-election-rules.html
+  - https://www.sundaytimes.timeslive.co.za/politics/2026-07-06-iec-targets-ai-bots-and-deepfakes-in-new-campaign-rules/
+  - https://thenextweb.com/news/france-plans-to-triple-penalties-for-ai-driven-election-disinformation
+  - https://www.devdiscourse.com/article/law-order/3947298-eci-trains-media-officers-to-tackle-misinformation-during-elections
+  - https://www.law360.com/articles/2499727/house-duo-push-agencies-to-tackle-ai-related-election-risks
+  trajectory_signal: 'Several articles signal meaningful momentum toward the resolution criteria:'
+- date: '2026-07-19'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered a formal investigation. The resolution criteria require a specific official
+    attribution of material impact—not proposed rules, awareness campaigns, or hypothetical concerns. All articles discuss
+    policy responses, legislative proposals, or emerging risks, but none document an actual official finding of material election
+    impact.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://iol.co.za/news/politics/2026-07-19-ai-deepfakes-fake-accounts-and-election-lies-inside-the-iecs-proposed-crackdown/
+  - https://www.sherwoodparknews.com/news/elections-alberta-says-spoof-site-exposed-gap-in-deepfake-law
+  - https://www.hilltimes.com/2026/07/13/election-law-reforms-targeting-deepfakes-a-good-step-but-were-kind-of-walking-in-the-dark-says-bq-house-leader-normandin/511359/
+  - https://abcnews.com.pk/japan-enacts-new-election-law-mandating-ai-labels-on-social-media/
+  - https://asia.nikkei.com/politics/japan-enacts-social-media-law-requiring-flagging-of-ai-content-in-elections
+  trajectory_signal: 'Multiple signals show increasing momentum toward potential YES resolution:'
+- date: '2026-07-26'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of official findings that AI-generated misinformation materially affected
+    a national election or triggered formal investigation. The resolution criteria require an "official finding of material
+    election impact" — a specific institutional determination, not merely the presence of AI misinformation in campaigns or
+    policy proposals to address it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://iol.co.za/news/politics/2026-07-19-ai-deepfakes-fake-accounts-and-election-lies-inside-the-iecs-proposed-crackdown/
+  - https://www.channelafrica.co.za/channelafrica/news/sas-iec-proposes-election-disinformation-code/
+  - https://noah-news.com/brazils-superior-electoral-court-partners-with-elevenlabs-to-combat-synthetic-me/
+  - https://getlegalbrief.com/story/legal-letter-ai-election-integrity-67-pct-inaccurate
+  - https://www.aol.com/articles/tennessee-political-deepfake-law-faces-220135000.html
+  trajectory_signal: 'Strong momentum signals movement toward YES resolution:'
+- date: '2026-08-02'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered formal investigation meeting the resolution criteria. The Brazil case (articles
+    0, 1, 2, 5) involves court challenges and TSE (electoral authority) deliberations over rules, but these are legal/regulatory
+    disputes—not official findings of material election impact. The India case (articles 4, 6, 7) involves FIR registration
+    and police investigation, but no determination yet of material impact on an election outcome. Tennessee (article 9) and
+    Connecticut (article 10) describe AI-generated content appearing in elections but lack any official finding of material
+    impact or formal investigation attribution. The key criteria gap: none of these articles document an official body issuing
+    a formal finding that AI misinformation materially affected election results or triggered formal investigation into that
+    material impact.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://valorinternational.globo.com/politics/news/2026/07/27/jair-bolsonaro-ai-video-challenged-at-brazils-top-courts.ghtml
+  - https://gizmodo.com/jair-bolsonaros-ai-clone-is-already-causing-trouble-in-brazils-election-2000792963
+  - https://valorinternational.globo.com/politics/news/2026/07/30/bolsonaro-denies-authorizing-ai-video-shown-at-flavio-convention.ghtml
+  - https://oglobo.globo.com/politica/noticia/2026/08/02/deepfake-de-bolsonaro-usado-pelo-pl-em-convencao-divide-ministros-e-obriga-tse-a-delimitar-regras-sobre-ia.ghtml
+  - https://www.wsmv.com/2026/07/30/ai-generated-ads-target-tennessee-midterm-elections/
+  trajectory_signal: Moderate-to-strong directional momentum TOWARD_YES resolution. Multiple national elections across different
+    jurisdictions (Brazil, India, Tennessee, Connecticut) now feature AI-generated misinformation in active campaigns with
+    official scrutiny. Brazil's TSE is forced to establish AI rules; India's Maharashtra Cyber Police opened FIRs; Tennessee/Connecticut
+    show regulatory gaps being exposed. The ecosystem is shifting from "deepfakes might happen" (baseline) to "AI content
+    is actively appearing in elections and triggering official responses." However, momentum is still in the investigation/deliberation
+    phase rather than formal attribution of material impact. If any electoral authority issues a finding that AI content materially
+    swayed an election outcome, this would likely cross the resolution threshold. Current trajectory suggests this remains
+    likely within forecast window.
+- date: '2026-08-09'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an "official finding of material election impact" or a "formal
+    investigation" that cites AI-generated misinformation as materially affecting the election. The resolution criteria require
+    an explicit official attribution of MATERIAL IMPACT — not merely the existence of AI-generated content, investigations
+    into it, or regulatory responses. None of these articles document such a finding. A deepfake of Bolsonaro was used (Article
+    2), and various actions were taken against campaign content (Article 4), but no article states that authorities have officially
+    determined these materially affected the election outcome or triggered formal investigations with such findings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/07/tse-cria-orgao-para-monitorar-fake-news-e-uso-indevido-de-ia-nas-eleicoes.ghtml
+  - https://valorinternational.globo.com/politics/news/2026/08/03/superior-electoral-court-expected-to-expand-debate-on-ai-generated-content.ghtml
+  - https://oglobo.globo.com/politica/noticia/2026/08/02/deepfake-de-bolsonaro-usado-pelo-pl-em-convencao-divide-ministros-e-obriga-tse-a-delimitar-regras-sobre-ia.ghtml
+  - https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/03/tse-deve-ampliar-discussoes-sobre-conteudo-de-ia.ghtml
+  - https://valor.globo.com/noticia/2026/08/05/andre-mendonca-proibe-pl-de-impulsionar-video-que-liga-lula-ao-crime.ghtml
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-08-16'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://g1.globo.com/politica/noticia/2026/08/13/tse-adia-reuniao-que-discutiria-proibicao-do-uso-de-deepfakes-na-campanha-eleitoral.ghtml
+  - https://www.bbc.com/portuguese/articles/ceqed2992ppo
+  - https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/13/ministros-do-tse-devem-debater-veto-amplo-a-deepfakes-na-campanha-eleitoral-e-discutir-punicao-para-caso-flavio-bolsonaro.ghtml
+  - https://www.estadao.com.br/politica/tse-avalia-nesta-quinta-feira-proibicao-do-uso-de-deepfakes-na-campanha-eleitoral-npr/
+  - https://www.em.com.br/politica/2026/08/7476616-tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes.html
+- date: '2026-08-23'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected an election or triggered formal investigation. The resolution criteria require "official finding of material
+    election impact" — a specific causal determination that the misinformation changed electoral outcomes. Articles [0-6]
+    discuss Brazilian Electoral Court (TSE) discussions and rule-setting about deepfakes in the 2026 election, but these are
+    PREVENTIVE/REGULATORY actions, not findings of material impact. Articles [7-10] reference AI-generated content circulating
+    in Nigerian elections and U.S. polling concerns, but contain no official attribution of material election impact. The
+    baseline context states "deepfakes appeared in elections but no official attribution of material impact" — these articles
+    show the pattern continuing without the critical "official finding" threshold being crossed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://valorinternational.globo.com/politics/news/2026/08/18/electoral-court-considers-tougher-rules-after-ai-generated-bolsonaro-video.ghtml
+  - https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/ministros-do-tse-discutem-uso-de-deepfakes-na-campanha-eleitoral.ghtml
+  - https://valor.globo.com/noticia/2026/08/18/tse-diz-que-reunio-sobre-ia-de-bolsonaro-foi-produtiva-e-pode-balizar-julgamentos.ghtml
+  - https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/17/eleicoes-2026-veja-as-regras-aprovadas-pelo-tse-para-uso-de-ia-durante-a-campanha.ghtml
+  - https://www.estadao.com.br/politica/deepfakes-em-perfis-de-apoio-a-lula-e-flavio-somam-milhoes-de-interacoes-e-testam-regras-do-tse/
+  trajectory_signal: 'Strong momentum TOWARD YES resolution, though not yet meeting it:'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of official findings that AI-generated misinformation materially affected
+    a national election or triggered formal investigation meeting resolution criteria. Articles [1] and [2] describe formal
+    complaints/judicial proceedings about deepfakes, but these are investigations of the use of deepfakes themselves, not
+    official findings of material electoral impact. Article [1] (TSE Brazil) discusses judicial discussion of an AI-generated
+    video but doesn''t establish material impact on election outcomes. Article [2] (Colorado) describes a complaint filed
+    under disclosure law but shows no official finding of material impact. These are procedural/investigative steps, not resolution-triggering
+    findings.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/27/tse-julga-na-terca-acao-do-pt-sobre-video-de-bolsonaro-feito-por-ia-e-deve-definir-deepfake.ghtml
+  - https://thenextweb.com/news/bolsonaro-ai-avatar-brazil-election-tse-deepfake-rules
+  - https://www.chosun.com/english/national-en/2026/08/24/IYWQF64DCVEOPKQU6D46JC37XU/
+  - https://factcheckafrica.net/osun-2026-when-ai-weaponises-doubt-what-the-election-revealed-about-nigerias-new-information-war/
+  trajectory_signal: 'Moderate momentum signals toward YES:'
+- date: '2026-09-06'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an official finding that AI-generated misinformation materially
+    affected a national election or triggered formal investigation meeting resolution criteria. The Brazil articles (0, 1,
+    2, 3, 4, 6) describe the TSE establishing definitional standards for deepfakes ahead of the October 4, 2026 election,
+    but crucially, the TSE explicitly rejected punishment in the Bolsonaro case (4 votes to 3), finding no irregularity. This
+    is evidence AGAINST material impact findings. The Nigeria articles (3, 5, 8, 9) show INEC warnings about AI threats to
+    2027 elections—these are forward-looking concerns, not findings of past material impact. Article 10 (South Africa, published
+    2026-08-31, just before cutoff) describes a Democratic Alliance complaint filed with IEC over an AI deepfake, but contains
+    no indication of an official finding of material election impact, only that a complaint was filed. Article 7 about chatbot
+    inaccuracy is tangential—it addresses misinformation generally, not election-specific material impact findings.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026
+  - https://thenextweb.com/news/brazil-ai-election-rules-tse-deepfake
+  - https://www.estadao.com.br/politica/eleicoes/tse-define-criterios-para-deepfake-em-campanha-mas-nao-ve-ilicito-em-ia-de-bolsonaro/
+  - https://punchng.com/ai-disinformation-could-undermine-2027-polls-inec-warns/
+  - https://jurinews.com.br/en/destaques-ultimas/tse-rejects-flavio-bolsonaro-punishment-for-jair-video-created-with-artificial-intelligence
+  trajectory_signal: 'Articles show increasing institutional attention to AI election threats (Brazil''s TSE formally defining
+    deepfakes; Nigeria''s INEC launching defense strategies; South Africa''s complaint filing). However, this signals TOWARD_NO
+    resolution rather than toward YES. The Brazil case is most telling: despite a high-profile AI deepfake in an active election
+    campaign, the electoral authority explicitly rejected finding it material enough for punishment. This suggests institutional
+    thresholds for "material impact" are very high. The warning articles show momentum in recognizing AI as a threat, but
+    recognition of threat ≠ official finding of material past impact. We''re seeing proactive governance, not reactive investigations
+    concluding material damage occurred.'

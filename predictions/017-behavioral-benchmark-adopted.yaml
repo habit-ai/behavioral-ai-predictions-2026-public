@@ -6,10 +6,11 @@ baseline: No such benchmark used by labs.
 resolution_criteria: 'YES: Major lab references in model card/safety report. NO: None. IF no meta-review is written the question
   is voided (no point penalty either way).'
 search_keywords:
-- A major AI lab will adopt/reference a benchmark me
-- AI safety benchmark
-- AI behavioral benchmark
-- AI psychological impact
+- AI behavioral impact benchmark
+- AI psychological safety model card
+- AI user wellbeing benchmark
+- AI companionship safety evaluation
+- model card behavioral impact assessment
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -33,6 +34,8 @@ forecasts:
   human-6: 5
   human-7: 40
   human-8: 50
+  human-9: 60
+  human-10: 30
 evidence:
 - date: '2026-02-01'
   summary: Found 3 articles
@@ -45,3 +48,462 @@ evidence:
   sources:
   - https://scale.com/leaderboard/humanitys_last_exam
   - https://scale.com/leaderboard/adversarial_robustness
+- date: '2026-02-07'
+  summary: Found 5 articles
+  sources:
+  - https://scale.com/leaderboard/propensitybench
+  - https://scale.com/leaderboard/humanitys_last_exam_preview
+  - https://scale.com/leaderboard/vtb
+  - https://scale.com/leaderboard/visual_language_understanding
+  - https://themunicheye.com/anthropics-claude-safety-chat-termination-25752
+  relevance: 'WEAK_YES: Anthropic''s Claude safety measures suggest some early movement toward behavioral/psychological impact
+    measurement, though not a full benchmark.'
+- date: '2026-02-23'
+  summary: 2 relevant articles
+  sources:
+  - https://arxiv.org/html/2510.04899v1
+  - https://www.pursuit-of-happiness.org/artificialintelligence-psychologicalsafetyindex/
+  relevance: MODERATE
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting or referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. The International AI Safety Reports (articles 2, 3, 7, 8, 9, 10, 11) are comprehensive
+    safety assessments but lack specific evidence of psychological/behavioral impact benchmarks being adopted by labs. Their
+    content is largely inaccessible from the provided excerpts, preventing verification of whether they discuss such benchmarks.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/html/2510.04899v1
+  - https://aijourn.com/conversational-ai-and-student-mental-health-what-intelligent-apps-can-and-cannot-achieve/
+  trajectory_signal: 'Two articles signal directional progress toward YES:'
+- date: '2026-03-01'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting/referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. Article [12] (Anthropic''s AI Fluency Index, Feb 23, 2026) is the closest candidate
+    but falls short of KEEP criteria: it describes Anthropic developing a benchmark measuring user behavior (whether polished
+    output reduces error-checking), which directly addresses psychological/behavioral impacts on users. However, the article
+    does not confirm this benchmark has been formally adopted into a model card or safety report—it only reports research
+    findings. Without confirmation of official adoption/referencing in formal documentation, this cannot resolve YES yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/anthropics-ai-fluency-index-finds-that-polished-ai-output-makes-users-less-likely-to-check-for-errors/
+  trajectory_signal: 'Article [12] signals MODERATE momentum TOWARD_YES. Anthropic publicly releasing research on the "AI
+    Fluency Index"—a benchmark explicitly measuring how AI outputs psychologically affect user behavior—demonstrates: (1)
+    major lab recognition that psychological impacts are measurable and important, (2) active development of measurement approaches
+    in this domain, and (3) public commitment to studying user behavioral effects. This represents directional progress toward
+    formal adoption in safety documentation. Articles [5], [6], [7] document emerging academic research on AI''s negative
+    psychological impacts (ChatGPT worsening psychiatric symptoms, AI perception of distress), creating external pressure/evidence
+    base that could motivate labs to adopt such benchmarks. Articles [1], [3], [10], [11] reference the International AI Safety
+    Report 2026 (Feb 3), a major multi-country document—worth monitoring for whether it endorses psychological impact benchmarks,
+    though current excerpts don''t confirm this. The ecosystem is moving toward standardization of psychological impact measurement,
+    but no lab has yet formally integrated such a benchmark into official model cards/safety reports.'
+- date: '2026-03-08'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting/referencing a specific benchmark measuring
+    psychological/behavioral impacts in a model card or safety report. Article [5] (Claude Sonnet 4.6 System Card) is a real
+    system card from Anthropic dated March 6, 2026, but the excerpt provided does not show any psychological/behavioral impact
+    benchmarks—only technical capability metrics. The resolution criteria specifically requires explicit reference in model
+    cards or safety reports, which has not been demonstrated in these articles.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/03/04/openai-chatgpt-learning-students-cognitive
+  trajectory_signal: 'Article [9] (OpenAI, March 4, 2026) provides the strongest directional signal: OpenAI has "rolled out
+    a framework to study ChatGPT''s long-term learning effects" and is measuring "how ChatGPT affects long-term human learning."
+    This represents concrete momentum toward the prediction—a major lab is actively developing measurement frameworks for
+    psychological/behavioral impacts. Article [0] (TechCrunch, date unknown but appears recent) discusses a new benchmark
+    testing whether chatbots "protect human well-being," signaling emerging benchmark development in this domain. Articles
+    [7] and [8] document growing awareness of ethical risks and harms (Brown University study on therapeutic ethical risks,
+    Google Gemini lawsuit), creating pressure for labs to measure and address these impacts. Articles [1], [2], [10], [11]
+    reference the International AI Safety Report 2026 which, while comprehensive on AI safety, do not clearly show adoption
+    of psychological/behavioral benchmarks by labs themselves. Article [12] shows CEO Alliance for Mental Health prioritizing
+    AI in behavioral health, indicating ecosystem momentum. The trajectory points toward labs developing and potentially formalizing
+    such benchmarks, but adoption in official model cards/safety reports has not yet occurred.'
+- date: '2026-03-15'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab adopting/referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. Articles [0], [1], [4], [5], [6], [10] discuss AI safety frameworks, debugging,
+    interpretability, and monitoring—but none reference psychological/behavioral impact benchmarks specifically, nor do they
+    indicate major lab adoption in formal documentation. Article [11] discusses Anthropic research on AI behavior, but this
+    is a research paper revealing problematic AI behavior, not a benchmark for measuring user psychological impacts. Critical
+    gap: The prediction requires formal adoption/reference in model cards or safety reports—none of the articles demonstrate
+    this has occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newswire.ca/news-releases/mila-launches-its-first-national-hackathon-focused-on-the-safety-of-conversational-ai-in-youth-mental-health-contexts-866844324.html
+  - https://www.instagram.com/reel/DVvTkhfDI_L/
+  - https://www.findarticles.com/study-finds-only-one-major-ai-bot-resisted-attack-plans/
+  trajectory_signal: 'Three articles signal meaningful momentum TOWARD resolution:'
+- date: '2026-03-22'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab (e.g., Anthropic, OpenAI, DeepMind, Meta) explicitly
+    referencing/adopting a benchmark measuring psychological/behavioral impacts in a model card or safety report. The resolution
+    criteria requires specific documentation in these formal venues. Articles [0,1] describe SafeTutors benchmark for pedagogical
+    safety in tutoring systems—this is a new benchmark but no evidence it''s been adopted by a major lab in official documentation.
+    Article [3] mentions Anthropic''s survey of 81,000 users about AI attitudes, but surveying users ≠ adopting a benchmark
+    in a model card/safety report.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/html/2603.17373v1
+  - https://arxiv.org/pdf/2603.17373
+  - https://flarecollective.substack.com/p/anthropic-just-surveyed-81000-people
+  - https://agent-wars.com/news/2026-03-15-lancet-psychiatry-ai-chatbots-amplify-delusional-thinking
+  - https://www.bps.org.uk/news/bps-comment-new-lancet-research-ai-chatbots-and-delusional-thoughts
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-03-29'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://arxiv.org/html/2603.25326v1
+  relevance: 'MODERATE: Article [0] "Evaluating Language Models for Harmful Manipulation" from Google (2026-03-27) is the
+    only article that directly addresses the resolution criteria. It appears to be a peer-reviewed research paper from Google
+    researchers evaluating LMs on a specific behavioral/psychological impact (harmful manipulation). However, the content
+    provided is incomplete—only the header/abstract stub is shown. Critical gap: No evidence that this benchmark is referenced
+    in an actual model card or safety report from Google. The article itself is academic research, not a formal lab safety/model
+    card document. This is TIER 1 because it''s concrete evidence of a major lab (Google) producing a benchmark measuring
+    psychological/behavioral impacts, but verification of actual model card/safety report inclusion is incomplete from the
+    provided excerpt.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.esafety.gov.au/newsroom/media-releases/esafety-report-shows-ai-companions-are-putting-children-at-risk
+  - https://www.archynewsy.com/ai-chatbots-delusions-stanford-research-reveals-risks-of-emotional-spirals/
+  - https://www.theregister.com/2026/03/27/sycophantic_ai_risks/
+  - https://neurosciencenews.com/ai-sycophancy-moral-judgment-30397/
+  trajectory_signal: 'Strong momentum TOWARD_YES. Articles [1, 3, 4, 6] show major research institutions (Stanford, unnamed
+    researchers studying 11 LLMs from OpenAI/Google/Anthropic) actively measuring psychological/behavioral harms (delusions,
+    sycophancy, emotional spirals). Articles [3, 4, 6] specifically analyze sycophancy across leading models—this is a measurable
+    behavioral impact metric. The eSafety report [1] formalizes psychological risks as an evaluation criterion for AI systems.
+    This demonstrates directional momentum: benchmarks measuring psychological impacts are being developed and studied. If
+    Google''s manipulation paper [0] moves from academic publication to formal model card adoption, the prediction resolves
+    YES. The trajectory suggests labs are approaching formal adoption of such benchmarks.'
+- date: '2026-04-05'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major AI lab has already adopted or referenced a benchmark
+    measuring psychological/behavioral impacts in a model card or safety report. The resolution criteria requires explicit
+    reference in model cards/safety reports from major labs — this threshold has not been met by any article.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/html/2603.25326v2
+  - https://insights.marvin-42.com/articles/google-deepmind-publishes-a-harmful-manipulation-evaluation-toolkit-built-on-nine-studies-with-10000-participants
+  - https://vucense.com/ai-intelligence/ai-ethics/stanford-ai-sycophancy-study-harm-2026/
+  - http://fortune.com/2026/03/31/ai-tech-sycophantic-regulations-openai-chatgpt-gemini-claude-anthropic-american-politics/
+  - https://theaiinsider.tech/2026/03/31/stanford-study-finds-ai-sycophancy-may-undermine-judgment-and-social-behavior/
+- date: '2026-04-12'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://finance.sina.com.cn/tech/digi/2026-04-10/doc-inhtymqk0405521.shtml
+  relevance: 'MODERATE: Article [6] provides the clearest evidence: Anthropic released a 244-page "system card" report that
+    includes a 20-hour psychological assessment of Claude Mythos conducted by psychiatrists. This directly addresses the resolution
+    criteria of a major lab (Anthropic) referencing a benchmark measuring AI''s psychological/behavioral impacts on users
+    in a formal safety/model document. The assessment measures psychological patterns (curiosity, anxiety, neuroticism) —
+    constituting a benchmark of psychological impacts. This satisfies the "model card/safety report" requirement. However,
+    a critical gap remains: the article doesn''t explicitly confirm whether this psychological assessment benchmark is formally
+    *named/titled* as such or whether it''s embedded within the broader system card. The Chinese source also doesn''t clarify
+    if this will appear in English-language official documentation accessible to forecasters.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://itbrief.ca/story/anthropic-finds-emotion-patterns-shape-claude-s-behaviour
+  - https://me.mashable.com/mental-health/69446/google-teens-cant-treat-gemini-like-a-companion
+  trajectory_signal: Multiple major labs (Anthropic, Google) are actively researching and documenting AI's psychological/behavioral
+    impacts on users (April 2026). Anthropic's system card with psychiatric assessment represents the strongest trajectory
+    signal toward formalization. This suggests momentum toward the prediction resolving YES, though the psychological assessment
+    benchmark needs explicit formal adoption language to fully satisfy criteria.
+- date: '2026-04-19'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://bitcoinethereumnews.com/tech/claude-mythos-244-page-system-card-signals-anthropics-governance-first-frontier/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ai.ettoday.net/news/3146875
+  - https://www.sci.news/othersciences/computerscience/large-language-models-trust-humans-14693.html
+- date: '2026-04-26'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://abmedia.io/anthropic-claude-mythos-psychiatric-evaluation-20-hours-defense-rate-2-percent
+  relevance: 'STRONG: Article [1] provides DIRECT evidence satisfying resolution criteria. Anthropic published a 244-page
+    Claude Mythos Preview system card (dated 2026-04-07, referenced in article from 2026-04-26) that explicitly includes a
+    "clinical psychiatric evaluation" section—the first time a major lab has formally adopted a benchmark measuring psychological/behavioral
+    impacts in a model card. The evaluation uses clinical psychodynamic frameworks to assess personality organization, reality
+    testing, impulse control, and psychological defense mechanisms (2% rate vs. 15% for Opus 4). This directly references
+    a psychological/behavioral impact benchmark in an official safety report/model card, satisfying the YES resolution criteria.
+    The article confirms this is "the first time the AI industry has formally adopted human clinical psychiatric frameworks
+    to evaluate LLM behavior at the system card level."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41598-026-49764-w
+  - https://link.springer.com/article/10.1007/s13347-026-01073-w
+  - https://techxplore.com/news/2026-04-ai-relationships-trigger-delusional-spirals.html
+  trajectory_signal: 'Articles [0], [2], and [11] signal strong momentum toward broader adoption of psychological impact assessment:'
+- date: '2026-05-03'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting or referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. Article [3] (Anthropic''s Clio tool measuring sycophancy) is the closest, but
+    it describes an internal analysis tool rather than a published benchmark referenced in official model documentation. The
+    resolution criteria requires explicit mention in model cards/safety reports—the articles describe research findings about
+    psychological impacts but not their integration into lab governance documents.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.resultsense.com/news/2026-05-01-anthropic-claude-personal-guidance-sycophancy/
+  - https://aipressa.com/ai-research/study-finds-elon-musks-grok-most-dangerous-ai-model-for-reinforcing-delusions/
+  - https://www.psypost.org/artificial-intelligence-flatters-users-into-bad-behavior/
+  - https://mitsloan.mit.edu/ideas-made-to-matter/how-generative-ai-persuasion-bombs-users-and-how-to-fight-back
+  trajectory_signal: 'Four articles signal meaningful momentum toward YES:'
+- date: '2026-05-10'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting or referencing a specific benchmark measuring
+    psychological/behavioral impacts in a model card or safety report. This is the strict resolution criterion, and it has
+    not been met. The articles discuss psychological impacts (sycophancy, delusions, mental health safety concerns) but do
+    not document formal benchmark adoption by major labs in official documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.edtechinnovationhub.com/news/anthropic-finds-one-in-four-relationship-conversations-with-claude-are-sycophantic
+  - https://spectrum.ieee.org/mental-health-chatbot-guardrails
+  - https://mila.quebec/en/news/building-safer-ai-for-youth-mental-health-a-national-hackathon-delivers-groundbreaking-results
+  trajectory_signal: 'Multiple signals indicate momentum toward YES:'
+- date: '2026-05-17'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://markets.businessinsider.com/news/stocks/new-ai-benchmarking-reveals-leading-ai-chatbots-including-claude-chatgpt-and-gemini-avoid-harm-but-still-need-more-support-for-high-risk-conversations-1036143031
+  - https://letsdatascience.com/news/mpathic-debuts-mpact-benchmark-evaluates-chatbots-crisis-saf-429cfdec
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.cs.umd.edu/article/2026/05/rethinking-%E2%80%9Ccharisma-trap%E2%80%9D-human-ai-interaction
+  - https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/
+  - https://cyberbullying.org/teen-ai-chatbot-harm-national-study
+- date: '2026-05-24'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting or referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. Article [2] describes research examining whether generative AI models can amplify
+    mental health issues, but does not indicate this has been adopted by a major lab in official documentation. The prediction
+    requires explicit referencing in model cards/safety reports—a specific, verifiable form of adoption that none of these
+    articles demonstrate.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://asted.cloud/news/new-publication-april-2026-results-a-bright-mosaic-of-ideas-and-meanings
+  - https://metr.org/blog/2026-05-19-frontier-risk-report/
+  - https://www.unite.ai/ai-is-easily-coerced-into-administering-electric-shocks/
+  trajectory_signal: 'Three articles signal directional momentum toward the resolution:'
+- date: '2026-05-31'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting/referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. The resolution criteria requires explicit reference in official documentation
+    (model cards/safety reports) from a major lab. No such documentation is presented in any article.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/pdf/2605.21739
+  trajectory_signal: 'Article [5] (AttuneBench) signals meaningful progress TOWARD_YES. It presents a new benchmark specifically
+    designed to measure "emotional intelligence" through conversation-based evaluation—directly addressing psychological/behavioral
+    impacts on users. Published 2026-05-27 (within preferred window), it''s a peer-authored research paper measuring how LLMs
+    understand and respond to emotional/psychological states. This represents the type of benchmark that could be adopted
+    by major labs. However, critical gaps remain: (1) no evidence that any major lab (OpenAI, Anthropic, Google, Meta, etc.)
+    has yet referenced or adopted AttuneBench; (2) no mention of integration into model cards or safety reports; (3) authored
+    by researchers at Pareto/Thoughtful (smaller entities), not a major lab itself.'
+- date: '2026-06-07'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.gate.com/news/detail/usc-study-ai-models-violate-social-safety-guidelines-over-27-of-time-21610298
+  - https://decrypt.co/369979/best-ai-models-harmful-intimacy-behavior-study?amp=1
+  relevance: 'MODERATE: Articles [0] and [1] describe the EUDAIMONIA benchmark from USC researchers, which directly measures
+    psychological/behavioral impacts on users (specifically "undesirable dynamics in human-AI conversations" and "harmful
+    intimacy," emotional attachment, boundary violations). However, critical gap remains: these articles are about academic
+    research, NOT about a major AI lab adopting/referencing this benchmark in their model cards or safety reports. The resolution
+    requires explicit citation by a major lab (OpenAI, Anthropic, DeepMind, Meta, etc.) in official documentation. Current
+    evidence shows the benchmark exists and demonstrates the problem space, but no evidence yet that major labs have incorporated
+    it into their evaluation protocols or documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.sedaily.com/finance/2026/06/04/kt-develops-multilingual-benchmark-to-test-ais-cultural
+  - https://arxiv.org/html/2606.00975v1
+  - https://spectrum.ieee.org/measuring-ai-societal-impact-khan
+  - https://www.cxtoday.com/security-privacy-compliance/ai-models-break-eu-law-93-percent-tests/
+  - https://neurosciencenews.com/llm-stroop-task-cognitive-attention-30801/
+  trajectory_signal: 'Articles [2-6] signal growing momentum toward the resolution criteria:'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major AI lab has adopted or referenced a benchmark measuring
+    psychological/behavioral impacts in a model card or safety report. The resolution criteria require explicit reference
+    in official documentation from a major lab—none of the articles demonstrate this. Article [0] studies psychological safety
+    in nurses using AI triage systems (relevant domain but not a benchmark adoption by a lab). Article [3] presents peer-reviewed
+    research on psychological/behavioral impacts of AI (covert perception affecting team performance), but this is published
+    research, not a lab-adopted benchmark documented in model cards/safety reports.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://markets.financialcontent.com/stocks/article/accwirecq-2026-6-10-textai-open-sources-the-first-social-ai-benchmark-to-measure-multiplayer-intelligence
+  - https://www.nature.com/articles/s44387-026-00130-1
+  trajectory_signal: 'Two articles signal momentum toward YES:'
+- date: '2026-06-21'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://aiinsiders.net/article/openai-tests-models-against-real-user-conversations-before
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.springhealth.com/news/vera-mh-for-suicide-risk
+  - https://www.digitaltoday.co.kr/en/view/64021/kt-unveils-ksafe-mm-korean-culture-focused-ai-safety-benchmark
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab (OpenAI, Anthropic, Google DeepMind, Meta, etc.)
+    referencing a benchmark measuring psychological/behavioral impacts in a model card or safety report. Article [7] (GPT-5.6
+    System Card) mentions "safeguards" but provides no detail on whether psychological impact benchmarks are actually referenced.
+    The resolution criteria requires explicit citation in official documentation—this is not met by any article reviewed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arxiv.org/html/2606.25396v1
+  - https://www.psychologytoday.com/us/blog/digital-mental-health/202606/how-risky-is-the-ai-your-patient-uses-now-we-can-estimate
+  - https://www.prnewswire.com/news-releases/grow-therapy-and-stanford-university-launch-research-partnership-to-establish-clinical-safety-standards-in-ai-for-mental-health-302807808.html
+  - https://today.usc.edu/can-ai-be-your-therapist-qa-with-usc-viterbis-ruishan-liu/
+  - https://arxiv.org/html/2606.23380v2
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-07-05'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab adopting or referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. The resolution criteria requires explicit adoption by a major lab (Anthropic,
+    OpenAI, DeepMind, Meta, etc.) documented in official safety materials. None of the articles demonstrate this has occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://link.springer.com/chapter/10.1007/978-3-032-30836-8_41
+  - https://www.hunton.com/privacy-and-cybersecurity-law-blog/chinas-first-regulatory-framework-for-virtual-companions-soon-to-take-effect
+  - https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-07/en_Preliminary%20Report_.pdf
+  - https://theprint.in/tech/frontier-model-security-risks-an-annulled-poll-deepfakes-un-report-warns-ai-is-outpacing-safeguards/2976276/
+  - https://www.techtimes.com/articles/319661/20260703/un-ai-report-2026-chatbot-sycophancy-linked-deaths-no-safety-guarantee.htm
+- date: '2026-07-12'
+  summary: 2 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://mila.quebec/en/news/mila-and-roost-launch-suicide-prevention-guardrail-pilot-to-help-make-ai-chatbots-safer-for
+  - https://deploymentsafety.openai.com/gpt-5-6
+- date: '2026-07-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major AI lab has adopted or referenced a benchmark measuring
+    psychological/behavioral impacts in a model card or safety report. Article [0] describes PsyEval, a new benchmark for
+    mental health evaluation, but provides no evidence that major labs (OpenAI, Anthropic, Google DeepMind, Meta) have referenced
+    it in official documentation. Article [9] (AI Safety Index Summer 2026) rates major labs on safety domains but the content
+    excerpt doesn''t specify whether psychological/behavioral impact benchmarks are included in their assessment methodology.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.news-medical.net/news/20260712/New-benchmark-shows-AI-still-misses-the-human-side-of-mental-health-care.aspx
+  - https://www.channelnewsasia.com/east-asia/china-ai-companions-rules-curb-emotional-dependency-6257581
+  - https://www.edtechinnovationhub.com/news/ai-youth-policy-framework-calls-for-adult-only-rules-on-ai-companions
+  - https://chatforest.com/builders-log/china-ai-companion-law-july-15-2026-doubao-qwen-agent-shutdown-builder-compliance-guide/
+  - https://www.theglobeandmail.com/politics/article-experts-call-for-mystery-shopping-of-ai-chatbots-to-test-if-they-are/
+  trajectory_signal: 'Several articles signal directional momentum toward YES resolution:'
+- date: '2026-07-26'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf
+  relevance: 'MODERATE: Article [5] (Claude Opus 5 System Card, published 2026-07-24) provides direct evidence meeting resolution
+    criteria. It is Anthropic''s official system card for Claude Opus 5, which constitutes a major AI lab''s safety/model
+    documentation. However, the excerpt provided is incomplete—it describes "pre-deployment evaluations in the following areas"
+    but doesn''t show whether psychological/behavioral impact benchmarks are actually referenced in the full document. The
+    visible content mentions "Responsible Scaling Policy (RSP) evaluations" but doesn''t confirm inclusion of a psychological/behavioral
+    impact benchmark. **Criteria gap:** Need verification that the complete system card actually references a specific benchmark
+    measuring psychological/behavioral impacts on users (per resolution requirement of "references in model card/safety report").
+    The excerpt alone is suggestive but incomplete.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.prnewswire.com/news-releases/sentient-index-labs-launches-industrys-first-independent-behavioral-risk-assessment-for-ai-systems-302832932.html
+  - https://www.edtechinnovationhub.com/news/openai-foundation-backs-youth-mental-health-research-into-ai-chatbot-use
+  trajectory_signal: 'Articles [0] and [10] show directional momentum toward YES resolution:'
+- date: '2026-08-02'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting or referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. This is the specific resolution criterion and it has not been met. Article [9]
+    (Anthropic cybersecurity evaluations) discusses safety evaluations but focuses on cybersecurity incidents, not psychological/behavioral
+    impacts on users. Article [10] (Anthropic''s chemical/biological risk report) discusses safety reporting but addresses
+    different risk categories.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://forum.effectivealtruism.org/posts/XmSx6sd5aoq4gXASt/toward-an-empirical-science-of-ai-character
+  - https://english.elpais.com/technology/2026-07-28/ai-powered-digital-friends-the-new-threat-to-teenagers-mental-health.html
+  - https://medicalxpress.com/news/2026-07-mental-health-conditions-ai-liability.html
+  - https://www.techtimes.com/articles/322365/20260730/safety-filters-openai-google-meta-missed-every-romance-baiting-script.htm
+  - https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+  trajectory_signal: 'Multiple articles signal growing momentum TOWARD the resolution criteria:'
+- date: '2026-08-09'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major AI lab adopting/referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. The resolution criteria requires explicit citation in formal lab documentation
+    (model card/safety report), which none of these articles demonstrate. Articles [0], [1], [2], and [7] describe frameworks
+    and audit systems for measuring AI''s psychological/behavioral impacts, but there is no evidence these have been adopted
+    by major labs (Anthropic, OpenAI, DeepMind, etc.) or referenced in their official safety documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41591-026-04577-2
+  - https://www.nature.com/articles/s41562-026-02516-2
+  - https://www.psych.ox.ac.uk/news/new-audit-system-maps-how-mental-health-risks-emerge-in-ai-chatbot-conversations
+  - https://www.medsci.ox.ac.uk/news/new-audit-system-maps-how-mental-health-risks-emerge-in-ai-chatbot-conversations
+  trajectory_signal: Strong directional momentum toward YES. Articles [0], [1], [2], and [7] indicate rapid academic development
+    of clinically validated frameworks and audit systems specifically designed to measure psychological/behavioral impacts
+    of AI chatbots on users (mental health risks, emotional distress, loneliness effects). These represent the exact type
+    of benchmarks the prediction targets. Article [1] documents research on "psychological well-being" impacts from AI companions.
+    Article [0] describes a "clinically validated framework for auditing AI chatbot behavior in mental health interactions"
+    published in Nature Medicine. This academic infrastructure is the prerequisite foundation labs would adopt. Article [4]
+    shows policy pressure (China's new regulations requiring detection of emotional distress in AI companions), which increases
+    institutional incentives for labs to formally adopt such metrics. This ecosystem development suggests meaningful probability
+    that major labs will reference these frameworks in coming safety reports, though they haven't yet.
+- date: '2026-08-16'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab (e.g., Anthropic, OpenAI, Google DeepMind, Meta)
+    referencing a psychological/behavioral impact benchmark in a model card or safety report. Article [8] mentions Anthropic''s
+    Risk Report but discusses misalignment risk estimates, not psychological/behavioral user impact benchmarks. The resolution
+    criteria specifically requires a major lab to reference such a benchmark in formal documentation — this has not occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techtimes.com/articles/324072/20260812/kaist-launches-ai-lovi-august-18-loneliness-index-exposes-unenforceable-companion-ai-laws.htm
+  - https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html
+  - https://www.clinicaltrialvanguard.com/article/intel-brief/nature-medicine-just-published-the-ai-mental-health-audit-framework-the-fda-hasnt-written-yet/
+  - https://www.nature.com/articles/s41598-026-66136-6
+  trajectory_signal: 'Several articles signal meaningful momentum toward YES resolution:'
+- date: '2026-08-23'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a major AI lab has adopted or referenced a benchmark measuring
+    psychological/behavioral impacts in a model card or safety report. This is the specific resolution criteria and it has
+    not been met by any article reviewed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.gate.com/news/detail/usc-study-ai-models-violate-social-safety-guidelines-over-27-of-time-21610298
+  - https://finance.biggo.com/news/098cb8de-6c07-4d6e-ba43-7ab80ddc463a
+  trajectory_signal: 'Two momentum signals suggest directional movement toward YES:'
+- date: '2026-08-30'
+  summary: 3 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.anthropic.com/news/wellbeing-research-grants
+  - https://insight.tmcnet.com/insight/anthropic-opens-5-million-fund-for-independent-ai-wellbeing-tests-mta994li
+  - https://www.socialsamosa.com/news-2/anthropic-announces-5-million-fund-study-ais-impact-user-wellbeing-12435330
+  relevance: 'MODERATE: Articles [0], [1], and [3] provide direct evidence of a major AI lab (Anthropic) taking concrete action
+    toward adopting/referencing benchmarks for psychological/behavioral impacts. Anthropic has launched a $5M grant program
+    (Aug 25, 2026) explicitly to fund independent research into "how AI impacts users'' wellbeing" and to develop "open-source
+    evaluations that help the AI industry measure" these impacts. The program description indicates Anthropic is seeking to
+    establish practical benchmarks for "assessing conversational AI risks" including measuring "harmful compliance and excessive
+    refusal" in multi-turn interactions. However, critical criteria gap remains: These articles document Anthropic''s *funding
+    of external research* into such benchmarks, NOT yet an explicit adoption/reference of a specific benchmark in their own
+    model cards or safety reports. The resolution requires the lab to actually reference/adopt a benchmark in official documentation,
+    which has not yet occurred based on these articles. This represents movement toward resolution but not satisfaction of
+    it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nature.com/articles/s41598-026-67931-x
+  - https://www.forbes.com/sites/lanceeliot/2026/08/26/using-eight-billion-ai-personas-for-psychology-research-has-its-ups-and-downs/
+  - https://scienmag.com/how-ais-humanlike-appearance-and-emotions-shape-depression-support/
+  trajectory_signal: 'Articles [4], [5], and [6] signal directional momentum toward developing psychological/behavioral impact
+    measurement frameworks. [4] presents a "quantum-inspired framework for real-time trust estimation in human–AI interaction"
+    (Aug 29, published in Scientific Reports), suggesting academic progress on measuring behavioral impacts. [5] discusses
+    using "AI personas for psychology research" (Aug 26), and [6] examines how AI''s appearance/emotions affect depression
+    support (Aug 28). These indicate growing research ecosystem attention to psychological impacts, which creates favorable
+    conditions for lab adoption of such benchmarks. The trajectory is clearly TOWARD_YES: the field is building evaluation
+    infrastructure and academic credibility around these measurements.'
+- date: '2026-09-06'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab (OpenAI, Google DeepMind, Anthropic, Meta, etc.)
+    adopting or referencing a benchmark measuring psychological/behavioral impacts in a model card or safety report. Articles
+    [2] and [8] are OpenAI''s GPT-6 Astra safety materials, but their content focuses on cybersecurity capabilities and preparedness
+    frameworks—not psychological/behavioral impact benchmarks. The resolution criteria explicitly require reference "in model
+    card/safety report" from a major lab, which none of these articles demonstrate.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://deploymentsafety.openai.com/gpt-6-astra/capability-sandbagging
+  - https://scienmag.com/new-framework-guides-responsible-ai-deployment-in-mindfulness-based-mental-health/
+  - https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/
+  - https://aiweekly.co/alerts/transluce-study-chatbots-still-role-play-self-harm-with-users
+  trajectory_signal: 'Articles [2, 4, 5, 7] collectively signal STRONG momentum toward the resolution criteria:'

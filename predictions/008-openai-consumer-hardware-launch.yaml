@@ -35,6 +35,8 @@ forecasts:
   human-6: 20
   human-7: 20
   human-8: 65
+  human-9: 30
+  human-10: 60
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -48,3 +50,547 @@ evidence:
   - https://m.economictimes.com/ai/ai-insights/openai-set-to-launch-its-first-consumer-device/articleshow/127613478.cms
   - https://aibusinessweekly.net/p/openai-first-hardware-device-2026-jony-ive-sweetpea-earbuds
   - https://newsletter.cliffnotes.ai/p/openai-device-coming-in-2026
+- date: '2026-02-07'
+  summary: Found 11 articles
+  sources:
+  - https://www.gizmochina.com/2026/02/07/openais-first-hardware-device-ai-earbuds-strategy-shift-and-launch-timeline/
+  - https://www.androidauthority.com/openai-earbuds-dime-leak-3638698/
+  - https://almcorp.com/blog/sam-altman-openai-future-ai-hardware-disney-partnership-2026/
+  - https://www.theverge.com/archives/openai/2026/1/1
+  - https://themunicheye.com/openai-ai-device-space-x-starship-updates-21680
+  relevance: WEAK_YES. Multiple sources hint at potential AI hardware plans (like earbuds), but no concrete product launch
+    is confirmed yet, making this a suggestive but not definitive indicator of meeting the prediction.
+- date: '2026-02-08'
+  summary: 5 relevant articles
+  sources:
+  - https://www.gizmochina.com/2026/02/07/openais-first-hardware-device-ai-earbuds-strategy-shift-and-launch-timeline/
+  - https://www.androidauthority.com/openai-earbuds-dime-leak-3638698/
+  - https://themunicheye.com/openai-ai-device-space-x-starship-updates-21680
+  - https://themunicheye.com/openai-acquire-jony-ive-startup-ai-device-16392
+  - https://themunicheye.com/openai-acquires-jony-ives-startup-ai-device-development-21614
+  relevance: 'MODERATE: Articles 5 and 9 provide concrete evidence of OpenAI''s acquisition of Jony Ive''s hardware startup
+    (io) in May 2025 with a $6.5B valuation and plans for AI devices, while articles 0, 1, and 8 reference specific hardware
+    projects (earbuds/Dime) in development, though none yet confirm an actual public announcement and launch by the December
+    31, 2026 deadline.'
+- date: '2026-02-08'
+  summary: 4 relevant articles
+  sources:
+  - https://www.gizmochina.com/2026/02/07/openais-first-hardware-device-ai-earbuds-strategy-shift-and-launch-timeline/
+  - https://themunicheye.com/openai-ai-device-space-x-starship-updates-21680
+  - https://www.gadgets360.com/audio/news/openai-s-first-hardware-product-might-be-named-dime-key-details-leaked-10963741
+  - https://themunicheye.com/openai-acquire-jony-ive-startup-ai-device-16392
+  relevance: 'MODERATE: Articles 4, 5, and 7 provide concrete evidence of OpenAI''s hardware development plans (device named
+    "Dime," collaboration with Jony Ive, acquisition interest) with timelines suggesting launch feasibility by 2026, though
+    none yet report an actual announcement or launch; Article 0''s title suggests relevant content but the body is inaccessible.'
+- date: '2026-02-15'
+  summary: 5 relevant articles
+  sources:
+  - https://www.resultsense.com/news/2026-02-09-openai-aims-to-ship-ai-earbuds-in-2026
+  - https://www.macobserver.com/news/openais-first-jony-ive-designed-hardware-device-will-not-ship-before-2027/
+  - https://www.macrumors.com/2026/02/10/openais-jony-ive-designed-device-delayed-to-2027/
+  - https://www.theverge.com/ai-artificial-intelligence/876219/openais-first-hardware-slips-to-2027
+  - https://www.newsbytesapp.com/news/science/openai-s-1st-hardware-ai-device-delayed-to-2027/story
+  relevance: 'STRONG: Articles 0, 6, 7, 8, 9 provide concrete evidence that OpenAI''s first hardware device (AI earbuds) will
+    NOT ship before February/March 2027, directly contradicting the prediction''s December 31, 2026 deadline, with articles
+    6-9 citing court filings as definitive proof of the delay.'
+- date: '2026-02-22'
+  summary: 2 relevant articles
+  sources:
+  - https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive
+  - https://www.pymnts.com/artificial-intelligence-2/2026/openai-delays-first-consumer-device-to-2027
+  relevance: 'MODERATE: Article [0] provides weak evidence of 2026 timeline intentions, but article [3] provides concrete
+    evidence of a delay to 2027, directly contradicting the prediction''s December 31, 2026 deadline.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.pymnts.com/artificial-intelligence-2/2026/openai-delays-first-consumer-device-to-2027
+  relevance: 'STRONG: Article [8] from 2026-02-16 (within acceptable date range) provides concrete evidence that OpenAI has
+    delayed its first consumer device launch to 2027, explicitly stating "OpenAI''s highly anticipated push into consumer
+    hardware has been delayed until 2027." This directly contradicts the YES resolution criteria requiring announcement AND
+    launch by December 31, 2026.'
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - https://www.pymnts.com/artificial-intelligence-2/2026/openai-delays-first-consumer-device-to-2027
+  relevance: STRONG
+  direction: TOWARD_NO
+- date: '2026-02-23'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying resolution criteria. The prediction requires both a PUBLIC
+    ANNOUNCEMENT AND A LAUNCH by December 31, 2026. All articles discuss OpenAI''s development of consumer hardware (smart
+    speaker with camera, smart glasses, smart lamp), but critically: (1) Article [6] explicitly states OpenAI has DELAYED
+    its first consumer device to 2027—pushing past the resolution deadline; (2) No article reports an actual launch/release
+    of any consumer product; (3) Articles only reference development plans, roadmaps, and pricing discussions—not announced
+    products available to consumers. These are planning signals, not fulfillment of criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices
+  - https://www.datastudios.org/post/openai-develops-consumer-ai-devices-smart-speaker-with-camera-smart-glasses-and-smart-lamp-in-a-m
+  - https://www.reuters.com/business/openai-developing-ai-devices-including-smart-speaker-information-reports-2026-02-20/
+  - https://theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp
+  - https://www.androidpolice.com/openai-is-working-on-a-smart-speaker/
+  trajectory_signal: 'Strong momentum toward eventual consumer hardware: Articles [0-5, 7] from Feb 20-21 corroborate The
+    Information''s exclusive reporting that OpenAI is actively developing multiple consumer devices (smart speaker ~$200-300,
+    smart glasses, smart lamp) with a multi-year roadmap and dedicated internal team (including Jony Ive''s io acquisition).
+    This represents genuine product development progression beyond vaporware. However, Article [6] (Feb 16) provides a critical
+    countervailing signal: OpenAI has pushed launch to 2027, which is AWAY from YES resolution if the delay holds. The trajectory
+    shows active development momentum but institutional delay past the 2026 deadline—currently pointing TOWARD_NO for this
+    specific prediction''s timeframe, despite positive long-term hardware trajectory.'
+- date: '2026-03-01'
+  summary: 9 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive
+  - https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/
+  - https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices
+  - https://www.reuters.com/business/openai-developing-ai-devices-including-smart-speaker-information-reports-2026-02-20/
+  - https://www.macobserver.com/news/openai-and-jony-ive-plan-smart-speaker-to-rival-homepod/
+- date: '2026-03-08'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an actual announcement AND launch. All articles are reporting on
+    plans, timelines, and development status rather than completed actions. The resolution criteria require both "publicly
+    announce AND launch"—meaning the product must be released and available to consumers, not merely planned for future release.
+    As of the evaluation date (March 8, 2026), no qualifying product has been announced and launched yet. Articles [0-3, 5-7,
+    9] consistently report OpenAI aims/plans/is "on track" for a 2026 device launch, but these are forward-looking statements
+    about future intentions, not evidence of resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive
+  - https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/
+  - https://www.siliconrepublic.com/machines/open-ai-looks-set-to-unveil-first-physical-device-in-h2-2026
+  - https://m.economictimes.com/us/science-tech/openai-plans-late-2026-launch-of-first-ai-hardware-device-designed-with-jony-ive-will-it-survive-where-others-struggled/articleshow/126769816.cms
+  - https://www.wareable.com/wearable-tech/openai-confirms-its-debut-hardware-device-is-on-track-for-2026-reveal
+  trajectory_signal: 'Strong momentum signals toward YES resolution by the deadline. Multiple independent sources (Axios,
+    TechCrunch, Silicon Republic, Economic Times, Reuters, Wareable) corroborate that OpenAI is developing consumer hardware
+    devices for 2026 launch. Key signals: (1) Official confirmation from OpenAI''s Chief Global Affairs Officer (article 9)
+    stating "on track to unveil...second half of 2026"; (2) Specific product details emerging (earbuds/voice-first companions,
+    article 1); (3) Manufacturing partnerships with Foxconn confirmed (article 6); (4) High-profile designer involvement (Jony
+    Ive partnership, articles 3, 6, 7); (5) Timeline is consistently H2 2026 across sources, leaving ~9 months for announcement
+    and launch. The trajectory strongly indicates movement toward resolution YES, though execution risk remains (hardware
+    launches often slip, and "announce" vs "ship" distinction matters for resolution).'
+- date: '2026-03-15'
+  summary: 1 relevant article
+  sources:
+  - https://mashable.com/article/openai-ai-wearable-2026-release-earbuds-rumors
+  relevance: 'MODERATE: Article [5] from 2026-03-15 (today) reports that "OpenAI says its AI wearable is on track as AI earbuds
+    rumors spread." This directly addresses the prediction by confirming OpenAI has publicly stated an AI wearable is "on
+    track for 2026." This is explicit confirmation of OpenAI''s intention to launch consumer hardware within the resolution
+    window. However, critical gaps remain: (1) The article does not confirm an official announcement has occurred—only that
+    OpenAI says it''s "on track," which is a statement of intent, not an announcement; (2) No launch date is specified; (3)
+    The product type remains vague ("mystery AI wearable" / "earbuds rumors")—not yet formally defined; (4) No actual release
+    has occurred. The resolution criteria requires BOTH public announcement AND launch by Dec 31, 2026. This article confirms
+    trajectory and intention but not yet the announcement milestone or any launch.'
+  direction: TOWARD_YES
+- date: '2026-03-22'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that OpenAI has announced AND launched a qualifying consumer hardware
+    product. Article [0] confirms OpenAI is "advancing toward launch" of a "first proprietary hardware device" in collaboration
+    with a former Apple executive (likely Jony Ive), but this is pre-announcement/pre-launch progress only—it doesn''t satisfy
+    the resolution criteria of both announcement AND launch by the deadline. Articles [4-9] describe a desktop "superapp"
+    consolidating ChatGPT, Codex, and Atlas browser—this is software, not a physical device, and therefore does not qualify
+    regardless of launch status. Articles [10-13] are about third-party AI wearables (Pebble Index 01, VITA RING) unrelated
+    to OpenAI.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://themunicheye.com/openai-first-ai-hardware-device-31832
+  - https://mashable.com/article/openai-jony-ive-ai-hardware-faces-reported-delays
+  trajectory_signal: 'Articles [0] and [1] signal directional momentum toward YES, though with mixed signals. [0] (published
+    2026-03-19) reports OpenAI "confirmed ongoing progress" and is "on schedule" with development of a first hardware device,
+    with design input from a prominent former Apple executive—a strong signal of seriousness and momentum. However, [1] (published
+    2026-03-22, same day as forecast) directly contradicts this, reporting "reported delays" citing "software issues" and
+    "lack of computing power." This contradiction suggests execution risk but does not negate that a hardware product is in
+    active development. Article [3] (2026-03-17) reports OpenAI is "shelving side projects to focus on key business," which
+    could signal deprioritization of hardware, but the article lacks detail. Overall trajectory: Hardware development is confirmed
+    and progressing, but faces reported delays with 9.75 months remaining to launch by Dec 31, 2026—timeline is tightening.'
+- date: '2026-03-29'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.uctoday.com/devices-workspace-tech/openais-not-a-smartphone-device-what-it-could-mean-for-the-workplace/
+  relevance: 'MODERATE: Article [0] provides the strongest direct evidence: OpenAI is explicitly developing a new hardware
+    device (described as "Not a Smartphone") in collaboration with Jony Ive, designed as a consumer-facing product for workplace/personal
+    use. This directly addresses the resolution criteria of a "newly introduced physical device intended for individual consumers."
+    However, critical gaps remain: (1) No announcement of official launch date, (2) No confirmation of actual consumer availability/release,
+    (3) Unclear if this meets "public announcement AND launch" requirement or is still in development phase. The article is
+    from March 27, 2026 (within preferred window) but reads as early-stage reporting rather than an official announcement.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businessinsider.com/arm-unveils-ai-chip-partners-with-meta-openai-2026-3
+  - https://www.fool.com/investing/2026/03/25/openai-just-became-broadcoms-newest-chip-customer/
+  trajectory_signal: 'Articles [1] and [2] show OpenAI''s hardware-adjacent momentum. Article [1] documents OpenAI partnering
+    with Arm on AI chips (March 25), and Article [2] reveals OpenAI becoming a Broadcom chip customer (March 26). These signal
+    serious hardware infrastructure investment and supply chain movement that enables consumer device manufacturing. Articles
+    [3], [4], and [6] show OpenAI shifting toward consumer-focused products (desktop "superapp") rather than enterprise-only
+    offerings. Together, these indicate directional momentum TOWARD_YES: OpenAI is actively building hardware capabilities,
+    securing chip partnerships, and refocusing on consumer products. Article [0] suggests a concrete device exists in development.
+    However, none of these constitute an official launch or public announcement of release dates yet—prediction remains in
+    "pre-launch" phase with ~9 months remaining.'
+- date: '2026-04-05'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://www.newsbytesapp.com/news/science/jony-ive-partners-with-openai-to-design-ambient-ai-device/tldr
+  relevance: 'MODERATE: Article [0] (Jony Ive partners with OpenAI on ambient AI device, published 2026-03-29) provides DIRECT
+    evidence toward resolution. It confirms: (1) OpenAI is partnering on a new physical device project, (2) the device is
+    explicitly positioned as a consumer product ("gadget"), (3) it''s intended for individual users with "ambient interaction"
+    design, and (4) it''s being actively designed by a world-class designer. However, critical gap remains: NO LAUNCH DATE
+    is mentioned, only that they are "building" it. The prediction requires both announcement AND launch by Dec 31, 2026.
+    This article confirms the announcement/partnership is public and real, but provides no timeline for actual commercial
+    launch. Additional corroborating piece [11] reinforces this is a real partnership in motion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://enterpriseai.economictimes.indiatimes.com/news/industry/jony-ives-next-bet-the-device-that-could-replace-the-smartphone/129903376
+  trajectory_signal: Article [11] (Jony Ive partnership exploration, published 2026-03-30) reinforces the trajectory by framing
+    this as a serious moonshot project comparable to the iPhone's significance for the internet era. This signals strong organizational
+    commitment and high-profile visibility. The partnership with Jony Ive and explicit framing as the "defining gadget of
+    the AI era" suggests serious resource allocation. The momentum is clearly TOWARD_YES, as OpenAI has moved from zero consumer
+    hardware to a publicly announced design partnership with one of tech's most accomplished designers. However, timeline
+    remains the critical unknown—9 months (April to Dec 2026) is tight for going from active design to full commercial launch,
+    though not impossible for a focused team with resources.
+- date: '2026-04-12'
+  summary: 1 relevant article
+  sources:
+  - https://nationaltoday.com/us/ca/san-francisco/news/2026/04/10/openai-unveils-plans-for-ai-earbuds-in-2026/
+  relevance: 'MODERATE: Article [10] "OpenAI Unveils Plans for AI Earbuds in 2026" directly addresses the prediction criteria.
+    It reports OpenAI''s announcement of plans for AI-powered earbuds (a consumer wearable device) with ambitious shipping
+    targets of 40-50 million units in the first year. This satisfies the "announcement" requirement and describes a newly
+    introduced consumer hardware product (AI earbuds qualify as an AI wearable per resolution criteria). However, critical
+    gap: the article does NOT confirm actual LAUNCH/RELEASE by the cutoff date—it describes plans and targets for 2026, but
+    provides no evidence of actual product availability or shipping yet. The prediction requires both announcement AND launch
+    by Dec 31, 2026. As of April 10, 2026, announcement has occurred but launch status is unclear from this article alone.'
+  direction: TOWARD_YES
+- date: '2026-04-19'
+  summary: 1 relevant article
+  sources:
+  - https://mashable.com/article/openai-ai-wearable-2026-release-earbuds-rumors
+  relevance: 'MODERATE: Article [5] (published 2026-04-19, within preferred date range) provides direct evidence toward resolution.
+    It reports that OpenAI''s Chief Global Affairs Officer confirmed at Davos that an AI wearable device developed with designer
+    Jony Ive is "on track" to be "unveiled" by end of 2026. This directly addresses the prediction criteria.'
+  direction: TOWARD_YES
+- date: '2026-05-03'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of announcement AND launch. All articles are based on supply chain
+    analyst Ming-Chi Kuo''s reports of OpenAI''s plans, not official OpenAI announcements. Critically, the reported launch
+    date is 2028, which is AFTER the December 31, 2026 resolution deadline. The articles describe development partnerships
+    (Qualcomm, MediaTek, Luxshare) and design intentions (AI agents replacing apps), but these are unconfirmed rumors about
+    future products, not announcements or launches. Resolution requires both announcement AND launch by Dec 31, 2026 — this
+    reporting chain provides neither yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/
+  - https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/
+  - https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek?amp=1
+  - https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/
+  - https://www.cnbc.com/2026/04/27/qualcomm-qcom-openai-smartphone-chip-partnership-stock.html
+  trajectory_signal: 'All 8 articles (published Apr 27-28, 2026) signal STRONG MOMENTUM toward eventual YES resolution, but
+    on the wrong timeline. They collectively indicate: (1) OpenAI has reversed its previous "no phone plans" position and
+    is actively developing a consumer smartphone; (2) serious partnerships are forming with major chipmakers (Qualcomm, MediaTek)
+    and manufacturers (Luxshare); (3) design collaboration with Jony Ive continues; (4) the device targets mass market (400M
+    units/year). However, the 2028 launch timeline is 18 months beyond the prediction deadline. This suggests OpenAI''s hardware
+    ambitions are real and advancing, but likely won''t clear the resolution threshold by Dec 31, 2026. The trajectory points
+    toward YES eventually, but probably after resolution date.'
+- date: '2026-05-10'
+  summary: 9 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo
+  - https://www.cnet.com/tech/services-and-software/openai-making-ai-phones-30-million-report/
+  - https://www.digitaltrends.com/phones/openai-could-launch-its-first-ai-agent-smartphone-in-2027/
+  - https://9to5mac.com/2026/05/05/openais-new-phone-being-fast-tracked-to-launch-next-year-per-report/
+  - https://www.gadgets360.com/mobiles/news/openai-ai-phone-production-launch-timeline-mediatek-chip-features-specifications-ming-chi-kuo-11451389
+- date: '2026-05-17'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an actual announcement and launch of a consumer hardware product
+    by OpenAI. All articles are speculative, rumored, or aspirational rather than concrete announcements. Article [3] discusses
+    a "fast-tracked" smartphone for "first half 2027 mass production" — this is future-oriented (beyond the 2026 deadline)
+    and based on supply chain analyst Ming-Chi Kuo''s reporting, not an official OpenAI announcement. Articles [4], [7], [8]
+    cite Qualcomm CEO claims that OpenAI is "working on" AI wearables with "secret form factors" — again, this is work-in-progress,
+    not announced products. Article [9] references an alleged "Sweet Pea" earphone project in preparation, but provides no
+    verification and the content doesn''t substantiate the headline claim. None of these constitute official OpenAI announcements
+    or launches. The criteria require BOTH announcement AND launch by Dec 31, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://newclawtimes.com/articles/openai-ai-agent-smartphone-mass-production-2027/
+  - https://www.benzinga.com/markets/tech/26/05/52436593/qualcomm-ceo-says-openai-meta-are-working-on-ai-wearables-that-could-replace-smartphones
+  - https://uristocrat.com/qualcomm-ceo-cristiano-amon-confirms-ai-wearable-chip-deals-with-openai-and-meta/
+  - https://tech.yahoo.com/articles/qualcomm-ceo-says-openai-meta-203108273.html
+  - https://kalteng.antaranews.com/berita/802714/openai-siapkan-earphone-ai-sweet-pea-sebagai-pesaing-airpods
+  trajectory_signal: 'Moderate momentum signals suggest movement toward resolution:'
+- date: '2026-05-24'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of an official OpenAI announcement or launch of a consumer hardware
+    product. Articles [0], [1], [2], and [5] discuss leaked specs and rumors about an OpenAI smartphone/AI phone reportedly
+    in development with mass production potentially in H1 2027, but these are unconfirmed leaks and analyst reports—not official
+    announcements or launches. Articles [3], [4], [8] discuss enterprise hardware (Nvidia Vera CPUs for data centers), which
+    explicitly does not qualify under the resolution criteria. Articles [7] discusses a voice tech acquisition but not a consumer
+    product launch. Articles [6], [9], [10], [11], [12], [13] describe Google/Samsung intelligent eyewear and other competitors''
+    products—not OpenAI products.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.igorslab.de/en/openai-phone-2-nm-soc-ai-device-smartphone-leak-hardware-strategy/
+  - https://letsdatascience.com/news/openai-leaks-specs-for-chatgpt-branded-smartphone-e33a1f13
+  - https://www.qoo10.co.id/en/gadget/99109/openais-ai-phone-could-redefine-android-agentic-ai-set-to-replace-apps/
+  - https://www.mymobileindia.com/chatgpt-openai-phone-launch-timeline-and-specifications-leaked-tipped-to-feature-2nm-mediatek-soc-lpddr6-ram-ufs-5-0-storage/
+  trajectory_signal: Articles [0], [1], [2], [5] signal MODERATE momentum TOWARD_YES. Multiple credible tech publications
+    (igorslab.de, Qoo Media, My Mobile India) are reporting consistent leaks about an OpenAI smartphone with specific technical
+    specs (2nm MediaTek SoC, LPDDR6 RAM, UFS 5.0). Analyst Ming-Chi Kuo (article [2]) projects H1 2027 mass production timeline—only
+    6 months beyond the December 31, 2026 resolution deadline. However, these remain rumors/leaks without official OpenAI
+    confirmation. The competitive landscape (articles [9]-[13]) shows hardware companies are actively launching consumer AI
+    devices, suggesting market viability. No directional signal against resolution is present. The trajectory indicates OpenAI
+    is likely working on consumer hardware, but timing and official announcement remain uncertain.
+- date: '2026-05-31'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that OpenAI has publicly announced AND launched a qualifying consumer
+    hardware product by the May 31, 2026 evaluation date. Resolution criteria require both announcement AND launch of a physical
+    device for individual consumers (not enterprise, not developer tools, not AI chips). No such product has materialized
+    yet according to the evidence reviewed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.thenews.com.pk/latest/1404200-openai-smartphone-likely-to-launch-in-2027-check-specs-details
+  - https://www.36kr.com/p/3309240530803203
+- date: '2026-06-07'
+  summary: 2 relevant articles, 5 trajectory signals
+  sources:
+  - https://www.druckfin.com/en/articles/all-in-podcast-openai-cfo-reveals-new-consumer-device-compute-scarcity-through-2-20260602
+  - https://www.gate.com/news/detail/openai-cfo-confirms-jony-ive-ai-hardware-in-testing-planned-for-year-end-21597922
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://africa.businessinsider.com/news/openais-cfo-says-she-cant-say-if-jony-ives-device-is-an-earpiece/bc17895
+  - https://www.jpost.com/consumerism/article-897841
+  - https://www.toutiao.com/article/7647551998451909166/
+  - https://www.ilounge.com/news/apple/openai-phone-to-rival-apple
+  - https://economictimes.indiatimes.com/tech/technology/openai-wants-you-to-have-a-personal-robot-starts-hiring-for-robotics-division/articleshow/131434679.cms
+- date: '2026-06-14'
+  summary: 1 relevant article, 1 trajectory signal
+  sources:
+  - https://36kr.com/p/3637550452098309
+  relevance: 'MODERATE: Article [1] provides the most direct evidence: OpenAI has announced a consumer hardware product (AI
+    earbuds codenamed "Sweetpea") with a public announcement already made, and the article confirms a September 2026 launch
+    timeline. This directly addresses the "announce" criterion and indicates imminent launch within the resolution window.
+    However, a critical gap remains: as of the article''s June 13, 2026 publication date, the product has NOT YET BEEN LAUNCHED—it
+    is only announced with a future launch date. The resolution requires BOTH announcement AND launch by Dec 31, 2026. With
+    a September launch target, this appears on track, but launch has not yet occurred. Article [0] discusses the same device
+    partnership (Jony Ive/OpenAI) but is less specific and appears to reference earlier reporting from 2025.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.36kr.com/p/3692414622985856
+  trajectory_signal: Article [2] signals strong momentum toward hardware launch by revealing a broader product roadmap (smart
+    speaker with camera, facial recognition, shopping capability) with a target of February 2027 launch. This shows OpenAI's
+    serious commitment to consumer hardware and confirms multiple devices in development beyond just earbuds, suggesting organizational
+    capability and timeline credibility. Together, articles [1] and [2] demonstrate that OpenAI has moved from concept to
+    announced products with specific launch windows and design partnerships (Jony Ive's team), indicating high probability
+    of meeting the Dec 31, 2026 deadline for at least the earbuds product. Articles [3], [4], [5], and [6] discuss superapp
+    strategy and enterprise focus but do NOT address consumer hardware launches and are therefore not relevant to this prediction.
+- date: '2026-06-21'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://inews.zoombangla.com/openai-plans-consumer-hardware-device-launch-in-second-half-2026/
+  relevance: 'MODERATE: Article [0] (2026-06-20) provides the most direct evidence: OpenAI has publicly stated plans to launch
+    its first consumer hardware device in H2 2026 according to multiple reports. It explicitly references the $6.4B acquisition
+    of Jony Ive''s io startup (May 2025) as the foundation for this effort. However, critical gaps remain: (1) This is a PLAN/announcement
+    of intent, not yet a launched product—the prediction requires BOTH announcement AND launch by Dec 31, 2026; (2) The exact
+    form factor remains undisclosed, so we cannot yet verify it meets "consumer hardware" criteria (not enterprise/developer
+    tools); (3) With only ~6 months remaining in 2026, execution risk is significant; (4) No pricing, specifications, or detailed
+    consumer positioning details are provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.eweek.com/news/openai-ai-smartphone-hardware-plans-rival-iphone/
+  - https://themunicheye.com/openai-first-ai-hardware-device-31832
+  - https://www.letemsvetemapplem.eu/en/2026/01/21/openai-chysta-vlastni-ai-zarizeni-s-jonym-ivem-dorazit-ma-uz-pristi-rok/
+  - https://cryptobriefing.com/openai-hires-ha-thai-meta-devices/
+  - https://en.clickpetroleoegas.com.br/openai-accelerates-the-race-for-the-post-cellular-future-with-several-acquisitions-in-the-first-few-months-of-2026-and-bets-65-billion-on-th-vml97/
+  trajectory_signal: 'Articles [1, 2, 4, 5, 6] collectively signal strong momentum toward YES resolution:'
+- date: '2026-06-28'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a public announcement AND launch of a consumer hardware product.
+    Article [6] comes closest—it includes a Sam Altman quote describing a "forthcoming AI hardware device" as "simple" and
+    references collaboration with Jony Ive—but this is speculative commentary about an unreleased product, not an official
+    announcement or launch. The quote lacks specifics on what the device is, when it launches, or confirmation it meets consumer
+    hardware criteria (vs. enterprise/developer tools). Article [1] and [4] explicitly describe a custom inference chip (Jalapeño),
+    which the resolution criteria explicitly exclude ("AI chips...do NOT qualify"). Critical gaps: No confirmed product name,
+    no public launch date, no specification of device type (wearable? smart home? AR?), no evidence of actual manufacturing/availability.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.siliconreport.com/openai-poaches-apple-vision-pro-hardware-chief-for-ai-device-push-f5e79f40e4e3ae0c
+  - https://undercodenews.com/openais-bold-hardware-vision-expands-as-apple-vision-pro-leader-joins-ai-device-revolution-video/
+  - https://wccftech.com/openais-quest-for-an-iphone-killer-lures-apples-head-of-vision-pro-as-its-mediatek-powered-smartphone-lurks-in-the-shadows/
+  - https://caribbeanstudonline.org/article/openai-s-new-ai-device-a-peaceful-revolution-in-technology
+  - https://www.digitaltrends.com/wearables/openais-poaching-from-apple-hints-at-chatgpt-powered-wearables-coming-for-your-face/
+  trajectory_signal: 'Strong momentum signals toward eventual consumer hardware launch: (1) Senior talent acquisition—Paul
+    Meade (Vision Pro lead, 7 years at Apple) joining OpenAI''s hardware division [0, 7], plus Jony Ive collaboration [6],
+    signals credible hardware expertise being mobilized. (2) CEO confirmation—Altman''s quoted description of a "forthcoming"
+    device [6] indicates active development beyond rumor. (3) Portfolio diversification—Articles [0, 2, 3] frame this as OpenAI''s
+    strategic shift from software-only to full-stack hardware control, suggesting institutional commitment. (4) Specificity
+    of direction—References to wearables, AR devices, and smartphone competitors [3, 7] indicate concrete product categories
+    under consideration. However, no timeline evidence exists showing launch by Dec 31, 2026 (6 months away). Articles are
+    speculative about timing despite strong development signals.'
+- date: '2026-07-12'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://insideai.news/news/vibe-coding/openai-codex-micro-launching-july-15-first-official-hardware-for-developers/3217/
+  - https://gadgetbond.com/codex-micro-macro-pad-keyboard-openai-build-week-teaser/
+  relevance: 'MODERATE: Articles [1] and [5] provide direct evidence of OpenAI''s Codex Micro launch scheduled for July 15,
+    2026. Article [1] explicitly states "OpenAI will launch its first official hardware product, the Codex Micro, on July
+    15, 2026" developed with Work Louder. Article [5] confirms "Codex Micro appears ahead of its July 15 launch" with additional
+    details. However, CRITICAL CRITERIA GAP: Codex Micro is explicitly described as "developer-focused" and a "programmable
+    keypad aimed at software developers" — this is a DEVELOPER TOOL, not a consumer product. The resolution criteria explicitly
+    exclude "Developer tools." The Codex Micro therefore does NOT satisfy the requirement for "a physical device intended
+    for individual consumers." The prediction requires a consumer product (e.g., "AI wearable, smart home assistant, AR device"),
+    not professional/developer hardware.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/careers/senior-software-engineer-research-platform-consumer-devices-san-francisco/
+  - https://www.933thedrive.com/2026/07/10/apple-sues-openai-two-former-employees-for-trade-secrets-theft/
+  - https://sources.news/p/openai-ai-device-voice-model-chatgpt
+  - https://theaicronicle.com/en/news/companies/apple-openai-jony-ive-lawsuit-trade-secrets
+  trajectory_signal: Article [0] shows OpenAI actively hiring for a "Senior Software Engineer - Research Platform, Consumer
+    Devices" role, indicating active consumer hardware development efforts beyond the Codex Micro. Articles [3] and [8] report
+    Apple's July 10, 2026 lawsuit against OpenAI alleging trade secret theft related to "consumer hardware" and "AI-native
+    wearable hardware" development, suggesting OpenAI is pursuing consumer-grade devices (wearables) in addition to developer
+    tools. Article [6] references "OpenAI's upcoming AI device gets its voice," suggesting a broader consumer device with
+    voice capabilities, distinct from the Codex keyboard. These signals indicate momentum toward actual consumer hardware
+    development, though no announcement/launch of such products has occurred yet. The trajectory points TOWARD_YES for eventual
+    consumer hardware, but the Codex Micro alone does not resolve the prediction.
+- date: '2026-07-19'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires both PUBLIC ANNOUNCEMENT AND LAUNCH by Dec 31,
+    2026. All articles discuss reports of OpenAI''s plans for a smart speaker device, but:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion
+  - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+  - https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
+  - https://thenextweb.com/news/openai-jony-ive-smart-speaker-io-hardware
+  - https://www.straitstimes.com/business/companies-markets/openais-first-hardware-device-will-be-moveable-home-speaker-built-as-ai-companion
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-07-26'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a qualifying consumer hardware product announcement AND launch
+    by the resolution deadline. The Codex Micro (articles 1, 2, 4, 5, 6, 9) is a launched product, but it is a $230 mechanical
+    keypad/macropad designed for developers and AI agent control — this is a **developer tool**, which explicitly does NOT
+    qualify per resolution criteria ("Developer tools...DO NOT qualify"). Articles 2, 4, 5, 6, 9 confirm it launched July
+    15, 2026, and is being sold through OpenAI''s Supply Co., but the product category disqualifies it. The CNET article (8)
+    mentions only interest in wearable integrations, not a launched product.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.seattletimes.com/business/openais-first-device-will-be-movable-screenless-speaker-built-as-ai-companion/
+  - https://fortune.com/2026/07/22/sam-altman-and-jony-ive-formed-a-dream-team-to-reinvent-hardware-now-its-at-the-center-of-a-battle-for-openais-future/
+  trajectory_signal: 'Two articles signal meaningful momentum toward YES resolution:'
+- date: '2026-08-02'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://fortune.com/2026/07/27/openai-first-hardware-device-micro-codex-keyboard-sold-out-12-hours-reselling-on-ebay-premium/
+  - https://designwanted.com/openai-codex-micro-work-louder-keypad-design/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview
+  - https://www.gadgets360.com/ai/news/openai-president-greg-brockman-ai-hardware-strategy-voice-first-future-11842523
+  - https://www.macrumors.com/2026/07/28/openai-first-devices/
+  - https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-eyes-south-korea-as-testbed-for-openais-first-hardware-device/articleshow/132678332.cms
+  - https://www.koreaherald.com/article/10822916
+- date: '2026-08-09'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a public announcement or launch. All articles report on leaked/rumored
+    specifications (doughnut shape, $300-$400 price, moving parts, Jony Ive design) but explicitly describe this as "yet-to-be-announced"
+    hardware. The resolution criteria require BOTH a public announcement AND a launch by Dec 31, 2026. These articles document
+    pre-announcement intelligence gathering only, with no official OpenAI statement or commercial availability confirmed.
+    Critical gaps: (1) no public announcement has occurred, (2) no launch/availability date confirmed, (3) article [5] suggests
+    launch "could" be in 2027, potentially missing the Dec 31, 2026 deadline.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300
+  - https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/
+  - https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/
+  - https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor
+  - https://www.fastcompany.com/91587001/openai-hardware-donut-shaped-smart-speaker
+  trajectory_signal: 'Strong momentum signal toward YES resolution. Multiple credible sources (Bloomberg, The Verge, TechCrunch,
+    Ars Technica, Fast Company) are reporting converging details about a specific consumer hardware product in advanced development
+    with design finalization (Jony Ive''s LoveFrom studio involvement). The specificity of leaked specs (doughnut shape, price
+    point, moving parts for "personality") and reports of internal pricing discussions ($300-$400) indicate the product is
+    in late-stage development. However, the timing trajectory is mixed: most articles suggest a "next year" launch (2027),
+    which would miss the Dec 31, 2026 deadline, though article language uses conditional terms ("could," "reportedly") rather
+    than confirmed timelines. The product clearly exists as a near-launch candidate, but execution timing relative to the
+    2026 year-end criterion remains uncertain.'
+- date: '2026-08-16'
+  summary: 7 trajectory signals
+  relevance: 'NONE: All articles are reports/leaks about OpenAI developing a consumer hardware product (donut-shaped smart
+    speaker), but NONE meet the KEEP criteria because they all describe a device targeted for 2027 launch, which falls AFTER
+    the December 31, 2026 resolution deadline. The resolution requires both announcement AND launch by Dec 31, 2026. These
+    articles provide zero evidence of either event occurring before the deadline—they explicitly state the launch is planned
+    for 2027. No actual announcement or launch has occurred as of the article publication dates (Aug 10-15, 2026).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/chatgpt/articles/openai-reportedly-developing-screen-free-175305297.html
+  - https://newatlas.com/ai-humanoids/openai-hockey-puck-smart-home/
+  - https://me.mashable.com/tech/74779/openais-smart-speaker-leaked-uae-pricing-design-and-specifications
+  - https://www.financialexpress.com/life/technology-what-openais-upcoming-400-smart-speaker-may-look-like-reveal-analysts-4314468/
+  - https://dapta.ai/blog-posts/ai-news-openai-donut-speaker/
+  trajectory_signal: 'These articles provide STRONG momentum signals suggesting OpenAI is actively developing consumer hardware
+    and moving closer to market entry:'
+- date: '2026-08-23'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://timestabloid.com/openais-first-gadget-is-a-400-donut-shaped-speaker/
+  relevance: 'MODERATE: Article [0] from Times Tabloid (2026-08-17) reports OpenAI''s "first gadget" as a "$400 Donut-Shaped
+    Speaker With a Camera and a Face." This directly addresses the resolution criteria IF the announcement and launch have
+    occurred. However, the article content is incomplete/truncated, making it impossible to verify whether this represents
+    an actual public announcement AND launch, or merely rumors/leaks. The headline suggests a consumer device (speaker, camera,
+    physical form) that would qualify, but without full content confirming official announcement and availability for purchase,
+    this cannot be definitively classified as KEEP. The source credibility (Times Tabloid) is also questionable compared to
+    major tech outlets.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://androidmagazine.eu/en/2026/07/15/chatgpt-miri-do-obyvaku-unikl-prvni-hardware-openai-a-nevypada-jako-bezny-reproduktor/
+  - https://www.36kr.com/p/3692414622985856
+  - https://entaiai.com/openai-%e5%ae%b6%e7%94%a8-ai-%e8%ae%be%e5%a4%87%e4%bc%a0%e9%97%bb%e6%b5%ae%e7%8e%b0%ef%bc%9a%e5%86%b0%e7%90%83%e5%a4%a7%e5%b0%8f%e6%97%a0%e5%b1%8f%e5%b9%95%ef%bc%8c%e9%a2%84%e8%ae%a1-2027-%e5%b9%b4/
+  trajectory_signal: 'Articles [8], [9], and [10] provide strong directional momentum toward YES resolution:'
+- date: '2026-08-30'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of resolution. Articles [0] and [1] describe a screen-free smart speaker
+    device in development, but critically: (1) planned release is 2027, not by Dec 31, 2026, and (2) these appear to be announcements/reporting
+    of plans, not actual launches. The resolution criteria require BOTH announcement AND launch by Dec 31, 2026. Since we
+    are at Aug 30, 2026, and the device is planned for 2027, this cannot resolve YES under current information. Article [3]
+    describes Jalapeño, an AI inference chip—explicitly excluded from resolution criteria as a developer tool/chip, not consumer
+    hardware. Article [4] is about Apple litigation and provides no relevant signal.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thenextweb.com/news/openai-jony-ive-smart-speaker-io-hardware
+  - https://thenextweb.com/news/openai-doughnut-smart-speaker-jony-ive-300-2027
+  - https://thenextweb.com/news/openai-family-of-devices-brockman
+  - https://terradisedesign.com/article/openai-s-400-ai-smart-speaker-revolutionary-or-overpriced
+  trajectory_signal: 'Articles [0], [1], [2], and [5] collectively signal STRONG momentum TOWARD_YES on the underlying trajectory:
+    (1) OpenAI has publicly announced a consumer hardware product (doughnut-shaped smart speaker with moving parts, designed
+    with Jony Ive); (2) Greg Brockman confirmed OpenAI is building "a family of devices" coming "soon"; (3) pricing ($300-$400)
+    and design details are concrete; (4) this represents a major strategic pivot into consumer hardware. However, the critical
+    gap is timing: all sources indicate a 2027 launch, placing the resolution outside the Dec 31, 2026 window. The trajectory
+    is strongly positive, but execution timeline poses a real barrier to resolution within the prediction period. If plans
+    accelerate or launch dates shift earlier, this could flip to KEEP tier quickly.'
+- date: '2026-09-06'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://www.techshotsapp.com/artificial-intelligence/openais-first-ai-device-a-sleek-screenless-wearable-designed-by-jony-ive
+  relevance: 'MODERATE: Article [8] provides the only TIER 1 evidence. It explicitly describes OpenAI''s "inaugural AI device"
+    as "a compact, screenless wearable" developed with Jony Ive''s io Products. It states this is a consumer device (designed
+    to integrate with existing Apple products) and provides specific details (resembles iPod Shuffle, $6.4B acquisition finalized
+    July 2025). However, critical criteria gaps remain: (1) NO explicit confirmation of PUBLIC ANNOUNCEMENT by OpenAI, (2)
+    NO confirmation of actual LAUNCH/RELEASE (article describes it as "developed" but doesn''t confirm availability), (3)
+    unclear if this has been officially announced vs. reported speculation. The article reads more as industry reporting of
+    planned/near-term product rather than confirmation both announcement AND launch have occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy
+  - https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices
+  - https://www.tekedia.com/openai-denies-apple-trade-secret-claims-says-iphone-maker-is-attempting-to-use-litigation-to-slow-its-expansion-into-consumer-devices/
+  - https://www.law.com/therecorder/2026/09/01/openai-fires-back-at-apple-in-trade-secret-case/
+  - https://www.therundown.ai/news/apple-openai-lawsuit-circuit-files-hardware-timing
+  trajectory_signal: Articles [1, 2, 4, 5, 6, 7] document the Apple-OpenAI legal dispute regarding trade secrets and OpenAI's
+    "expansion into consumer devices" (explicitly stated in [2]). These reinforce that OpenAI is actively pursuing hardware
+    and hiring talent for this purpose. Article [9] references Jony Ive's involvement and hints at device design philosophy.
+    Collectively, these signal strong momentum toward hardware launch—the legal conflict itself confirms OpenAI has concrete
+    hardware plans in motion. However, they provide no direct evidence of public announcement or actual market release. The
+    trajectory strongly suggests YES resolution is likely, but timing and official confirmation remain uncertain as of Sept
+    6, 2026 (with ~16 months until Dec 31, 2026 deadline).

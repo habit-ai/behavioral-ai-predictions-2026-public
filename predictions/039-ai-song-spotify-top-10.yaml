@@ -6,12 +6,12 @@ baseline: 'As of Jan 2026: AI-generated songs have charted regionally (e.g., Swe
   Drake/Weeknd) went viral but was removed. No AI-vocal song has reached Spotify global weekly top 10.'
 resolution_criteria: 'YES: AI vocal song in Spotify weekly global top 10. NO: None.'
 search_keywords:
-- AI song chart
-- AI vocals top 10
-- AI generated song
-- AI song
-- AI music
-- AI music Spotify
+- AI vocals Spotify global top 10 weekly
+- Sienna Rose AI artist Spotify streams
+- AI generated song Billboard Hot 100
+- Suno Udio AI song viral streaming
+- AI music artist Spotify monthly listeners millions
+- AI vocal song chart position 2026
 resolution_date: null
 outcome: null
 created: '2026-01-15'
@@ -35,6 +35,8 @@ forecasts:
   human-6: 60
   human-7: 25
   human-8: 35
+  human-9: 80
+  human-10: 70
 evidence:
 - date: '2026-02-01'
   summary: Found 5 articles
@@ -48,3 +50,487 @@ evidence:
   - https://musically.com/2026/01/28/from-this-weekend-there-will-be-top-100-charts-for-ai-music/
   - https://sonicstate.com/news/2026/01/28/ai-music-gets-its-own-charts
   - https://www.billboard.com/p/billboard-2026-power-100-list/
+- date: '2026-02-07'
+  summary: Found 9 articles
+  sources:
+  - https://www.rootsmusic.ca/2026/01/31/socans-decision-to-license-ai-assisted-music-draws-mix-reviews/
+  - https://www.scmp.com/news/china/article/3341893/future-ai-music-us-and-china-strike-different-chords
+  - https://www.hypebot.com/hypebot/2026/01/your-morning-coffee-podcast-36.html
+  - https://www.aol.com/articles/ai-generated-country-song-currently-162524559.html
+  - https://phys.org/news/2026-02-ai-generated-music-advances-humans.html
+  relevance: WEAK_YES. The evidence of an AI-generated country song topping charts suggests growing acceptance and capability
+    of AI in music, incrementally supporting the prediction's plausibility.
+- date: '2026-02-08'
+  summary: 2 relevant articles
+  sources:
+  - https://www.aol.com/articles/ai-generated-country-song-currently-162524559.html
+  - https://www.pastemagazine.com/music/spotify/swedens-current-streaming-champ-isnt-human-but-at-least-their-charts-are
+  relevance: 'MODERATE: Article [0] suggests an AI-generated song topped charts (potentially relevant but lacks specifics
+    on Spotify global top 10 weekly data), and article [4] indicates an AI artist is Sweden''s streaming leader (relevant
+    for AI music momentum but lacks Spotify global top 10 weekly specifics); articles [1], [2], [3], [5] are either generic
+    industry news, research commentary, or unrelated Spotify feature updates without concrete evidence of AI vocal songs in
+    the specific resolution criteria.'
+- date: '2026-02-08'
+  summary: 1 relevant article
+  sources:
+  - https://www.aol.com/articles/ai-generated-country-song-currently-162524559.html
+  relevance: 'NONE: Article [0] has an incomplete title suggesting AI songs topping charts but provides no actual content;
+    [1] explicitly debunks AI reaching #1 on Billboard; [2-7] discuss general AI music trends, tools, or unrelated chart news
+    without specific data on AI-vocal songs reaching Spotify global top 10; [8] is about SZA''s human-performed album and
+    irrelevant to the prediction.'
+- date: '2026-02-15'
+  summary: 3 relevant articles
+  sources:
+  - https://www.youtube.com/watch?v=rGremoYVMPc
+  - https://unn.ua/en/news/ai-takes-over-music-charts-2026-viral-hit-sparks-scandal
+  - https://www.newsweek.com/entertainment/most-viral-song-2026-likely-made-using-ai-11370294
+  relevance: 'MODERATE: Articles [2] and [5] directly reference AI songs reaching #1 on charts in 2026 (though [2] mentions
+    Billboard rather than Spotify specifically), and [10] references a viral AI-made song in 2026, but none provide concrete
+    confirmation of an AI-vocal song in Spotify''s weekly global top 10 specifically.'
+- date: '2026-02-22'
+  summary: 1 relevant article
+  sources:
+  - https://www.billboard.com/music/chart-beat/haven-kaitlin-aragon-i-run-number-one-1236180967/
+  relevance: 'NONE: No articles provide concrete evidence of an AI-generated vocal song reaching Spotify''s global top 10
+    weekly chart; articles discuss AI music tools, industry labeling debates, and dedicated AI charts, but lack specific chart
+    performance data for AI vocal songs on the main Spotify global top 10.'
+- date: '2026-02-23'
+  summary: 1 relevant article
+  sources:
+  - http://www.recorderonline.com/features/entertainment_news/commentary-spotify-needs-to-start-labeling-ai-generated-music-before-it-s-too-late/article_27eccfde-110f-5440-a635-3b32ccb92735.html
+  relevance: 'MODERATE: Article [9] (published 2026-02-20, within acceptable range) reports that "Sienna Rose has achieved
+    a level of breakout stardom envied by musicians everywhere" with "more than 4 million monthly Spotify listeners" developed
+    "over the last four months." The article''s headline explicitly calls for Spotify to label AI-generated music, and the
+    content appears to reference Rose as an AI-generated artist case study, though the snippet is truncated. This is concrete
+    evidence of an AI-vocal artist gaining significant mainstream traction on Spotify in early 2026.'
+  direction: TOWARD_YES
+- date: '2026-02-23'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocals song has reached Spotify''s global weekly
+    top 10. Article [1] mentions "HAVEN. & Kaitlin Aragon''s ''I Run'' Goes No. 1 After AI Controversy" but the content is
+    too truncated to verify: (a) whether AI vocals were actually used in the final released version, (b) whether "No. 1" refers
+    to Spotify global weekly chart specifically, or (c) the actual chart position and chart type. Articles [2], [3], [4],
+    [5] appear to be chart listings but lack sufficient content to verify AI-vocal songs in top 10 positions. Articles [6]
+    and [7] reference non-AI songs (Rosé/Bruno Mars, Bad Bunny). The resolution criteria gap remains: no concrete confirmation
+    of an AI-vocal song in Spotify''s weekly global top 10.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.billboard.com/music/chart-beat/haven-kaitlin-aragon-i-run-number-one-1236180967/
+  trajectory_signal: Article [1] (published 2026-02-17, within preferred window) signals TOWARD_YES momentum. The headline
+    suggests an AI-controversy-linked song reaching "No. 1" represents progress toward AI vocals gaining mainstream chart
+    acceptance. However, content truncation prevents verification of whether this actually resolves the prediction. Article
+    [0] (outside preferred window, Jan 25) shows earlier trajectory of AI artist controversy/adoption (Sienna Rose) but is
+    stale. The overall direction suggests growing market presence and reduced friction around AI-vocal music entering charts,
+    which would be prerequisite momentum for hitting the specific top 10 threshold by year-end 2026.
+- date: '2026-03-01'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global weekly
+    top 10. Article [0] mentions Sienna Rose (an AI artist) reaching Spotify''s Viral 50, not the global top 10. Articles
+    [1], [2], [3] discuss Sienna Rose''s mysterious AI status but do not specify chart position beyond "millions of streams"
+    and Viral 50 placement. Article [12] explicitly states an AI song was banned from Swedish charts (regional, not global).
+    Article [14]''s headline claims "AI slop tops Billboard and Spotify charts" but the content only mentions Spotify Viral
+    charts, not the global weekly top 10. Critical gaps: None of these articles demonstrate a song reaching the specific resolution
+    criterion (global weekly top 10).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://consequence.net/2026/01/sienna-rose-ai-selena-gomez-spotify/
+  - https://www.rollingstone.com/music/music-news/sienna-rose-ai-artist-real-1235499068/
+  - https://www.youtube.com/watch?v=qLIosCiA4jA
+  - https://www.bbc.com/news/articles/cq6v83gq66eo
+  - https://www.forbes.com.au/news/innovation/ai-music-platform-suno-reaches-2-million-subscribers-as-industry-backlash-grows/
+  trajectory_signal: 'Several signals indicate momentum toward YES resolution:'
+- date: '2026-03-08'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global weekly
+    top 10. Articles [3], [4], [5], and [6] show current Spotify/Billboard charts dominated by Bad Bunny and traditional artists—no
+    AI-vocal entries visible in the top positions shown. Articles [7], [9], and [10] reference AI songs topping Billboard''s
+    *Digital Country Chart* (a sub-category chart, not the global top 10) and mention past events (November 2025), which do
+    not satisfy the specific resolution criteria of "Spotify global top 10 most-streamed in a single week."'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://english.elpais.com/culture/2026-03-04/the-problem-with-xania-monet-the-ai-generated-singer-who-has-amassed-millions-of-followers.html
+  - https://capricho.abril.com.br/entretenimento/quem-e-sienna-rose-a-cantora-criada-por-ia/
+  - https://www.unite.ai/suno-reaches-2-million-paid-subscribers-and-300m-arr-in-two-years/
+  trajectory_signal: 'Three articles signal meaningful momentum toward resolution:'
+- date: '2026-03-15'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. Article [0] mentions an AI R&B singer
+    debuting at #2 on a "SIQA chart" (appears to be a specialized AI music chart, not Spotify''s global weekly top 10), with
+    300,000 monthly Spotify listeners. This does not constitute reaching the Spotify global top 10 most-streamed in a single
+    week. The other articles are either about non-AI songs (Bruno Mars articles [5], [8]), about AI in music videos rather
+    than vocals ([3], [4]), about general AI music discourse ([1], [2]), or lack readable content ([6], [7], [9]).'
+  trajectory_sources:
+  - https://www.tiktok.com/@christheaimusicpreneur/video/7616006633164000534
+  trajectory_signal: 'Article [0] signals directional progress. An AI artist reaching #2 on a dedicated AI music chart with
+    300K monthly Spotify listeners shows growing adoption and chart performance of AI-vocal content. The existence of "SIQA
+    chart history" suggests a nascent competitive ecosystem for AI music. This indicates momentum toward mainstream chart
+    penetration, but remains far from the Spotify global top 10 threshold—a chart tracked by Billboard and Official Charts
+    Company that requires substantially higher streaming volumes. The gap between a specialized AI chart and the global Spotify
+    top 10 is still considerable as of mid-March 2026.'
+- date: '2026-03-22'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. Articles [0-4, 8-11] discuss human artists
+    (Sienna Spiro, Harry Styles, J Balvin, etc.) and traditional chart performance—entirely outside scope of AI-generated
+    vocals. Article [7] discusses Spotify''s AI DJ feature, not AI-generated vocal songs. None address whether an AI-vocal
+    song has charted in the Spotify global top 10 this week or is on trajectory to do so.'
+  trajectory_sources:
+  - https://www.instagram.com/p/DWBtpuTiCb6/
+  trajectory_signal: Article [5] mentions "an AI music debate involving Universal Music Group and Suno"—this signals ongoing
+    industry engagement with AI music generation tools, suggesting continued development momentum in the AI music space. However,
+    the fragment is too minimal to assess trajectory direction or whether this debate involves vocal generation specifically.
+    This represents weak directional signal toward potential future AI-vocal releases, but no concrete evidence of charting
+    progress.
+- date: '2026-03-29'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.showbiz411.com/2026/03/27/exclusive-ai-generated-singer-not-a-real-person-eddie-dalton-hits-number-1-on-itunes-with-two-more-hits-in-the-top-10
+  - https://www.showbiz411.com/2026/03/28/exclusive-fake-ai-singer-eddie-dalton-has-sold-over-13000-records-and-had-525k-streams-in-one-week
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.facebook.com/groups/2703779406444247/posts/3439141356241378/
+  - https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/
+  - https://www.dexerto.com/entertainment/man-used-1000-bots-to-stream-ai-generated-songs-make-millions-in-revenue-3339792/
+- date: '2026-04-05'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global weekly
+    top 10. Articles [0], [1], [6] appear to be chart-related but their content is truncated/inaccessible, making verification
+    impossible. Articles [2], [3], [5], [8], [9] discuss AI music tools and creation but don''t address chart performance.
+    The critical gap: no accessible article confirms actual Spotify global weekly top 10 placement for an AI-vocal track.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.showbiz411.com/2026/03/28/exclusive-fake-ai-singer-eddie-dalton-has-sold-over-13000-records-and-had-525k-streams-in-one-week
+  - https://www.facebook.com/10newsplus/posts/an-ai-generated-music-artist-is-climbing-global-charts-attracting-millions-of-li/122161368650899199/
+  trajectory_signal: Article [4] reports "Eddie Dalton" (an AI singer) achieved 525K streams in one week and sold 13,000+
+    records — substantial momentum suggesting growing market viability, though 525K streams fall far short of top 10 weekly
+    thresholds (which typically require millions). Article [7] references "an AI-generated music artist climbing global charts"
+    and "attracting millions of listeners," suggesting credible momentum toward higher chart positions, though the truncated
+    content prevents verification of actual chart placement or Spotify-specific data. Article [3] shows enabling technology
+    progress (Suno v5.5 voice capture), supporting infrastructure for higher-quality AI vocals. Overall trajectory is clearly
+    TOWARD_YES — market adoption and technology capability are advancing — but no evidence yet shows resolution criteria met.
+- date: '2026-04-12'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global weekly top
+    10. The resolution criteria require a specific, verifiable chart position that none of these articles document. Article
+    [9] mentions "Eddie Dalton" (AI-generated) achieving #3 on iTunes album chart with 11 singles in Top 100, but this is
+    iTunes (not Spotify) and singles chart position data is incomplete. No Spotify global weekly top 10 placements are reported.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://tech.yahoo.com/ai/deals/articles/fake-ai-singer-eddie-dalton-171825263.html
+  - https://world.infonasional.com/ai-singer-eddie-dalton-tops-itunes
+  trajectory_signal: 'Articles [9] and [10] signal meaningful momentum toward YES:'
+- date: '2026-04-19'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global weekly
+    top 10. The resolution criteria require a specific achievement: a song with AI-generated vocals in Spotify''s weekly global
+    top 10. While articles [0] and [9] document "Celebrate Me" (IngaRose/Suno) reaching #1 on iTunes charts globally, iTunes
+    is NOT Spotify. Articles [12], [13], [10] describe "Another Day Old" (Eddie Dalton) peaking at #2-3 on the UK Official
+    Singles Chart, not Spotify global top 10. Article [1] references an AI singer "storming charts" but provides no specific
+    platform/position data. These are different platforms and different chart scopes than the resolution criterion. The prediction
+    remains unresolved.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.dexerto.com/entertainment/ai-generated-song-takes-1-spot-on-itunes-global-charts-3353485/
+  - https://www.thesun.co.uk/tvandshowbiz/38799209/ai-singer-storms-charts-mystery-hits-bot-streaming-scam/
+  - https://www.ladepeche.fr/2026/04/14/cette-chanteuse-relayee-par-plusieurs-stars-et-qui-cartonne-sur-les-plateformes-decoute-savere-finalement-etre-une-ia-13324664.php
+  - https://www.tiktok.com/@christheaimusicpreneur/video/7628990468738518294
+  - https://www.hollywoodreporter.com/music/music-industry-news/the-music-industry-crosses-its-ai-tipping-point-1236556447/
+  trajectory_signal: 'Strong momentum signals emerging:'
+- date: '2026-04-26'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.techloy.com/10-ai-music-acts-that-have-officially-topped-the-global-charts/
+  - https://weraveyou.com/2026/04/ai-generated-celebrate-me-ingarose-itunes-number-one/
+  relevance: 'MODERATE: Articles [1] and [2] provide the strongest evidence that AI-generated vocal songs have reached #1
+    on major global charts (iTunes, broader "global charts"), satisfying most resolution criteria. However, neither explicitly
+    confirms a #1-10 position on Spotify''s specific weekly global top 10 chart, which is the precise resolution requirement.
+    The iTunes chart success demonstrates the capability exists but doesn''t directly resolve the prediction. Critical gap:
+    Spotify weekly global top 10 confirmation is missing.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.science-et-vie.com/technos-et-futur/sienna-rose-la-chanteuse-aux-millions-dauditeurs-sur-spotify-est-en-fait-une-ia-236265.html
+  - https://musically.com/2026/04/20/ingarose-is-a-hit-as-siqa-launches-ai-music-intelligence-report/
+  - https://thenationonlineng.net/10-viral-songs-you-probably-didnt-know-were-ai-generated/
+  - https://notjustok.com/article/viral-and-popular-songs-you-didnt-know-were-made-with-ai/
+  trajectory_signal: 'Multiple articles document strong momentum. IngaRose''s "Celebrate Me" hit iTunes #1 globally on April
+    17.'
+- date: '2026-05-03'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://kookloofeed.com/2026/04/30/ai-generated-song-celebrate-me-storms-global-music-charts/
+  relevance: 'MODERATE: Article [0] provides direct evidence that "Celebrate Me," an AI-generated song created with Suno,
+    reached No. 1 on the iTunes chart in the US and several other countries as of 2026-04-30. However, this is iTunes charting,
+    not Spotify global weekly top 10—a critical gap. The article does not specify Spotify weekly global top 10 performance,
+    which is the exact resolution criterion. iTunes and Spotify have different charting methodologies and audiences. This
+    represents a song with AI-generated vocals achieving significant chart success, but we cannot confirm it met the specific
+    resolution criteria (Spotify global weekly top 10).'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pitchfork.com/features/an-idiots-guide-to-music-ai-companies/
+  - https://whatstrending.com/ai-music-has-been-charting-for-months-now-theres-finally-data-to-prove-it/
+  trajectory_signal: 'Article [4] (Pitchfork, 2026-04-29) notes that "platforms successfully shooting AI-generated country,
+    rock, R&B, and gospel songs onto the charts" with growing sector momentum—directional evidence of AI music chart penetration
+    increasing. Article [8] (2026-05-02) reports that AI music has "been charting for months" with a Q1 2026 report and cites
+    a song hitting #1 in Sweden with 6M streams (though ruled ineligible due to AI creation)—showing strong regional chart
+    performance and infrastructure developing to track AI music. Combined, these suggest trajectory toward resolution: AI
+    songs are approaching and reaching high chart positions regionally, regulatory/eligibility frameworks are being formalized,
+    and mainstream adoption is accelerating. The momentum points toward YES, but no article yet confirms global weekly top
+    10 on Spotify specifically.'
+- date: '2026-05-10'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.archynewsy.com/song-debuts-at-6-on-spotify-global-enters-apple-music-top-100/
+  relevance: 'MODERATE: Article [7] provides the most direct evidence: "Song Debuts at #6 on Spotify Global" (published 2026-05-07).
+    This is concrete data showing an AI-generated song reaching the Spotify global top 10 (specifically #6). However, critical
+    gap: the article provides no song title, artist name, or confirmation this song has AI-generated vocals specifically (vs.
+    AI-assisted production). The summary mentions "algorithmic amplification" but doesn''t confirm vocal generation. This
+    is tantalizingly close to resolution criteria but lacks definitive confirmation that the vocals are AI-generated rather
+    than other AI production elements.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://celebrityinsider.org/ingarose-celebrate-me-number-one-global-viral-chart-592026/
+  - https://worldmusicviews.com/exclusive-the-real-story-behind-the-ai-song-that-knocked-tyla-off-no-1-on-billboard-afrobeats-chart/
+  trajectory_signal: 'Article [2] shows IngaRose''s "Celebrate Me" (fully AI-generated track) debuting at #1 on Spotify''s
+    Viral 100 chart (2026-05-06), demonstrating organic momentum for AI vocal content. Article [5] reports an AI-assisted
+    song reaching #1 on Billboard Afrobeats chart (week ending May 9, 2026), showing AI music gaining traction on major global
+    charts. These signal growing acceptance and chart penetration of AI vocal songs, but neither specifies global Spotify
+    weekly top 10 achievement. The trajectory strongly suggests the threshold is very close to being crossed if not already
+    crossed (per Article 7).'
+- date: '2026-05-17'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global top 10 weekly
+    chart. The prediction requires a specific, verifiable outcome (Spotify global weekly top 10) that has not yet occurred
+    as of May 17, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://worldmusicviews.com/exclusive-the-real-story-behind-the-ai-song-that-knocked-tyla-off-no-1-on-billboard-afrobeats-chart/
+  - https://www.recorderonline.com/features/entertainment_news/commentary-billboard-s-ai-music-problem-is-obvious-so-is-the-fix/article_b9be334a-456c-5b2e-83ff-95e97a98ea0e.html
+  - https://www.xataka.com/robotica-e-ia/que-spotify-este-lleno-canciones-hechas-ia-consecuencia-como-ha-incentivado-durante-anos-musica-que-escuchamos
+  trajectory_signal: 'Three articles signal meaningful directional progress toward YES resolution:'
+- date: '2026-05-24'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global weekly top
+    10. The baseline context notes this hasn''t occurred as of May 2026. Articles [4] and [6] discuss Olivia Rodrigo''s #1
+    position, but these are human-performed songs, not AI-generated vocals. Article [5] discusses BTS''s "Arirang" in top-three
+    Spotify globally—also human-performed. None of these resolve the prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.goodmorningamerica.com/culture/story/viral-ai-generated-puerto-rico-song-tiktok-133214634
+  - https://www.readers.id/en/suno-ai-music-puerto-rico-tiktok
+  - https://techcabal.com/2026/05/19/spotify-now-wants-listeners-to-know-when-ai-helped-make-a-song/
+  - https://www.nme.com/news/music/spotify-and-universal-music-sign-landmark-deal-enabling-fan-made-ai-covers-and-remixes-3947061
+  - https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix
+- date: '2026-05-31'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://zinstrel.substack.com/p/the-new-no-1-ai-song-has-two-origin
+  relevance: 'MODERATE: Article [0] provides direct evidence toward resolution. It reports "a new No. 1 in AI music" as of
+    May 25, 2026, explicitly stating it''s "the first chart-topper from Warner''s November 2025 Suno settlement." However,
+    CRITICAL CRITERIA GAP: The article does not specify whether this #1 song reached Spotify''s global weekly top 10. The
+    headline refers to "No. 1 in AI music" which could mean a specialized AI music chart, not Spotify''s overall global weekly
+    top 10. The article is truncated and doesn''t clarify the specific streaming platform or chart. This requires verification—if
+    it''s Spotify global weekly top 10, resolution is YES; if it''s another chart, it doesn''t satisfy criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.onemoreshot.ai/blog/fake-ai-artists-are-topping-the-charts-in-2026/
+  - https://www.shopifreaks.com/suno-app-downloads-quadruple-as-tiktoks-text-to-song-trend-turns-text-histories-into-ai-generated-songs/
+  - https://theweek.com/tech/ai-music-fake-artists
+  - https://www.thenationalnews.com/arts-culture/music-stage/2026/05/24/the-ai-generated-kurdish-song-taking-over-tiktok-and-instagram/
+  trajectory_signal: 'Articles [1], [2], [3], [4] collectively signal strong momentum TOWARD_YES:'
+- date: '2026-06-07'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global top 10 weekly
+    chart. The baseline context confirms this hasn''t happened yet as of June 7, 2026. Articles [5], [6], [8], [9], [11],
+    [12] discuss current chart performance (BTS, Drake, Taylor Swift) but these are human-generated music, not relevant to
+    the resolution criteria. Article [4] discusses Spotify''s AI integration but doesn''t report any AI vocal songs charting.
+    The criteria gap remains: we need documented evidence of a specific AI-vocal song appearing in Spotify''s weekly global
+    top 10 singles chart.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://musically.com/2026/06/01/suno-is-riding-the-wave-of-tiktoks-new-text-to-song-trend/
+  - https://www.billboard.com/pro/suno-raised-400m-new-ai-model-made-with-music-industry/
+  - https://www.aichatdaily.com/ai-analysis/grammys-ceo-says-ai-now-omnipresent-music-50
+  trajectory_signal: 'Three articles signal momentum TOWARD_YES:'
+- date: '2026-06-14'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global weekly
+    top 10. Article [1] shows a Spotify weekly global chart snapshot but contains no AI-vocal songs in the visible portion.
+    The resolution criteria requires a specific, verifiable chart position (global top 10 in a single week on Spotify), which
+    none of these articles document.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://worldmusicviews.com/ai-powered-hit-let-me-be-by-the-second-voice-spends-six-weeks-at-no-1-on-billboard-u-s-afrobeats-songs-chart/
+  - https://www.turntablecharts.com/news/2168-the-biggest-african-song-of-2026-isn-t-human
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-06-21'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global top
+    10 weekly chart. Article [0] and [2] discuss "The Puerto Rico Song" (created with Suno by travel creator Saxboybilly18)
+    as "the song of the summer" with viral social media presence, but neither provides Spotify chart position data confirming
+    top 10 placement. The articles establish it as culturally prominent but fail to verify the specific resolution criterion
+    (Spotify global top 10 weekly). Without explicit chart ranking confirmation, these cannot move to KEEP tier despite being
+    recent and directly relevant to AI vocal songs gaining mainstream traction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.today.com/popculture/music/the-puerto-rico-song-ai-controversy-explained-rcna350005
+  - https://www.movieguide.org/news-articles/the-song-of-the-summer-is-not-just-tourist-stuff.html
+  - https://xspec.substack.com/p/my-favorite-song-this-summer-is-ai
+  trajectory_signal: 'Three articles signal meaningful momentum TOWARD_YES:'
+- date: '2026-06-28'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global weekly top
+    10. The prediction requires a specific, verifiable outcome (Spotify global top 10 in a single week) which has not occurred.
+    Article [5] (Olivia Rodrigo''s "Stupid Song") confirms human-artist dominance of Spotify global charts, but doesn''t address
+    AI vocals specifically. Articles discuss regional charts (Afrobeats Billboard, UK Official Afrobeats, Beatport) but these
+    are different chart systems than Spotify global weekly top 10.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://worldmusicviews.com/ayra-starr-lands-highest-debut-but-ai-generated-tracks-lead-billboard-u-s-afrobeats-songs-chart/
+  - https://worldmusicviews.com/tyla-still-beating-ai-on-the-uk-official-afrobeats-chart/
+  - https://fourfourmag.com/kevin-mckay-claims-ai-generated-track-reached-no-1-on-beatport-genre-chart/
+  - https://www.powmag.net/p/fenix-flexin-rubberz-ai-artificial-intelligence-allegations
+- date: '2026-07-05'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence addressing the resolution criteria. The prediction requires an AI-generated
+    vocal song to reach Spotify''s global top 10 most-streamed in a single week during 2026. As of July 5, 2026, we are already
+    6+ months into the year with no such occurrence reported. The baseline context confirms no AI-vocal song has yet achieved
+    this milestone. None of the provided articles document an AI-generated vocal song charting at Spotify global weekly top
+    10.'
+  trajectory_sources:
+  - https://weraveyou.com/2026/07/the-uncomfortable-truth-about-ai-music-biggest-year-yet/
+  - https://giochit.com/article/spotify-s-ai-remix-feature-create-your-own-music-with-universal-music-group
+  - https://zinstrel.substack.com/p/the-five-stories-defining-ai-musics
+  trajectory_signal: 'Articles [2], [7], [8] show directional momentum:'
+- date: '2026-07-12'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward the resolution criteria. The prediction requires an AI-generated
+    vocal song to reach Spotify''s global weekly top 10 by end of 2026. None of the articles document an AI-vocal song achieving
+    this threshold. Articles [0, 2, 6, 8, 11] discuss industry labeling initiatives for AI-generated music—these are GOVERNANCE
+    responses that may actually create friction against AI songs reaching top charts by requiring transparency/labeling. Article
+    [4] describes an AI-generated cover ("Like a Prayer" by Josh Fawaz) reaching Australia''s radio airplay #1, but this is
+    regional radio, not Spotify global streaming charts. Article [1] discusses a human artist''s metal cover performance,
+    not AI-generated vocals. Articles [5, 7] track K-pop songs on Spotify charts with no AI-vocal element. Article [10] raises
+    concerns about Spotify''s AI monetization practices but doesn''t report any AI-vocal song charting success.'
+  trajectory_sources:
+  - https://xix.ai/ainews/spotify-and-universal-music-partner-to-deliver-ai-vocal-cover-remix-experience.html
+  trajectory_signal: 'Article [9] signals MODERATE momentum toward YES: Spotify and Universal Music Group announced a partnership
+    (July 9, 2026) to deliver an "AI Vocal Cover Remix Experience" as a paid Premium feature. This represents direct infrastructure/commercial
+    integration enabling fans to create AI vocal covers with legitimate revenue streams. However, this creates an important
+    tension: the simultaneous rollout of AI labeling systems ([0, 2, 6, 8, 11]) may INHIBIT rather than enable AI-vocal songs
+    from reaching top 10 organically, as labeled AI tracks may face algorithmic/listener resistance. The trajectory is ambiguous—infrastructure
+    is being built, but industry guardrails are simultaneously being erected.'
+- date: '2026-07-19'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The prediction requires an AI-generated
+    vocal song to reach Spotify''s global top 10 most-streamed in a single week. No article confirms this has occurred. Articles
+    [0], [1], [2], [3] address platform policies, labeling requirements, and transparency measures—relevant context but not
+    direct evidence of resolution. Articles [6], [8], [9], [10], [11], [12] track chart performance of human artists (Shakira,
+    Ella Langley, Madonna) with no AI-vocal involvement. Critical gap: Josh Fawaz''s "Like a Prayer" (articles [4], [5], [7])
+    shows partial trajectory signal but requires verification.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.abc.net.au/news/2026-07-17/josh-fawaz-like-a-prayer-now-has-ai-credits-on-spotify/106924470
+  - https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio
+  - https://www.pedestrian.tv/music/josh-fawa-like-a-prayer-ai/
+  trajectory_signal: 'Josh Fawaz''s "Like a Prayer" signals meaningful momentum TOWARD_YES:'
+- date: '2026-07-26'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global weekly top
+    10. Article [6] shows the actual Spotify global weekly chart for 7/18/2026 (week closest to current date) with no AI vocal
+    songs in the top 10. All songs listed appear to be by established human artists or established acts. The resolution criteria
+    require a concrete charting achievement that has not yet occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://oacn.org/article/unveiling-the-mystery-is-sienna-rose-an-ai-singer
+  - https://musictech.com/news/industry/ai-music-earnings/
+  - https://www.thedaringcreatives.com/creator-stories/how-xania-monets-music-actually-gets-made/
+  - https://www.storyboard18.com/trending/the-story-behind-chai-ki-tapri-the-viral-anthem-powered-by-artificial-intelligence-105045.htm
+  - https://www.indiatimes.com/trending/the-man-behind-the-chai-ki-tapri-song-how-ex-spotify-employee-sourabh-pateriya-built-the-ai-powering-the-viral-hit/articleshow/132552280.html
+  trajectory_signal: 'Multiple signals indicate momentum toward resolution:'
+- date: '2026-08-02'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
+  - https://www.pastemagazine.com/article/10-biggest-ai-music-artists-have-made-millions
+  - https://edm.com/news/ai-artists-earning-millions-streaming-spotify-youtube/
+  - https://theghostproduction.com/josh-fawaz-ai-music-apple-playlists/
+- date: '2026-08-09'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global top
+    10 in a single week. The prediction requires a specific Spotify metric (weekly global top 10) that none of the articles
+    confirm. Article [0] discusses "I Run" threatening to reach Billboard Hot 100 (different chart, different platform). Article
+    [8] and [10] discuss "Rubberz" charting on Billboard Hot 100 (again, not Spotify global top 10). No article explicitly
+    states an AI-vocal track achieved the required Spotify milestone.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://jaimebrooks.substack.com/p/on-americas-first-ai-generated-chart
+  - https://news.remix.es/2026/08/08/what-ai-artists-are-actually-earning-and-why-thats-becoming-a-problem/
+  - https://ngontinh24.com/article/is-sienna-rose-real-uncovering-the-truth-behind-the-ai-singer-sensation
+  - https://www.thedayafterai.com/weekly/weekly-music-2026-08-03
+  - https://www.digitalmusicnews.com/2026/08/04/rapper-fenix-flexin-song-ai-generated-controversy/
+  trajectory_signal: 'Multiple momentum signals suggest trajectory toward YES:'
+- date: '2026-08-16'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution criteria. Articles [0-7, 11] discuss Spotify''s
+    "AI Persona" labeling policy (rolling out mid-September 2026) that explicitly excludes AI-generated music from editorial
+    and algorithmic recommendations. This directly contradicts the resolution path—Spotify is actively implementing barriers
+    to AI vocal songs reaching top 10, not enabling it. Articles [5, 7] are about human K-pop artists, not AI-generated vocals.
+    Article [4] discusses licensed AI cover/remix tools, not standalone AI vocal songs reaching charts.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://k99.com/ixp/204/p/ai-country-artists-making-money/
+  - https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music
+  - https://thenyjournals.com/i-feel-like-im-at-war-are-we-losing-the-battle-against-machine-made-music/
+  trajectory_signal: 'Articles [8, 9, 10] show directional signals worth monitoring:'
+- date: '2026-08-23'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://www.thewrap.com/creative-content/music/bette-midler-flames-chart-topping-ai-song-celebrate-me-ingarose/
+  relevance: 'MODERATE: Article [1] provides DIRECT evidence: "Celebrate Me" from AI-generated artist IngaRose is described
+    as "currently on the charts" and is a "chart-topping AI song." This explicitly addresses whether an AI-vocal song has
+    reached chart prominence. However, CRITICAL GAP: The article does not confirm this is specifically the Spotify weekly
+    global top 10. It references "the charts" generically and Bette Midler''s criticism, but doesn''t provide the specific
+    chart ranking, platform (Spotify), or timeframe (weekly global). Article [2] corroborates the same song "Celebrate Me"
+    exists and is chart-performing but has identical gaps. Without confirmation of Spotify weekly global top 10 specificity,
+    resolution cannot be confirmed despite strong suggestive evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://swmas.org/article/unveiling-the-mystery-is-sienna-rose-an-ai-singer
+  - https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/
+  - https://www.billboard.com/pro/apple-music-to-label-ai-generated-music/
+  - https://interspacemusic.com/blog/ifpi-ai-chart-rules-leave-songwriting-and-composition-out-of-scope/
+  - https://www.nme.com/news/music/ai-detected-in-40-per-cent-of-music-released-in-july-2026-study-reveals-3963677
+  trajectory_signal: 'Multiple articles signal significant momentum toward YES:'
+- date: '2026-08-30'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://nikitakofman.com/article/sienna-rose-is-this-singer-real-ai-music-exposed
+  - https://www.audiartist.com/suno-celebrate-me-23-million-streams-ai-music-debate/
+  relevance: 'MODERATE: Two articles show AI-vocal songs accumulating millions of streams (23M, 20M) and reaching high visibility
+    (Viral Top 50, regional No. 2), but neither provides direct evidence of Spotify global top 10 weekly placement. The resolution
+    criteria require a *weekly* global ranking, which no article confirms. Trajectory articles show AI songs are charting
+    regionally and reaching substantial scale, indicating momentum toward the resolution threshold but not yet meeting it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://za.headtopics.com/news/ai-artist-xania-monet-lands-on-billboard-charts-reviving-87043172
+  - https://ainave.com/tech-news/ai-generated-music-licensing-what-builders-need-to-know-about-the-suno-case
+  - https://timesofindia.indiatimes.com/technology/tech-news/australia-to-ban-fully-ai-generated-songs-from-its-official-music-charts-after-an-ai-track-reached-no-2-and-stayed-in-the-top-20-for-16-weeks-straight/articleshow/133542291.cms
+  trajectory_signal: Articles [2], [3], [11] show AI songs are now charting on Billboard, licensing deals are materializing,
+    and regional top 10 performance (Australia No. 2) has been achieved. This signals rising trajectory and legitimacy in
+    mainstream charts. However, the gap between regional charting and Spotify's specific global weekly top 10 remains unconfirmed.
+    The direction is clearly TOWARD_YES, but no article closes the gap to resolution.
+- date: '2026-09-06'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global top
+    10 most-streamed in a single week. The current #1 song (as of Sept 4, 2026) is "BbY WOW" by Karol G, Judeline, and rusowsky—a
+    human-performed collaboration with no AI vocal generation mentioned. Articles [5], [6], [7] confirm traditional human
+    artists dominating current charts. The resolution criteria require a specific chart achievement that has not occurred
+    as of the search date (Sept 6, 2026).'
+  trajectory_sources:
+  - https://www.newyorker.com/magazine/2026/09/07/whos-afraid-of-ai-music
+  - https://soaplandtv.ghost.io/ai-music-is-moving-from-lawsuits-to-licensing-as-major-labels-strike-new-deals/
+  - https://www.xix.ai/ainews/spotify-and-universal-music-partner-to-deliver-ai-vocal-cover-remix-experience.html
+  - https://winbuzzer.com/2026/09/01/edm-producers-call-out-suspected-ai-songs-without-a-shared-detector-xcxwbn/
+  - https://thedogoodpress.com/news/6339/aria-charts-ai-ban-takes-effect-after-madonna-cover-hit-48-million-streams/
