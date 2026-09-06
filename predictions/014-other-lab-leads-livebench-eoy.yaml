@@ -502,3 +502,15 @@ evidence:
     wins across multiple evaluation frameworks. However, these are NOT LiveBench-specific signals, and timing remains 116
     days until resolution date. The trajectory suggests competitive pressure from non-big-three labs is intensifying, but
     lacks concrete LiveBench evidence.
+- date: '2026-09-06'
+  summary: Verified official LiveBench default snapshot; year-end outcome remains open.
+  kind: manual_review
+  source: https://livebench.ai/
+  reviewer: review_predictions_01_20
+  verification_status: verified
+  sources:
+  - https://livebench.ai/
+  - https://livebench.ai/table_2026_06_25.csv
+  - https://livebench.ai/categories_2026_06_25.json
+  - https://livebench.ai/static/js/main.fd24a6cf.js
+  relevance: "Meta's Muse Spark 1.3 xHigh Effort is fourth at 81.6 in the September 6 default snapshot. A non-big-three model now appears in the top five, but Anthropic still holds first. Default UI excludes finetunes; all-row CSV includes Smaug-Agentic and shifts lower ranks. Owner data checked by review_predictions_01_20; default browser UI independently checked by parent reviewer. This question requires December 31, 2026, so September ranks do not resolve it."

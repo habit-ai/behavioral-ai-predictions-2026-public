@@ -530,3 +530,13 @@ evidence:
   - https://aiinsiders.net/article/a-fields-medallist-maps-where-llms-excel-at-math-and-where
   - https://www.gate.com/news/detail/deepseek-v4-achieves-perfect-score-on-putnam-2025-ties-with-axiom-in-formal-20552524
   trajectory_signal: 'Three articles signal directional progress but fall short of resolution criteria:'
+- date: '2026-09-06'
+  event_date: '2026-09-03'
+  summary: "OpenAI reports GPT-6 Astra at 97.6% on FrontierMath Tier 4 v2. This provider-reported update preserves the existing July 29 YES outcome and resolution date."
+  source: https://openai.com/index/gpt-6-astra/
+  kind: manual_review
+  sources:
+  - https://openai.com/index/gpt-6-astra/
+  reviewer: codex-september-evidence-refresh
+  verification_status: verified
+  review_record: reviews/2026-midyear/032.yaml

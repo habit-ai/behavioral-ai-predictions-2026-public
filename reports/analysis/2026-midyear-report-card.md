@@ -8,19 +8,19 @@
 
 Back in January we locked 40 predictions and asked 21 forecasters — 10 humans, 6 frontier AI models, and 5 of those same models wearing persona masks — to put a number on each one. The first report compared how they disagreed. Nobody could be scored, because nothing had happened yet.
 
-Something has now happened. 7 of the 40 predictions have resolved, 1 has been thrown out, and 32 are still live. That is enough to put names on a leaderboard — and not nearly enough to settle the argument. Both of those things are true at once, and this report tries to hold them together.
+Something has now happened. 8 of the 40 predictions have resolved, 1 has been thrown out, and 31 are still live. That is enough to put names on a leaderboard — and not nearly enough to settle the argument. Both of those things are true at once, and this report tries to hold them together.
 
 ### What We Found
 
-**Humans are ahead.** Mean Brier score of 0.236, against 0.275 for AI models. Lower is better, and the gap is 0.039 — real, but built on 7 questions. Ask again in December.
+**Humans are ahead.** Mean Brier score of 0.252, against 0.284 for AI models. Lower is better, and the gap is 0.032 — real, but built on 8 questions. Ask again in December.
 
-**Every resolved prediction resolved YES — and that is the whole story so far.** 7 for 7. When everything that resolves resolves in the affirmative, the scoreboard stops measuring judgement and starts measuring nerve: whoever guessed highest wins, automatically. The correlation between a forecaster's average optimism across all 40 predictions and their score here is -0.64. That is not a finding about who reasons well. It is a finding about which way the year broke.
+**Every resolved prediction resolved YES — and that is the whole story so far.** 8 for 8. When everything that resolves resolves in the affirmative, the scoreboard stops measuring judgement and starts measuring nerve: whoever guessed highest wins, automatically. The correlation between a forecaster's average optimism across all 40 predictions and their score here is -0.64. That is not a finding about who reasons well. It is a finding about which way the year broke.
 
-**The gap the first report found is the gap that is paying out.** Across all 40 predictions the humans averaged 45% and the models 37%. The humans thought more things would happen. So far more things have happened. Whether that is foresight or a coin landing the same way 7 times is exactly the question December answers.
+**The gap the first report found is the gap that is paying out.** Across all 40 predictions the humans averaged 45% and the models 37%. The humans thought more things would happen. So far more things have happened. Whether that is foresight or a coin landing the same way 8 times is exactly the question December answers.
 
 **The masks changed the answers, and mostly not for the better.** Of the 5 personas we can compare against the model actually running them, 2 scored better with the mask on than the same model did playing it straight. A worldview moves your numbers. It does not reliably move them toward what happens.
 
-**MAGA Council and human-5 are in a dead heat** at the top, separated by 0.0007 of a Brier point — both on 0.114, which is a tie in every sense that matters. Superforecaster props up the table at 0.434. Enjoy it or don't — on 7 resolved questions, the distance between first and last is one bad December away from meaningless.
+**human-5 leads.** Brier 0.120, with MAGA Council a step behind at 0.161 and human-8 propping up the table at 0.445. Enjoy it or don't — on 8 resolved questions, the distance between first and last is one bad December away from meaningless.
 
 ---
 
@@ -34,29 +34,29 @@ Brier score is the standard measure: take the gap between your probability and w
 
 | Rank | Forecaster | Type | Mean Brier | Beat the coin flip? |
 |------|------------|------|-----------|---------------------|
-| 1 | MAGA Council | persona | 0.114 | Yes |
-| 2 | human-5 | human | 0.114 | Yes |
-| 3 | human-1 | human | 0.129 | Yes |
-| 4 | Grok 4.1 | model | 0.154 | Yes |
-| 5 | Gemini 3 Pro | model | 0.165 | Yes |
-| 6 | human-9 | human | 0.177 | Yes |
-| 7 | human-2 | human | 0.198 | Yes |
-| 8 | human-6 | human | 0.216 | Yes |
-| 9 | GPT-5.2 | model | 0.254 | No |
-| 10 | Techno-Optimist | persona | 0.255 | No |
-| 11 | Doomer | persona | 0.262 | No |
-| 12 | human-7 | human | 0.265 | No |
-| 13 | AI Bro Council | persona | 0.270 | No |
-| 14 | human-10 | human | 0.277 | No |
-| 15 | human-4 | human | 0.280 | No |
-| 16 | Mistral Large 3 | model | 0.321 | No |
-| 17 | human-3 | human | 0.323 | No |
-| 18 | Claude Opus 4.5 | model | 0.375 | No |
-| 19 | Kimi K2.5 | model | 0.379 | No |
-| 20 | human-8 | human | 0.380 | No |
-| 21 | Superforecaster | persona | 0.434 | No |
+| 1 | human-5 | human | 0.120 | Yes |
+| 2 | MAGA Council | persona | 0.161 | Yes |
+| 3 | Grok 4.1 | model | 0.173 | Yes |
+| 4 | human-9 | human | 0.175 | Yes |
+| 5 | human-2 | human | 0.184 | Yes |
+| 6 | Gemini 3 Pro | model | 0.202 | Yes |
+| 7 | Doomer | persona | 0.230 | Yes |
+| 8 | human-1 | human | 0.230 | Yes |
+| 9 | human-6 | human | 0.234 | Yes |
+| 10 | GPT-5.2 | model | 0.247 | Yes |
+| 11 | human-7 | human | 0.247 | Yes |
+| 12 | Techno-Optimist | persona | 0.249 | Yes |
+| 13 | AI Bro Council | persona | 0.251 | No |
+| 14 | human-10 | human | 0.253 | No |
+| 15 | human-3 | human | 0.285 | No |
+| 16 | Mistral Large 3 | model | 0.342 | No |
+| 17 | human-4 | human | 0.347 | No |
+| 18 | Claude Opus 4.5 | model | 0.353 | No |
+| 19 | Kimi K2.5 | model | 0.384 | No |
+| 20 | Superforecaster | persona | 0.397 | No |
+| 21 | human-8 | human | 0.445 | No |
 
-8 of 21 forecasters are beating the no-opinion baseline, which means 13 would have done better by refusing to answer.
+12 of 21 forecasters are beating the no-opinion baseline, which means 9 would have done better by refusing to answer.
 
 ### By Tribe
 
@@ -64,9 +64,9 @@ Brier score is the standard measure: take the gap between your probability and w
 
 | Group | Members | Mean Brier | Mean forecast (all 40) |
 |-------|---------|-----------|------------------------|
-| Humans | 10 | 0.236 | 45% |
-| AI Models | 6 | 0.275 | 37% |
-| AI Personas | 5 | 0.267 | 46% |
+| Humans | 10 | 0.252 | 45% |
+| AI Models | 6 | 0.284 | 37% |
+| AI Personas | 5 | 0.258 | 46% |
 
 ---
 
@@ -80,6 +80,7 @@ Here is every question that has actually landed, with where each tribe's median 
 
 | Prediction | Outcome | Humans | AI Models | AI Personas | Widest miss |
 |------------|---------|--------|-----------|-------------|-------------|
+| #002: AI Unicorn Failure/Acquisition | YES | 60% | 40% | 62% | AI Models |
 | #010: Therapy/Companionship Remains #1 | YES | 72% | 55% | 70% | AI Models |
 | #021: AI Military System Investigation | YES | 50% | 51% | 42% | AI Personas |
 | #023: Major Outlet AI Misinfo Retraction | YES | 62% | 60% | 35% | AI Personas |
@@ -96,32 +97,32 @@ One question, **#028: AI Companions & Loneliness Meta-Review**, was voided rathe
 
 ## Layer 3: Where It Is Heading
 
-The scoreboard above uses 7 questions. There are 32 more, and the review has published a probability for every one of them. That is enough to project the finish: score each resolved question the ordinary way, and score each open one by what it is expected to cost — the distance from the reviewed estimate, plus the uncertainty that remains no matter what anybody said.
+The scoreboard above uses 8 questions. There are 31 more, and the review has published a probability for every one of them. That is enough to project the finish: score each resolved question the ordinary way, and score each open one by what it is expected to cost — the distance from the reviewed estimate, plus the uncertainty that remains no matter what anybody said.
 
 ![Projected Standing](charts/17_midyear_projected_vs_resolved.png)
 
 **How to read this:** the dashed line is "no change". Anyone below it is projected to finish better than their current position suggests; anyone above it is living on the resolved questions and is expected to give it back.
 
-**The board turns over almost completely.** Gemini 3 Pro is projected first at 0.199, having sat 5th on resolved questions alone. The current leaders do not hold.
+**The board turns over almost completely.** Gemini 3 Pro is projected first at 0.202, having sat 6th on resolved questions alone. The current leaders do not hold.
 
 | Forecaster | Now | Projected | Move |
 |-----------|-----|----------|------|
-| Claude Opus 4.5 | 18 | 7 | up 11 |
-| Superforecaster | 21 | 10 | up 11 |
-| Kimi K2.5 | 19 | 9 | up 10 |
-| human-1 | 3 | 17 | down 14 |
-| human-5 | 2 | 15 | down 13 |
-| human-9 | 6 | 18 | down 12 |
+| Claude Opus 4.5 | 18 | 6 | up 12 |
+| Superforecaster | 20 | 11 | up 9 |
+| GPT-5.2 | 10 | 2 | up 8 |
+| human-9 | 4 | 18 | down 14 |
+| Doomer | 7 | 21 | down 14 |
+| human-5 | 1 | 14 | down 13 |
 
-The reason is the one this report keeps returning to. Every resolved question so far landed YES, which flatters whoever guessed high. The reviewed outlook expects most of the 32 open questions to land NO — so the same optimism that built the current leaderboard is what the projection charges for.
+The reason is the one this report keeps returning to. Every resolved question so far landed YES, which flatters whoever guessed high. The reviewed outlook expects most of the 31 open questions to land NO — so the same optimism that built the current leaderboard is what the projection charges for.
 
-Two honest caveats. This is a projection against an analyst estimate, not a result: if the outlook is wrong, the projection is wrong in exactly the same direction. And 0.125 of every projected score is irreducible — the uncertainty still sitting on the open questions, which no forecaster can score below. That is 63% of the projected leader's total, so most of this table is not yet skill.
+Two honest caveats. This is a projection against an analyst estimate, not a result: if the outlook is wrong, the projection is wrong in exactly the same direction. And 0.122 of every projected score is irreducible — the uncertainty still sitting on the open questions, which no forecaster can score below. That is 60% of the projected leader's total, so most of this table is not yet skill.
 
 ---
 
 ## Layer 4: The Five Strongest Signals
 
-Of the 32 questions still open, these five carry the most decisive reviewed outlook — the ones furthest from a coin flip, where the year has effectively already decided even though the calendar has not caught up.
+Of the 31 questions still open, these five carry the most decisive reviewed outlook — the ones furthest from a coin flip, where the year has effectively already decided even though the calendar has not caught up.
 
 ### 1. #006 — heading NO at 1%
 
@@ -199,11 +200,11 @@ Each persona was run on a specific model. That gives us a controlled comparison 
 
 | Persona | Base model | Persona Brier | Base Brier | Mask effect |
 |---------|-----------|--------------|-----------|-------------|
-| MAGA Council | Grok 4.1 | 0.114 | 0.154 | helped (-0.041) |
-| Techno-Optimist | Kimi K2.5 | 0.255 | 0.379 | helped (-0.124) |
-| Doomer | Gemini 3 Pro | 0.262 | 0.165 | hurt (+0.097) |
-| Superforecaster | Claude Opus 4.5 | 0.434 | 0.375 | hurt (+0.059) |
-| AI Bro Council | GPT-5.2 | 0.270 | 0.254 | hurt (+0.016) |
+| MAGA Council | Grok 4.1 | 0.161 | 0.173 | helped (-0.012) |
+| Techno-Optimist | Kimi K2.5 | 0.249 | 0.384 | helped (-0.136) |
+| Doomer | Gemini 3 Pro | 0.230 | 0.202 | hurt (+0.027) |
+| Superforecaster | Claude Opus 4.5 | 0.397 | 0.353 | hurt (+0.044) |
+| AI Bro Council | GPT-5.2 | 0.251 | 0.247 | hurt (+0.004) |
 
 MAGA Council and Techno-Optimist came out ahead of the model underneath. Whether a worldview is an edge or a handicap depends entirely on whether the world is currently agreeing with it — which, this half-year, it partly was.
 
@@ -216,7 +217,7 @@ All 40 predictions, with what the field said in January and where each one stand
 | # | Prediction | Category | Jan avg | Now | Status |
 |---|-----------|----------|--------:|----:|--------|
 | 001 | Major AI Lab IPO | AI Industry | 52% | 62% | open |
-| 002 | AI Unicorn Failure/Acquisition | AI Industry | 49% | 65% | open |
+| 002 | AI Unicorn Failure/Acquisition | AI Industry | 49% | 100% | **YES** |
 | 003 | AI Lab Claims AGI | AI Industry | 29% | 10% | open |
 | 004 | ChatGPT 1B WAU | AI Industry | 73% | 86% | open |
 | 005 | AI 5%+ GDP Growth Country | AI Industry | 20% | 45% | open |
@@ -266,7 +267,7 @@ Average gap between the reviewed outlook and the January crowd, by category. Neg
 | AI Safety | 6 | -24pp |
 | AI Capabilities | 8 | -11pp |
 | Benchmarks | 7 | -8pp |
-| AI Industry | 9 | -2pp |
+| AI Industry | 8 | -5pp |
 
 **Research** is where the field was most over-optimistic, by 32 percentage points on average. That is also where most of the projected leaderboard movement comes from.
 
@@ -276,13 +277,13 @@ Average gap between the reviewed outlook and the January crowd, by category. Neg
 
 A few things worth saying plainly, because a leaderboard invites more confidence than this one has earned.
 
-**The sample is 7 questions.** Not 40. One badly missed call on question 8 would take MAGA Council from 0.114 to 0.224 — first place to roughly 9th, on a single question. Rankings this tight are noise until the denominator grows.
+**The sample is 8 questions.** Not 40. One badly missed call on question 9 would take human-5 from 0.120 to 0.218 — first place to roughly 7th, on a single question. Rankings this tight are noise until the denominator grows.
 
 **There are no NO resolutions.** Calibration — the thing Brier is actually for — needs outcomes in both directions. Until a prediction resolves NO, this table cannot distinguish a well-calibrated forecaster from an optimistic one, and it should not be read as if it can.
 
 **5 predictions sit in a category the board doesn't show.** #005, #009, #017, #020, #025 were adjudicated *ambiguous* rather than too-early — the reviewers found the locked wording could not cleanly decide the case, and in one instance withdrew a YES that had already been recorded. On the site they look identical to the questions simply waiting for December. They are not the same thing, and the difference is a judgement about the question rather than about the world.
 
-**Resolution timing is not neutral.** Questions that resolve early are questions whose answers arrived early, which skews toward things happening rather than failing to happen. The 32 open predictions include most of the year-end deadlines — the ones that can only resolve NO by running out of time.
+**Resolution timing is not neutral.** Questions that resolve early are questions whose answers arrived early, which skews toward things happening rather than failing to happen. The 31 open predictions include most of the year-end deadlines — the ones that can only resolve NO by running out of time.
 
 ---
 
@@ -290,7 +291,7 @@ A few things worth saying plainly, because a leaderboard invites more confidence
 
 - **Data**: 40 binary predictions, 21 forecasters (10 human, 6 AI model, 5 AI persona)
 - **Forecasts**: Collected January-February 2026 using identical briefing documents, locked before resolution
-- **Scored on**: 7 resolved predictions (7 YES, 0 NO); 1 voided and 32 open predictions are excluded from all scores
+- **Scored on**: 8 resolved predictions (8 YES, 0 NO); 1 voided and 31 open predictions are excluded from all scores
 - **Scoring rule**: Brier score, mean of (forecast - outcome)² across resolved predictions; 0.25 is the all-50% baseline
 - **Group medians**: median of member forecasts, not mean, to limit the pull of single extreme calls
 - **Projection**: expected Brier — (forecast − p)² + p(1 − p) per prediction, where p is the outcome for resolved questions and the reviewed year-end outlook for open ones

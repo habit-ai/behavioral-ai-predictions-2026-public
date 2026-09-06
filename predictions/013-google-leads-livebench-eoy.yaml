@@ -560,3 +560,15 @@ evidence:
     pushing momentum through rapid releases and specialized models, but whether this translates to LiveBench leadership by
     Dec 31, 2026 remains unknown. The shift toward harder, private held-out tests (article [6]) could change ranking dynamics
     unpredictably.'
+- date: '2026-09-06'
+  summary: Verified official LiveBench default snapshot; year-end outcome remains open.
+  kind: manual_review
+  source: https://livebench.ai/
+  reviewer: review_predictions_01_20
+  verification_status: verified
+  sources:
+  - https://livebench.ai/
+  - https://livebench.ai/table_2026_06_25.csv
+  - https://livebench.ai/categories_2026_06_25.json
+  - https://livebench.ai/static/js/main.fd24a6cf.js
+  relevance: "Google's highest model in the September 6 default LiveBench snapshot is Gemini 3.7 Flash High, ninth at 78.8; Anthropic leads. Default UI excludes finetunes; all-row CSV includes Smaug-Agentic and shifts lower ranks. Owner data checked by review_predictions_01_20; default browser UI independently checked by parent reviewer. This question requires December 31, 2026, so September ranks do not resolve it."

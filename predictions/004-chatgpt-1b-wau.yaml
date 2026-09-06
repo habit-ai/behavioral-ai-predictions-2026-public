@@ -607,3 +607,13 @@ evidence:
   - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
   - https://www.reuters.com/business/media-telecom/openais-ad-business-hits-1-billion-annualized-revenue-run-rate-2026-08-31/
   trajectory_signal: 'Articles [3], [4], [5], [7], [8], [9], [10] show strong TRAJECTORY momentum supporting this outcome:'
+- date: '2026-09-06'
+  event_date: '2026-08-31'
+  summary: "OpenAI confirmed more than one billion weekly active ChatGPT users on August 31. The December 31 exact-date question remains open."
+  source: https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
+  kind: manual_review
+  sources:
+  - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
+  reviewer: codex-september-evidence-refresh
+  verification_status: verified
+  review_record: reviews/2026-midyear/004.yaml

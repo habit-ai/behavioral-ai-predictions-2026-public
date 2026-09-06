@@ -573,3 +573,15 @@ evidence:
     strong claims about Astra. This suggests competitive pressure favoring Anthropic in the current environment, though momentum
     could shift before Dec 31, 2026 (116 days away). The trajectory is directionally negative for the YES resolution but does
     not constitute direct LiveBench evidence.
+- date: '2026-09-06'
+  summary: Verified official LiveBench default snapshot; year-end outcome remains open.
+  kind: manual_review
+  source: https://livebench.ai/
+  reviewer: review_predictions_01_20
+  verification_status: verified
+  sources:
+  - https://livebench.ai/
+  - https://livebench.ai/table_2026_06_25.csv
+  - https://livebench.ai/categories_2026_06_25.json
+  - https://livebench.ai/static/js/main.fd24a6cf.js
+  relevance: "OpenAI no longer leads the September 6 default LiveBench snapshot. GPT-6 Astra Max is third at 82.2 and GPT-5.6 Sol Max is fifth at 81.0; Anthropic holds the first two places. Default UI excludes finetunes; all-row CSV includes Smaug-Agentic and shifts lower ranks. Owner data checked by review_predictions_01_20; default browser UI independently checked by parent reviewer. This question requires December 31, 2026, so September ranks do not resolve it."

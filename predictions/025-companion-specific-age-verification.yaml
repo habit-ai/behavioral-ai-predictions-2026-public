@@ -617,3 +617,13 @@ evidence:
     articles don''t yet confirm that companion features are being gated *separately* from general teen protections, which
     is the resolution criteria distinction. This represents directional progress toward more granular, companion-specific
     safeguards but hasn''t yet crossed the threshold into YES territory.'
+- date: '2026-09-06'
+  event_date: '2026-08-25'
+  summary: "OpenAI began EU rollout of account-level age prediction on August 25. Romantic-roleplay safeguards do not establish a companion-specific verification mechanism; ambiguity remains."
+  source: https://openai.com/index/our-approach-to-age-prediction/
+  kind: manual_review
+  sources:
+  - https://openai.com/index/our-approach-to-age-prediction/
+  reviewer: codex-september-evidence-refresh
+  verification_status: verified
+  review_record: reviews/2026-midyear/025.yaml

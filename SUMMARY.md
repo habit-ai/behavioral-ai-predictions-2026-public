@@ -1,14 +1,14 @@
 # Behavioral AI Predictions 2026 - Dashboard
 
-*Last updated: 2026-09-06 13:40 CET*
+*Last updated: 2026-09-06 22:09 CEST*
 
 ## Overview
 
 | Metric | Value |
 |--------|-------|
 | Total Predictions | 40 |
-| Resolved | 7 |
-| Unresolved | 32 |
+| Resolved | 8 |
+| Unresolved | 31 |
 | Voided / Unscored | 1 |
 | Human Forecasters | 10 |
 | AI Models | 6 |
@@ -22,42 +22,42 @@
 
 | Rank | Forecaster | Type | Brier Score |
 |------|------------|------|-------------|
-| 1 | maga-council | persona | 0.1136 |
-| 2 | human-5 | human | 0.1143 |
-| 3 | human-1 | human | 0.1287 |
-| 4 | grok-4-1 | model | 0.1541 |
-| 5 | gemini-3-pro | model | 0.1652 |
-| 6 | human-9 | human | 0.1771 |
-| 7 | human-2 | human | 0.1975 |
-| 8 | human-6 | human | 0.2161 |
-| 9 | gpt-5-2 | model | 0.2539 |
-| 10 | techno-optimist | persona | 0.2554 |
-| 11 | doomer | persona | 0.2617 |
-| 12 | human-7 | human | 0.2654 |
-| 13 | ai-bro-council | persona | 0.2696 |
-| 14 | human-10 | human | 0.2768 |
-| 15 | human-4 | human | 0.2804 |
-| 16 | mistral-large-3 | model | 0.3207 |
-| 17 | human-3 | human | 0.3229 |
-| 18 | claude-opus-4-5 | model | 0.3750 |
-| 19 | kimi-k2-5 | model | 0.3789 |
-| 20 | human-8 | human | 0.3800 |
-| 21 | superforecaster | persona | 0.4336 |
+| 1 | human-5 | human | 0.1200 |
+| 2 | maga-council | persona | 0.1606 |
+| 3 | grok-4-1 | model | 0.1727 |
+| 4 | human-9 | human | 0.1750 |
+| 5 | human-2 | human | 0.1841 |
+| 6 | gemini-3-pro | model | 0.2023 |
+| 7 | doomer | persona | 0.2298 |
+| 8 | human-1 | human | 0.2302 |
+| 9 | human-6 | human | 0.2341 |
+| 10 | human-7 | human | 0.2475 |
+| 11 | gpt-5-2 | model | 0.2475 |
+| 12 | techno-optimist | persona | 0.2488 |
+| 13 | ai-bro-council | persona | 0.2512 |
+| 14 | human-10 | human | 0.2534 |
+| 15 | human-3 | human | 0.2853 |
+| 16 | mistral-large-3 | model | 0.3419 |
+| 17 | human-4 | human | 0.3466 |
+| 18 | claude-opus-4-5 | model | 0.3534 |
+| 19 | kimi-k2-5 | model | 0.3844 |
+| 20 | superforecaster | persona | 0.3974 |
+| 21 | human-8 | human | 0.4453 |
 
 ### Group Comparison
 
 | Group | Count | Average Brier | Best | Worst |
 |-------|-------|---------------|------|-------|
-| Humans | 10 | 0.2359 | human-5 (0.1143) | human-8 (0.3800) |
-| Models | 6 | 0.2746 | grok-4-1 (0.1541) | kimi-k2-5 (0.3789) |
-| Personas | 5 | 0.2668 | maga-council (0.1136) | superforecaster (0.4336) |
+| Humans | 10 | 0.2521 | human-5 (0.1200) | human-8 (0.4453) |
+| Models | 6 | 0.2837 | grok-4-1 (0.1727) | kimi-k2-5 (0.3844) |
+| Personas | 5 | 0.2576 | maga-council (0.1606) | superforecaster (0.3974) |
 
 ## Prediction Status
 
 | ID | Question | Outcome | Resolution Date |
 |----|----------|---------|-----------------|
 | 001 | At least one major AI lab (OpenAI, Anthropic, xAI,... | Pending | - |
-| 002 | At least one AI company valued >$1B will file for ... | Pending | - |
+| 002 | At least one AI company valued >$1B will file for ... | YES | 2026-09-04 |
 | 003 | At least one major AI lab will publicly claim to h... | Pending | - |
 | 004 | ChatGPT will have 1 billion weekly active users as... | Pending | - |
 | 005 | A country will report ≥5% annual GDP growth with A... | Pending | - |

@@ -10,8 +10,8 @@ search_keywords:
 - AI unicorn acquisition discount
 - AI company failure layoff 2026
 - AI startup collapse valuation
-resolution_date: null
-outcome: null
+resolution_date: '2026-09-04'
+outcome: true
 created: '2026-01-15'
 forecasts:
   gpt-5-2: 55
@@ -546,3 +546,15 @@ evidence:
     acquired — criteria not yet met. Rain AI's near-total shutdown (averted only by patent acquisition) similarly shows TOWARD_YES
     momentum, but again falls short of meeting explicit resolution criteria. These are warning signals of potential future
     bankruptcies/acquisitions, not current resolution events.
+- date: '2026-09-06'
+  summary: 'Independent review resolved YES on September 4: Bending Spoons completed its acquisition of Airtable at a disclosed approximate $2.25B equity value versus at least $11B historically. Hyperagent was carved out before sale; this is a company-valuation comparison, not audited shareholder loss.'
+  source: https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm
+  kind: manual_review
+  sources:
+  - https://www.sec.gov/Archives/edgar/data/2004711/000200471126000013/bsp-20260904x6k.htm
+  - https://www.sec.gov/Archives/edgar/data/2004711/000200471126000009/bsp-20260804x6k.htm
+  - https://www.airtable.com/newsroom/series-f
+  relevance: 'STRONG: Completed company-level discounted acquisition passed independent verification against the locked criterion.'
+  direction: TOWARD_YES
+  verification_status: verified
+  reviewer: review_predictions_21_40

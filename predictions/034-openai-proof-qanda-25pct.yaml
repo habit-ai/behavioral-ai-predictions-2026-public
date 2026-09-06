@@ -580,3 +580,16 @@ evidence:
     (1) the benchmarks differ, and (2) independent replication efforts (articles [6-7]) show significant score collapse under
     rigorous conditions. Momentum is TOWARD_YES on adjacent capabilities, but trajectory on the specific criterion remains
     unknown.'
+- date: '2026-09-06'
+  event_date: '2026-09-03'
+  summary: "OpenAI replaced its self-improvement suite after finding OPQA problems not solvable under test conditions. Astra's 78.05% Internal Research Debugging score covers a different 41-bug evaluation and does not resolve OPQA."
+  source: https://deploymentsafety.openai.com/gpt-6-astra
+  kind: manual_review
+  sources:
+  - https://deploymentsafety.openai.com/gpt-6-astra
+  - https://deploymentsafety.openai.com/gpt-5-6
+  reviewer: codex-september-evidence-refresh
+  verification_status: verified
+  review_record: reviews/2026-midyear/034.yaml
+  supporting_sources:
+  - https://deploymentsafety.openai.com/gpt-5-6
