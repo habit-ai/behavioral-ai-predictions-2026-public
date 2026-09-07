@@ -97,84 +97,84 @@ One question, **#028: AI Companions & Loneliness Meta-Review**, was voided rathe
 
 ## Layer 3: Where It Is Heading
 
-The scoreboard above uses 8 questions. There are 31 more, and the review has published a probability for every one of them. That is enough to project the finish: score each resolved question the ordinary way, and score each open one by what it is expected to cost — the distance from the reviewed estimate, plus the uncertainty that remains no matter what anybody said.
+The scoreboard above uses 8 resolved questions. The 2026-09-07 outlook assigns YES, NO and unscored probabilities to the 31 open questions. The projection averages the final Brier score over these possibilities, excluding unscored questions from both loss and the final denominator. It expects 34.56 scored questions in total.
 
 ![Projected Standing](charts/17_midyear_projected_vs_resolved.png)
 
 **How to read this:** the dashed line is "no change". Anyone below it is projected to finish better than their current position suggests; anyone above it is living on the resolved questions and is expected to give it back.
 
-**The board turns over almost completely.** Gemini 3 Pro is projected first at 0.202, having sat 6th on resolved questions alone. The current leaders do not hold.
+human-7 leads the projection at 0.206; their resolved-only rank is 11.
 
 | Forecaster | Now | Projected | Move |
 |-----------|-----|----------|------|
-| Claude Opus 4.5 | 18 | 6 | up 12 |
-| Superforecaster | 20 | 11 | up 9 |
-| GPT-5.2 | 10 | 2 | up 8 |
-| human-9 | 4 | 18 | down 14 |
+| human-7 | 11 | 1 | up 10 |
+| Claude Opus 4.5 | 18 | 11 | up 7 |
+| Kimi K2.5 | 19 | 12 | up 7 |
 | Doomer | 7 | 21 | down 14 |
-| human-5 | 1 | 14 | down 13 |
+| human-9 | 4 | 16 | down 12 |
+| human-6 | 9 | 19 | down 10 |
 
-The reason is the one this report keeps returning to. Every resolved question so far landed YES, which flatters whoever guessed high. The reviewed outlook expects most of the 31 open questions to land NO — so the same optimism that built the current leaderboard is what the projection charges for.
+All 8 currently resolved questions are YES. The open outlook includes both NO outcomes and unscored questions, so projected standings can differ substantially from that selected early subset.
 
-Two honest caveats. This is a projection against an analyst estimate, not a result: if the outlook is wrong, the projection is wrong in exactly the same direction. And 0.122 of every projected score is irreducible — the uncertainty still sitting on the open questions, which no forecaster can score below. That is 60% of the projected leader's total, so most of this table is not yet skill.
+These are analyst judgments, not results. The calculation treats the four mutually exclusive LiveBench winners as one joint group and assumes scoring states of other questions are independent. The minimum expected score under this model is 0.112; an actual final score can be lower. This is not a probability of winning. September changes reflect new evidence, reassessed unscored risk and the corrected scoring method.
 
 ---
 
 ## Layer 4: The Five Strongest Signals
 
-Of the 31 questions still open, these five carry the most decisive reviewed outlook — the ones furthest from a coin flip, where the year has effectively already decided even though the calendar has not caught up.
+Of the 31 questions still open, these five carry the most decisive reviewed outlook — those with the largest probability of a specific scored outcome. None has resolved yet.
 
-### 1. #006 — heading NO at 1%
-
-*A humanoid robot for home/consumer use will ship >500,000 units globally in 2026.*
-
-The January crowd said **20%**; the review puts it at **1%** (likely no, high confidence) — a gap of 19 percentage points, well below what the field expected.
-
-The strongest August estimate puts all-purpose humanoid shipments near 60,000 for 2026, only 12% of the home-consumer threshold, while qualifying consumer deliveries are only beginning.
-
-*Against it:* 1X is preparing NEO home deliveries, and complete full-year shipment data is not yet available.
-
-### 2. #016 — heading NO at 2%
+### 1. #016 — NO outlook 97%
 
 *An AI system will be credited with solving a Millennium Prize Problem in 2026.*
 
-The January crowd said **16%**; the review puts it at **2%** (likely no, high confidence) — a gap of 14 percentage points, well below what the field expected.
+The January crowd said **16%**; the review puts it at **1% YES**, 97% NO and 2% unscored (high confidence) — a gap of 15 percentage points, well below what the field expected.
 
-Clay still lists six problems as unsolved and its ordinary acceptance process takes at least two years.
+No newly accepted AI-credited Millennium solution was found on the current Clay status page; the remaining 2026 acceptance window is shorter.
 
-*Against it:* An older AI-assisted proof could receive acceptance in 2026, while frontier systems continue advancing in research mathematics.
+*Against it:* An already circulating proof could still receive qualifying acceptance.
 
-### 3. #037 — heading NO at 2%
+### 2. #006 — NO outlook 96%
+
+*A humanoid robot for home/consumer use will ship >500,000 units globally in 2026.*
+
+The January crowd said **20%**; the review puts it at **1% YES**, 96% NO and 3% unscored (high confidence) — a gap of 19 percentage points, well below what the field expected.
+
+Consumer home-robot delivery remains an initial rollout in the checked manufacturer material; no qualifying 500 K count was found.
+
+*Against it:* NEO is a real identified home product with 2026 delivery plans; search is not a shipment census.
+
+### 3. #004 — YES outlook 95%
+
+*ChatGPT will have 1 billion weekly active users as of December 31, 2026.*
+
+The January crowd said **73%**; the review puts it at **95% YES**, 2% NO and 3% unscored (high confidence) — a gap of 22 percentage points, well above what the field expected.
+
+Open AI explicitly disclosed more than one billion weekly active users on August 31; the cadence uncertainty is removed.
+
+*Against it:* The question requires December 31, so later decline or unavailable date-matched evidence remains possible.
+
+### 4. #037 — NO outlook 92%
 
 *AI be able to generate a feature length high-quality film based on one prompt (one-shot)*
 
-The January crowd said **18%**; the review puts it at **2%** (likely no, high confidence) — a gap of 16 percentage points, well below what the field expected.
+The January crowd said **18%**; the review puts it at **2% YES**, 92% NO and 6% unscored (high confidence) — a gap of 16 percentage points, well below what the field expected.
 
-A 90-minute AI feature exists, but it required a team, many prompts, editing, and post-production rather than one-shot generation.
+Retain 2%: checked 82-minute AI feature required human production; no qualifying single-prompt 90-minute demonstration verified.
 
-*Against it:* Odysseus and Dark Paradise demonstrate 135-minute and 82-minute AI-assisted features, but both used prolonged human workflows.
+*Against it:* Rapid video progress leaves a small future demonstration path.
 
-### 4. #039 — heading NO at 5%
+### 5. #024 — NO outlook 89%
 
-*A song with AI-generated vocals will reach Spotify global top 10 most-streamed in a single week in 2026.*
+*A major social media platform will implement mandatory AI watermarking for all AI-generated content uploaded.*
 
-The January crowd said **46%**; the review puts it at **5%** (rule risk, medium confidence) — a gap of 41 percentage points, well below what the field expected.
+The January crowd said **41%**; the review puts it at **8% YES**, 89% NO and 3% unscored (medium confidence) — a gap of 33 percentage points, well below what the field expected.
 
-AI-vocal tracks have entered global and viral charts, but none has approached Spotify's weekly global top ten.
+Retain 8%: current YouTube rules have disclosure exceptions and do not impose watermarking on all AI uploads.
 
-*Against it:* New licensing for AI-driven vocal covers could accelerate distribution and legitimacy.
+*Against it:* Another major platform or broader future implementation can satisfy the criterion.
 
-### 5. #014 — heading NO at 7%
-
-*A model from lab other than OpenAI, Anthropic, or Google will hold #1 on LiveBench on December 31, 2026.*
-
-The January crowd said **19%**; the review puts it at **7%** (likely no, medium confidence) — a gap of 12 percentage points, well below what the field expected.
-
-The verified leaderboard still has a big-three model first with Kimi K3 only sixth.
-
-*Against it:* Rapid non-big-three progress means a late model release could overturn this exact-date snapshot.
-
-Four of these resolve by simply running out of year. That is the quiet asymmetry in this tournament: a YES can arrive any day, but a NO only becomes true on December 31, which is why the board looks so one-sided at the midpoint and why it should not stay that way.
+Many NO outcomes can only be adjudicated after the deadline. That is the quiet asymmetry in this tournament: a YES can arrive any day, but a NO only becomes true on December 31, which is why the board looks so one-sided at the midpoint and why it should not stay that way.
 
 ![Crowd versus Outlook](charts/18_midyear_crowd_vs_outlook.png)
 
@@ -216,31 +216,31 @@ All 40 predictions, with what the field said in January and where each one stand
 
 | # | Prediction | Category | Jan avg | Now | Status |
 |---|-----------|----------|--------:|----:|--------|
-| 001 | Major AI Lab IPO | AI Industry | 52% | 62% | open |
+| 001 | Major AI Lab IPO | AI Industry | 52% | 70% | open |
 | 002 | AI Unicorn Failure/Acquisition | AI Industry | 49% | 100% | **YES** |
-| 003 | AI Lab Claims AGI | AI Industry | 29% | 10% | open |
-| 004 | ChatGPT 1B WAU | AI Industry | 73% | 86% | open |
-| 005 | AI 5%+ GDP Growth Country | AI Industry | 20% | 45% | open |
+| 003 | AI Lab Claims AGI | AI Industry | 29% | 40% | open |
+| 004 | ChatGPT 1B WAU | AI Industry | 73% | 95% | open |
+| 005 | AI 5%+ GDP Growth Country | AI Industry | 20% | 50% | open |
 | 006 | Consumer Humanoid >500K Units | AI Industry | 20% | 1% | open |
 | 007 | AI Wearable 10M Units | AI Industry | 37% | 35% | open |
-| 008 | OpenAI Consumer Hardware Launch | AI Industry | 41% | 20% | open |
+| 008 | OpenAI Consumer Hardware Launch | AI Industry | 41% | 15% | open |
 | 009 | AI Therapy App 10M MAU | AI Industry | 46% | 20% | open |
 | 010 | Therapy/Companionship Remains #1 | AI Industry | 65% | 100% | **YES** |
-| 011 | OpenAI Leads LiveBench EOY | Benchmarks | 40% | 48% | open |
-| 012 | Anthropic Leads LiveBench EOY | Benchmarks | 29% | 27% | open |
-| 013 | Google Leads LiveBench EOY | Benchmarks | 33% | 10% | open |
-| 014 | Other Lab Leads LiveBench EOY | Benchmarks | 19% | 7% | open |
-| 015 | Open Model in LiveBench Top 5 | Benchmarks | 44% | 48% | open |
-| 016 | AI Solves Millennium Prize | Benchmarks | 16% | 2% | open |
+| 011 | OpenAI Leads LiveBench EOY | Benchmarks | 40% | 32% | open |
+| 012 | Anthropic Leads LiveBench EOY | Benchmarks | 29% | 42% | open |
+| 013 | Google Leads LiveBench EOY | Benchmarks | 33% | 8% | open |
+| 014 | Other Lab Leads LiveBench EOY | Benchmarks | 19% | 10% | open |
+| 015 | Open Model in LiveBench Top 5 | Benchmarks | 44% | 35% | open |
+| 016 | AI Solves Millennium Prize | Benchmarks | 16% | 1% | open |
 | 017 | Behavioral Benchmark Adopted | Benchmarks | 45% | 25% | open |
 | 018 | AI Autonomous Blackmail >$10K | AI Safety | 25% | 15% | open |
-| 019 | No Major AI Catastrophe | AI Safety | 71% | 55% | open |
-| 020 | AI Misinfo Election Impact | AI Safety | 47% | 30% | open |
+| 019 | No Major AI Catastrophe | AI Safety | 71% | 72% | open |
+| 020 | AI Misinfo Election Impact | AI Safety | 47% | 25% | open |
 | 021 | AI Military System Investigation | AI Safety | 50% | 100% | **YES** |
-| 022 | AI Liability Lawsuit Win | AI Safety | 50% | 12% | open |
+| 022 | AI Liability Lawsuit Win | AI Safety | 50% | 10% | open |
 | 023 | Major Outlet AI Misinfo Retraction | AI Safety | 53% | 100% | **YES** |
 | 024 | Platform Mandates AI Watermarking | AI Safety | 41% | 8% | open |
-| 025 | Companion-Specific Age Verification | AI Safety | 53% | 25% | open |
+| 025 | Companion-Specific Age Verification | AI Safety | 53% | 35% | open |
 | 026 | AI Attachment Disorder Study | Research | 67% | 100% | **YES** |
 | 027 | AI Critical Thinking Meta-Review | Research | 51% | 10% | open |
 | 028 | AI Companions & Loneliness Meta-Review | Research | 53% | — | VOID |
@@ -249,13 +249,13 @@ All 40 predictions, with what the field said in January and where each one stand
 | 031 | METR 18+ Hour Task Horizon | AI Capabilities | 57% | 67% | open |
 | 032 | FrontierMath Tier 4 >50% | AI Capabilities | 49% | 100% | **YES** |
 | 033 | Remote Labor Index >15% | AI Capabilities | 37% | 100% | **YES** |
-| 034 | OpenAI-Proof Q&A >25% | AI Capabilities | 40% | 20% | open |
+| 034 | OpenAI-Proof Q&A >25% | AI Capabilities | 40% | 15% | open |
 | 035 | GSOBench >60% | AI Capabilities | 44% | 45% | open |
-| 036 | AI Autonomously Earns $1K+ | AI Capabilities | 46% | 60% | open |
+| 036 | AI Autonomously Earns $1K+ | AI Capabilities | 46% | 45% | open |
 | 037 | AI One-Shot Feature Film | AI Capabilities | 18% | 2% | open |
-| 038 | AI Film Festival Nomination | AI Capabilities | 35% | 25% | open |
-| 039 | AI Song Spotify Top 10 | AI Capabilities | 46% | 5% | open |
-| 040 | AI Book Bestseller | AI Capabilities | 35% | 10% | open |
+| 038 | AI Film Festival Nomination | AI Capabilities | 35% | 60% | open |
+| 039 | AI Song Spotify Top 10 | AI Capabilities | 46% | 12% | open |
+| 040 | AI Book Bestseller | AI Capabilities | 35% | 15% | open |
 
 ### Which categories the field misread
 
@@ -264,10 +264,10 @@ Average gap between the reviewed outlook and the January crowd, by category. Neg
 | Category | Open questions | Mean gap |
 |----------|---------------:|---------:|
 | Research | 2 | -32pp |
-| AI Safety | 6 | -24pp |
-| AI Capabilities | 8 | -11pp |
-| Benchmarks | 7 | -8pp |
-| AI Industry | 8 | -5pp |
+| AI Safety | 6 | -20pp |
+| Benchmarks | 7 | -10pp |
+| AI Capabilities | 8 | -8pp |
+| AI Industry | 8 | +1pp |
 
 **Research** is where the field was most over-optimistic, by 32 percentage points on average. That is also where most of the projected leaderboard movement comes from.
 
@@ -291,9 +291,9 @@ A few things worth saying plainly, because a leaderboard invites more confidence
 
 - **Data**: 40 binary predictions, 21 forecasters (10 human, 6 AI model, 5 AI persona)
 - **Forecasts**: Collected January-February 2026 using identical briefing documents, locked before resolution
-- **Scored on**: 8 resolved predictions (8 YES, 0 NO); 1 voided and 31 open predictions are excluded from all scores
+- **Scored on**: 8 resolved predictions (8 YES, 0 NO); 1 voided and 31 open predictions are excluded from resolved-only scores
 - **Scoring rule**: Brier score, mean of (forecast - outcome)² across resolved predictions; 0.25 is the all-50% baseline
 - **Group medians**: median of member forecasts, not mean, to limit the pull of single extreme calls
-- **Projection**: expected Brier — (forecast − p)² + p(1 − p) per prediction, where p is the outcome for resolved questions and the reviewed year-end outlook for open ones
-- **Outlook source**: reviews/2026-midyear/year-end-outlook.yaml, methodology midyear-outlook-v1, evidence cutoff 2026-08-15
+- **Projection**: exact expected final average Brier under the stated group model, integrating YES/NO/unscored outcomes and a variable scored count. LiveBench winner outcomes are jointly exclusive; other scoring groups are modeled independently. Conditional on a nonempty scored board, already guaranteed by the resolved questions.
+- **Outlook source**: reviews/2026-outlooks/current.json; methodology september-outlook-v2; evidence cutoff 2026-09-07. August remains a separate frozen historical report.
 - **Visualizations**: matplotlib + seaborn, palette shared with the pre-resolution analysis
