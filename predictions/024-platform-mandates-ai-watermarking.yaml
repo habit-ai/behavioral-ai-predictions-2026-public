@@ -588,3 +588,25 @@ evidence:
     watermarking*—a significant distinction. The trajectory shows platforms prioritizing transparency enforcement but still
     through labels/detection rather than embedded cryptographic watermarks on all uploads. This moves directionally toward
     YES but hasn't crossed the threshold from voluntary to universally mandatory technical watermarking yet.
+- date: '2026-09-13'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    The resolution criteria requires a concrete YES/NO on whether a major platform has mandated (not voluntary) technical
+    watermarking for all AI-generated content uploads. Articles [2] and [8] (duplicate content from Alibaba Cloud) reference
+    "marking AI-generated content officially transitions from a voluntary industry initiative to a statutory obligation" in
+    2026, but this is vague about which platforms, which jurisdictions, and whether it applies to social media specifically.
+    The articles do not demonstrate that Meta, YouTube, TikTok, or other major social platforms have implemented mandatory
+    watermarking. Article [0] discusses EU AI Act implications but doesn''t report mandatory implementation by platforms.
+    Article [5] describes Meta''s *voluntary* detection tool with known failures. Article [11] describes Apple Music''s voluntary
+    labeling system ("Made With AI Tags"), not mandatory watermarking. No evidence satisfies the strict "mandatory watermarking
+    for all AI-generated content uploaded" criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.alibabacloud.com/blog/alibaba-cloud-ai-deepsign-issuing-a-tamper-proof-digital-id-for-aigc-content_603535
+  - http://www.alibabacloud.com/blog/alibaba-cloud-ai-deepsign-issuing-a-tamper-proof-digital-id-for-aigc-content_603535
+  trajectory_signal: Articles [2] and [8] signal movement toward regulatory requirements ("statutory obligation"), suggesting
+    regulatory pressure is building. However, this remains ambiguous—it could refer to disclosure requirements (already the
+    baseline) rather than technical watermarking mandates. The regulatory framework appears to be tightening (article [13]
+    mentions "Regulatory Framework Takes Effect"), which creates pressure toward mandatory systems. However, current evidence
+    shows platforms maintaining voluntary approaches (detection, labeling). The trajectory is directionally positive for eventual
+    YES, but no platform mandate exists yet as of the evidence provided.

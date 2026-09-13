@@ -587,3 +587,27 @@ evidence:
   - https://thesiliconreview.com/2026/09/singapore-2026-growth-forecast-5-percent-mas-survey
   trajectory_signal: 'Strong momentum signal toward YES. Multiple credible sources (MAS surveys, CNA, Business Times, MarketScreener)
     published Sept 2-4, 2026 show:'
+- date: '2026-09-13'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.mti.gov.sg/newsroom/oral-reply-to-pq-on-sustainability-of-ai-led-economic-growth-and-potential-risks-in-event-of-major-correction-in-global-ai-asset-valuations-/
+  relevance: 'MODERATE: Article [0] is the only piece of direct evidence meeting criteria. Singapore''s Ministry of Trade
+    and Industry oral reply (2026-09-09) explicitly references "AI-led economic growth" sustained "over the last four quarters."
+    This directly addresses whether a country is reporting AI as a primary growth contributor. However, critical gaps remain:
+    (1) The actual GDP growth figure is not stated in the excerpt provided—we cannot verify if it reaches ≥5%, (2) The full
+    ministerial response is truncated, leaving unclear whether AI is officially credited as THE PRIMARY contributor vs. one
+    of several factors, (3) Singapore''s 2026 GDP growth forecast mentioned in [2] is 4.5%–5.5%, which brackets the 5% threshold
+    but doesn''t confirm official attribution of growth to AI as primary driver.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sbr.com.sg/videos/singapore-growth-leans-heavily-electronics-boom
+  - https://theedgemalaysia.com/node/807282
+  - https://sbr.com.sg/manufacturing/news/singapore-manufacturing-set-9-growth-ai-demand-rhb-says
+  - https://sbr.com.sg/news/ai-investment-slowdown-could-weigh-economic-growth-gan-says
+  - https://theedgemalaysia.com/node/807282
+  trajectory_signal: Singapore is displaying clear directional momentum toward resolution YES. The government has explicitly
+    linked AI demand to export surges, raised growth forecasts to the 4.5%–5.5% range, and senior officials are framing AI
+    as a material contributor to economic performance. If the full ministerial report [0] specifies that 2026 annual GDP growth
+    reached ≥5% with AI cited as primary driver, resolution would trigger. The trajectory strongly suggests Singapore is the
+    most likely candidate among countries covered here, but the evidence remains incomplete without official GDP figures and
+    explicit confirmation of "primary contributor" status in an official report.

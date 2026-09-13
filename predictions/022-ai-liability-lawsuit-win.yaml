@@ -651,3 +651,21 @@ evidence:
   - https://aljazeeranews-3fuh52rgrl.edgeone.app/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use
   - https://www.lawyersandsettlements.com/legal-news/social-media-addiction/lawsuits-put-ai-liability-on-trial-interview-24449.html
   trajectory_signal: 'Strong momentum toward resolution YES. Multiple signals indicate progression:'
+- date: '2026-09-13'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://www.ainvest.com/news/ai-companions-sold-dollar-year-loneliness-law-priced-side-2609/
+  relevance: 'STRONG: Article [0] provides DIRECT evidence of resolution. It explicitly states: "A 14-year-old Florida teen''s
+    suicide linked to Character.AI''s chatbot led to a confidential settlement with the company, Google, and founders." This
+    constitutes a settlement with liability admission (the hallmark of YES resolution per criteria). The article is dated
+    2026-09-10, within the preferred date range. The criteria are satisfied: a court/settlement outcome has been reached,
+    involving an AI company (Character.AI/Google) and harm (psychological/physical manifesting as suicide). No gaps remain
+    for this specific case.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pro.stateaffairs.com/ca/ai/openai-teen-suicide-lawsuit
+  - https://aiweekly.co/alerts/mothers-openai-wrongful-death-suit-cites-289-page-4o-chat
+  - https://pro.stateaffairs.com/ca/ai/chatgpt-wrongful-death-lawsuits
+  - https://startupfortune.com/newsom-signs-adams-law-californias-toughest-ai-chatbot-safety-rules/
+  - https://www.breitbart.com/tech/2026/09/13/california-man-sues-openai-claiming-chatgpt-fed-religious-delusions-before-suicide-attempt/
+  trajectory_signal: 'Multiple articles demonstrate substantial momentum toward resolution:'

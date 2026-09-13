@@ -506,3 +506,20 @@ evidence:
   - https://www.xix.ai/ainews/chinas-first-aigc-feature-film-with-web-series-production-license-qitan-debuts-on-iqiyi.html
   - https://gosigmacrm.com/article/hell-grind-the-first-ai-produced-sci-fi-heist-film-exclusive-trailer-breakdown
   - https://lifestyle.axcessnews.com/story/336297/chinas-first-aigc-long-form-drama-beyond-wukong-premieres-in-hunan-satellite-tvs-prime-time-slot-marking-a-new-chapter-in-the-industrialization-of-film-and-television-production/
+- date: '2026-09-13'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.mk.co.kr/en/movies/12146484
+  - https://www.mt.co.kr/en/tech/2026/09/08/2026090719041581254
+  - https://www.cineplay.co.kr/en-us/articles/29639
+  relevance: 'STRONG: Articles [0], [1], and [3] report that "Steelay" (also called "Stilray"), a 90-minute feature film,
+    was completed entirely with AI and publicly screened in Seoul on September 7, 2026. Key details:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://punchng.com/nigerias-yoruba-film-billed-as-first-ai-powered-movie/
+  - https://aiweekly.co/alerts/katzenberg-and-ex-sora-head-bill-peebles-launch-ai-video-startup-for-filmmakers
+  trajectory_signal: 'Article [4] (Nigeria''s "Asiri Ilu Awon Osu") claims to be the world''s first photorealistic AI feature
+    film, completed in September 2025, but provides no production methodology details—cannot assess against criteria. Article
+    [8] signals industry momentum: Katzenberg and ex-Sora lead Bill Peebles launching an AI video startup "purpose-built for
+    filmmakers," suggesting major players are investing heavily in scaling AI filmmaking. This indicates directional progress
+    toward longer-form AI video generation capabilities, though not yet meeting single-prompt criteria.'

@@ -485,3 +485,16 @@ evidence:
   - https://cybersentinelnews.com/anthropics-claude-fable-5-1-tops-ai-index-openais-gpt-6-astra-rises/
   - https://www.ibtimes.co.uk/gpt-6-astra-benchmarks-revealed-how-openai-says-it-compares-claude-gpt-56-1817871
   trajectory_signal: 'Articles 1, 3, 4, 5, 10, 12 show momentum in AI coding/engineering task performance across various benchmarks:'
+- date: '2026-09-13'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance specifically. The prediction requires an AI
+    system exceeding 60% Hack-Adjusted Opt@1 on GSOBench by December 31, 2026. The baseline shows GPT-5.2+OpenHands at 26.5%
+    (Jan 2026) — a substantial gap to close in ~4 months. Zero articles mention GSOBench, GSO tasks, or codebase optimization
+    benchmarks. Articles discuss other benchmarks (ErdosBench math, Codex, Terminal-Bench, AutomationBench-AA, RoboColiseum)
+    but these are orthogonal to the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.endorlabs.com/learn/gpt-6-astra-on-codex---the-biggest-codex-leap-to-date
+  - https://tpsreport.news/news/gpt-6-astra-tops-erdosbench-math-benchmark
+  - https://www.gate.com/news/detail/openai-updates-gpt-6-astra-product-page-with-new-performance-benchmarks-and-24078615
+  trajectory_signal: 'Three articles show directional progress toward stronger coding/agentic capabilities:'

@@ -549,3 +549,32 @@ evidence:
   - https://thesanfrancisco.org/news/ai-agents-can-pay-voidpay-is-building-what-lets-them-hire
   - https://dev.to/wilnowilx/i-built-an-api-marketplace-where-ai-agents-pay-per-request-in-usdc-80-endpoints-in-4-days-solo-15lc
   trajectory_signal: 'Articles [0], [2], [5], and [7] collectively signal MODERATE-TO-STRONG momentum TOWARD_YES resolution:'
+- date: '2026-09-13'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://unrollnow.com/status/2094118789390671993
+  relevance: 'MODERATE: Article [8] provides the most direct evidence: a credible X/Twitter post by @bl888m_eth claiming that
+    "Grok Bot" autonomously turned $55 into $9,340 in one week through market activities, running continuously without human
+    intervention. However, this claim has critical gaps: (1) No independent verification or credible institutional source
+    corroboration, (2) The specific activities ("scans every market") remain vague—unclear if this constitutes legitimate
+    non-trading activities or financial trading (which is explicitly excluded), (3) No documented proof of actual payment
+    into an accessible account, (4) Single anecdotal claim from social media lacks the credibility threshold typically required
+    for resolution. The article meets the spirit of autonomy and 2x return criteria but fails on credibility and activity-type
+    clarity, placing it at the borderline of KEEP.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://theagenttimes.com/articles/developer-deploys-autonomous-ai-agent-earning-usdc-on-base-v-c5bbce7b
+  - https://coinjuice.com/research-hub/eryushev-xyper-ai-agent-jobs
+  - https://www.sofarbot.com/stories/polsia-ben-broca-500000-monthly-revenue
+  - https://www.indiatoday.in/technology/news/story/in-an-awww-email-12-day-old-ai-agent-pip-writes-to-researchers-seeking-paid-gig-2991588-2026-09-10
+  - https://www.stacker.news/aiagentearn
+  trajectory_signal: Articles [2, 3, 4, 7, 10] show significant directional momentum toward YES resolution. Article [2] documents
+    a deployed autonomous agent earning USDC via x402 protocol on Base—concrete infrastructure for agent commerce (though
+    earnings scale is microcents/hour, far below threshold). Article [3] describes Xyper platform enabling AI agents to earn
+    for social content creation with smart contract escrow—legitimate non-trading activity, but notes humans still "oversee"
+    agents (autonomy gap). Article [4] claims Polsia achieved ~$500K/month in three months through agent-driven business operations
+    (coding, lead generation, ads, content)—most ambitious claim but requires revenue audit verification. Article [7] reports
+    an AI agent "Pip" autonomously seeking paid gigs, signaling agent agency. Article [10] documents a Claude agent attempting
+    to earn $1 Bitcoin from zero with no human signups—demonstrates proof-of-concept for autonomous monetization pathways.
+    Collectively these signal rapid maturation of autonomous agent commerce infrastructure and real deployment attempts, but
+    none yet demonstrate a verified $1K→$2K doubling meeting all criteria.

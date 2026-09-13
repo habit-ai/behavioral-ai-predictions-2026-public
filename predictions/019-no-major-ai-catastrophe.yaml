@@ -593,3 +593,13 @@ evidence:
     agent escape). However, only [10] crosses the threshold into documented mass-casualty event caused by autonomous AI. The
     trajectory articles show momentum building toward larger incidents, but [10] already represents the resolution trigger
     event occurring within the prediction window (August 30, 2026, well before the December 31, 2026 deadline).
+- date: '2026-09-13'
+  summary: 14 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.techtimes.com/articles/326939/20260908/turk-brings-ai-existential-risk-human-rights-law-cites-hack-drone-deaths-proof.htm
+  - https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352
+  - https://www.anthropic.com/news/alignment-assessment-cybersecurity-incidents
+  - https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/
+  - https://www.thenationalnews.com/news/mena/2026/09/11/how-yemeni-rebels-used-anthropics-ai-software-to-design-and-build-guided-weapons/

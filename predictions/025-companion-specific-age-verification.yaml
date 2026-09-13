@@ -619,7 +619,8 @@ evidence:
     safeguards but hasn''t yet crossed the threshold into YES territory.'
 - date: '2026-09-06'
   event_date: '2026-08-25'
-  summary: "OpenAI began EU rollout of account-level age prediction on August 25. Romantic-roleplay safeguards do not establish a companion-specific verification mechanism; ambiguity remains."
+  summary: OpenAI began EU rollout of account-level age prediction on August 25. Romantic-roleplay safeguards do not establish
+    a companion-specific verification mechanism; ambiguity remains.
   source: https://openai.com/index/our-approach-to-age-prediction/
   kind: manual_review
   sources:
@@ -627,3 +628,15 @@ evidence:
   reviewer: codex-september-evidence-refresh
   verification_status: verified
   review_record: reviews/2026-midyear/025.yaml
+- date: '2026-09-13'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major general AI platform introducing age verification SPECIFICALLY
+    FOR companion/relationship-style AI interactions. The resolution criteria requires companion-specific restrictions, not
+    general ones. The baseline context establishes that OpenAI''s January 2026 measures only restrict sexual/violent roleplay
+    while other companionship forms remain enabled—this is explicitly insufficient for YES resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.digitaltoday.co.kr/en/view/102388/talks-on-amending-koreas-information-network-act-to-target-ai-character-chats-take-shape
+  - https://startupfortune.com/newsom-signs-adams-law-californias-toughest-ai-chatbot-safety-rules/
+  - https://www.techtimes.com/articles/327301/20260911/newsom-signs-california-kids-safety-laws-age-verification-now-applies-all-users-not-just-teens.htm
+  trajectory_signal: 'Articles [4], [7], [8] signal meaningful momentum TOWARD YES:'

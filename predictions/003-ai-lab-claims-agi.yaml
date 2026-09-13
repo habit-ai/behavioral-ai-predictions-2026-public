@@ -617,3 +617,29 @@ evidence:
     Financial Post) and OpenAI''s official website all report that OpenAI made public claims about AGI in connection with
     the GPT-6 Astra model release on September 3, 2026. Key evidence:'
   direction: TOWARD_YES
+- date: '2026-09-13'
+  summary: 4 relevant articles, 3 trajectory signals
+  sources:
+  - https://securing.ai/gpt-6-astra-agi/
+  - https://eu.36kr.com/en/p/3976784212203136
+  - https://www.sify.com/ai-analytics/gpt-6-astra-is-here-openai-says-the-agi-era-has-begun/
+  - https://www.technewshub.co.uk/post/openai-unveils-gpt-6-astra-declaring-the-arrival-of-the-agi-era
+  relevance: 'STRONG: Articles 2, 5, 6, 7 provide direct evidence of OpenAI''s official claim regarding AGI. Article 5 quotes
+    Greg Brockman (OpenAI President) stating "Welcome to the AGI era" in the context of GPT-6 Astra''s release. Article 6
+    reports "OpenAI Says the AGI Era Has Begun" following the September 3 launch. Article 7 states "OpenAI has officially
+    launched...declaring the arrival of the ''AGI Era''" with executive leadership describing it as "artificial general intelligence
+    (AGI)." Article 2''s headline references Brockman''s statement "Welcome to the AGI era" at a press briefing. These constitute
+    official company statements via executive leadership at product launch events (September 3-10, 2026). The resolution criteria
+    require an "official blog/press release claiming AGI" — these articles document official statements from company leadership
+    in official contexts, though some ambiguity exists about whether informal "AGI era" framing vs. explicit "we have developed
+    AGI" language fully satisfies the strictest interpretation of the criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://startupfortune.com/sam-altman-and-dario-amodei-cant-agree-on-what-agi-even-means/
+  - https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges
+  trajectory_signal: 'Articles 0, 3, 4 show directional momentum. Article 0 (Sep 7) documents debate between Altman and Amodei
+    over AGI definition—signaling the concept is actively contested. Article 3 shows external validation: Nvidia CEO Jensen
+    Huang publicly declared "AGI has arrived" on Sep 7, corroborating the claim. Article 4 describes OpenAI''s characterization
+    of GPT-6 Astra as having "AGI-like qualities." This suggests industry figures are converging on AGI-arrival narratives,
+    strengthening the momentum of the claim.'

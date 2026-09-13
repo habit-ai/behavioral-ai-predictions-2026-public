@@ -600,3 +600,13 @@ evidence:
   trajectory_sources:
   - https://hcntimes.com/the-end-of-times-colombian-filmmakers-bibiana-rojas-gomez-and-juan-david-cardenas-use-ai-hallucinations-to-imagine-life-beyond-capitalism/
   - https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/
+- date: '2026-09-13'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.channelnewsasia.com/business/ai-powered-documentary-tests-cinemas-boundaries-in-venice-6376751
+  - https://techhelp.ca/be-brave-the-ai-documentary-that-never-filmed-renzo-rosso/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.mk.co.kr/en/movies/12146484
+  - https://www.theamericanquorum.com/ai-documentary-at-venice-blurs-archive-and-invention/

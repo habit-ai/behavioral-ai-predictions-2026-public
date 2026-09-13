@@ -609,7 +609,8 @@ evidence:
   trajectory_signal: 'Articles [3], [4], [5], [7], [8], [9], [10] show strong TRAJECTORY momentum supporting this outcome:'
 - date: '2026-09-06'
   event_date: '2026-08-31'
-  summary: "OpenAI confirmed more than one billion weekly active ChatGPT users on August 31. The December 31 exact-date question remains open."
+  summary: OpenAI confirmed more than one billion weekly active ChatGPT users on August 31. The December 31 exact-date question
+    remains open.
   source: https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
   kind: manual_review
   sources:
@@ -617,3 +618,26 @@ evidence:
   reviewer: codex-september-evidence-refresh
   verification_status: verified
   review_record: reviews/2026-midyear/004.yaml
+- date: '2026-09-13'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2
+  - https://dev.to/alifar/chatgpt-tops-50-million-consumer-subscribers-clarifying-demand-for-paid-ai-40p3
+  relevance: 'MODERATE: Articles [0] and [1] provide direct evidence: ChatGPT reached 900 million weekly active users as of
+    late February 2026, with 50 million paid subscribers. These are the most concrete data points addressing the resolution
+    criteria. The prediction requires 1 billion WAU by December 31, 2026—a gap of 100 million users (11% growth needed) over
+    ~10 months from the February baseline. The baseline context confirms 800M WAU as of January 2026, making the 900M figure
+    consistent with trajectory. However, neither article provides evidence that the 1B threshold has been met; they confirm
+    progress toward but not achievement of the target.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techshotsapp.com/artificial-intelligence/india-becomes-chatgpts-powerhouse-with-100-million-weekly-active-users
+  - https://completeaitraining.com/news/openai-launches-chatgpt-ads-in-india-with-over-100-million/
+  - https://cryptobriefing.com/openai-cfr-chatgpt-1-billion-mobile-users/
+  trajectory_signal: 'Articles [2] and [3] show strong regional momentum: India alone has reached 100 million WAU (second-largest
+    market after U.S.), suggesting distributed global growth. Article [6] references "a billion monthly active users" and
+    25x mobile growth, though the distinction between MAU (monthly) and WAU (weekly) is critical—this conflates metrics and
+    doesn''t directly confirm weekly figures. These signals indicate continued acceleration and geographic diversification,
+    suggesting positive momentum toward 1B WAU, though they don''t confirm achievement of the weekly target. The 900M → 1B
+    gap appears achievable given growth rates observed (100M+ growth in ~12 months from Jan 2026 baseline), but requires sustained
+    expansion through Q4 2026.'

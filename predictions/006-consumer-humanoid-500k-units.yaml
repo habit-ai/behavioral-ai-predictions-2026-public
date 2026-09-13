@@ -500,3 +500,13 @@ evidence:
   trajectory_sources:
   - https://ai2.work/blog/china-ships-97-of-humanoid-robots-why-western-volumes-stay-thin
   - https://iotbusinessnews.com/2026/09/04/humanoid-robot-shipments-forecast-to-reach-26-million-annually-by-2040/
+- date: '2026-09-13'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nextbigfuture.com/2026/09/optimus-confirmed-15000-bots-this-year-tesla-to-3000.html
+  - https://theedgemalaysia.com/node/813911
+  - https://robottoday.com/industry-briefing/goldman-sachs-and-morgan-stanley-revise-humanoid-robot-shipment-forecasts-significantly/12363
+  - https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home
+  - https://robotwale.com/news/humanoid-robot-pricing-drops-figure-02-optimus-gen3-target-mass-market

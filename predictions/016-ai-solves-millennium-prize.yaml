@@ -564,3 +564,15 @@ evidence:
   - https://pivotnews.ai/build/unreleased-claude-lifts-riemann-zeta-lower-bound-to-67-2
   - https://pivotnews.ai/build/unreleased-claude-lifts-riemann-zeta-lower-bound-to-67-2
   trajectory_signal: 'Articles [7], [9], and [10] signal meaningful momentum TOWARD_YES:'
+- date: '2026-09-13'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://www.claymath.org/news/navier-stokes-announcement/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/index/navier-stokes-solution/
+  - https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/
+  - https://www.nature.com/articles/d41586-026-02842-5
+  - https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html
+  - https://thenextweb.com/news/openai-navier-stokes-proof-published-millennium-prize

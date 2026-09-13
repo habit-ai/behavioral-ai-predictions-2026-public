@@ -620,3 +620,15 @@ evidence:
   - https://www.webpronews.com/openais-852-billion-bet-inside-the-record-fundraising-that-paved-a-rocky-path-to-public-markets/
   - https://www.techtimes.com/articles/326608/20260904/anthropic-15b-credit-line-banks-commit-1b-plus-each-lock-ipo-roles.htm
   - https://finance.biggo.com/news/b29998be-b0b4-4927-aea0-42f78f575b0c
+- date: '2026-09-13'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.forbes.com/sites/jonmarkman/2026/09/07/anthropic-delays-ipo-to-mid-october-locks-in-15-billion-credit-line/
+  - https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/06/01/anthropic-races-toward-a-wall-street-debut-with-a-confidential-sec-filing
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/
+  - https://www.indiatoday.in/amp/business/ipo/story/openai-anthropic-ipos-ai-boom-valuations-public-market-test-spacex-2992561-2026-09-11
+  - https://www.digit.fyi/anthropic-nears-ipo-filing-as-banks-jostle-for-top-roles/
+  - https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters

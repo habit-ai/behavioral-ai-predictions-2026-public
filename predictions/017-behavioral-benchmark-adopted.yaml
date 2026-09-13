@@ -507,3 +507,15 @@ evidence:
   - https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/
   - https://aiweekly.co/alerts/transluce-study-chatbots-still-role-play-self-harm-with-users
   trajectory_signal: 'Articles [2, 4, 5, 7] collectively signal STRONG momentum toward the resolution criteria:'
+- date: '2026-09-13'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a major AI lab adopting/referencing a benchmark measuring psychological/behavioral
+    impacts in a model card or safety report. The resolution criteria require explicit reference in official documentation
+    (model card/safety report), which none of these articles demonstrate. Article [0] describes a new benchmark (SPQR) but
+    provides insufficient content to determine if it measures psychological/behavioral impacts specifically, and critically,
+    there''s no evidence any major lab has adopted it in their official documentation.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse
+  - https://www.nature.com/articles/s41598-026-70990-9
+  trajectory_signal: 'Two articles signal directional momentum toward YES:'

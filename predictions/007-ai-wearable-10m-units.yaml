@@ -558,3 +558,15 @@ evidence:
   - https://news.hamidun.com/en/news/10781/meta-and-essilorluxottica-launch-meta-branded-glasses-26-sty
   - http://www.9newshd.tv/post/meta-expands-wearable-tech-with-budgetfriendly-ai-smart-glasses
   - https://eu.36kr.com/en/p/3967816023929097
+- date: '2026-09-13'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on 2026 annual sales figures for AI-native wearables. The prediction
+    requires >10M units sold in 2026 by current date (2026-09-13), meaning we need near-final year data. None of the articles
+    contain this information. Article [2] mentions Meta Ray-Ban Display glasses were "so popular" they paused international
+    rollout due to supply constraints—this could indicate strong demand but provides no unit sales numbers. The baseline context
+    notes Meta Ray-Ban sold ~2M in 2025; whether they reached >10M in 2026 remains unspecified in these articles.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.ainvest.com/news/smart-glasses-bottleneck-lenses-2609/
+  - https://www.businesswirechina.com/en/news/63922.html
+  trajectory_signal: 'Two articles signal NEGATIVE momentum:'

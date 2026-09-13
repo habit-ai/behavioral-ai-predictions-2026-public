@@ -497,3 +497,27 @@ evidence:
   - https://booktoktimes.com/the-2-1m-ai-detection-confession-i-flag-ai-books-for-booktok/
   - https://aiweekly.co/alerts/pangram-flags-four-of-ten-commonwealth-prize-winners-as-ai
   trajectory_signal: 'Articles signal NEGATIVE momentum toward resolution:'
+- date: '2026-09-13'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a book meeting the resolution criteria. The MrBeast/James Patterson
+    collaboration "The Most Dangerous Games" debuted at #3 on NYT bestseller list and #1 in Amazon''s Mystery/Thriller category
+    (articles 1, 2, 4, 6), which meets the bestseller threshold. However, critically, there is NO DISCLOSURE of AI involvement
+    in this book. The articles consistently credit it as a "co-authored work" or collaboration between MrBeast and James Patterson
+    with no mention of AI-writing composition or percentage. The prediction requires BOTH: (a) >50% AI-written AND (b) disclosed
+    as such. This book fails the disclosure criterion entirely, making it ineligible for YES resolution regardless of bestseller
+    status. Article 0 (UiPath CEO''s book) mentions AI collaboration but provides no sales/ranking data. Article 5 discusses
+    AI-written religious books on Amazon but doesn''t indicate any achieved bestseller status or proper AI disclosure compliance.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mrbeast-james-patterson-novel-debut-nyt-bestseller-list-1236696027/
+  - https://www.avclub.com/mrbeast-book-sales-film-rights
+  - https://dailytimes.com.pk/1551322/mr-beast-and-james-pattersons-novel-debuts-at-3-on-nyt-bestseller-list/
+  - https://startuppakistan.com.pk/mrbeasts-first-novel-ranks-no-1-on-amazons-mystery-thriller-and-suspence-new-releases/
+  trajectory_signal: 'The MrBeast book''s strong performance (#3 NYT, #1 in category) signals that books with substantial
+    digital creator involvement and publicity can rapidly reach bestseller thresholds in 2026. This demonstrates market demand
+    and distribution capability. However, the critical gap is that no disclosed primarily-AI-written book has appeared yet.
+    The trajectory shows bestseller achievement is possible, but the resolution path remains unobstructed—we need to see a
+    book with explicit AI-writing disclosure (>50%) reach these rankings. Article 5''s mention of 63% of religious books potentially
+    being AI-written suggests AI-authored inventory exists but lacks visibility/disclosure. The direction trends toward YES
+    because bestseller pathways are proven viable, but the lack of any disclosed AI-authored bestseller yet means the specific
+    criterion hasn''t materialized.'

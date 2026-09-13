@@ -544,3 +544,26 @@ evidence:
     thresholds for "material impact" are very high. The warning articles show momentum in recognizing AI as a threat, but
     recognition of threat ≠ official finding of material past impact. We''re seeing proactive governance, not reactive investigations
     concluding material damage occurred.'
+- date: '2026-09-13'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an "official finding of material election impact" or "formal investigation"
+    that has officially cited AI-generated misinformation as materially affecting an election. Article [0] describes MCMC
+    "probing claims" by Anthropic about an alleged operation targeting Malaysian parliamentary seats, but this is an investigation
+    into alleged activity, not an official finding that AI-generated misinformation materially affected an election outcome.
+    The probe is ongoing and preliminary. Articles [1], [2], [4], [5], [6], [7], [8], [9] discuss warnings, threats, and preparatory
+    measures but contain no official determinations of material election impact. Articles [10] and [11] describe specific
+    instances of fake posts and AI-generated content being used, but neither cites official findings that these affected election
+    outcomes.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scoop.my/news/298231/ai-powered-political-operation-allegedly-targeted-all-222-parliamentary-seats-mcmc-launches-probe/
+  - https://www.straitstimes.com/asia/se-asia/ai-influence-operation-targeting-voters-a-threat-to-malaysia-says-mca
+  trajectory_signal: 'Articles [0] and [3] show meaningful directional progress. The Malaysian case ([0], [3]) represents
+    the clearest signal: a formal governmental investigation (MCMC probe) has been launched into an AI-powered political operation
+    that allegedly targeted all 222 parliamentary seats using 1,000 fake accounts and fabricated news outlets. This is an
+    official formal investigation specifically tied to electoral interference, though the investigation is ongoing and no
+    determination of material impact has yet been made. The other articles ([1], [2], [4], [5], [6], [7], [8], [9], [11])
+    show growing institutional recognition of AI disinformation as an electoral threat across multiple countries (South Africa,
+    Australia, Sri Lanka, Nigeria, Sweden, Brazil, US), with electoral bodies implementing disinformation codes and warnings.
+    However, these remain preparatory/defensive rather than investigative findings. The trajectory indicates movement toward
+    the YES resolution criterion, but the critical gap—an official finding of material impact—has not yet been crossed.'

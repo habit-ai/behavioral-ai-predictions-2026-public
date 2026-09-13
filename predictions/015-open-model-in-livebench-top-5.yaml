@@ -536,4 +536,18 @@ evidence:
   - https://livebench.ai/table_2026_06_25.csv
   - https://livebench.ai/categories_2026_06_25.json
   - https://livebench.ai/static/js/main.fd24a6cf.js
-  relevance: "The September 6 default top five are closed models. Kimi K3 Open is eighth at 79.2. Including finetunes adds open-weight Smaug-Agentic at eighth with 79.5, moving Kimi to ninth; neither configuration has an open top-five model. Default UI excludes finetunes; all-row CSV includes Smaug-Agentic and shifts lower ranks. Owner data checked by review_predictions_01_20; default browser UI independently checked by parent reviewer. This question requires December 31, 2026, so September ranks do not resolve it."
+  relevance: The September 6 default top five are closed models. Kimi K3 Open is eighth at 79.2. Including finetunes adds
+    open-weight Smaug-Agentic at eighth with 79.5, moving Kimi to ninth; neither configuration has an open top-five model.
+    Default UI excludes finetunes; all-row CSV includes Smaug-Agentic and shifts lower ranks. Owner data checked by review_predictions_01_20;
+    default browser UI independently checked by parent reviewer. This question requires December 31, 2026, so September ranks
+    do not resolve it.
+- date: '2026-09-13'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://shattered.io/qwen3-8-max-open-weights-benchmarks-2026/
+  - https://gigazine.net/gsc_news/en/20260911-deepseek-v4-1-flash/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pasqualepillitteri.it/en/news/14684/open-source-closes-gap-artificial-analysis
+  - https://247wallst.com/cards/xpost-01m1yj852p230gg5tksfn4q7bh

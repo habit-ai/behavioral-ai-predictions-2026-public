@@ -560,3 +560,13 @@ evidence:
   - http://ai-in-highered.blogspot.com/2026/04/gallup-gen-z-growing-more-negative.html
   trajectory_signal: 'Strong directional momentum TOWARD_YES. Multiple high-quality signals (all published within the preferred
     date range of Aug 23 - Sep 6, 2026) indicate rapidly escalating salience of technology/AI issues among Americans:'
+- date: '2026-09-13'
+  summary: 7 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525
+  - https://theprowersjournal.com/2026/09/gallup-poll-shows-7-in-10-americans-oppose-construction-of-aidata-centers-in-their-local-areas/
+  - https://www.newsweek.com/democrats-gop-agree-in-new-poll-on-major-issue-ahead-of-midterms-ai-12413503
+  - https://www.rutgers.edu/news/americans-use-artificial-intelligence-they-dont-want-it-charge
+  - https://www.thirdway.org/polling/proceed-with-caution-what-voters-want-from-technology-regulation

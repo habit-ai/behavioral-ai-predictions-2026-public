@@ -544,3 +544,17 @@ evidence:
     from ~4.8 hours (Dec 2025 baseline) toward 18+ hours in 9 months; (3) if GPT-6 Astra is at ~31 minutes (article [0]) on
     discrete task steps, extrapolation to continuous horizon suggests plausibility of 18+ hours by Dec 2026. Articles [5-8]
     on METR security breaches don''t affect trajectory but add noise.'
+- date: '2026-09-13'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence on whether the best AI model has achieved an 18+ hour time horizon
+    on METR task suite. Article [0] mentions "18+ weeks" but this appears to refer to agent work duration in harnesses (Fable),
+    not the specific METR time horizon metric being measured. The resolution criteria require a concrete ≥18hr 50%-time horizon
+    score on METR benchmarks—none of the articles present this specific metric or demonstrate current performance levels that
+    would confirm or refute YES/NO resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://blockchain.news/ainews/metr-long-horizon-benchmarks-face-saturation
+  - https://www.techtimes.com/articles/327053/20260909/ai-leaderboard-rewrote-itself-three-times-last-week-same-score-half-cost.htm
+  - https://aitop.news/item/30343
+  - https://www.endorlabs.com/learn/gpt-6-astra-on-codex---the-biggest-codex-leap-to-date
+  trajectory_signal: 'Several articles signal MODERATE progress toward YES resolution:'
