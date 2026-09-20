@@ -662,3 +662,17 @@ evidence:
   - https://www.psypost.org/the-hidden-cost-of-artificial-empathy-how-chatbots-boost-mental-health-but-isola/
   - https://www.indiatoday.in/india-today-insight/story/when-conversational-ai-moves-beyond-answering-questions-and-into-a-more-intimate-space-2991736-2026-09-10
   trajectory_signal: 'Strong momentum signals toward conditions favoring a future meta-review with YES findings:'
+- date: '2026-09-20'
+  summary: 12 trajectory signals
+  relevance: 'NONE: No meta-reviews or systematic reviews found. The prediction requires a meta-review that finds a significant
+    relationship between AI companion use and loneliness to resolve YES. Zero articles in this collection meet that criterion.
+    All articles are individual studies, opinion pieces, surveys, or scoping reviews examining related phenomena, but none
+    constitute the meta-review/systematic review explicitly required by the resolution criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://healthmedicinet.com/chatbot-companions-older-adults-genuine/
+  - https://link.springer.com/article/10.1186/s12877-026-08266-0
+  - https://worldnewsintel.com/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/
+  - https://www.medscape.com/viewarticle/teens-use-ai-emotional-support-what-doctors-should-know-2026a1000y9x
+  - https://ca.news.yahoo.com/ai-more-comforting-person-research-141538295.html
+  trajectory_signal: 'Strong momentum building toward YES resolution, though criteria not yet met:'

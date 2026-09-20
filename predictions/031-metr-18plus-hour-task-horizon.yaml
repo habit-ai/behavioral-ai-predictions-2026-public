@@ -558,3 +558,23 @@ evidence:
   - https://aitop.news/item/30343
   - https://www.endorlabs.com/learn/gpt-6-astra-on-codex---the-biggest-codex-leap-to-date
   trajectory_signal: 'Several articles signal MODERATE progress toward YES resolution:'
+- date: '2026-09-20'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence about current METR task-horizon performance levels or specific model
+    benchmarks needed to assess whether resolution criteria (≥18hr 50%-time horizon by Dec 31, 2026) will be met. The baseline
+    shows Opus 4.5 at ~4h 49min as of Dec 2025 with ~4-5 month doubling rate, requiring progress to 18+ hours in ~12 months.
+    No articles report actual current METR benchmark results for frontier models in September 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/verge-metr-apollo-got-days-not-weeks-for-openai-safety-audits
+  - https://www.thenextgentechinsider.com/pulse/chinese-open-weight-ai-models-close-capability-gap-with-us-frontier-systems
+  - https://www.btin.co.in/chinese-ai-models-cut-frontier-gap-4-months-open-weight-119558
+  - https://temperature2.com/p/2026-09-16-mozilla-open-source-ai-china-4-month-gap/
+  trajectory_signal: Articles [4, 5, 8] report Mozilla's State of Open Source AI report (v1.1, released Sept 15, 2026, with
+    data through Sept 1) using METR task-horizon methodology. The report establishes that open-weight models are 4.4 months
+    behind frontier closed systems on METR task-horizon capabilities (currently handling 8–12 hour tasks). This confirms METR
+    benchmarking is active and being used to track frontier model progress. Article [1] indicates frontier model capability
+    advancement is occurring (~4-month head starts at higher costs), though not specific to METR. Together these suggest ongoing
+    rapid capability progression in the domain, consistent with the baseline's 4-5 month doubling trajectory. However, none
+    report September 2026 frontier model METR scores needed to verify if the 18+ hour target remains on track for December
+    2026 resolution.

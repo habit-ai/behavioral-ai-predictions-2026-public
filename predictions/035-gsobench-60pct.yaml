@@ -498,3 +498,9 @@ evidence:
   - https://tpsreport.news/news/gpt-6-astra-tops-erdosbench-math-benchmark
   - https://www.gate.com/news/detail/openai-updates-gpt-6-astra-product-page-with-new-performance-benchmarks-and-24078615
   trajectory_signal: 'Three articles show directional progress toward stronger coding/agentic capabilities:'
+- date: '2026-09-20'
+  summary: 1 trajectory signal
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.techshotsapp.com/technology/alibabas-qwen3-max-ai-model-surpasses-gpt-5-chat-on-global-leaderboards

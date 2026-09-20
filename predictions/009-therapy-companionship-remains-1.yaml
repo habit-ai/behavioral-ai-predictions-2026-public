@@ -534,3 +534,20 @@ evidence:
   - https://www.whalesbook.com/news/English/startupsvc/Habuild-Posts-Rs-57-Crore-Profit-Eyes-AI-Led-Wellness-Expansion/6aa1ff1975fe79b492e141bb
   - https://www.snsinsider.com/blogs/chatbot-based-mental-health-apps-industry
   - https://eu.36kr.com/en/p/3977469068603906
+- date: '2026-09-20'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI therapy/mental health app has reached >10M MAU by
+    September 2026. Article [7] mentions Ant Group''s AQ health platform at 150M users, but this is a general health/wellness
+    app, not specifically an AI therapy app. The baseline context shows Wysa at "more than 5 million" users as of the prediction
+    date—well below the 10M threshold. No current apps are reported to have crossed this threshold.'
+  trajectory_sources:
+  - https://myrtlebeach.newsnetmedia.com/story/440417/mental-health-apps-market-to-reach-usd-29-20-billion-by-2035-at-14-0-cagr/
+  - https://www.openpr.com/news/4633289/digital-mental-health-market-outlook-signals-expansion
+  - https://www.briefasia.com/en/article/ant-group-health-platform-150-million-users-digital-wellness
+  trajectory_signal: Articles [2] and [3] show strong market growth signals (mental health apps market projected to reach
+    $29.2B by 2035, digital mental health expanding to $58.67B through 2030), indicating favorable macro conditions. Article
+    [7] demonstrates that health/wellness platforms can achieve massive scale (150M users for AQ), suggesting the infrastructure
+    and user appetite exist. However, these are general directional signals about market expansion, not specific progress
+    by therapy apps toward the 10M MAU target. The trajectory is modestly positive for the sector overall, but no individual
+    therapy app shows concrete evidence of accelerating toward 10M users. Articles [0], [4], [9], [10], [11] signal regulatory/reputational
+    headwinds (lawsuits, data bans, attachment concerns) that could impede growth.

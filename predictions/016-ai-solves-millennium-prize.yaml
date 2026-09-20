@@ -576,3 +576,14 @@ evidence:
   - https://www.nature.com/articles/d41586-026-02842-5
   - https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html
   - https://thenextweb.com/news/openai-navier-stokes-proof-published-millennium-prize
+- date: '2026-09-20'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://techspherenews.com/clay-institute-confirms-navier-stokes-solution-claim-review-underway
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://poly.rpi.edu/news/2026/09/navier-stokes-euler-and-the-ai-priority-question
+  - https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem
+  - https://runtimechronicle.com/en/news/une-ia-d-openai-attaque-navier-stokes-le-clay-institute-parle-deja-d-un-probleme-apparemment-regle/
+  - https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/

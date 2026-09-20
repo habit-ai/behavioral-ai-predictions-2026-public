@@ -570,3 +570,18 @@ evidence:
   - https://www.newsweek.com/democrats-gop-agree-in-new-poll-on-major-issue-ahead-of-midterms-ai-12413503
   - https://www.rutgers.edu/news/americans-use-artificial-intelligence-they-dont-want-it-charge
   - https://www.thirdway.org/polling/proceed-with-caution-what-voters-want-from-technology-regulation
+- date: '2026-09-20'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles directly provide evidence on the resolution criteria. The prediction requires ≥2% of Americans
+    to identify "computers/technology as most important problem" in Gallup polling by Dec 31, 2026, measured as a 4-month
+    average. None of the articles report this specific metric from Gallup''s "most important problem" survey series. Articles
+    [0-6] discuss related but distinct measures: worker fears about job displacement (27%), industry favorability ratings,
+    and AI concern levels—none of which are equivalent to the "most important problem" question that determines resolution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.gallup.com/poll/714368/workers-fear-losing-jobs-technology.aspx
+  - https://news.gallup.com/poll/714548/computer-sector-leads-drops-industry-ratings.aspx
+  - https://www.upi.com/Top_News/US/2026/09/15/gallup-poll-workers-concerned-about-tech-related-job-loss/9461789514715/
+  - https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/
+  - https://biztechweekly.com/gallup-finds-27-of-u-s-workers-fear-technology-could-make-their-jobs-obsolete/
+  trajectory_signal: 'Articles [0-6] show significant momentum in the relevant direction:'

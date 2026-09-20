@@ -641,3 +641,22 @@ evidence:
     suggesting positive momentum toward 1B WAU, though they don''t confirm achievement of the weekly target. The 900M → 1B
     gap appears achievable given growth rates observed (100M+ growth in ~12 months from Jan 2026 baseline), but requires sustained
     expansion through Q4 2026.'
+- date: '2026-09-20'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://dev.to/alifar/chatgpts-1-billion-weekly-users-make-ai-referral-tracking-an-seo-priority-4b79
+  relevance: 'STRONG: Article [1] provides DIRECT evidence that ChatGPT has surpassed 1 billion weekly active users as of
+    August 2026, according to OpenAI. This directly satisfies the resolution criteria (≥1B WAU confirmed). The article is
+    from September 17, 2026, within the preferred date range, and explicitly states the milestone has been achieved. No criteria
+    gaps remain—the prediction resolves YES based on this evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sqmagazine.co.uk/ai-search-engine-statistics/
+  - https://aiinsider.nl/chatgpt-statistieken/
+  trajectory_signal: Article [0] shows 900M WAU as of mid-September 2026, representing only a 100M user increase from the
+    January 2026 baseline of 800M over 8+ months—a decelerating growth rate. However, this is superseded by the confirmed
+    1B milestone in [1]. Article [3] corroborates 900M weekly users independently, suggesting some measurement consistency
+    at that level before the reported breakthrough to 1B. Together these show ChatGPT was approaching the threshold in late
+    summer 2026 and crossed it by early August. Article [2] discusses 1-1.5B cumulative trial users but explicitly notes a
+    "massive retention problem," which is directionally interesting for understanding the quality of the 1B WAU claim but
+    does not contradict the WAU metric itself.

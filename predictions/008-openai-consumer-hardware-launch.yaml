@@ -608,3 +608,19 @@ evidence:
   - https://www.therundown.ai/news/apple-openai-lawsuit-circuit-files-hardware-timing
   - https://www.europesays.com/people/217246/
   trajectory_signal: 'Multiple signals suggest momentum toward consumer hardware, but all point to 2027 timelines:'
+- date: '2026-09-20'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a public announcement AND launch of a consumer hardware product
+    by the cutoff date (Sept 20, 2026). All articles discuss unreleased, unannounced devices in development or litigation
+    phases. Article [8] claims a "launch" but contains a critical internal contradiction: the headline states "In A Week"
+    (implying ~Sept 26, 2026) but the body says "July 15, 2026" (a past date). The Codex Micro described is also explicitly
+    a developer tool ("targets software developers specifically"), which explicitly does NOT qualify per resolution criteria.
+    No KEEP-tier articles exist because none confirm both announcement AND launch have occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.analyticsinsight.net/ampstories/gadgets/openai-mystery-gadget-7-things-we-know-about-its-first-ai-hardware
+  - https://news.bloomberglaw.com/ip-law/apple-seeks-openais-upcoming-device-in-trade-secrets-lawsuit
+  - https://www.independent.co.uk/tech/openai-ai-camera-startup-device-glass-imaging-b3050343.html
+  - https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370
+  - https://thegadgetflow.com/blog/openai-smart-speaker-is-a-300-donut-and-ikea-already-sells-the-charm-for-30/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'

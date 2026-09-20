@@ -570,3 +570,16 @@ evidence:
   - https://www.ainvest.com/news/smart-glasses-bottleneck-lenses-2609/
   - https://www.businesswirechina.com/en/news/63922.html
   trajectory_signal: 'Two articles signal NEGATIVE momentum:'
+- date: '2026-09-20'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://foundernews.eu/7-million-meta-glasses-sold-now-fuel-european-outcry-over-secret-filming/
+  - https://startupfortune.com/chinas-smart-glasses-sales-double-as-xiaomi-and-rokid-undercut-meta-on-price/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://theclarity.today/story/idc-smart-glasses-market-share-idc-q2-2026-ebbc752d
+  - https://technode.com/2026/09/17/global-smart-eyewear-shipments-q2-2026/
+  - https://www.gate.com/news/detail/meta-to-launch-camera-free-smart-glasses-luna-next-week-shipping-in-october-24303646
+  - https://www.techbloat.com/samsungs-first-smart-glasses-are-already-unveiled-but-u-s-buyers-still-dont-have-a-date.html
+  - https://www.idc.com/resource-center/blog/smart-glasses-growth-cools-to-35-as-meta-doubles-down-on-distribution/

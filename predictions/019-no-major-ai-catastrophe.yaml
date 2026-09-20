@@ -603,3 +603,23 @@ evidence:
   - https://www.anthropic.com/news/alignment-assessment-cybersecurity-incidents
   - https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/
   - https://www.thenationalnews.com/news/mena/2026/09/11/how-yemeni-rebels-used-anthropics-ai-software-to-design-and-build-guided-weapons/
+- date: '2026-09-20'
+  summary: 3 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.bloomberg.com/graphics/2026-iran-school-attack/
+  - https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477
+  - https://nationalrevealed.com/2026/09/ai-use-faulty-intel-dated-imagery-the-us-kill-chain-behind-iran-school-strike-that-killed-123/
+  relevance: 'STRONG: Three articles (10, 11, 13) provide DIRECT evidence toward NO resolution. They document a February 28,
+    2026 US missile strike on an Iranian school in Minab that killed 123 children, with Pentagon investigators concluding
+    that AI (specifically Palantir AI technology) played a crucial enabling role in the targeting decision alongside flawed
+    intelligence and outdated imagery. This constitutes an "unusual catastrophe dramatically larger than past incidents" (123
+    child deaths) where AI was demonstrably crucial to enabling the outcome. The incidents meet the NO resolution criteria:
+    a qualifying catastrophe where AI was a crucial enabler.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.vox.com/future-perfect/503068/ai-infrastructure-hacking-cybersecurity
+  - https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html
+  - https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
+  - https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/
+  - https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/
+  trajectory_signal: 'Seven additional articles signal dangerous momentum toward further AI-enabled catastrophes:'

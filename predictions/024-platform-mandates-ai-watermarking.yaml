@@ -610,3 +610,19 @@ evidence:
     mentions "Regulatory Framework Takes Effect"), which creates pressure toward mandatory systems. However, current evidence
     shows platforms maintaining voluntary approaches (detection, labeling). The trajectory is directionally positive for eventual
     YES, but no platform mandate exists yet as of the evidence provided.
+- date: '2026-09-20'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by a major social media
+    platform. Article [5] explicitly demonstrates that Meta''s watermarking approach (Content Seal) is VOLUNTARY and has technical
+    limitations—it fails when content is cropped. This actually contradicts the resolution criteria by showing platforms are
+    pursuing detection/labeling rather than mandatory watermarking. Articles [0], [2], [3], [6], [7] address oversight board
+    actions against deepfakes and policy recommendations, but these involve content removal and labeling—not mandatory watermarking
+    mandates. Articles [8], [9], [10] cover disclosure requirements and labeling (voluntary or platform-applied), not mandatory
+    technical watermarking. The baseline context remains accurate: no major platform mandates technical watermarking as of
+    the current date.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://infohandle.net/2026/09/19/deepmind-watermark-tags-synthetic-media-newsrooms/
+  - https://beforeitsnews.com/business/2026/09/from-linkedin-to-reddit-seven-major-platforms-now-police-ai-generated-content-3802222.html
+  - https://www.techshotsapp.com/artificial-intelligence/the-cropping-loophole-metas-ai-detector-fails-to-spot-trimmed-deepfakes
+  trajectory_signal: 'Articles [1], [4], [5] signal directional momentum toward NO resolution:'

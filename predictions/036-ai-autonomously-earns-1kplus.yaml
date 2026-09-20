@@ -578,3 +578,16 @@ evidence:
     to earn $1 Bitcoin from zero with no human signups—demonstrates proof-of-concept for autonomous monetization pathways.
     Collectively these signal rapid maturation of autonomous agent commerce infrastructure and real deployment attempts, but
     none yet demonstrate a verified $1K→$2K doubling meeting all criteria.
+- date: '2026-09-20'
+  summary: 2 relevant articles, 10 trajectory signals
+  sources:
+  - https://www.ibtimes.sg/ai-agent-found-its-own-client-sold-work-got-paid-who-responsible-this-93900
+  - https://www.moneycontrol.com/news/trends/12-day-old-ai-agent-goes-job-hunting-emails-philosopher-for-paid-work-14032109.html
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://pivotnews.ai/five/ai-agents-from-ilands-are-pitching-freelancers-for-work
+  - https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/
+  - https://wpnews.pro/news/ilands-ai-agents-sent-over-a-dozen-25-research-pitches-in-three-days
+  - https://www.the-express.com/news/us-news/216127/ai-agent-emails-professor-work-tokens
+  - https://financetracked.com/ai-agent-payments

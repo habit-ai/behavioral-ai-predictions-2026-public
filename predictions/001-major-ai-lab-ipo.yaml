@@ -632,3 +632,16 @@ evidence:
   - https://www.indiatoday.in/amp/business/ipo/story/openai-anthropic-ipos-ai-boom-valuations-public-market-test-spacex-2992561-2026-09-11
   - https://www.digit.fyi/anthropic-nears-ipo-filing-as-banks-jostle-for-top-roles/
   - https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters
+- date: '2026-09-20'
+  summary: 4 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.mexc.co/learn/article/anthropic-vs-openai-ipo-whats-confirmed-whats-rumor-and-who-lists-first/1
+  - https://www.mexc.co/learn/article/where-is-anthropics-s-1-inside-the-anthropic-ipo-filing-june-2026/1
+  - https://cryptobriefing.com/anthropic-targets-november-ipo-delay/
+  - https://walletinvestor.com/news/ai-news/anthropic-reportedly-delays-ipo-to-november-2026-as-costs-and-security-reviews-mount/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/
+  - https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing
+  - https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/

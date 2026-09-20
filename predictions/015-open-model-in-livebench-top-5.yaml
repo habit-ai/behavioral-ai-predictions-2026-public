@@ -551,3 +551,13 @@ evidence:
   trajectory_sources:
   - https://pasqualepillitteri.it/en/news/14684/open-source-closes-gap-artificial-analysis
   - https://247wallst.com/cards/xpost-01m1yj852p230gg5tksfn4q7bh
+- date: '2026-09-20'
+  summary: 8 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techshotsapp.com/technology/alibabas-qwen3-max-ai-model-surpasses-gpt-5-chat-on-global-leaderboards
+  - https://theedgemalaysia.com/node/813064
+  - https://www.winzheng.com/review/qwen3-max-claude-opus-deepseek-v4-pro-smoke-trend-2026-w38
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use
+  - https://pasqualepillitteri.it/en/news/17133/minicpm5-2b-open-source-beats-qwen35-4b

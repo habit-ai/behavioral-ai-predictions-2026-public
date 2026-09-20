@@ -549,3 +549,16 @@ evidence:
   - https://www.musicnews.com/news/2026-09-11-holatune-expands-distribution-to-include-ai-generated-music-from-suno-and-udio
   - https://www.musicbusinessworldwide.com/suno-v6-ai-music-models-launch-in-partnership-with-wmg-bmg-and-believe/
   trajectory_signal: 'Multiple signals indicate momentum toward YES resolution:'
+- date: '2026-09-20'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of an AI-generated vocal song reaching Spotify''s global weekly top
+    10. Article [0] mentions Sienna Rose with "nearly three million streams" and "viral hits," but provides no confirmation
+    she is AI-generated or that any song reached top 10. Article [5] shows current Spotify weekly global chart leaders (Karol
+    G, ADÉLA, LISA) with no indication these are AI-vocal tracks. Critical criteria gap: None of these articles demonstrate
+    an AI-vocal track actually charting in the global top 10 weekly.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aimusicpreneur.com/ai-music-news/siqa-ai-music-intelligence-report-mid-year-2026-9-findings/
+  - https://www.koreaherald.com/article/10871543
+  - https://www.aimusicpreneur.com/ai-music-news/major-labels-releasing-ai-music-warner-number-one-mid-year-2026/
+  trajectory_signal: 'Articles signal meaningful momentum toward YES resolution:'

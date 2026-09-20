@@ -510,3 +510,14 @@ evidence:
   - https://robottoday.com/industry-briefing/goldman-sachs-and-morgan-stanley-revise-humanoid-robot-shipment-forecasts-significantly/12363
   - https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home
   - https://robotwale.com/news/humanoid-robot-pricing-drops-figure-02-optimus-gen3-target-mass-market
+- date: '2026-09-20'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://singularity.kiwi/agibot-counterpoint-9700-humanoid-shipments-2026/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ai.42how.com/en/article/522bcf8d-b263-5f1e-9b3b-4bd0cbdcce8c
+  - https://eu.36kr.com/en/p/3985460706334600
+  - https://roboticsandautomationnews.com/2026/09/18/agibot-claims-top-spot-in-global-humanoid-robot-shipments-in-first-half-of-2026/104930/
+  - https://eu.36kr.com/en/p/3985460706334600

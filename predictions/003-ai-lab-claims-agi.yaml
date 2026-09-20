@@ -643,3 +643,23 @@ evidence:
     Huang publicly declared "AGI has arrived" on Sep 7, corroborating the claim. Article 4 describes OpenAI''s characterization
     of GPT-6 Astra as having "AGI-like qualities." This suggests industry figures are converging on AGI-arrival narratives,
     strengthening the momentum of the claim.'
+- date: '2026-09-20'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.fastcompany.com/91607269/openai-says-the-agi-era-has-begun-ai-researchers-arent-so-sure
+  - https://phronews.com/openai-launches-gpt-6-astra-declaring-dawn-of-agi-era/
+  - https://pctechmag.com/2026/09/gpt-6-astra-is-here-openai-says-the-agi-era-has-arrived/
+  relevance: 'MODERATE: Articles [5], [7], and [9] directly document OpenAI''s public claim of AGI arrival. Article [7] states:
+    "Launched on September 3, the model has prompted company president Greg Brockman to suggest that artificial general intelligence
+    (AGI) may have arrived." Article [9] has the headline "GPT-6 Astra Is Here: OpenAI Says the AGI Era Has Arrived" and confirms
+    Brockman''s statement at a briefing with reporters. Article [5] explicitly reports "OpenAI says the AGI era has begun"
+    from their GPT-6 Astra launch event on September 15, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/
+  - https://www.gate.com/news/detail/deepminds-shane-legg-dismisses-agi-claims-says-astra-falls-short-of-openais-24323598
+  trajectory_signal: 'The trajectory shows momentum TOWARD_YES (OpenAI has made a public AGI claim) but with significant headwinds.
+    The claim exists but is immediately challenged on definitional grounds by competing labs. This suggests either: (a) OpenAI''s
+    claim may not hold up as definitively satisfying resolution criteria if "AGI" remains contested, or (b) the prediction
+    resolves YES if the claim itself (regardless of validity) counts. The safety-focused countermove by Amodei and others
+    [2, 3, 10-14] suggests industry skepticism about OpenAI''s AGI declaration.'

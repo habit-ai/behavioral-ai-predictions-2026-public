@@ -582,7 +582,8 @@ evidence:
     unknown.'
 - date: '2026-09-06'
   event_date: '2026-09-03'
-  summary: "OpenAI replaced its self-improvement suite after finding OPQA problems not solvable under test conditions. Astra's 78.05% Internal Research Debugging score covers a different 41-bug evaluation and does not resolve OPQA."
+  summary: OpenAI replaced its self-improvement suite after finding OPQA problems not solvable under test conditions. Astra's
+    78.05% Internal Research Debugging score covers a different 41-bug evaluation and does not resolve OPQA.
   source: https://deploymentsafety.openai.com/gpt-6-astra
   kind: manual_review
   sources:
@@ -593,3 +594,20 @@ evidence:
   review_record: reviews/2026-midyear/034.yaml
   supporting_sources:
   - https://deploymentsafety.openai.com/gpt-5-6
+- date: '2026-09-20'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles directly address OpenAI-Proof Q&A benchmark performance. The prediction requires a specific
+    metric: "Best AI performance on OpenAI-Proof Q&A" exceeding 25% by December 31, 2026. The baseline establishes GPT-5.1-Codex-Max
+    at 8% (January 2026) and GPT-5.2 at 3% on this specific 20-question benchmark. None of the articles provide direct measurements
+    of OpenAI-Proof Q&A performance. Articles 0, 7, 8, 9, 11 discuss other benchmarks (FrontierMath, ARC-AGI, MLPerf, BrowseComp,
+    SWE-bench). Critical criteria gap: No article reports the current (September 2026) score on the OpenAI-Proof Q&A benchmark
+    specifically.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://cubig.ai/blogs/gpt-6-astra-enterprise-ai-data-path/
+  - https://8braid.com/journal/openai-navier-stokes-proof-meets-a-new-kind-of-database
+  - https://techjournal.org/openai-navier-stokes-claim
+  - https://ca.finance.yahoo.com/news/openai-88-hour-math-proof-111500788.html
+  - https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/
+  trajectory_signal: 'Articles 0-6, 10 provide strong directional signals toward YES by demonstrating rapid AI capability
+    advancement in mathematical problem-solving:'

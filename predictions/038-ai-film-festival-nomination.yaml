@@ -610,3 +610,11 @@ evidence:
   trajectory_sources:
   - https://www.mk.co.kr/en/movies/12146484
   - https://www.theamericanquorum.com/ai-documentary-at-venice-blurs-archive-and-invention/
+- date: '2026-09-20'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://blog.tapnow.media/en/tamar-ai-in-cannes-and-venice/
+  - https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/
+  - https://www.ctvnews.ca/toronto/article/director-danny-boyle-defends-use-of-ai-in-new-film-ink-at-tiff-screening/

@@ -611,3 +611,16 @@ evidence:
     reached ≥5% with AI cited as primary driver, resolution would trigger. The trajectory strongly suggests Singapore is the
     most likely candidate among countries covered here, but the evidence remains incomplete without official GDP figures and
     explicit confirmation of "primary contributor" status in an official report.
+- date: '2026-09-20'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires an official
+    government report explicitly crediting AI as the PRIMARY CONTRIBUTOR to ≥5% annual GDP growth in 2026. None of the articles
+    present such an official report.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.visiontimes.com/2026/09/18/morgan-stanley-raises-taiwans-2026-growth-forecast-as-ai-boom-accelerates.html
+  - https://www.briefasia.com/en/article/taiwan-gdp-growth-forecast-lifted-ai-chip-demand
+  - https://www.businesstimes.com.sg/singapore/economists-keep-strong-nodx-outlook-after-augusts-46-2-surge-led-ai-boom
+  - https://theedgemalaysia.com/node/811353
+  - https://techdefused.com/a/FxKkC6a/ai-drives-nearly-half-of-chinas-export-growth-economist-says
+  trajectory_signal: 'Articles show MODERATE momentum toward YES:'

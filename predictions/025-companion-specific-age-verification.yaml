@@ -640,3 +640,15 @@ evidence:
   - https://startupfortune.com/newsom-signs-adams-law-californias-toughest-ai-chatbot-safety-rules/
   - https://www.techtimes.com/articles/327301/20260911/newsom-signs-california-kids-safety-laws-age-verification-now-applies-all-users-not-just-teens.htm
   trajectory_signal: 'Articles [4], [7], [8] signal meaningful momentum TOWARD YES:'
+- date: '2026-09-20'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.zwillgen.com/artificial-intelligence/adams-law-california-raises-the-bar-for-child-chatbot-protections/
+  - https://www.biometricupdate.com/202609/california-child-safety-laws-expand-age-checks-to-addictive-feeds-ai-chatbots
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/
+  - https://www.wsgrdataadvisor.com/2026/09/european-commission-proposes-eu-kids-act-to-restrict-childrens-access-to-online-services/
+  - https://www.biometricupdate.com/202609/eu-commission-proposes-broad-scope-for-tiered-age-assurance
+  - https://www.lexblog.com/2026/09/18/european-commission-proposes-eu-kids-act-to-restrict-childrens-access-to-online-services/

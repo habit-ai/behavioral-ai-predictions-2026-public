@@ -530,3 +530,13 @@ evidence:
   - https://thequantumdispatch.com/articles/qwen3-8-max-0902-coding-update
   - https://gigazine.net/gsc_news/en/20260911-deepseek-v4-1-flash/
   trajectory_signal: 'Articles [3], [4], and [9] signal meaningful momentum TOWARD_YES:'
+- date: '2026-09-20'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techshotsapp.com/technology/alibabas-qwen3-max-ai-model-surpasses-gpt-5-chat-on-global-leaderboards
+  - https://www.techtimes.com/ai-benchmarks
+  - http://www.0539edu.com/news/3268065/blog.html
+  - https://www.aicoin.com/en/news-flash/3083647
+  - https://sabr-labs.com/article/shanghai-ai-lab-atria-dawn-preview-744b-open-agent-september-2026

@@ -521,3 +521,18 @@ evidence:
     being AI-written suggests AI-authored inventory exists but lacks visibility/disclosure. The direction trends toward YES
     because bestseller pathways are proven viable, but the lack of any disclosed AI-authored bestseller yet means the specific
     criterion hasn''t materialized.'
+- date: '2026-09-20'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a disclosed primarily-AI-written book (>50%) reaching NYT bestseller
+    or Amazon top 100 in 2026. Articles [3], [4], [5], [6], [7] discuss actual bestseller lists but none mention AI-written
+    books achieving those rankings. The prediction requires concrete resolution evidence: a specific book that is (1) disclosed
+    as >50% AI-written, (2) reaching NYT bestseller or Amazon top 100. This specific combination has not occurred in any article
+    reviewed.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://booktoktimes.com/the-94m-ghost-pen-booktok-is-hunting-ai-written-books-in-real-time/
+  - https://oneplacenews.com/the-rise-of-parasite-authors/
+  - https://www.change.org/p/ban-ai-generated-books-from-amazon-s-kindle-unlimited-now-there-is-no-space-for-ai
+  - https://qoshe.com/the-spectator/katherine-dee/why-is-my-high-school-classmate-releasing-an-ai-generated-novel-/189192067
+  - https://reports.bankstreet.edu/how-to-report-kindle-book-for-using-ai
+  trajectory_signal: 'Articles [0], [1], [8], [9], [10] collectively signal STRONG MOMENTUM TOWARD_NO:'

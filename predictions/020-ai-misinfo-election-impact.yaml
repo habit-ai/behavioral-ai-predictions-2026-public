@@ -567,3 +567,20 @@ evidence:
     Australia, Sri Lanka, Nigeria, Sweden, Brazil, US), with electoral bodies implementing disinformation codes and warnings.
     However, these remain preparatory/defensive rather than investigative findings. The trajectory indicates movement toward
     the YES resolution criterion, but the critical gap—an official finding of material impact—has not yet been crossed.'
+- date: '2026-09-20'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an OFFICIAL FINDING of material election impact from AI-generated misinformation.
+    The resolution criteria require either "official finding of material election impact" or "triggering formal investigation"
+    — neither has been documented in these articles. Article [2] and [6] describe Russian disinformation campaigns with deepfakes
+    targeting US midterms, but contain no official attribution of material impact or formal investigation announcement. Article
+    [8] cites US intelligence acknowledgment of a Russian AI-assisted campaign but stops short of claiming official findings
+    of material election effects. Articles [0], [1], [4], [5], [7], [9] discuss regulatory efforts, concerns, and safeguards
+    but do not document official findings. Article [10] (Brazilian election context) involves a judicial order to remove content
+    but does not establish material election impact. The prediction remains unresolved.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.france24.com/en/live-news/20260914-russian-disinformation-campaign-sets-sights-on-us-midterms
+  - https://www.akelicious.net/2027-inec-seeks-au-support-to-tackle-deepfakes-disinformation-election-risks/
+  - https://ground.news/article/us-intelligence-revealed-a-new-russian-campaign-of-influence-before-the-elections
+  - https://idahopublicpress.com/russia-fakes-cnn-and-bbc-news-reports-in-new-ai-campaign-aimed-at-senate-races/
+  trajectory_signal: 'Several signals indicate momentum TOWARD_YES resolution, though still short of the threshold:'
