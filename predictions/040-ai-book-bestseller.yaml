@@ -536,3 +536,21 @@ evidence:
   - https://qoshe.com/the-spectator/katherine-dee/why-is-my-high-school-classmate-releasing-an-ai-generated-novel-/189192067
   - https://reports.bankstreet.edu/how-to-report-kindle-book-for-using-ai
   trajectory_signal: 'Articles [0], [1], [8], [9], [10] collectively signal STRONG MOMENTUM TOWARD_NO:'
+- date: '2026-09-27'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires a book that is: (1) DISCLOSED
+    as >50% AI-written, (2) reaches NYT bestseller or Amazon top 100, and (3) both conditions met in 2026.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france
+  - https://www.euronews.com/2026/09/23/cetait-ca-ou-mourir-literary-sensation-faces-claims-of-using-ai
+  - https://www.theglobeandmail.com/culture/books/article-thelyson-orelien-canadian-author-removed-prix-goncourt-longlist-ai/
+  - https://indianexpress.com/article/books-and-literature/ai-france-thelyson-orelien-allegations-prix-goncourt-10893874/
+  - https://spectator.com/article/did-ai-write-the-french-book-of-the-year/
+  trajectory_signal: The Thélyson Orélien case signals NEGATIVE momentum toward YES resolution. While it demonstrates an AI-written/AI-assisted
+    book achieving notable success in French literary circles (TOWARD_YES momentum on market traction), the critical failure
+    is the ABSENCE of voluntary disclosure. The author denied allegations, his publisher halted promotion, and he was removed
+    from major prizes—the opposite of a strategy to disclose and promote an AI-written book. This reveals significant reputational/commercial
+    disincentives against disclosure, suggesting future AI-written books may follow similar denial patterns rather than transparent
+    disclosure strategies. The case shows that while AI-assisted books can achieve sales success, the disclosure requirement
+    remains a major barrier to meeting resolution criteria.

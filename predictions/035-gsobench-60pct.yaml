@@ -504,3 +504,24 @@ evidence:
   direction: TOWARD_NO
   trajectory_sources:
   - https://www.techshotsapp.com/technology/alibabas-qwen3-max-ai-model-surpasses-gpt-5-chat-on-global-leaderboards
+- date: '2026-09-27'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on GSOBench performance or hack-adjusted opt@1 scores. The resolution
+    criteria require a specific benchmark (GSOBench) with a specific metric (hack-adjusted Opt@1) exceeding 60% by Dec 31,
+    2026. None of the articles mention GSOBench or report results on this metric. Articles 9, 10, and 12 discuss GPT-6 Astra''s
+    exceptional performance on other benchmarks (ARC-AGI-3 at 99.9%, reasoning benchmarks, multimodal agent benchmarks), but
+    these are different evaluation frameworks. Article 0 discusses Nvidia''s token optimization work but on EdgeBench, not
+    GSOBench. The baseline context shows GPT-5.2 at 26.5% on GSOBench as of January 2026—a significant gap to 60%.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://techspherenews.com/nvidia-s-sol-pi-trims-coding-agent-token-use-by-49-via-harness-optimization
+  - https://gcn.com/gpt-6-astra-hit-percent-reasoning/21940/
+  - https://aibreakingwire.com/news/openais-gpt-6-astra-scores-999-on-arc-agi-3-benchmark
+  - https://www.gpts24.com/en/news/gpt-6-astra-breaks-a-solo-developer-s-multimodal-benchmark-built-by-coding-agents
+  trajectory_signal: Articles 9, 10, and 12 show strong positive momentum in frontier model capabilities (GPT-6 Astra achieving
+    near-perfect scores on multiple challenging benchmarks). Article 0 shows progress in coding agent efficiency through optimization
+    techniques. These signals suggest the AI capability landscape is advancing rapidly and could plausibly extend to GSOBench
+    performance. However, without any direct GSOBench measurements or mentions of similar codebase optimization benchmarks,
+    the trajectory remains speculative. The ~26.5% starting point in January requires a 127% absolute improvement in 12 months,
+    which would need either a major model capability jump or dramatic improvements in agentic coding approaches. The trajectory
+    is directionally encouraging but the gap remains substantial with ~3 months remaining.

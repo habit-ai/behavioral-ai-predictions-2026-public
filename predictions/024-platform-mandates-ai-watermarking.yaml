@@ -626,3 +626,18 @@ evidence:
   - https://beforeitsnews.com/business/2026/09/from-linkedin-to-reddit-seven-major-platforms-now-police-ai-generated-content-3802222.html
   - https://www.techshotsapp.com/artificial-intelligence/the-cropping-loophole-metas-ai-detector-fails-to-spot-trimmed-deepfakes
   trajectory_signal: 'Articles [1], [4], [5] signal directional momentum toward NO resolution:'
+- date: '2026-09-27'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a major social media platform implementing mandatory AI watermarking.
+    The resolution criteria require a specific outcome: mandatory (not voluntary) technical watermarking for all AI-generated
+    content on a major social media platform. All reviewed articles discuss voluntary labeling, optional C2PA standards, disclosure
+    requirements, or detection tools—none describe mandatory watermarking implementation by platforms like Meta, TikTok, YouTube,
+    or Google. Articles [0], [9], [10] discuss regulatory disclosure requirements in California/EU/Canada, but these are government
+    mandates for advertisers/deployers, not platform implementation of technical watermarking. The critical gap: no platform
+    has moved from voluntary to mandatory watermarking systems.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://m.globalpana.com/posts/5683
+  - https://inet.detik.com/cyberlife/d-8674084/cegah-penyalahgunaan-ai-capcut-siapkan-watermark-gaib-dan-standar-c2pa
+  - https://www.nssmag.com/en/lifestyle/46923/does-the-created-with-ai-label-still-make-sense
+  trajectory_signal: 'Articles [1], [4], [5] signal directional momentum TOWARD_NO (resolution unlikely):'

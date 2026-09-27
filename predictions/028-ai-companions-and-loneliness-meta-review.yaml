@@ -676,3 +676,13 @@ evidence:
   - https://www.medscape.com/viewarticle/teens-use-ai-emotional-support-what-doctors-should-know-2026a1000y9x
   - https://ca.news.yahoo.com/ai-more-comforting-person-research-141538295.html
   trajectory_signal: 'Strong momentum building toward YES resolution, though criteria not yet met:'
+- date: '2026-09-27'
+  summary: 7 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://phys.org/news/2026-09-ai-companions-erode-social-skills.html
+  - https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0357753
+  - https://www.theglobeandmail.com/life/article-can-robots-and-ai-companions-help-seniors-feel-less-alone/
+  - https://scienmag.com/ai-companions-could-ease-loneliness-in-serious-mental-illness-if-people-help-design-them/
+  - https://www.thestatesman.com/technology/my-best-friend-is-a-chatbot-what-the-research-says-about-gen-zs-growing-friendship-with-ai-1503642330.html

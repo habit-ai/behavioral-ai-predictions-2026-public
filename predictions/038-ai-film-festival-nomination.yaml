@@ -618,3 +618,15 @@ evidence:
   - https://blog.tapnow.media/en/tamar-ai-in-cannes-and-venice/
   - https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/
   - https://www.ctvnews.ca/toronto/article/director-danny-boyle-defends-use-of-ai-in-new-film-ink-at-tiff-screening/
+- date: '2026-09-27'
+  summary: 2 relevant articles, 4 trajectory signals
+  sources:
+  - https://www.filminquiry.com/venice-film-festival-ai/
+  - https://movieswetextedabout.com/titanic-ocean-should-be-left-to-drown-cannes-2026-film-review/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - http://www.tbmtalks.com/news/20260924_108967.html
+  - https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/
+  - https://www.worldofreel.com/blog/2026/9/19/martin-scorsese-produced-trees-are-watching-panned-at-tiff-over-repulsive-ai-generated-footage
+  - https://vninews.com/the-iskoon-bridge-ai-generated-gujarati-film-release-november-13/

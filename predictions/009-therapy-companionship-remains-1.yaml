@@ -551,3 +551,22 @@ evidence:
     by therapy apps toward the 10M MAU target. The trajectory is modestly positive for the sector overall, but no individual
     therapy app shows concrete evidence of accelerating toward 10M users. Articles [0], [4], [9], [10], [11] signal regulatory/reputational
     headwinds (lawsuits, data bans, attachment concerns) that could impede growth.
+- date: '2026-09-27'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Article [4] mentions Wysa in a research initiative
+    but provides no MAU figures—baseline context already notes Wysa has "more than 5 million" users, well below the 10M threshold.
+    The prediction requires >10M MAU by end of 2026 for a specific AI therapy/mental health app; no article demonstrates any
+    app has crossed this threshold. Article [8] describes Ant Afu (a general health AI app, not specifically therapy/mental
+    health) reaching 150M users, but this is a distinct product category and doesn''t satisfy the therapy/mental health app
+    criteria.'
+  trajectory_sources:
+  - https://www.tipranks.com/news/private-companies/wysa-highlighted-in-research-backed-digital-mental-health-initiative
+  - https://health.mojok.co/1018-2/
+  trajectory_signal: 'Article [4] (Wysa featured in research-backed digital mental health initiative, 2026-09-21) signals
+    modest momentum in Wysa''s institutional positioning and market visibility, but from a baseline of 5M+ users, reaching
+    10M represents only 2x growth needed in ~3 months—no evidence suggests this pace is achievable. Article [8] shows strong
+    growth in general health AI (Ant Afu: 150M users), suggesting the broader health AI category is scaling, but this does
+    not transfer to the narrower therapy/mental health subcategory where Wysa faces headwinds (Woebot shut down consumer app
+    in Jun 2025; articles [0], [1], [7], [11] highlight safety/harm concerns, regulatory scrutiny, and user backlash against
+    AI companion intimacy features). The overall trajectory is TOWARD_NO: the therapy/mental health AI space is contracting
+    (Woebot exit) and facing reputational damage, making 10M MAU achievement unlikely by year-end 2026.'

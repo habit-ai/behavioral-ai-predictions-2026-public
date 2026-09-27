@@ -530,3 +530,26 @@ evidence:
   - https://aiweekly.co/alerts/elephant-benchmark-llms-flatter-users-45-points-above-humans
   - https://pazacademy.ch/paz-kaffi/anthropic-gives-claude-mythos-20-hours-of-psychiatry-and-calls-that-safety-research/
   trajectory_signal: 'Four articles signal directional momentum toward YES:'
+- date: '2026-09-27'
+  summary: 4 relevant articles, 2 trajectory signals
+  sources:
+  - https://openai.com/zh-Hans-CN/index/introducing-mentalhealthbench/
+  - https://www.bhnet.org/84995/openai-launches-mentalhealthbench-for-ai-mental-health-testing/
+  - https://aetos.ai/posts/a6cfab52b28ace78
+  - https://aistackcurrent.com/news/openai-mentalhealthbench-mental-health-evaluation/
+  relevance: 'STRONG: Articles [0, 2, 5, 8] provide direct evidence that OpenAI (a major AI lab) has adopted MentalHealthBench,
+    a benchmark measuring AI''s psychological/behavioral impacts on users. The benchmark was released September 23, 2026,
+    and measures AI responses across mental health domains including safety, user context-seeking, user agency preservation,
+    and actionable guidance. Created with 80+ licensed mental health professionals across 22 countries, it evaluates 1,215
+    synthetic mental health conversations. However, critical criteria gap remains: None of these articles explicitly confirm
+    whether OpenAI has referenced this benchmark in an official model card or safety report. The articles describe the benchmark
+    itself but don''t verify formal integration into OpenAI''s documented model documentation or safety reporting—which is
+    the specific resolution criterion ("references in model card/safety report").'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://news.smu.edu.sg/news/2026/09/24/smu-duke-nus-study-offers-new-framework-understanding-how-ai-companions-may-shape
+  - https://www.thedeepview.com/articles/openai-s-mental-health-test-exposes-ai-s-blind-spots
+  trajectory_signal: Articles [3, 7] show directional progress. Article [3] signals academic research validating the importance
+    of measuring AI's psychological/behavioral impacts (social inequality framework). Article [7] shows OpenAI's public commitment
+    to measuring AI's "blind spots" in emotional support domains. Together these indicate growing momentum toward formalizing
+    such measurements, though they don't constitute adoption into official documentation yet.

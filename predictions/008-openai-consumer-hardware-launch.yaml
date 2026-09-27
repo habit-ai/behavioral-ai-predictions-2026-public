@@ -624,3 +624,13 @@ evidence:
   - https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370
   - https://thegadgetflow.com/blog/openai-smart-speaker-is-a-300-donut-and-ikea-already-sells-the-charm-for-30/
   trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-09-27'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://eurweb.com/openai-ai-device/
+  - https://www.techshotsapp.com/artificial-intelligence/openais-first-ai-device-a-sleek-screenless-wearable-designed-by-jony-ive
+  - https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy
+  - https://mixed-news.com/en/apple-openai-io-forensic-images-metal-finish-battery-discovery/
+  - https://www.techshotsapp.com/artificial-intelligence/openai-acquires-jony-ives-ai-hardware-startup-io-for-64b-to-drive-ai-integrated-device-innovation

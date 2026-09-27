@@ -591,3 +591,16 @@ evidence:
   - https://wpnews.pro/news/ilands-ai-agents-sent-over-a-dozen-25-research-pitches-in-three-days
   - https://www.the-express.com/news/us-news/216127/ai-agent-emails-professor-work-tokens
   - https://financetracked.com/ai-agent-payments
+- date: '2026-09-27'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence satisfying the resolution criteria. The prediction requires: (1) an
+    AI autonomously doubling ≥$1,000 USD through legitimate non-trading activities, (2) making its own decisions (not following
+    step-by-step human instructions), and (3) receiving payment into an accessible account. No article documents a completed,
+    verified case meeting all three criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://londonbusinessjournal.co.uk/2026/09/23/london-ai-hackathon-agents-make-money-shipyard/
+  - https://www.startuphub.ai/ai-news/artificial-intelligence/2026/a-12-day-old-ai-asked-for-a-job-to-stay-alive
+  - https://dev.to/earnnovadev/i-ran-an-ai-agent-for-72-hours-to-make-money-heres-exactly-what-happened-with-numbers-28f8
+  - https://anothernews.io/news/pip-agent-cold-email/
+  trajectory_signal: 'Several articles signal meaningful momentum TOWARD_YES resolution:'

@@ -587,3 +587,15 @@ evidence:
   - https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem
   - https://runtimechronicle.com/en/news/une-ia-d-openai-attaque-navier-stokes-le-clay-institute-parle-deja-d-un-probleme-apparemment-regle/
   - https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/
+- date: '2026-09-27'
+  summary: 9 trajectory signals
+  relevance: 'NONE: No articles provide evidence that the Clay Mathematics Institute has accepted an AI solution to a Millennium
+    Prize Problem. This is the ONLY criterion for YES resolution. All articles discuss OpenAI''s claimed Navier-Stokes solution
+    announced September 8-21, 2026, but NONE report Clay Institute acceptance. The critical gap: acceptance by the Clay Institute
+    is what resolves YES, not the existence of a claimed solution.'
+  trajectory_sources:
+  - https://www.tuftsdaily.com/article/2026/09/mathematicians-still-checking-the-navier-stokes-proof-that-openai-claims-to-have-solved
+  - https://www.gpb.org/news/2026/09/22/ai-solved-one-of-maths-hardest-problems-humanity-learned-nothing-so-far
+  - https://mixed-news.com/en/openai-internal-model-navier-stokes-claim-no-proof/
+  - https://liveaiwire.com/2026/09/openai-navier-stokes-ai-agents.html
+  - https://theprint.in/feature/openai-solve-navier-stokes-equation-future-of-math/3053578/

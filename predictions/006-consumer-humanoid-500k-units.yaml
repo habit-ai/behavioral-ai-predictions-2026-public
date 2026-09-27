@@ -521,3 +521,12 @@ evidence:
   - https://eu.36kr.com/en/p/3985460706334600
   - https://roboticsandautomationnews.com/2026/09/18/agibot-claims-top-spot-in-global-humanoid-robot-shipments-in-first-half-of-2026/104930/
   - https://eu.36kr.com/en/p/3985460706334600
+- date: '2026-09-27'
+  summary: 4 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.ictbusiness.biz/analysis/humanoid-robot-shipments-soar-in-1h26
+  - https://theroboticsmedia.com/article/1x-technologies-50000-neo-humanoid-shipments-2027-bernt-bornich-hayward-san-carlos-september-2026
+  - https://espresso.cafecito.tech/tesla-optimus-supplier-audit-no-field-data/
+  - https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/

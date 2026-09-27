@@ -663,3 +663,16 @@ evidence:
     claim may not hold up as definitively satisfying resolution criteria if "AGI" remains contested, or (b) the prediction
     resolves YES if the claim itself (regardless of validity) counts. The safety-focused countermove by Amodei and others
     [2, 3, 10-14] suggests industry skepticism about OpenAI''s AGI declaration.'
+- date: '2026-09-27'
+  summary: 2 relevant articles, 1 trajectory signal
+  sources:
+  - https://onthewire.ai/article/openai-just-released-gpt-6-astra-and-it-s-calling-it-a-step-toward-agi
+  - https://shattered.io/jensen-huang-agi-arrived-gpt-6-astra-2026/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gcn.com/gpt-6-astra-hit-percent-reasoning/21940/
+  trajectory_signal: Articles [10], [1], [7], [8] show GPT-6 Astra's capabilities are generating discussion of AGI proximity,
+    and multiple labs are actively releasing/developing flagship models. DeepMind's leadership is deliberately deprioritizing
+    AGI framing (negative signal), while OpenAI's cautious positioning suggests internal uncertainty about making an explicit
+    AGI claim. Momentum is toward capability advancement, but away from formal AGI declarations.

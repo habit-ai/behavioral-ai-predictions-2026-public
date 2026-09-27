@@ -660,3 +660,23 @@ evidence:
     summer 2026 and crossed it by early August. Article [2] discusses 1-1.5B cumulative trial users but explicitly notes a
     "massive retention problem," which is directionally interesting for understanding the quality of the 1B WAU claim but
     does not contradict the WAU metric itself.
+- date: '2026-09-27'
+  summary: 3 relevant articles, 2 trajectory signals
+  sources:
+  - https://ground.news/article/openai-says-has-more-than-1-billion-active-users
+  - https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5
+  - https://dev.to/alifar/openai-products-pass-1-billion-weekly-users-what-businesses-should-watch-next-494k
+  relevance: 'STRONG: Articles [0], [1], and [3] provide direct evidence that OpenAI has achieved the ≥1B WAU threshold required
+    for YES resolution. All three articles, published 2026-09-22 to 2026-09-23 (within the preferred date range), explicitly
+    state that "OpenAI says ChatGPT and its broader product family now reach more than one billion weekly active users" or
+    equivalent phrasing. Article [0] cites this as an official OpenAI statement. Articles [1] and [3] reference "OpenAI''s
+    official announcement" as the source. The milestone appears to have been formally announced by OpenAI around late September
+    2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techshotsapp.com/artificial-intelligence/india-becomes-chatgpts-global-growth-engine-with-100-million-weekly-users
+  - https://en.theblockbeats.news/news/63783
+  trajectory_signal: Article [5] (2026-09-27) signals strong directional momentum showing India alone has 100M WAU, highlighting
+    geographic concentration of growth drivers. Article [6] notes ChatGPT's consumer AI market share at 64% MAU globally,
+    indicating sustained dominance despite competition. These reinforce that the 1B threshold reflects genuine sustained adoption
+    rather than a one-time spike.

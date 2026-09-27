@@ -583,3 +583,28 @@ evidence:
   - https://www.gate.com/news/detail/meta-to-launch-camera-free-smart-glasses-luna-next-week-shipping-in-october-24303646
   - https://www.techbloat.com/samsungs-first-smart-glasses-are-already-unveiled-but-u-s-buyers-still-dont-have-a-date.html
   - https://www.idc.com/resource-center/blog/smart-glasses-growth-cools-to-35-as-meta-doubles-down-on-distribution/
+- date: '2026-09-27'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.smartwearables.io/news/smart-glasses-shipments-167-percent-growth-idc-13-6-million-units-2026-forecast
+  relevance: 'STRONG: Article [4] published 2026-09-27 (today) provides DIRECT evidence: IDC forecasts 13.6 million smart
+    glasses units shipping in 2026, exceeding the 10M threshold. This is the only article that directly addresses full-year
+    2026 projections. The forecast is corroborated by context showing 4.2M units shipped in H1 2026 (per Omdia/Counterpoint
+    articles [6,9]), with Meta''s major Gen 3 launch occurring after the H1 measurement window closed [8]. The trajectory
+    from 4.2M in H1 to 13.6M projected for full year is mathematically consistent with accelerating demand post-launch. Criteria
+    gap: This is a FORECAST, not actual shipment data. Resolution requires verifying whether actual 2026 shipments exceed
+    10M when final year-end data is reported.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/
+  - https://www.meta.com/blog/ray-ban-meta-audio-and-deepest-ai-glasses-lineup/
+  - https://www.sammobile.com/news/meta-ray-ban-3rd-gen-smart-glasses-launch-ahead-samsung/
+  - https://www.digitaltoday.co.kr/en/view/106405/meta-surge-with-ray-ban-smart-glasses-shipments-jump-263-percent
+  trajectory_signal: 'Articles [1,2,3,5] signal strong momentum toward YES. Article [1] reports 263% YoY growth in H1 2026
+    with Apple preparing market entry. Article [2] is Meta''s announcement of Ray-Ban Meta Audio and expanded lineup (>100
+    options) launched 2026-09-23, expanding addressable market across price points ($249-$799) and form factors. Article [3]
+    documents Meta''s Gen 3 launch and Samsung''s imminent entry, intensifying competition. Article [5] confirms 263% growth
+    surge driven by Meta Ray-Ban. These show: (1) explosive YoY growth rates continuing into H1 2026; (2) major product expansions
+    post-H1 window; (3) new competitor entry (Apple, Samsung, Google Android XR mentioned in [4]); (4) market expanding from
+    ~2M baseline to established category. The timing of these launches AFTER H1 measurement creates strong momentum for H2
+    acceleration.'

@@ -584,3 +584,18 @@ evidence:
   - https://ground.news/article/us-intelligence-revealed-a-new-russian-campaign-of-influence-before-the-elections
   - https://idahopublicpress.com/russia-fakes-cnn-and-bbc-news-reports-in-new-ai-campaign-aimed-at-senate-races/
   trajectory_signal: 'Several signals indicate momentum TOWARD_YES resolution, though still short of the threshold:'
+- date: '2026-09-27'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide evidence of an official finding that AI-generated misinformation materially affected
+    a national election or triggered formal investigation into such material impact. The resolution criteria requires "Official
+    finding of material election impact" — a specific causal determination by authorities that AI-generated content changed
+    election outcomes or behavior in a measurable way.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.moldpres.md/eng/politics/moldovan-central-electoral-commission-s-reaction-to-distribution-of-falsified-video-involving-cec-president
+  - https://www.prd.euronews.com/my-europe/2026/09/23/fake-videos-spread-fraud-claims-during-german-elections
+  - https://www.nordishub.eu/swedens-election-aftermath-how-misinformation-shaped-the-campaign/
+  trajectory_signal: Articles [0], [6], and [7] show directional momentum toward YES resolution by documenting actual deployment
+    of AI-generated election misinformation during live national elections (Moldova 2026, Germany 2026, Sweden 2026). These
+    represent concrete incidents where deepfakes/AI content appeared in electoral contexts—matching the baseline pattern of
+    "deepfakes appeared in elections" but not yet the threshold of "official attribution of material impact."

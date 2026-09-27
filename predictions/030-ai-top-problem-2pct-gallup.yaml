@@ -585,3 +585,18 @@ evidence:
   - https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/
   - https://biztechweekly.com/gallup-finds-27-of-u-s-workers-fear-technology-could-make-their-jobs-obsolete/
   trajectory_signal: 'Articles [0-6] show significant momentum in the relevant direction:'
+- date: '2026-09-27'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of Americans identifying computers/technology as the "most important
+    problem" in Gallup''s open-ended "most important problem" polling. The resolution criteria requires a 4-month average
+    of ≥2% from that specific question format, which measures unprompted identification of technology/computers as THE top
+    concern. None of the articles present data from this exact question or show the metric approaching 2%.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.reuters.com/world/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-2026-09-22/
+  - https://yougov.com/en-us/articles/55608-many-americans-expect-big-benefits-from-ai-artificial-intelligence-concerns-are-rising-quickly-september-18-21-2026-economist-yougov-poll
+  - https://www.recruitingnewsnetwork.com/posts/worker-anxiety-increases-to-27-over-ai-related-job-displacement-report-finds
+  - https://www.clearnewswire.com/1283700.html
+  - https://newyorkexaminernews.com/technology/even-americans-who-use-ai-every-day-are-worried-about-it/
+  trajectory_signal: 'Multiple articles (1, 3, 5, 6, 7, 9, 10) demonstrate significant directional momentum TOWARD YES by
+    showing:'

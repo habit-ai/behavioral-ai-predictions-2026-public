@@ -645,3 +645,28 @@ evidence:
   - https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/
   - https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing
   - https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/
+- date: '2026-09-27'
+  summary: 1 relevant article, 8 trajectory signals
+  sources:
+  - https://onthewire.ai/article/openai-confidential-ipo-filing-june-2026
+  relevance: 'STRONG: Article [0] provides DIRECT evidence satisfying resolution criteria: "OpenAI has confidentially submitted
+    IPO paperwork to the SEC" and "OpenAI confirmed on 8 June it has confidentially filed a draft registration (an S-1) with
+    the SEC — the standard first step toward a public listing." This is an S-1 filing, which explicitly satisfies the resolution
+    criteria of "S-1 filing or IPO completed." The prediction requires "at least one major AI lab" to file for or complete
+    an IPO by Dec 31, 2026. OpenAI qualifies as a major AI lab, and the confidential S-1 filing constitutes the filing criterion.
+    No criteria gaps remain for YES resolution on this prediction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://forkast.news/the-anthropic-s-1-that-was-expected-after-labor-day-still-hasnt-arrived/
+  - https://unbiasedheadlines.com/article/anthropics-2-trillion-ipo-filing-still-missing-from-sec-records-as-founders-seek-501-voting-control
+  - https://time.com/partner-content/prediction-markets/prediction-markets-doubt-anthropic-s-ipo-timing/
+  - https://onthewire.ai/article/openai-tells-staff-it-ll-go-public-in-2027-and-that-the-ipo-is-just-another-fund
+  - https://intellectia.ai/news/stock/ai-companies-anthropic-and-openai-plan-ipos
+  trajectory_signal: 'Articles [1, 2, 3] show Anthropic filed confidentially on June 1, 2026, but the public prospectus filing
+    remains delayed as of late September—indicating regulatory/strategic friction but still within the 2026 timeline. Articles
+    [4, 6] reveal OpenAI''s leadership has signaled 2027 as the public debut timeline and described going public "now" as
+    "ill-advised," suggesting internal reluctance despite the S-1 filing. Articles [5, 9, 10, 11] indicate Anthropic is targeting
+    November 2026 for IPO completion and is handling pre-IPO governance structures (voting control arrangements), showing
+    active momentum toward completion. Overall, the trajectory is strongly TOWARD_YES: one major lab (OpenAI) has already
+    filed the required S-1, and another (Anthropic) is in advanced stages with November timing, both within the 2026 resolution
+    window.'

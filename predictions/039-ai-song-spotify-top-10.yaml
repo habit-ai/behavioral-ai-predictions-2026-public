@@ -562,3 +562,15 @@ evidence:
   - https://www.koreaherald.com/article/10871543
   - https://www.aimusicpreneur.com/ai-music-news/major-labels-releasing-ai-music-warner-number-one-mid-year-2026/
   trajectory_signal: 'Articles signal meaningful momentum toward YES resolution:'
+- date: '2026-09-27'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that an AI-generated vocal song has reached Spotify''s global top
+    10 in a single week. The Spotify global charts examined (articles 5, 6, 8) show no AI-vocal songs in the top 10 as of
+    late September 2026. The baseline context confirms this: "No AI-vocal song has reached Spotify global weekly top 10" as
+    of January 2026, and the current data from September 2026 shows no change to this status.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://eveningreport.nz/2026/09/23/ai-is-finding-chart-success-in-christian-gospel-and-country-music/
+  - https://letsdatascience.com/news/ai-generated-acts-reach-christian-and-country-charts-7021354f
+  - https://wowhow.cloud/blogs/fully-ai-music-peaked-hybrid-rule-siqa-mid-year-2026
+  trajectory_signal: 'Articles 0, 2, and 3 collectively signal meaningful momentum TOWARD_YES:'

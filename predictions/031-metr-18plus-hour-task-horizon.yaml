@@ -578,3 +578,23 @@ evidence:
     rapid capability progression in the domain, consistent with the baseline's 4-5 month doubling trajectory. However, none
     report September 2026 frontier model METR scores needed to verify if the 18+ hour target remains on track for December
     2026 resolution.
+- date: '2026-09-27'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence on METR task suite time horizons for the specific resolution criteria
+    (≥18hr 50min by Dec 31, 2026). Articles [0], [1], [2], [4], [9] discuss Claude Opus 5.5 and mention METR testing, but
+    contain no actual METR time horizon measurements. Article [3] discusses Vals AI''s "Time Horizon Index" in Kerbal Space
+    Program (5 days / 120 hours available), which is a different benchmark entirely, not the METR task suite. Article [5]
+    appears corrupted (content about cyanobacteria blooms is unrelated). Article [6] discusses METR''s governance/funding
+    issues, not model performance. Article [7] mentions various leaderboards but no METR time horizon data. Critical gap:
+    No concrete METR time horizon measurements are reported for any model in the current window.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://onthewire.ai/article/qwen3-7-max-release
+  trajectory_signal: Article [8] (Qwen3.7-Max, published 2026-09-26) reports Alibaba claims "day-long autonomous runs" (35+
+    hours). While this appears to reference a different evaluation than METR's task suite (the article mentions Artificial
+    Analysis Intelligence Index, not METR), it signals meaningful progress in sustained agentic reasoning across the industry.
+    Combined with the baseline (Opus 4.5 at ~4hr 49min in Dec 2025, doubling every 4-5 months), we're now ~9 months later
+    (Sep 2026). If doubling continues, we'd expect ~7-10 hours by now, and Alibaba's claim of 35+ hours suggests acceleration
+    beyond the previous doubling rate. This indicates directional momentum TOWARD_YES, though without METR-specific confirmation,
+    confidence is limited. The rapid release cadence (multiple frontier models in Sept 2026) also suggests active competition
+    pushing capabilities forward.

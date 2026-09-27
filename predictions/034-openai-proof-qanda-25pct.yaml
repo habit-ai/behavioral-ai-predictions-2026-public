@@ -611,3 +611,20 @@ evidence:
   - https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/
   trajectory_signal: 'Articles 0-6, 10 provide strong directional signals toward YES by demonstrating rapid AI capability
     advancement in mathematical problem-solving:'
+- date: '2026-09-27'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance specifically. The prediction requires
+    performance >25% on a specific 20-question benchmark (OpenAI''s internal bottleneck set). Critical gap: None of the articles
+    measure performance on this specific benchmark. Article [1] references OpenAI solving "over 100 long-standing math problems"
+    but provides no specifics on OpenAI-Proof Q&A. Articles [8] and [9] discuss IMO 2026 performance (42/42), which is a different
+    benchmark entirely. Article [3] discusses Nemotron on IMO (30/42), also not the target benchmark. The baseline context
+    shows GPT-5.1-Codex-Max at 8% and GPT-5.2 at 3% as of January 2026—no updates to these specific models on the specific
+    benchmark are provided.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/
+  - https://mixed-news.com/en/openai-internal-model-navier-stokes-claim-no-proof/
+  - https://www.seventnews.com/en/articles/nemotron-hit-imo-2026s-gold-threshold-at-3042-without-a-formal-prover
+  - https://traictory.com/news/2026-09-23-openai-math-advisory-group
+  trajectory_signal: 'Multiple signals suggest strong directional momentum toward YES, though none directly address the OpenAI-Proof
+    Q&A benchmark:'

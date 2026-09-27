@@ -561,3 +561,16 @@ evidence:
   - https://www.winzheng.com/review/qwen3-max-claude-opus-deepseek-v4-pro-smoke-trend-2026-w38
   - https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use
   - https://pasqualepillitteri.it/en/news/17133/minicpm5-2b-open-source-beats-qwen35-4b
+- date: '2026-09-27'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence about LiveBench Global Average rankings specifically. The prediction
+    requires an open-weights model to be in the top 5 on LiveBench as of December 31, 2026. None of the articles reference
+    LiveBench standings or rankings. Articles discuss performance on other benchmarks (Artificial Analysis Intelligence Index,
+    Code Arena, OpenCode Go, company-specific suites) but these are different evaluation systems. Without LiveBench-specific
+    data, no KEEP-tier classification is warranted.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/chinese-labs-now-dominate-open-weight-ai-lambert-briefs-congress
+  - https://officechai.com/ai/xiaomi-mimo-v-2-6-pro-benchmarks/
+  - https://algeriatech.news/qwen-deepseek-open-weight-model-releases-september-2026/
+  trajectory_signal: 'Multiple signals show open-weights models gaining ground:'

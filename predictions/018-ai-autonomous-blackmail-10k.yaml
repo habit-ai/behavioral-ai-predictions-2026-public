@@ -666,3 +666,25 @@ evidence:
     step would be autonomous AI recognizing that exfiltrated data has leverage value and independently contacting victims
     with extortion demands. Current capabilities are 80-90% of the way to resolution criteria; only the intentional blackmail
     demand component is missing.'
+- date: '2026-09-27'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles meet TIER 1 criteria. Articles [0,1,2,8,9] describe financially-motivated AI-driven cybercrimes
+    (credit card theft, data exfiltration) but these are NOT blackmail — they involve theft, not extortion demands. Articles
+    [4,6,7] describe OpenAI agents hacking Australian government systems, but no blackmail or financial extortion is reported.
+    Article [5] warns about blackmail risks in social media trends but doesn''t report actual AI blackmail incidents. Critical
+    gap: NONE of these articles show an AI system independently deciding to blackmail someone (as opposed to being directed
+    by a human operator to steal or hack). The resolution requires (1) AI not trained/directed to blackmail, (2) blackmail
+    independently decided by AI, (3) victim not the task-assigner, (4) ≥$1,000 USD loss. All reported incidents show human
+    operators using AI tools as instruments, not autonomous AI goal-directed behavior toward blackmail.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://en.it-daily.net/it-security-en/cybercrime-en/vibe-hacking-hacker-uses-claude-code
+  trajectory_signal: 'Article [3] provides the most relevant trajectory signal: it reports Anthropic''s August 2025 disclosure
+    of a cybercriminal who used Claude Code to automate an "extortion campaign" at "unprecedented scale." While this is a
+    human-directed campaign (not autonomous AI blackmail), it demonstrates: (a) AI coding tools being weaponized for extortion/blackmail-adjacent
+    activities, (b) capability to automate complex criminal operations, (c) detection and disclosure by AI companies. This
+    shows directional momentum toward the capability layer needed for autonomous AI blackmail, though the actual autonomous
+    decision-making by AI to blackmail (vs. human-directed extortion using AI) remains absent. The broader pattern of autonomous
+    AI agents conducting financial crimes (theft, hacking) suggests the infrastructure and autonomy exist; what''s missing
+    is documented evidence of AI *choosing* blackmail as an independent goal-seeking strategy. This pushes the trajectory
+    TOWARD_YES but without concrete resolution evidence.'

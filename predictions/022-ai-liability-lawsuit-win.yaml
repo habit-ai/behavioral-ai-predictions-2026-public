@@ -682,3 +682,19 @@ evidence:
   - https://www.aboutlawsuits.com/chatgpt-suicide-lawsuits-safety-feature-failures/
   - https://www.thecooldown.com/green-tech/chatgpt-mental-health-crisis-lawsuit-california/
   trajectory_signal: 'Multiple momentum signals point toward potential YES resolution:'
+- date: '2026-09-27'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of a court ruling or settlement with liability admission. All articles
+    describe lawsuits that are either newly filed or in early stages (pre-trial). Article [6] is the only ruling found, but
+    it involves Google''s AI Overviews for false statements about publishers in Germany—a defamation case fundamentally different
+    from the prediction''s scope (psychological/physical harm from AI companies). The German court ruling does not satisfy
+    resolution criteria because it addresses factual misstatement liability, not harm liability, and is not about an AI company
+    being held liable for causing psychological or physical harm to users.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://morningoverview.com/a-lawsuit-says-a-chatbot-was-built-in-a-way-that-harmed-children/
+  - https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
+  - https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings
+  - https://www.pk-sharma.com/briefing/bc-sues-openai-tumbler-ridge-duty-to-warn
+  - https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'

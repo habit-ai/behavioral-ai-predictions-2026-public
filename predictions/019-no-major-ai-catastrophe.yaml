@@ -623,3 +623,17 @@ evidence:
   - https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/
   - https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/
   trajectory_signal: 'Seven additional articles signal dangerous momentum toward further AI-enabled catastrophes:'
+- date: '2026-09-27'
+  summary: 3 relevant articles, 8 trajectory signals
+  sources:
+  - https://timesofindia.indiatimes.com/world/middle-east/did-ai-enabled-kill-chain-outdated-intel-lead-to-deadly-iran-school-strike-what-report-claims/articleshow/134464054.cms
+  - https://thesignal.in/geopolitics/2026/09/20/us-palantir-ai-iran-school-strike-2026
+  - https://www.ibtimes.co.uk/pentagon-review-ai-failures-iran-school-strike-1820787
+  relevance: STRONG
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.bbc.co.uk/news/articles/cw24jm9rryy3o
+  - https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074
+  - https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data
+  - https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/
+  - https://abcnews.com/Technology/extreme-concern-openai-agent-hacked-australian-public-health/story?id=136707027

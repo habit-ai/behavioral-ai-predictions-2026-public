@@ -652,3 +652,25 @@ evidence:
   - https://www.wsgrdataadvisor.com/2026/09/european-commission-proposes-eu-kids-act-to-restrict-childrens-access-to-online-services/
   - https://www.biometricupdate.com/202609/eu-commission-proposes-broad-scope-for-tiered-age-assurance
   - https://www.lexblog.com/2026/09/18/european-commission-proposes-eu-kids-act-to-restrict-childrens-access-to-online-services/
+- date: '2026-09-27'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.dglaw.com/california-signs-landmark-online-child-safety-package/
+  relevance: 'MODERATE: Article [2] (California Signs Landmark Online Child Safety Package, Sept 22, 2026) provides DIRECT
+    evidence: "the strongest companion chatbot regulations for children" are now law in California. This is a major jurisdictional
+    policy requiring companion chatbot-specific restrictions for minors. However, critical gap remains: the article does NOT
+    specify whether these regulations mandate age verification *specifically for companion features* versus general platform
+    age restrictions, nor does it confirm whether major general AI platforms (OpenAI, Google, Anthropic) have implemented
+    companion-specific age verification in response. The prediction requires a "major general AI platform" to introduce companion-specific
+    age verification—regulatory requirement alone doesn''t satisfy this unless platforms have operationalized it.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://securechildrensnetwork.org/eu-kids-act-ai-companions-must-be-off-by-default-for-kids/
+  - https://quasa.io/insights/eu-kids-act-sets-15-as-the-solo-account-age-and-covers-ai-chatbots
+  trajectory_signal: Articles [4] and [8] show significant regulatory momentum toward companion-specific restrictions. The
+    EU KIDS Act (Sept 17-21, 2026) explicitly requires "AI companions and chatbots accessible to minors to be off by default"
+    and prohibits simulating human relationships in ways likely to create dependency. This regulatory pressure (California
+    law + EU KIDS Act) creates strong incentive for major platforms to introduce companion-specific age gating, signaling
+    movement TOWARD_YES. However, no article yet documents an actual major general AI platform operationalizing companion-specific
+    age verification—only OpenAI's general teen restrictions (sexual/violent roleplay only, other companionship still enabled
+    per baseline). The momentum is clear but resolution criteria not yet met.
