@@ -530,3 +530,18 @@ evidence:
   - https://theroboticsmedia.com/article/1x-technologies-50000-neo-humanoid-shipments-2027-bernt-bornich-hayward-san-carlos-september-2026
   - https://espresso.cafecito.tech/tesla-optimus-supplier-audit-no-field-data/
   - https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/
+- date: '2026-10-04'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the 500K units threshold. The prediction requires >500K global
+    units shipped in 2026 by October 4, 2026. All articles confirm H1 2026 shipments were ~25,000 units globally (with projections
+    to ~60,000 for full year). This is 5% of the threshold with only 3 months remaining in 2026 — mathematically implausible
+    to reach 500K. No credible evidence exists of current production capacity or delivery pipelines approaching 500K annual
+    run rates.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://unscarcity.ai/a/humanoid-robots
+  - https://theedgemalaysia.com/node/813911
+  - https://finance.yahoo.com/technology/ai/articles/humanoid-robot-shipments-jump-432-025835160.html
+  - https://www.tokenheart.ai/article/idc-4
+  - https://techfastforward.com/articles/humanoid-robot-shipments-break-25000-as-china-dominates
+  trajectory_signal: 'Articles signal MODERATE MOMENTUM but in the WRONG DIRECTION for YES resolution:'

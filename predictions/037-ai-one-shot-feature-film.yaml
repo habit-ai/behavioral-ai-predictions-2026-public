@@ -561,3 +561,20 @@ evidence:
     Iskoon Bridge"), signaling industry pivot toward this goal. Article [10] notes Sora 2 generates "cinema-grade clips in
     seconds" with physics awareness. These collectively signal rapid progression toward longer, more coherent AI-generated
     narratives, but none yet demonstrate 90+ minute single-prompt generation with narrative coherence.'
+- date: '2026-10-04'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that resolution criteria have been met. Article [0] claims "Hell Grind,"
+    a 95-minute film, was "produced almost entirely by artificial intelligence," but the content is truncated and provides
+    no verification of whether it was generated from a single prompt without iterative prompting or human scene-by-scene direction.
+    This is the closest claim to resolution but lacks sufficient detail to confirm criteria compliance. Articles [5] (Claude
+    Opus generating a "short film") and [10] (Paul Trillo''s music video requiring ~700 clips and manual selection) explicitly
+    fall short of the 90+ minute single-prompt requirement. The critical gaps: no article demonstrates a 90+ minute film from
+    ONE initial prompt without iterative prompting or human-directed scene editing.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://nile1.com/ai-generated-films-reach-feature-length-as-studios-balance-innovation-with-audience-skepticism/
+  - https://runtimechronicle.com/en/news/1-2-million-d-images-pour-100-minutes-le-pipeline-ia-de-bona-va-passer-son-test-grandeur-cinema/
+  - https://technode.com/2026/09/28/chinas-first-ai-produced-theatrical-film-sets-october-23-release/
+  - https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
+  - https://www.twokq.com/post/google-unveils-ai-video-co-director-long-form-stories/
+  trajectory_signal: 'Multiple signals show directional momentum TOWARD_YES:'

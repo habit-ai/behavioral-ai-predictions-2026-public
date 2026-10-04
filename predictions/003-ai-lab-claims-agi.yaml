@@ -676,3 +676,23 @@ evidence:
     and multiple labs are actively releasing/developing flagship models. DeepMind's leadership is deliberately deprioritizing
     AGI framing (negative signal), while OpenAI's cautious positioning suggests internal uncertainty about making an explicit
     AGI claim. Momentum is toward capability advancement, but away from formal AGI declarations.
+- date: '2026-10-04'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.webpronews.com/tech-leaders-declare-agi-has-arrived-as-models-like-openais-astra-blur-the-lines/
+  relevance: 'MODERATE: Article [8] is the only piece of direct evidence for the resolution criteria. It explicitly states:
+    "Tech CEOs from OpenAI, Nvidia and xAI have proclaimed the AGI era has begun following the GPT-6 Astra launch" and names
+    specific individuals (Greg Brockman, Jensen Huang, Elon Musk) making these claims. However, critical gaps remain: (1)
+    The article does not verify whether these claims were made in official blog posts or press releases—it reports them as
+    third-party declarations/proclamations; (2) It does not provide direct quotes or links to the original official statements;
+    (3) The article itself acknowledges "definitions remain fuzzy," suggesting these may be informal claims rather than formal
+    AGI declarations meeting strict resolution criteria; (4) It''s unclear whether OpenAI itself (as an organization) made
+    an official claim, or only individual executives.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion
+  - https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/
+  - https://openai.com/index/introducing-dots/
+  - https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+  - https://businessbearings.com/articles/openai-unveils-always-on-ai-agents-a-day-after-shelving-model-300e99d1
+  trajectory_signal: 'Multiple signals suggest momentum toward AGI capability claims:'

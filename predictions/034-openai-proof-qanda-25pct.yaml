@@ -628,3 +628,19 @@ evidence:
   - https://traictory.com/news/2026-09-23-openai-math-advisory-group
   trajectory_signal: 'Multiple signals suggest strong directional momentum toward YES, though none directly address the OpenAI-Proof
     Q&A benchmark:'
+- date: '2026-10-04'
+  summary: 8 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance specifically. The resolution criteria
+    requires a score >25% on this specific benchmark (20 internal OpenAI bottlenecks), with baseline context showing GPT-5.1-Codex-Max
+    at 8% and GPT-5.2 at 3% in January 2026. Critical gap: None of the articles report actual performance scores on the OpenAI-Proof
+    Q&A benchmark itself. Articles discuss mathematical problem-solving (Navier-Stokes, prime gaps, olympiad problems) and
+    other benchmarks (AIME, HMMT, DeepSWE), but these are different evaluation frameworks with different difficulty profiles
+    and cannot be directly mapped to the specific internal benchmark.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aiexpertmagazine.com/openai-astra-10-open-math-problems-refutation/
+  - https://goodtransformer.ai/insights/navier-stokes-what-it-means/
+  - https://www.pnas.org/doi/10.1073/pnas.2536158123
+  - https://www.neoteo.com/en/openais-navier-stokes-claim-faces-a-harder-test-human-review-1
+  - https://www.winzheng.com/en/article/openai-0930c6e
+  trajectory_signal: 'Substantial momentum signals in AI mathematical reasoning capability between January-October 2026:'

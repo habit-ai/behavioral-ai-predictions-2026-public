@@ -599,3 +599,13 @@ evidence:
   - https://mixed-news.com/en/openai-internal-model-navier-stokes-claim-no-proof/
   - https://liveaiwire.com/2026/09/openai-navier-stokes-ai-agents.html
   - https://theprint.in/feature/openai-solve-navier-stokes-equation-future-of-math/3053578/
+- date: '2026-10-04'
+  summary: 7 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://goodtransformer.ai/insights/navier-stokes-what-it-means/
+  - https://www.pnas.org/doi/10.1073/pnas.2536158123
+  - https://refacto.app/ai/p/openai-ai-swarm-solves-millennium-prize-math-problem-in-88-hours/
+  - https://felixonline.co.uk/articles/navier-stokes/
+  - https://www.stork.ai/blog/10000-ai-agents-take-on-a-1-million-math-problem

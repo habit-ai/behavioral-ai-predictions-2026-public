@@ -698,3 +698,25 @@ evidence:
   - https://www.pk-sharma.com/briefing/bc-sues-openai-tumbler-ridge-duty-to-warn
   - https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
   trajectory_signal: 'Strong momentum signals toward YES resolution:'
+- date: '2026-10-04'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.aidatanews.com/california-and-new-yorks-new-ai-companion-laws-take-effect-as-character-ai-settles-teen-suicide-lawsuits/
+  relevance: 'STRONG: Article [1] provides DIRECT evidence satisfying resolution criteria. It explicitly states that "Character.AI
+    and Google settled lawsuits over the 2024 suicide of 14-year-old Sewell Setzer III" in 2026. A settlement with liability
+    admission constitutes judgment/settlement meeting the YES resolution criteria. Published 2026-10-01, within preferred
+    date range. This is concrete resolution evidence.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.newswall.org/summary/new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety-69c3051499726
+  - https://habitdoom.com/blog/kgm-v-meta-verdict
+  - https://latterdaysaintmag.com/news/jury-finds-meta-youtube-liable-in-landmark-social-media-addiction-case/
+  trajectory_signal: Articles [5], [6], [7] show significant momentum TOWARD_YES by establishing legal precedent. In March
+    2026, a Los Angeles jury found Meta and YouTube liable for psychological harm (social media addiction causing mental health
+    issues), awarding $3M in compensatory damages and finding both acted with malice/fraud. This demonstrates courts are willing
+    to hold tech platforms liable for psychological/design-related harm to users—directly analogous to the AI chatbot cases.
+    This precedent strengthens the legal pathway for AI company liability. Article [2] indicates the settlement was market-moving
+    (spawning new safety-testing businesses). Articles [4], [8], [10] show ongoing momentum with new lawsuits being filed
+    (OpenAI, new Character.AI cases), but these are future claims, not rulings. Article [3] signals broader legal trend toward
+    product liability suits against AI companies. These collectively demonstrate directional progress toward holding AI companies
+    accountable.

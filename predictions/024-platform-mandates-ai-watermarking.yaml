@@ -641,3 +641,18 @@ evidence:
   - https://inet.detik.com/cyberlife/d-8674084/cegah-penyalahgunaan-ai-capcut-siapkan-watermark-gaib-dan-standar-c2pa
   - https://www.nssmag.com/en/lifestyle/46923/does-the-created-with-ai-label-still-make-sense
   trajectory_signal: 'Articles [1], [4], [5] signal directional momentum TOWARD_NO (resolution unlikely):'
+- date: '2026-10-04'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major social media
+    platforms. Articles [0], [2], [5], [8], [9], [10] discuss voluntary labeling, disclosure requirements, and regulatory
+    frameworks—all falling short of the resolution criteria which requires MANDATORY technical watermarking. Article [1] discusses
+    a Code of Practice for transparency but does not establish platform mandates. The evidence consistently shows platforms
+    operating under voluntary disclosure labels and regulatory obligations for *disclosure* (not technical watermarking mandates).
+    The gap between disclosure requirements and mandatory technical watermarking remains unfilled.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://airightsbrief.com/daily-digest/2026-09-27
+  - https://brusselspost.com/eu-begins-enforcing-ai-act-rules-on-deepfakes-metadata-and-chatbots
+  - https://www.newsbytesapp.com/news/science/openai-launches-metadata-tags-for-dall-e-3-and-imagegen-images/tldr
+  trajectory_signal: 'Three articles signal directional progress but toward infrastructure enablement rather than platform
+    mandate implementation:'

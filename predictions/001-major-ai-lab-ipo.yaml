@@ -670,3 +670,29 @@ evidence:
     active momentum toward completion. Overall, the trajectory is strongly TOWARD_YES: one major lab (OpenAI) has already
     filed the required S-1, and another (Anthropic) is in advanced stages with November timing, both within the 2026 resolution
     window.'
+- date: '2026-10-04'
+  summary: 4 relevant articles, 3 trajectory signals
+  sources:
+  - https://money.usnews.com/investing/news/articles/2026-09-28/exclusive-anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs
+  - https://www.channelnewsasia.com/business/exclusive-anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-6416961
+  - https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing
+  - https://live.euronext.com/en/financial-news/exclusive-anthropics-ipo-pitch-embraces-ais-promise-and-peril
+  relevance: 'STRONG: Articles 0, 1, 2, 3 provide DIRECT evidence that Anthropic has filed an S-1 prospectus with the SEC.
+    Multiple independent sources (Reuters, CNA, Los Angeles Times) confirm Anthropic''s IPO prospectus has been filed and
+    viewed by journalists as of late September 2026. Article 3 explicitly states "roughly 300-page initial public offering
+    prospectus...viewed this week by Reuters" (dated Sept 30). Articles 0-2 detail specific content from the prospectus (AI
+    vision, surging costs, existential risk warnings), confirming this is substantive SEC filing documentation, not speculation.
+    This satisfies the resolution criteria of "S-1 filing or IPO completed" — the S-1 filing has occurred. Criteria gap: Articles
+    do not confirm whether the IPO has actually completed (pricing/trading began), only that the prospectus filing occurred.
+    However, S-1 filing alone is sufficient for YES resolution per stated criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://globalindepth.com/openai-anthropic-and-oura-postpone-ipos-amid-market-volatility-and-safety-concerns/
+  - https://bbrw.com/altman-says-openai-ipo-can-wait-as-ai-agent-risks-take-priority/
+  - https://www.rdworldonline.com/openai-reportedly-seeks-30-billion-after-delaying-ipo/
+  trajectory_signal: 'Articles 7, 8, 9 reveal significant countervailing momentum. Despite Anthropic''s S-1 filing, articles
+    dated Oct 1 indicate both Anthropic AND OpenAI have "officially delayed their public offerings — Anthropic to at least
+    November and OpenAI to sometime next year." Altman explicitly states OpenAI''s IPO "can wait" and they are "delaying"
+    the offering. This suggests execution risk: while the filing requirement is met, actual IPO completion may slip past Dec
+    31, 2026. The delays are attributed to market volatility and safety concerns. This signals TOWARD_YES on filing (already
+    satisfied) but creates uncertainty on whether IPOs will complete within 2026.'

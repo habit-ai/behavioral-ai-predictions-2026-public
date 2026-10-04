@@ -570,3 +570,18 @@ evidence:
     in Jun 2025; articles [0], [1], [7], [11] highlight safety/harm concerns, regulatory scrutiny, and user backlash against
     AI companion intimacy features). The overall trajectory is TOWARD_NO: the therapy/mental health AI space is contracting
     (Woebot exit) and facing reputational damage, making 10M MAU achievement unlikely by year-end 2026.'
+- date: '2026-10-04'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. Article [4] on Wysa mentions workplace mental health
+    initiatives but provides no MAU figures—Wysa remains at "more than 5 million" users (baseline context from Jun 2025),
+    falling short of the 10M threshold. No other therapy/mental health apps in the dataset report MAU figures approaching
+    or exceeding 10 million.'
+  trajectory_sources:
+  - https://www.tipranks.com/news/private-companies/wysa-targets-role-in-streamlining-workplace-mental-health-support
+  trajectory_signal: Article [4] (Wysa targeting workplace mental health support, published 2026-09-29) signals directional
+    momentum toward broader market adoption and institutional integration. Wysa's pivot to employer-focused mental health
+    support suggests strategic growth in a high-value segment, which could accelerate user acquisition. However, this represents
+    only modest momentum without concrete user growth metrics. Other articles in the dataset ([0], [9] on Replika; [5], [6],
+    [7], [8] on Use.ai; [1], [3] on Chinese AI assistants) discuss companion/productivity AI apps or non-therapy-focused platforms—outside
+    scope. Article [10] on regulatory risks flags potential headwinds for AI companion apps in Brazil, which is directionally
+    negative for the broader category but non-determinative for US-based therapy apps.

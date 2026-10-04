@@ -634,3 +634,14 @@ evidence:
   - https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy
   - https://mixed-news.com/en/apple-openai-io-forensic-images-metal-finish-battery-discovery/
   - https://www.techshotsapp.com/artificial-intelligence/openai-acquires-jony-ives-ai-hardware-startup-io-for-64b-to-drive-ai-integrated-device-innovation
+- date: '2026-10-04'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://openai.com/index/introducing-dots/
+  - https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices
+  - https://kyivdailypost.com/en/tech/id-4180
+  - https://cryptorank.io/news/feed/75ab1-openais-300-home-speaker-will-put-a-camera-in-your-kitchen-the-smart-home-race-has-a-new-entrant

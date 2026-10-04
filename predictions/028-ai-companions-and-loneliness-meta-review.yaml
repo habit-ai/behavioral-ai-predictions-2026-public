@@ -686,3 +686,16 @@ evidence:
   - https://www.theglobeandmail.com/life/article-can-robots-and-ai-companions-help-seniors-feel-less-alone/
   - https://scienmag.com/ai-companions-could-ease-loneliness-in-serious-mental-illness-if-people-help-design-them/
   - https://www.thestatesman.com/technology/my-best-friend-is-a-chatbot-what-the-research-says-about-gen-zs-growing-friendship-with-ai-1503642330.html
+- date: '2026-10-04'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review specifically examining the relationship between AI companion use and
+    loneliness has been found. The resolution criteria explicitly require a meta-review to find a significant relationship
+    — this has not occurred. Article [1] is a systematic review on "AI technologies for aging in place" (broader scope, aging-specific,
+    not focused on loneliness relationship). Article [12] is a systematic review on "LLM-driven personalized and adaptive
+    systems for health and wellness" (too broad, not specifically about AI companions and loneliness). Neither directly addresses
+    the prediction''s specific criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://link.springer.com/article/10.1007/s10462-026-11698-0
+  - https://www.vox.com/technology/504854/chatgpt-claude-character-ai
+  - https://exa.ai/library/publication/8q5gj1nrf32

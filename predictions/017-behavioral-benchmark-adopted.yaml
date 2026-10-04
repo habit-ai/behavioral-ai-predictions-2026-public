@@ -553,3 +553,27 @@ evidence:
     of measuring AI's psychological/behavioral impacts (social inequality framework). Article [7] shows OpenAI's public commitment
     to measuring AI's "blind spots" in emotional support domains. Together these indicate growing momentum toward formalizing
     such measurements, though they don't constitute adoption into official documentation yet.
+- date: '2026-10-04'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://theterminal.space/ai/openai-mentalhealthbench-launch
+  - https://pharmatica.io/insights/openai-mentalhealthbench-ai-mental-health
+  relevance: 'STRONG: Articles [1] and [5] provide direct evidence that OpenAI (a major AI lab) has adopted and referenced
+    MentalHealthBench, a benchmark measuring psychological/behavioral impacts on users. Article [1] states "OpenAI''s MentalHealthBench...scores
+    GPT-6 Astra at 57.3%" and describes it as measuring performance on "1,215 clinician-reviewed conversations" (September
+    27, 2026). Article [5] confirms "Launched on 23 September 2026" and details the benchmark''s design with "80+ clinicians"
+    and "22 countries" (October 1, 2026). However, the critical remaining gap is whether this benchmark appears in an official
+    model card or safety report. Article [4] (OpenAI''s GPT-6.1 Sol System Card Addendum from Sept 29) does not mention MentalHealthBench
+    in its visible content. The resolution criteria specifically require the benchmark to be referenced "in model card/safety
+    report"—the articles document the benchmark''s existence and OpenAI''s use of it, but don''t confirm inclusion in official
+    documentation yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.politico.com/newsletters/digital-future-daily/2026/09/29/ais-mental-health-test-01097471
+  - https://creati.ai/ai-news/2026-10-03/circuit-breaker-labs-builds-simulated-users-to-test-ai-for-psychological-safety-risks/
+  trajectory_signal: Articles [0] and [8] show directional momentum. Article [0] (POLITICO, Sept 29) reports that "standardizing
+    mental health benchmarks for AI chatbots has been a difficult task" and indicates "the industry and federal agencies are
+    al[l]..." suggesting growing institutional interest. Article [8] (Oct 3) describes Circuit Breaker Labs developing "a
+    safety-testing platform that uses simulated users to probe AI systems for psychologically harmful responses," showing
+    ecosystem-level movement toward psychological safety evaluation. These signal increasing momentum toward adoption of such
+    benchmarks across the industry.

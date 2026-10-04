@@ -554,3 +554,26 @@ evidence:
     disincentives against disclosure, suggesting future AI-written books may follow similar denial patterns rather than transparent
     disclosure strategies. The case shows that while AI-assisted books can achieve sales success, the disclosure requirement
     remains a major barrier to meeting resolution criteria.
+- date: '2026-10-04'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a disclosed primarily-AI-written book (>50% AI) has reached NYT
+    bestseller or Amazon top 100 in 2026. Article [5] mentions a NYT bestseller list but does not specify whether any disclosed
+    AI-written book appears on it. The central case discussed across articles (Thélyson Orélien''s "C''était ça ou mourir")
+    achieved bestseller status in France (~35,000 copies sold, topped French charts, won Fnac prize) but: (1) there is NO
+    disclosure that it is primarily AI-written (>50%); (2) the author explicitly denies using AI; (3) the book was pulled
+    from prizes due to AI *allegations* and plagiarism concerns, not confirmed AI authorship; (4) no evidence it reached NYT
+    bestseller or Amazon top 100 specifically. The article mentions AI detection tools flagged concerns, but detection ≠ disclosure/confirmation
+    by the author or publisher that >50% is AI-written.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.dailysabah.com/business/tech/ai-written-bestselling-novel-raises-question-about-detectors
+  - https://thewalrus.ca/bestselling-novelist-dropped-from-major-prize-over-suspected-ai-use/
+  - https://spectator.com/article/what-if-ai-is-actually-good-at-writing-novels/
+  - https://www.dtnext.in/edit/bestseller-scandal-it-was-up-for-a-french-prize-then-someone-ran-an-ai-check
+  - https://thenextweb.com/news/goncourt-drops-orelien-novel-ai-claims
+  trajectory_signal: 'Articles 1, 3, 4, 6, 8 signal TOWARD_NO momentum. They document: (1) a commercially successful novel
+    facing serious backlash and prize removal due to unconfirmed AI allegations; (2) the author''s denial of AI use; (3) confusion
+    and debate over AI detection reliability; (4) literary establishment resistance/skepticism toward AI authorship. This
+    trajectory suggests that even when a book achieves commercial success, unconfirmed AI allegations trigger institutional
+    rejection (prize removal), making it less likely a *disclosed* AI-written book achieves prestigious recognition. The case
+    demonstrates reputational risk rather than acceptance of AI authorship in literary circles.'

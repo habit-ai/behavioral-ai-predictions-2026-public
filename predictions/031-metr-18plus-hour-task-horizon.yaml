@@ -598,3 +598,15 @@ evidence:
     beyond the previous doubling rate. This indicates directional momentum TOWARD_YES, though without METR-specific confirmation,
     confidence is limited. The rapid release cadence (multiple frontier models in Sept 2026) also suggests active competition
     pushing capabilities forward.
+- date: '2026-10-04'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of METR task suite time-horizon measurements meeting or approaching
+    the 18+ hour threshold. Article [0] mentions "METR''s time-horizon data" within Mozilla''s State of Open Source AI report
+    but provides no specific performance figures or timeline measurements. The baseline (Opus 4.5 at ~4h 49min as of Dec 2025)
+    requires roughly 4x improvement by end of 2026 to reach 18+ hours. Without current METR benchmark scores, resolution cannot
+    be evaluated against the ≥18hr 50%-time horizon criterion.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://ariaatr.netlify.app/khasky/mozilla-measured-the-open-weight-gap-5-points-8-of-10-4-of-revenue-49lc
+  - https://classyainews.com/article/vista-visual-harness-interactive-agents-research-oct-2026
+  trajectory_signal: 'Two articles signal directional momentum toward longer-horizon AI capabilities:'

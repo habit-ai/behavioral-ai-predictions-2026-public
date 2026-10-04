@@ -651,3 +651,12 @@ evidence:
     and (3) GPT-6 Sol gaining competitive positions with significant improvements (article 9). However, with 95 days to Dec
     31, 2026, trajectory depends entirely on whether other labs (Anthropic, Google, Chinese competitors like Qwen/Xiaomi mentioned
     in articles 5, 7) can overtake Astra. The signals indicate OpenAI has strong momentum but faces active competition.'
+- date: '2026-10-04'
+  summary: 7 trajectory signals
+  relevance: NONE
+  trajectory_sources:
+  - https://theterminal.space/ai/gpt-6-1-sol-one-point-behind-astra-index
+  - https://dev.to/jackymencz/sentinel-benchmark-livejson-ifl
+  - https://aimodelreport.com/articles/2026-10-01-gpt-6-1-sol-ships-at-one-fifth-astra-s-price-outscores-opus-5-5-on-business-work/
+  - https://datanorth.ai/news/openai-releases-gpt-6-1-sol
+  - https://officechai.com/miscellaneous/gpt-6-1-sol-places-just-one-point-behind-gpt-6-astra-on-artificial-analysis-intelligence-index/

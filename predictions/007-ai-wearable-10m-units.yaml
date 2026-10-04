@@ -608,3 +608,21 @@ evidence:
     post-H1 window; (3) new competitor entry (Apple, Samsung, Google Android XR mentioned in [4]); (4) market expanding from
     ~2M baseline to established category. The timing of these launches AFTER H1 measurement creates strong momentum for H2
     acceleration.'
+- date: '2026-10-04'
+  summary: 1 relevant article, 6 trajectory signals
+  sources:
+  - https://www.smartwearables.io/news/smart-glasses-shipments-167-percent-growth-idc-13-6-million-units-2026-forecast
+  relevance: 'MODERATE: Article [1] (IDC, 2026-09-27) provides DIRECT evidence: IDC forecasts 13.6 million smart glasses units
+    shipping in 2026, which exceeds the 10M threshold. This is the only article making a full-year 2026 forecast that meets
+    or exceeds the resolution criteria. However, critical gap: this is a FORECAST, not actual shipment data. The prediction
+    resolves on actual units sold, not analyst projections. IDC''s track record and methodology are not detailed. We are at
+    2026-10-04, so only ~3 months remain in the year—actual H2 shipment data will soon become available and will be more determinative
+    than forecasts.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.businesswirechina.com/en/news/64124.html
+  - https://elites.zone/en/news/article-1790517690134-0w1hh1a0edf8
+  - https://cyprus-mail.com/2026/10/04/global-ai-glasses-shipments-surge-past-four-million-units-in-early-2026
+  - https://futurefive.co.nz/story/meta-dominates-ai-glasses-market-as-shipments-surge-263
+  - https://www.ictbusiness.biz/analysis/ai-glasses-shipments-surge-263-percent-in-1h26
+  trajectory_signal: 'Articles [0, 2, 3, 5, 6, 7] show strong momentum toward YES through multiple signals:'

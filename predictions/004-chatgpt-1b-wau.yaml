@@ -680,3 +680,27 @@ evidence:
     geographic concentration of growth drivers. Article [6] notes ChatGPT's consumer AI market share at 64% MAU globally,
     indicating sustained dominance despite competition. These reinforce that the 1B threshold reflects genuine sustained adoption
     rather than a one-time spike.
+- date: '2026-10-04'
+  summary: 4 relevant articles, 2 trajectory signals
+  sources:
+  - https://www.theverge.com/ai-artificial-intelligence/1002265/chatgpt-now-has-1-2-billion-weekly-users-openai-says
+  - https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/
+  - https://www.remio.ai/post/openai-chatgpt-user-growth-hits-1-2-billion-but-the-enterprise-race-is-still-ope
+  - https://dailybaku.az/en/article/openai-reports-over-12-billion-weekly-chatgpt-users
+  relevance: 'STRONG: Multiple credible sources (The Verge, LinkedIn, industry publications) published Sep 29-30, 2026 confirm
+    OpenAI''s official announcement that ChatGPT reached 1.2 billion weekly active users. This directly satisfies the resolution
+    criteria of ≥1B WAU as of the prediction date (Dec 31, 2026). Article [0] from The Verge explicitly states "ChatGPT now
+    has 1.2 billion weekly users, OpenAI says" and notes this exceeded the 1 billion milestone reached in July 2026. Articles
+    [1], [2], and [4] corroborate the same figure from different sources. The evidence is: (1) Official company announcement,
+    (2) Multiple independent reporting by credible outlets, (3) Specific, quantified figure (1.2B), (4) Recent timing within
+    5 days of current date (Oct 4, 2026), (5) Only ~3 months from final resolution date. No criteria gaps remain—the prediction
+    resolves YES based on current confirmed data.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://finance.yahoo.com/technology/ai/articles/chatgpt-traffic-roars-back-stagnation-120000841.html
+  - https://www.baojiabao.com/a716790
+  trajectory_signal: Articles [5] and [6] provide directional momentum signals. Article [5] notes ChatGPT "roared back" after
+    a year of stagnation, suggesting renewed growth velocity entering Q4 2026. Article [6] (Chinese source) emphasizes structural
+    growth—1.2B weekly users achieved through enterprise/productivity tools (ChatGPT Work, Codex at 35M+ WAU each), not just
+    consumer usage, suggesting sustainable growth drivers beyond casual adoption. Both signal continued positive momentum
+    toward maintaining or exceeding the 1.2B threshold through Dec 31, 2026.

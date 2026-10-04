@@ -674,3 +674,27 @@ evidence:
     movement TOWARD_YES. However, no article yet documents an actual major general AI platform operationalizing companion-specific
     age verification—only OpenAI's general teen restrictions (sexual/violent roleplay only, other companionship still enabled
     per baseline). The momentum is clear but resolution criteria not yet met.
+- date: '2026-10-04'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a major general AI platform has introduced companion-specific
+    age verification. The resolution criteria requires "Companion-specific age restrictions" from a major general AI platform
+    (OpenAI, Google, Anthropic, etc.), distinguishing this from existing dedicated companion apps like Character.AI or Replika.
+    Article [2] discusses OpenAI''s "Adult Range" framework but the content is too fragmentary to confirm companion-specific
+    restrictions. Article [8] describes ChatGPT for Teens as "age-appropriate" but doesn''t specify companion-feature restrictions.
+    The baseline context establishes OpenAI''s January 2026 approach limited to sexual/violent roleplay restrictions while
+    "other forms of companionship still enabled"—this falls short of companion-specific restrictions. Critical gap: No evidence
+    that a major platform has implemented restrictions specifically targeting companion/relationship AI interactions as a
+    distinct category.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://natlawreview.com/article/california-enacts-companion-chatbot-child-safety-requirements
+  - https://healthmedicinet.com/openai-chatgpt-teens-age-chatbot/
+  trajectory_signal: Articles [3] and [8] signal momentum TOWARD_YES. Article [3] documents California SB 1119 (signed Sept
+    10, 2026) amending companion chatbot law and enacting "Adam's Law," creating new companion chatbot child safety requirements—this
+    is regulatory pressure on the companion AI space specifically. Article [8] shows OpenAI introducing a teen-specific ChatGPT
+    version marketed for "companionship" among other uses, indicating acknowledgment of companionship as a distinct use case
+    worth age-gating. Article [10] notes Character.AI settled lawsuits and enforced under-18 bans, plus California/New York
+    companion laws taking effect—this creates market and regulatory incentives for major platforms to adopt companion-specific
+    restrictions. However, these signals indicate progress toward the threshold rather than achievement of it. The trajectory
+    suggests major platforms may soon introduce companion-specific measures, but haven't formally done so yet as distinct
+    from general age verification.
