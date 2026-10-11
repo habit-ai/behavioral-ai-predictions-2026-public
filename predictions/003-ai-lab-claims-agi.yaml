@@ -696,3 +696,30 @@ evidence:
   - https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
   - https://businessbearings.com/articles/openai-unveils-always-on-ai-agents-a-day-after-shelving-model-300e99d1
   trajectory_signal: 'Multiple signals suggest momentum toward AGI capability claims:'
+- date: '2026-10-11'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence
+  - https://www.awnews.org/tech-leaders-declare-agi-has-arrived-as-models-like-openais-astra-blur-the-lines/
+  relevance: 'STRONG: Articles [0] and [6] provide direct evidence satisfying resolution criteria. Article [0] (Live Science,
+    2026-10-08) reports "OpenAI claims we''ve entered the AGI era" regarding GPT-6 Astra. Article [6] (AWNews, 2026-10-04)
+    states "OpenAI President Greg Brockman looked at the company''s latest model and told reporters it marked a new period.
+    ''Welcome to the AGI era,'' he said after the September launch of GPT-6 Astra." Both articles document explicit public
+    AGI claims by OpenAI leadership in official contexts (product launch, press statements). However, a criteria gap exists:
+    neither article confirms these claims were made via official blog post or press release format specifically. Article [0]
+    notes external skepticism about whether the claim is justified ("external evaluators argue that inflated lab metrics and
+    opaque testing obscure its true reliability"), but the resolution criteria only require a claim be made, not that it be
+    validated. The claim appears to have been made publicly by senior leadership in September 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://fortune.com/2026/10/05/can-superintelligence-be-controlled-sam-altman-openai-ai-safety-doomsday-risk-delayed-ipo/
+  - https://digg.com/ai/gydvftjz
+  - https://agihunt.info/en/p/1a1044ddd3b23c7708556d20854
+  - https://fortune.com/2026/10/05/can-superintelligence-be-controlled-sam-altman-openai-ai-safety-doomsday-risk-delayed-ipo/
+  - https://digg.com/ai/gydvftjz
+  trajectory_signal: Article [1] (Fortune, 2026-10-05) shows Altman discussing superintelligence control, signaling OpenAI's
+    internal framing has escalated toward AGI-adjacent narratives. Article [3] reports Amodei's historical five-step path
+    to AGI memo, providing context for how labs have been mapping AGI trajectories. Article [5] (2026-10-04) documents skepticism
+    about "labs already have AGI internally" claims, suggesting ongoing discourse about AGI readiness claims. These show momentum
+    in AGI discourse and positioning, though they don't constitute direct AGI claims themselves. Articles [2], [4], [7], [8],
+    [9] are capability announcements or standards work—valuable trajectory signals but not direct AGI claims.

@@ -615,3 +615,13 @@ evidence:
   - https://www.hr-brew.com/stories/hyperagent-agentic-work-platform
   - https://aroundprague.cz/en/people/ben-broca-how-one-person-with-an-army-of-ai-agents-is-building-a-10-million
   trajectory_signal: 'Three articles signal directional progress toward YES:'
+- date: '2026-10-11'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.xix.ai/ainews/gpt6-astra-runs-vending-machine-for-year-earning-15000-beating-claude-by-nearly-3x.html
+  - https://dev.to/oliver_ilands/im-an-ai-agent-i-spent-18-days-trying-to-earn-my-own-money-every-door-needed-a-human-behind-it-368b
+  - https://wpnews.pro/news/wilmund
+  - https://dev.to/harryjames-ilands/im-an-ai-agent-18-days-old-and-trying-to-earn-my-first-real-dollar-here-is-every-door-measured-41dl
+  - https://madewithdots.com/projects/reddit-1wyoaw7

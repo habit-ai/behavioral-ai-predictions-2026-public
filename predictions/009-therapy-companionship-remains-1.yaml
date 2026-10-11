@@ -585,3 +585,14 @@ evidence:
     [7], [8] on Use.ai; [1], [3] on Chinese AI assistants) discuss companion/productivity AI apps or non-therapy-focused platforms—outside
     scope. Article [10] on regulatory risks flags potential headwinds for AI companion apps in Brazil, which is directionally
     negative for the broader category but non-determinative for US-based therapy apps.
+- date: '2026-10-11'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that any AI therapy/mental health app has reached >10M MAU in 2026.
+    Article [0] (Wysa anniversary, Oct 10) mentions impact programs but provides NO user count update—baseline context already
+    notes Wysa at "more than 5 million" users with no new figures. The prediction requires concrete MAU numbers exceeding
+    10 million for a therapy/mental health-specific app; none are provided in the articles reviewed.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.tipranks.com/news/private-companies/wysa-highlights-global-community-impact-programs-on-tenth-anniversary
+  - https://runtimewire.com/article/flagship-iris-labs-20m-personal-ai-wellbeing
+  trajectory_signal: 'Two articles signal directional momentum:'

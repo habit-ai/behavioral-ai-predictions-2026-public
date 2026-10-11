@@ -578,3 +578,16 @@ evidence:
   - https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/
   - https://www.twokq.com/post/google-unveils-ai-video-co-director-long-form-stories/
   trajectory_signal: 'Multiple signals show directional momentum TOWARD_YES:'
+- date: '2026-10-11'
+  summary: 2 relevant articles, 6 trajectory signals
+  sources:
+  - https://robotbelt.com/chinas-first-ai-made-feature-film-cleared-censors-and-opens-u10/
+  - https://www.chatpicture.com/en/blog/chinas-first-dragon-seal-ai-theatrical-film-sets-release-date-sanxingdui-future-past-opens-october-23
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://withnews.co.kr/en/korean-ai-film-steelray-wows-visually-but-story-lags-en/
+  - https://dev.to/sora2hubteam/seedance-20-vs-kling-30-vs-veo-31-which-ai-video-model-for-which-job-5fop
+  - https://dailysynapse.com/news/bytedance-launches-seedance-2-longer-multi-shot-artificial-intelligence-video/
+  - https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/
+  - https://people.com/ai-movie-gods-don-t-give-gifts-is-coming-to-theaters-and-could-compete-at-the-oscars-watch-the-trailer-12161300

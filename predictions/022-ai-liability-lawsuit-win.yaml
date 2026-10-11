@@ -720,3 +720,15 @@ evidence:
     (OpenAI, new Character.AI cases), but these are future claims, not rulings. Article [3] signals broader legal trend toward
     product liability suits against AI companies. These collectively demonstrate directional progress toward holding AI companies
     accountable.
+- date: '2026-10-11'
+  summary: 1 relevant article, 7 trajectory signals
+  sources:
+  - https://insideaipolicy.com/ai-daily-news/judge-dismisses-chatbot-case-against-google-and-characterai-settlement-pending
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wlky.com/article/unredacted-kentucky-ai-chatbot-lawsuit-louisville/74099366
+  - https://money.usnews.com/investing/news/articles/2026-10-08/character-ai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges
+  - https://www.ai.cm/article/google-gemini-wrongful-death-lawsuit-exposes-catastrophic-failures-in-ai-safety-interlocks/
+  - https://news.puhulab.com/pipeline/7-done/2026-06-11-openai-chatgpt-suicide-lawsuit-carrier
+  - https://quantslant.com/michael-lines-sues-openai-chatgpt-religious-delusion-jesus/

@@ -645,3 +645,16 @@ evidence:
   - https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices
   - https://kyivdailypost.com/en/tech/id-4180
   - https://cryptorank.io/news/feed/75ab1-openais-300-home-speaker-will-put-a-camera-in-your-kitchen-the-smart-home-race-has-a-new-entrant
+- date: '2026-10-11'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of a publicly announced AND launched consumer hardware product from
+    OpenAI. The resolution criteria require both announcement AND launch (release/availability) by Dec 31, 2026. All articles
+    fall short:'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://londondaily.com/openai-acquires-jony-ive-s-startup-for-6-5-billion-to-build-a-revolutionary-third-core-device
+  - https://beijingpost.com/apple-and-openai-chase-screenless-ai-wearables-as-the-post-iphone-interface-battle-heats-up
+  - https://www.inferse.com/859275/is-openai-building-the-iphone-of-ai-jony-ive-joins-6-5b-mission-to-reinvent-personal-tech/
+  - https://aiincontext.com/articles/openai-launches-dots-its-100-a-month-always-on-ai-agents-fd14f1ad
+  - https://michaelbreck.com/article/openai-s-ai-smart-speaker-a-revolutionary-300-400-donut-shaped-device
+  trajectory_signal: 'Moderate momentum signals suggest movement toward YES:'

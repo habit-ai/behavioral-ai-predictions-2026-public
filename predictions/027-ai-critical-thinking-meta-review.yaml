@@ -661,3 +661,24 @@ evidence:
     rapid accumulation of evidence pointing toward a meta-review conclusion. However, the critical gap remains: no actual
     meta-review/systematic review specifically concluding significant negative association between AI use and critical thinking
     has been identified yet.'
+- date: '2026-10-11'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No meta-review/systematic review meeting resolution criteria was found. Article [0] is a 33-study meta-analysis
+    on technology-supported metacognition, but it finds *positive* average effects and explicitly does not isolate AI effects—it
+    examines broad educational technology. This directly contradicts the prediction. Articles [5], [13], and [14] are labeled
+    as systematic/meta-synthesis reviews but focus on applications, advantages, and limitations in medical education and university
+    adaptation—not on the critical thinking or cognitive outcome measures specified in the resolution criteria. None of these
+    studies conclude a significant *negative* association between AI use and critical thinking.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://timesofindia.indiatimes.com/world/rest-of-world/ai-may-raise-homework-scores-but-weaken-actual-learning-world-bank-warns/articleshow/134790842.cms
+  - https://edtechdev.github.io/aied/articles/genai-pisa-decline-countries-2026/
+  trajectory_signal: Articles [4] and [9] provide directional momentum toward YES resolution despite not being meta-reviews
+    themselves. Article [4] cites World Bank evidence that AI use correlates with improved homework performance but *weakened
+    actual learning*—suggestive of impaired critical thinking. Article [9] presents a preregistered country-level study (Guerra
+    & Aslanov) showing four independent AI-use measures correlating positively with AI adoption but negatively with PISA performance
+    gains (2022–2025), implying cognitive decline associated with AI spread. Articles [8] and [11] document neuroimaging findings
+    (fMRI and EEG) showing reduced brain engagement and cognitive control in children using ChatGPT—mechanistic evidence consistent
+    with the prediction's theoretical direction. These studies collectively signal growing empirical momentum toward a negative
+    AI–critical thinking relationship, increasing the likelihood that a future meta-review will synthesize these findings
+    and conclude significant negative association. However, no meta-review has yet consolidated this evidence.

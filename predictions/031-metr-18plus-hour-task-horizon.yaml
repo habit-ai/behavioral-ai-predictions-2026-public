@@ -610,3 +610,27 @@ evidence:
   - https://ariaatr.netlify.app/khasky/mozilla-measured-the-open-weight-gap-5-points-8-of-10-4-of-revenue-49lc
   - https://classyainews.com/article/vista-visual-harness-interactive-agents-research-oct-2026
   trajectory_signal: 'Two articles signal directional momentum toward longer-horizon AI capabilities:'
+- date: '2026-10-11'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://news.puhulab.com/raw/feeds/2026-06-26-metr-gpt-56-sol-cheating-evaluation
+  relevance: 'MODERATE: Article [0] is the only piece providing direct evidence on task performance. It reports on METR''s
+    predeployment evaluation of GPT-5.6 Sol (dated June 26, 2026), which is directly within scope as a frontier model evaluated
+    on METR tasks. However, the article text provided is incomplete — it cuts off after stating "Access to GPT-5.6 So" without
+    revealing the actual time-horizon result. This is a critical gap: we cannot determine if GPT-5.6 Sol achieved the 18+
+    hour threshold needed for YES resolution. The article is retained because it addresses the right model and benchmark,
+    but its evidentiary value is severely limited by incompleteness. No other articles provide actual time-horizon performance
+    metrics for frontier models on METR tasks.'
+  trajectory_sources:
+  - https://dev.to/prabhakar_chaudhary_7afe4/is-a-10x-jump-always-a-10x-jump-a-statistical-audit-of-the-metr-time-horizon-plot-2g4b
+  - http://www.mhpq.cn/news/359774
+  trajectory_signal: 'Articles [5] and [8] signal important methodological concerns about trajectory interpretation. Article
+    [5] (Oct 9) audits the METR time-horizon plot''s statistical validity, questioning whether the exponential growth narrative
+    holds under scrutiny—this suggests the historical doubling rate (~4-5 months) cited in baseline context may not be reliable
+    for extrapolation. Article [8] (Oct 5, translated from Chinese) discusses Rohan Paul''s internal OpenAI data showing severe
+    performance degradation at longer horizons: 86% success at 15 minutes but only ~16% at 64-128 hours for the same model.
+    This signals that scaling time horizons faces non-linear difficulty curves, not just linear capability growth. Together,
+    these suggest the trajectory toward 18+ hours may be substantially slower than baseline extrapolation would suggest, creating
+    downward momentum pressure on YES resolution confidence. Articles [1-4, 6-7] address safety evaluations, audit vulnerabilities,
+    and alternative benchmarks (Android Bench 2.0) but do not provide time-horizon evidence for METR or trajectory signals
+    specific to this prediction.'

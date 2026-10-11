@@ -639,3 +639,12 @@ evidence:
   - https://technode.com/2026/09/28/chinas-first-ai-produced-theatrical-film-sets-october-23-release/
   - https://sloptvnews.com/supernal-thorne-protocol-future-vision-xprize/
   - https://www.bastillepost.com/global/article/6216005-supernals-ai-assisted-the-thorne-protocol-takes-third-place-in-global-future-vision-xprize-and-specs-audience-choice-award
+- date: '2026-10-11'
+  summary: 1 relevant article, 2 trajectory signals
+  sources:
+  - https://www.turkiyetoday.com/culture/turkish-ai-film-a-woman-asleep-enters-main-competition-at-filmfestival-cottbus-3229815
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://monterazzio.com/article/ai-generated-film-dreams-of-violets-premieres-at-tribeca-festival-2026-revolutionizing-cinema
+  - https://artsandvoices.com/articles/cappu-films-boards-generative-ai-thriller-overstake-for-busan-1183ff7c

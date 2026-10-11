@@ -699,3 +699,13 @@ evidence:
   - https://link.springer.com/article/10.1007/s10462-026-11698-0
   - https://www.vox.com/technology/504854/chatgpt-claude-character-ai
   - https://exa.ai/library/publication/8q5gj1nrf32
+- date: '2026-10-11'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://biblinkage.com/chatbots-show-modest-effect-on-student-depression-anxiety-in-new-review/
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aidatanews.com/stanford-researchers-tracked-1131-ai-companion-users-for-a-year-the-ones-who-opened-up-most-felt-worse/
+  - https://prinsessa.com/staysocial/ai-support-eased-loneliness-and-raised-social-anxiety/
+  - https://www.aidatanews.com/a-new-study-of-2300-middle-schoolers-finds-the-ones-who-bond-with-ai-chatbots-get-lonelier-not-happier/

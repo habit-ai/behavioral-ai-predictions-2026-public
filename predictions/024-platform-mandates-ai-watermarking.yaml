@@ -656,3 +656,15 @@ evidence:
   - https://www.newsbytesapp.com/news/science/openai-launches-metadata-tags-for-dall-e-3-and-imagegen-images/tldr
   trajectory_signal: 'Three articles signal directional progress but toward infrastructure enablement rather than platform
     mandate implementation:'
+- date: '2026-10-11'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence of mandatory AI watermarking implementation by major social media
+    platforms. The resolution criteria require a "mandate" (not voluntary), and all evidence shows platforms implementing
+    voluntary or detection-based approaches rather than mandatory watermarking requirements for users uploading content.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.thehindu.com/business/openai-to-watermark-chatgpt-text-in-eu-under-ai-act-rules/article71551205.ece
+  - https://www.techrepublic.com/article/news-openai-chatgpt-codex-watermark-emea-eu/
+  - https://en.sedaily.com/technology/2026/10/11/korea-to-extend-ai-labeling-duty-to-youtubers-other-users
+  trajectory_signal: 'Articles 7, 8, and 9 signal emerging regulatory pressure and some movement toward watermarking infrastructure,
+    but in directions that strengthen the NO case:'

@@ -660,3 +660,13 @@ evidence:
   - https://aimodelreport.com/articles/2026-10-01-gpt-6-1-sol-ships-at-one-fifth-astra-s-price-outscores-opus-5-5-on-business-work/
   - https://datanorth.ai/news/openai-releases-gpt-6-1-sol
   - https://officechai.com/miscellaneous/gpt-6-1-sol-places-just-one-point-behind-gpt-6-astra-on-artificial-analysis-intelligence-index/
+- date: '2026-10-11'
+  summary: 8 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://agiwatch.ai/signals/sig-2026-10-04-us-china-model-gap-three-percent-livebench
+  - https://pubt.io/view/4EAD51AFD6813631A9398DA140FBDD77187E1053
+  - https://eigenradar.com/en/ai/briefs/2026-10-05/livebench-us-china-gap/
+  - https://tenbrief.com/en/2026/10/06/deepseek-v4-1-flash-us-china-gap-3-percent/
+  - https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm

@@ -704,3 +704,16 @@ evidence:
     growth—1.2B weekly users achieved through enterprise/productivity tools (ChatGPT Work, Codex at 35M+ WAU each), not just
     consumer usage, suggesting sustainable growth drivers beyond casual adoption. Both signal continued positive momentum
     toward maintaining or exceeding the 1.2B threshold through Dec 31, 2026.
+- date: '2026-10-11'
+  summary: 3 relevant articles
+  sources:
+  - https://www.thefrontier.dev/articles/openai-devday-pro-500-tier-1-2b-users
+  - https://morningoverview.com/chatgpt-now-has-1-2-billion-weekly-users-and-a-500-a-month-pro-plan/
+  - https://www.ainspiro.com/en/news/agent-economy-metrics-2026/
+  relevance: 'STRONG: Articles [0], [1], and [2] all report OpenAI''s official announcement at DevDay 2026 (September 29)
+    of 1.2 billion weekly active users for ChatGPT. This directly satisfies the resolution criteria of ≥1B WAU. Article [0]
+    is from October 9 (within preferred date range), [1] from October 7 (within range), and [2] from October 8 (within range).
+    All three cite the same primary source—OpenAI''s official DevDay announcement—providing consistent corroboration. The
+    figure exceeds the prediction threshold by 200 million users (1.2B vs. 1B required). No criteria gaps remain; the resolution
+    should be YES based on this evidence.'
+  direction: TOWARD_YES

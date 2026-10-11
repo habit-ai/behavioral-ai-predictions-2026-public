@@ -577,3 +577,27 @@ evidence:
     trajectory suggests that even when a book achieves commercial success, unconfirmed AI allegations trigger institutional
     rejection (prize removal), making it less likely a *disclosed* AI-written book achieves prestigious recognition. The case
     demonstrates reputational risk rather than acceptance of AI authorship in literary circles.'
+- date: '2026-10-11'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.vanguardngr.com/2026/10/nigerian-novel-the-god-weaver-hits-amazon-top-10/
+  relevance: 'MODERATE: Article [2] provides DIRECT evidence: "The God Weaver" by Duke Terry Gbande has reached Amazon''s
+    top 10 on the African Myths and Legends bestsellers list (specifically #10), and is explicitly described as using AI.
+    The article confirms Gbande is "an artificial intelligence prompt engineer" who "used AI as a t[ool]" (content cuts off
+    but indicates AI use). However, critical criteria gaps remain: (1) The article does NOT explicitly state the book is >50%
+    AI-written with clear disclosure meeting Amazon''s requirements; (2) It specifies a CATEGORY bestseller list (African
+    Myths & Legends), not Amazon''s overall/main top 100; (3) No confirmation it meets NYT bestseller status. The resolution
+    criteria require reaching "NYT bestseller or Amazon top 100" — unclear if a category-specific top 10 satisfies this.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://thecritic.co.uk/a-novel-controversy/
+  - https://www.thebookseller.com/news/sales-of-thelyson-oreliens-novel-skyrocket-despite-ai-and-plagiarism-accusations
+  - https://www.firstpost.com/lifestyle/thelyson-oreliens-controversial-novel-is-becoming-a-bestseller-14050805.html
+  - https://gistmatrix.com/entertainment/nollywood/from-screenplay-to-top-10-how-the-god-weaver-found-its-readers/
+  - https://1news.az/en/news/20261004225508211-Novel-by-writer-accused-of-using-AI-tops-sales
+  trajectory_signal: 'Articles [0, 1, 3, 6] describe Thélyson Orélien''s "C''était ça ou mourir" becoming "one of France''s
+    biggest-selling new novels" with AI accusations, showing commercial momentum in a major market. Articles [4] provides
+    additional detail on "The God Weaver" reaching #10 status. These signal that AI-associated books ARE achieving sales traction
+    and mainstream attention in 2026, demonstrating directional movement toward resolution conditions. However, none provide
+    evidence of explicit >50% AI disclosure or achievement on unambiguous top 100 lists (vs. category lists). The trajectory
+    is TOWARD_YES but with significant verification gaps on whether current hits meet the strict resolution criteria.'

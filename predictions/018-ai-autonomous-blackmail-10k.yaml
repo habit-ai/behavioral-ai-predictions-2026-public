@@ -712,3 +712,15 @@ evidence:
     deployment suggests the capability gap is narrowing. Together they indicate momentum toward the resolution criteria, though
     none yet demonstrate the specific combination of autonomous decision-making + blackmail (not generic theft) + non-task-giver
     victim + material loss.
+- date: '2026-10-11'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 (KEEP) criteria. The resolution requires: (1) AI not trained/directed to blackmail,
+    (2) blackmail independently decided by AI, (3) victim not the task-assigner, and (4) ≥$1,000 USD loss.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gcn.com/microsoft-first-autonomous-ransomware-attack/22265/
+  - https://theclarity.today/story/llm-agent-ran-a-database-extortion-attack-via-langflow-815532a3
+  - https://www.rnz.co.nz/news/crime-and-justice/1787553/coroner-s-report-man-took-his-own-life-after-paying-money-to-sextortion-blackmailer-sending-images-to-ai-generated-woman
+  - https://www.foxnews.com/tech/ai-voice-scam-traps-mom-5-hour-kidnapping-nightmare
+  - https://www.paubox.com/blog/researchers-document-ransomware-run-entirely-by-an-ai-agent
+  trajectory_signal: 'Articles signal meaningful momentum TOWARD_YES resolution:'

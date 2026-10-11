@@ -626,3 +626,23 @@ evidence:
   - https://futurefive.co.nz/story/meta-dominates-ai-glasses-market-as-shipments-surge-263
   - https://www.ictbusiness.biz/analysis/ai-glasses-shipments-surge-263-percent-in-1h26
   trajectory_signal: 'Articles [0, 2, 3, 5, 6, 7] show strong momentum toward YES through multiple signals:'
+- date: '2026-10-11'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://ceotimesnews.com/nota/meta-bets-on-smart-glasses-as-7-million-pairs-sold-in-2025-44788.html
+  relevance: 'MODERATE: Article [3] provides DIRECT evidence: "Meta says its smart glasses are gaining traction fast, with
+    EssilorLuxottica saying it sold 7 million pairs of AI-enabled glasses in 2025." This is concrete unit sales data for 2025.
+    However, the prediction asks for >10M units in 2026 (full year), not 2025. The article doesn''t provide 2026 full-year
+    projections, creating a criteria gap. We have 2025 confirmed at 7M; the resolution threshold requires 2026 full-year data
+    >10M.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ncnonline.net/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4-2-million-omdia/
+  - https://sahha.ai/blog/smart-glasses-health-hearing/
+  - https://cyprus-mail.com/2026/10/04/global-ai-glasses-shipments-surge-past-four-million-units-in-early-2026
+  - https://chiprook.com/s/18915-smart-glasses-in-2026-shipments-up-263-meta-holds-84-of-the-market
+  trajectory_signal: 'Articles [0, 2] report identical Omdia data: 4.2M units shipped in 1H26 (first half of 2026), representing
+    127% YoY growth. Article [4] reports that "Smart glasses shipments jumped 263% in 2026" with Meta controlling 84% of the
+    market. This suggests strong momentum—if the 263% figure annualizes the trend or projects full-year 2026, it signals substantial
+    growth trajectory. Article [1] cites IDC forecasting "13.6 million display-less smart glasses to ship in 2026," which
+    would exceed the 10M threshold.'

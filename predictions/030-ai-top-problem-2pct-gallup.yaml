@@ -616,3 +616,27 @@ evidence:
   - https://www.wshu.org/news/2026-10-01/ai-safety-data-centers-emerge-as-issues-for-voters-poll-finds
   - https://dothaneagle.com/article_4c934d16-0004-5323-a4bc-ae0949539dd5.html
   trajectory_signal: 'Articles [0, 2, 3, 5, 6] show strong TOWARD_YES momentum:'
+- date: '2026-10-11'
+  summary: 5 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence toward the specific resolution criteria. The prediction requires that
+    ≥2% of Americans identify "computers/technology" as the *most important problem* in Gallup''s standard "Most Important
+    Problem" polling. None of the articles retrieved report this specific metric or data from Gallup''s MIP polls. All articles
+    discuss AI-related concerns but in different contexts: job displacement fears (27%), general AI pace concerns (64%), workplace
+    AI adoption rates (28%), and AI worry levels (68%)—none of which directly measure whether respondents cite technology/computers
+    as the single most important problem facing the country.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hyperlocalloop.com/gallup-survey-shows-growing-fear-of-ai-replacing-american-jobs/
+  - https://www.byteseu.com/2430823/
+  - https://wearemainstreet.org/world/us/2026/10/07/worker-tech-obsolescence-fears-rise
+  - https://actionglobalnews.com/articles/gallup-tech-job-fears-2026/
+  - https://apnorc.org/projects/most-adults-think-ai-is-developing-too-fast/
+  trajectory_signal: 'Articles 4, 5, 6, 7 show consistent data (27% of workers fear tech job obsolescence, up 7 points YoY)
+    across multiple outlets citing the same October 2026 Gallup survey. Article 9 shows 64% believe AI is developing too fast,
+    with 80% wanting government to prioritize AI control. These signals indicate *growing salience and concern about technology/AI*
+    among Americans, which creates favorable conditions for tech to rank higher in MIP polling. However, there''s a critical
+    gap: concern about AI''s pace or job displacement is not the same as naming "technology" as the most important problem
+    facing the nation. MIP polling captures top-of-mind national priorities (typically economy, politics, healthcare dominate).
+    The trajectory shows momentum toward increased tech anxiety but hasn''t yet translated to visible movement in actual MIP
+    rankings. The baseline (0.44% in Jan 2026) would need to reach 2%+ by Dec 31, 2026—roughly 11 weeks away. The current
+    articles suggest directional progress but lack concrete evidence of MIP ranking movement.'

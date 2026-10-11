@@ -644,3 +644,18 @@ evidence:
   - https://www.bernamabiz.com/news.php?id=2613795
   - https://businessupturn.com/usa/money/us-markets/fitch-affirms-taiwans-aa-rating-ai-demand-lifts-growth-outlook-to-9-4/
   trajectory_signal: 'Three articles signal STRONG DIRECTIONAL MOMENTUM toward YES resolution:'
+- date: '2026-10-11'
+  summary: 2 relevant articles, 2 trajectory signals
+  sources:
+  - https://technode.global/2026/10/07/ai-trend-to-boost-southeast-asias-gdp-growth-vietnam-tops-region-at-7-4-wb/
+  - https://english.news.cn/asiapacific/20261006/a70fec28710b4830bc8d9762f0965f4e/c.html
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ts-asset-mgmt.com/report/sg/2026-09-30-amro-projects-singapore-growth-to-slow-in-2027-after-ai-led-2026
+  - https://www.briefasia.com/article/ai-goods-drove-export-growth-viet-nam-malaysia-thailand
+  trajectory_signal: 'Articles [2] and [6] show clear momentum: Singapore''s actual H1 2026 growth (6.1%) was led by AI-related
+    electronics; AI goods drove >70% of export growth in Vietnam, Malaysia, Thailand. These demonstrate AI is measurably contributing
+    to economic growth in the region. However, this remains export/sector-level attribution rather than country-level official
+    GDP reports naming AI as the primary contributor to total annual growth. The trajectory is positive but still short of
+    resolution criteria.'

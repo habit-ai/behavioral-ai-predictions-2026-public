@@ -545,3 +545,23 @@ evidence:
   - https://www.tokenheart.ai/article/idc-4
   - https://techfastforward.com/articles/humanoid-robot-shipments-break-25000-as-china-dominates
   trajectory_signal: 'Articles signal MODERATE MOMENTUM but in the WRONG DIRECTION for YES resolution:'
+- date: '2026-10-11'
+  summary: 5 trajectory signals
+  relevance: 'NONE: The prediction requires >500,000 units shipped globally in 2026. Current date is October 11, 2026 — approximately
+    9.5 months into the year. No articles provide evidence meeting the resolution criteria. All articles discuss H1 2026 (first
+    half) shipments of approximately 22,000-25,000 units total. For the prediction to resolve YES, the second half of 2026
+    would need to deliver 475,000+ additional units — a 19-21x acceleration from H1 pace. This is implausible given: (1) no
+    article mentions production capacity or order backlogs at that scale, (2) current shipments remain concentrated in research/industrial/education
+    sectors rather than consumer/home use, (3) major players like Tesla Optimus have not begun retail sales. The criteria
+    gap is absolute: we need confirmation of >500K total units by year-end 2026, and current trajectory shows ~44K units in
+    the first 9 months.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://zgeo.net/news/humanoid-robot-2026h1-shipment-unitree-agibot-brand
+  - https://dopeswagyolo.com/news/humanoid-robots/humanoid-robot-shipments-h1-2026-idc-agibot
+  - https://www.techreaderdaily.com/article/humanoid-robot-shipments-hit-25-000-in-6-months-yet-buyers-get-demos
+  - https://www.humanoidhub.ai/news/agibot-leads-global-humanoid-robot-shipments-in-h1-2026-idc-data-shows
+  - https://www.humanoidhub.ai/news/humanoid-robot-shipments-jump-432-china-has-95-market-share
+  trajectory_signal: 'Articles [0, 2, 3, 5, 6] signal STRONG MOMENTUM in humanoid robot shipments generally (+432% YoY in
+    H1 2026, reaching 22K-25K units). However, this momentum points AWAY from the specific resolution criteria. Key trajectory
+    signals:'

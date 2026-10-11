@@ -579,3 +579,17 @@ evidence:
   - http://www.0539edu.com/news/4793009/blog.html
   - https://aicoder.com/news/news-20261004-aleph-alpha-kolibri-1-open-weight
   trajectory_signal: 'Multiple signals indicate momentum toward YES:'
+- date: '2026-10-11'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that a non-big-three model currently holds #1 on LiveBench as of the
+    resolution date (Dec 31, 2026). All articles confirm that as of early October 2026, Anthropic''s Claude Fable 5.1 (83.4)
+    holds the #1 position on LiveBench overall, with DeepSeek V4.1 Flash in second place (81.1). DeepSeek is from a non-big-three
+    lab, but it has not yet reached #1. The resolution criteria requires demonstrating that a non-big-three model holds the
+    #1 spot on Dec 31, 2026 — this has not occurred.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://agiwatch.ai/signals/sig-2026-10-04-us-china-model-gap-three-percent-livebench
+  - https://aiweekly.co/alerts/deepseek-v41-flash-narrows-us-china-ai-gap-to-3-on-livebench
+  - https://tenbrief.com/en/2026/10/06/deepseek-v4-1-flash-us-china-gap-3-percent/
+  - https://eigenradar.com/en/ai/briefs/2026-10-05/livebench-us-china-gap/
+  trajectory_signal: 'Strong momentum signals toward YES resolution:'

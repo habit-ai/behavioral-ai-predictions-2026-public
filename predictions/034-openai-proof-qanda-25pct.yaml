@@ -644,3 +644,21 @@ evidence:
   - https://www.neoteo.com/en/openais-navier-stokes-claim-faces-a-harder-test-human-review-1
   - https://www.winzheng.com/en/article/openai-0930c6e
   trajectory_signal: 'Substantial momentum signals in AI mathematical reasoning capability between January-October 2026:'
+- date: '2026-10-11'
+  summary: 10 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of OpenAI-Proof Q&A performance exceeding 25%. The prediction requires
+    a specific benchmark result ("OpenAI-Proof Q&A") with a concrete percentage score by December 31, 2026. No articles report
+    performance on this specific benchmark. The baseline context indicates GPT-5.1-Codex-Max scored 8% and GPT-5.2 scored
+    3% in January 2026. Articles discuss OpenAI''s broader mathematical capabilities (372-722 math manuscripts released, Lean
+    proof formalization, etc.) but do not measure performance against the OpenAI-Proof Q&A benchmark itself. Article [9] discusses
+    FrontierMath Tier 4 (different benchmark), and article [11] discusses Claude''s Riemann bound progress (different model/benchmark).
+    None directly resolve the criteria.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://openai.com/index/sharing-ai-progress-in-mathematics/
+  - https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/
+  - https://www.aiaffairs.com/technology/openai-releases-722-mathematical-manuscripts-internal-model/
+  - https://www.implicator.ai/openai-posts-372-ai-math-results-then-withdraws-three-papers-over-a-sign-error/
+  - https://applyingai.com/2026/10/openai-releases-mathematical-results-with-lean-proofs-failed-attempts-and-compute-data/
+  trajectory_signal: 'Multiple signals indicate substantial momentum in AI mathematical reasoning capabilities between January
+    and October 2026:'

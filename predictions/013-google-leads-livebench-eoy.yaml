@@ -629,3 +629,11 @@ evidence:
   - https://wpnews.pro/news/research-llm-gemini-4-brings-google-back-into-frontier-competition-as-investment
   trajectory_signal: 'Articles 0, 1, 2, 3, 4, 11 document Gemini 4 Argon''s recent launch (Sept 30, 2026) showing competitive
     performance across multiple benchmarks:'
+- date: '2026-10-11'
+  summary: 3 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://primarythought.com/llms/google-gemini-4-argon-benchmarks-limited-release
+  - https://aiweekly.co/alerts/deepseek-v41-flash-narrows-us-china-ai-gap-to-3-on-livebench
+  - https://diffvibe.com/articles/google-ships-gemini-3-7-flash-three-weeks-after-3-6-halves-token-pricing-818b4a55

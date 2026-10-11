@@ -609,3 +609,16 @@ evidence:
   - https://refacto.app/ai/p/openai-ai-swarm-solves-millennium-prize-math-problem-in-88-hours/
   - https://felixonline.co.uk/articles/navier-stokes/
   - https://www.stork.ai/blog/10000-ai-agents-take-on-a-1-million-math-problem
+- date: '2026-10-11'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles meet TIER 1 criteria. The resolution requires "Clay Institute accepts AI solution" — a formal,
+    definitive acceptance with explicit crediting to an AI system. Articles [1] and [5] report OpenAI''s Navier-Stokes claim,
+    but explicitly state the Clay Mathematics Institute has NOT completed formal review. Article [6] clarifies that Clay''s
+    own rules require two years of published scrutiny before any solution can be called "solved" — a timeline that extends
+    well past the 2026 prediction endpoint. No article documents Clay Institute acceptance of any AI solution.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://hamirev.com/millennium-prize-ai-navier-stokes/
+  - https://www.tokenpost.com/news/technology/26880
+  - https://www.roche-review.com/p/the-proof-was-announced-in-hours-the-verification-takes-years
+  trajectory_signal: 'Clear momentum TOWARD_YES, but not yet at resolution:'
