@@ -634,3 +634,17 @@ evidence:
     downward momentum pressure on YES resolution confidence. Articles [1-4, 6-7] address safety evaluations, audit vulnerabilities,
     and alternative benchmarks (Android Bench 2.0) but do not provide time-horizon evidence for METR or trajectory signals
     specific to this prediction.'
+- date: '2026-10-18'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on whether any AI model has achieved an 18+ hour time horizon on the
+    METR task suite. The prediction requires a specific, measurable outcome: a model reaching ≥18hr 50%-time horizon by December
+    31, 2026. Baseline context shows Opus 4.5 at ~4hr 49min as of December 2025, with doubling occurring every 4-5 months.
+    This would require approximately 2 more doublings to reach 18+ hours—feasible within the 13 months remaining, but no current
+    evidence confirms any model approaching this threshold.'
+  trajectory_sources:
+  - https://lexingtoninstitute.org/metr-in-spotlight-amid-frontier-model-evaluation-ai-agents-attack/
+  - https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/
+  - https://www.panews.io/articles/01a13d07-c564-7545-92b3-6611262184a2
+  - https://www.newsquawk.com/headlines/anthropic-grants-employee-like-access-to-metr-for-frontier-ai-model-evaluation-partners-with-securebio-and-accenture-acn-is-in-talks-with-hugging-face-for-evaluation
+  - https://frontieraianalysis.com/articles/anthropic-metr-access-changes-what-outsiders-can-evaluate/
+  trajectory_signal: 'Articles 0, 1, 3, 8, 9, 10 show institutional progress on METR evaluation infrastructure:'

@@ -648,3 +648,26 @@ evidence:
   trajectory_sources:
   - https://monterazzio.com/article/ai-generated-film-dreams-of-violets-premieres-at-tribeca-festival-2026-revolutionizing-cinema
   - https://artsandvoices.com/articles/cappu-films-boards-generative-ai-thriller-overstake-for-busan-1183ff7c
+- date: '2026-10-18'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article
+  relevance: 'MODERATE: Article [2] provides direct evidence: FilmFest Cottbus selected AI-generated feature "A Woman Asleep"
+    by Vikki Bardot for main competition. This is a concrete nomination of a feature-length film with disclosed AI-generated
+    content at a festival with competition status. However, FilmFest Cottbus (Brandenburg, Germany) is a regional festival,
+    not a "major festival" in the baseline tier (Cannes, Venice, Oscars). The criteria specify "major festival/award" — FilmFest
+    Cottbus likely exceeds typical sidebar/program status but remains below Tier-1 prestige level. This creates ambiguity
+    about whether it satisfies the resolution bar. Article [0] actively works against resolution by showing Cannes explicitly
+    banned AI-generated films. Articles [1], [3], [5], [6] describe AI-specific festivals but these are new dedicated AI festivals,
+    not nominations at traditional major festivals with mixed programming.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://unhindered.ai/news/waiff-africa-abidjan-road-to-cannes-2027
+  - https://www.rp.pl/film/art45314411-imponujace-i-przerazajace-obrazy-filmowych-produkcji-ai-czy-pozra-dotychczasowe-kino
+  - https://www.elobservador.com.uy/espana/cine-series-y-musica/una-pelicula-hecha-ia-entra-la-carrera-del-oscar-y-pone-prueba-las-nuevas-reglas-hollywood-n6060167
+  - https://www.rp.pl/film/art45314411-imponujace-i-przerazajace-obrazy-filmowych-produkcji-ai-czy-pozra-dotychczasowe-kino
+  trajectory_signal: 'Two signals suggest momentum TOWARD_YES: (1) "Gods Don''t Give Gifts" positioning for Oscar consideration
+    signals imminent major-award nomination testing within weeks/months; (2) Institutional pathways (WAIFF Road to Cannes)
+    are being constructed to funnel AI films toward traditional major festivals. However, Cannes'' explicit ban [0] and general
+    resistance at top-tier festivals may constrain this momentum. The trajectory is optimistic for near-term resolution but
+    faces institutional headwinds.'

@@ -640,3 +640,18 @@ evidence:
     The trajectory shows momentum toward increased tech anxiety but hasn''t yet translated to visible movement in actual MIP
     rankings. The baseline (0.44% in Jan 2026) would need to reach 2%+ by Dec 31, 2026—roughly 11 weeks away. The current
     articles suggest directional progress but lack concrete evidence of MIP ranking movement.'
+- date: '2026-10-18'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence of whether Americans identify computers/technology as the "most important
+    problem" in Gallup polling, or whether the 4-month average has reached ≥2%. The resolution criteria requires specific
+    Gallup "most important problem" data—a distinct question format asking respondents to name THE most important problem
+    facing the country. None of the articles report this specific metric or provide updated polling data showing the percentage
+    of Americans identifying computers/technology in this particular question. The baseline context shows 0.44% in January
+    2026; articles would need to demonstrate movement toward or past the 2% threshold by December 31, 2026.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.techpolicy.press/multiple-polls-find-most-americans-think-ai-is-moving-too-fast/
+  - https://www.elon.edu/u/news/2026/10/13/elon-survey-finds-americans-fear-ai-will-hollow-out-the-meaning-of-work/
+  - https://www.provokemedia.com/latest/article/fgs-report-public-trust-in-ai-lags-other-technologies
+  - https://news.lee.net/news/nation-world/government-politics/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-poll-finds/article_8092be45-f1f0-5bbf-9cfc-fcafa18336f3.html
+  trajectory_signal: 'Several articles (0, 1, 4, 9) signal directional momentum TOWARD_YES by documenting:'

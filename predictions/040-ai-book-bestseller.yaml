@@ -601,3 +601,14 @@ evidence:
     and mainstream attention in 2026, demonstrating directional movement toward resolution conditions. However, none provide
     evidence of explicit >50% AI disclosure or achievement on unambiguous top 100 lists (vs. category lists). The trajectory
     is TOWARD_YES but with significant verification gaps on whether current hits meet the strict resolution criteria.'
+- date: '2026-10-18'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide DIRECT evidence that a disclosed primarily-AI-written (>50%) book has reached NYT
+    bestseller or Amazon top 100. The criteria require both: (1) explicit disclosure of >50% AI authorship, AND (2) achievement
+    of NYT bestseller or Amazon top 100 status. No article documents both conditions being met simultaneously.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html
+  - https://iaenunminuto.com/en/news/2026-10-13-el-pais-ai-text-bestselling-books/
+  - https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoeditadas-cuanta-ia-hay-en-los-libros-mas-vendidos-de-espana.html
+  trajectory_signal: 'Two moderate signals of momentum TOWARD_YES:'

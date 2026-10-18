@@ -565,3 +565,24 @@ evidence:
   trajectory_signal: 'Articles [0, 2, 3, 5, 6] signal STRONG MOMENTUM in humanoid robot shipments generally (+432% YoY in
     H1 2026, reaching 22K-25K units). However, this momentum points AWAY from the specific resolution criteria. Key trajectory
     signals:'
+- date: '2026-10-18'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence toward the >500K units resolution criteria for 2026. The prediction
+    asks specifically about 2026 shipments, and we are now at 2026-10-18 (mid-October). The most recent hard data shows: H1
+    2026 shipments of ~22,000-25,000 units globally (articles 5, 6). Even with generous extrapolation to full-year 2026, this
+    trajectory points to ~50,000-55,000 units maximum for the entire year—roughly 10% of the 500K threshold. Articles 0, 1
+    cite older 2025 data (7,000 units) or production claims vs. sales figures. Article 2 (Tesla Optimus) explicitly states
+    zero units sold through Q2 2026 and no near-term commercial availability. Articles 4, 9, 10, 11 discuss late-2026/2027
+    launches and future timelines, not 2026 shipment achievements. The resolution criteria gap is massive and unbridgeable:
+    500K by end of 2026 would require shipping ~475K-500K units in Q4 2026 alone—a 20-25x acceleration from H1 2026 pace,
+    with zero evidence of capacity or intent to achieve this.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://therobotdaily.com/agibot-leads-global-humanoid-shipments-h1-2026
+  - https://news.mynavi.jp/techplus/article/20261016-5138080/
+  - https://www.streetinsider.com/GetNews/Booster+Robotics+Ranks+Among+Global+Top+3+in+Humanoid+Robot+Shipments%2C+IDC+Reports/27182470.html
+  trajectory_signal: 'Articles 5, 6, 8 show meaningful upward momentum in 2026 H1 shipments (25K units, 432% YoY growth) and
+    market projections of 50K+ units for full-year 2026 and 750K+ by 2030 (article 8). This signals genuine trajectory *toward*
+    consumer humanoid adoption, but crucially: (1) the 2026 full-year projection (~50K) falls far short of 500K, and (2) IDC/Counterpoint''s
+    forward guidance places the >500K milestone at 2030, not 2026. The direction is upward for the sector, but decisively
+    away from YES for this specific 2026 prediction.'

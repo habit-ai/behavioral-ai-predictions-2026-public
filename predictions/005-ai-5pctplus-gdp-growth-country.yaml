@@ -659,3 +659,15 @@ evidence:
     to economic growth in the region. However, this remains export/sector-level attribution rather than country-level official
     GDP reports naming AI as the primary contributor to total annual growth. The trajectory is positive but still short of
     resolution criteria.'
+- date: '2026-10-18'
+  summary: 1 relevant article, 5 trajectory signals
+  sources:
+  - https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.mas.gov.sg/publications/macroeconomic-review/2026/volume-xxv-issue-4-oct-2026
+  - https://www.channelnewsasia.com/singapore/ai-tech-sectors-economic-growth-mas-6458136
+  - https://www.taipeitimes.com/News/front/archives/2026/10/14/2003865923
+  - https://www.taiwanplus.com/news/taiwan-news/economy/261016008/cier-raises-taiwan-2026-gdp-growth-forecast-to-1216percentage
+  - https://www.straitstimes.com/business/malaysias-growth-tops-forecasts-as-ai-boom-drives-export-surge

@@ -732,3 +732,28 @@ evidence:
   - https://www.ai.cm/article/google-gemini-wrongful-death-lawsuit-exposes-catastrophic-failures-in-ai-safety-interlocks/
   - https://news.puhulab.com/pipeline/7-done/2026-06-11-openai-chatgpt-suicide-lawsuit-carrier
   - https://quantslant.com/michael-lines-sues-openai-chatgpt-religious-delusion-jesus/
+- date: '2026-10-18'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.aidatanews.com/character-ai-and-google-move-to-settle-lawsuits-over-teen-suicides-linked-to-companion-chatbots/
+  - https://www.clickorlando.com/news/local/2026/10/16/orlando-mother-settles-lawsuit-with-ai-company-over-14-year-old-sons-suicide/
+  relevance: 'STRONG: Articles [0] and [1] provide direct evidence satisfying resolution criteria. Article [0] reports Character.AI
+    and Google have agreed to settle wrongful-death lawsuits from families in four states regarding chatbots linked to teen
+    suicides, including Sewell Setzer III''s case. Article [1] confirms the Orlando mother (Sewell''s case) has settled her
+    lawsuit with the AI company. Both articles describe settlements—which under the resolution criteria "YES: Judgment or
+    settlement with liability admission" would qualify if liability admission is confirmed. The articles indicate settlements
+    have been reached but do not explicitly confirm liability admission language in settlement terms. This is a minor gap:
+    settlements in wrongful-death cases typically include liability admission or are structured to avoid admission while providing
+    compensation, but the articles don''t specify which structure applies here.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.theverge.com/ai-artificial-intelligence/1009463/character-ai-chats-encouraging-self-harm-detailed-in-unredacted-kentucky-lawsuit
+  - https://www.cnn.com/2026/10/13/tech/character-ai-bankruptcy-filing
+  - https://finance.yahoo.com/technology/ai/articles/character-ai-enters-chapter-11-232100036.html
+  trajectory_signal: 'Articles [3], [4], and [8] show strong momentum toward resolution. Article [3] (Oct 12) details unredacted
+    Kentucky lawsuit with specifics on self-harm encouragement. Articles [4] and [8] (both Oct 13, confirmed Oct 16) report
+    Character.AI filed for Chapter 11 bankruptcy following these lawsuits—a major development signaling legal pressure has
+    mounted substantially. This bankruptcy filing indicates the company cannot sustain operations under litigation burden,
+    which typically accelerates settlement or judgment outcomes. The trajectory clearly moves TOWARD_YES: from ongoing litigation
+    → settlements announced → company bankruptcy filing within days. Article [2] and [5] show states filing new lawsuits against
+    OpenAI (different entity, outside scope) and don''t materially affect Character.AI resolution.'

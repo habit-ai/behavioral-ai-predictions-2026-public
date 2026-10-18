@@ -646,3 +646,17 @@ evidence:
     market. This suggests strong momentum—if the 263% figure annualizes the trend or projects full-year 2026, it signals substantial
     growth trajectory. Article [1] cites IDC forecasting "13.6 million display-less smart glasses to ship in 2026," which
     would exceed the 10M threshold.'
+- date: '2026-10-18'
+  summary: 2 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence that >10M AI-native wearable units have been sold in 2026. Article
+    [4] (Korean source, 2026-10-15) claims Meta Ray-Ban has "돌파" (surpassed) 7 million units, but this is a single claim without
+    corroboration and refers specifically to Meta Ray-Ban (one product line), not the broader "AI-native wearable" category.
+    The prediction requires >10M total units across all AI-native wearables in 2026. Articles [0] and [8] cite TrendForce
+    projecting only 1.31M total AR glasses shipments for 2026—far below threshold. Article [2] reports 4.2M AI glasses shipments
+    in H1 2026, but this is only half-year data and still substantially below 10M for full year. None of these sources confirm
+    the resolution criteria have been met.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.ncnonline.net/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-a-record-4-2-million-omdia/
+  - https://www.koreareport.co.kr/news/articleView.html?idxno=53663
+  trajectory_signal: 'Multiple signals indicate upward momentum toward YES, though still well short of the threshold:'

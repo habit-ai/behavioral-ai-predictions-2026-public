@@ -711,3 +711,17 @@ evidence:
   - https://gadgetsnow.indiatimes.com/tech-news/openai-introduces-age-verification-system-for-chatgpt-heres-how-you-can-protect-your-children-from-ai-risks/articleshow/134770267.cms
   - https://www.legal500.com/intelligence/united-states/media-telecoms-it-entertainment/california-signs-landmark-online-child-safety-package
   - https://www.mondaq.com/uk/gaming/1851678/the-eu-kids-act-new-rules-for-childrens-use-of-social-media-gaming-and-ai-services
+- date: '2026-10-18'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide DIRECT evidence that a major general AI platform has already introduced companion-specific
+    age verification. Article [4] describes the Senate''s GUARD Act proposal (which would require such restrictions), but
+    this is proposed legislation, not an implementation by a platform. The baseline context confirms OpenAI''s current restrictions
+    (as of Jan 2026) only limit sexual/violent roleplay, not companionship broadly—meaning the resolution criteria have not
+    yet been met.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.aidatanews.com/senates-guard-act-would-bar-minors-from-ai-companion-chatbots-require-human-disclosure/
+  trajectory_signal: 'Article [4] (published 2026-10-13) shows strong momentum TOWARD_YES: The bipartisan GUARD Act cleared
+    the Senate Judiciary Committee unanimously and explicitly mandates that platforms "bar minors from AI ''companion'' chatbots"
+    and "require age verification." This legislative pressure creates a direct pathway for major platforms to implement companion-specific
+    restrictions to comply. The momentum is notable because:'

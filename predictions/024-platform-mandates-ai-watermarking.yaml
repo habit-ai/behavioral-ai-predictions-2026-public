@@ -668,3 +668,17 @@ evidence:
   - https://en.sedaily.com/technology/2026/10/11/korea-to-extend-ai-labeling-duty-to-youtubers-other-users
   trajectory_signal: 'Articles 7, 8, and 9 signal emerging regulatory pressure and some movement toward watermarking infrastructure,
     but in directions that strengthen the NO case:'
+- date: '2026-10-18'
+  summary: 3 trajectory signals
+  relevance: 'NONE: No articles provide evidence of a major social media platform implementing MANDATORY AI watermarking.
+    Articles 1-4, 8-9 describe voluntary labels, educational resources, and optional C2PA participation from Meta, TikTok,
+    YouTube, and other platforms—all falling short of the "mandatory" threshold required for YES resolution. Article 0 discusses
+    a voluntary Code of Practice with task forces on marking/detection, not a mandate. The resolution criteria explicitly
+    requires mandatory implementation ("not voluntary"), and no major platform has crossed this threshold as of the article
+    publication dates.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.wortins.com/story/china-expands-ai-compliance-with-mandatory-watermarking-012c7e78
+  - https://en.sedaily.com/technology/2026/10/11/korea-to-extend-ai-labeling-duty-to-youtubers-other-users
+  - https://cite.io/blog/south-korea-ai-watermark-tampering-bill/
+  trajectory_signal: 'Articles 5, 6, 7 signal meaningful momentum toward YES:'

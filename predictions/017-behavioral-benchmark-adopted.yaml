@@ -590,3 +590,22 @@ evidence:
   - https://www.ainformed.dev/articles/2026-10-04-circuit-breaker-labs-creates-ai-crash-test-dummies-to-protect-users
   - https://tsnmedia.org/scale-ai-distressbench-chatbots-crisis-help-gap/
   - https://deploymentsafety.openai.com/gpt-6-october
+- date: '2026-10-18'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://media.yobitsugi.ai/articles/2026/10/openai-mentalhealthbench-release
+  relevance: 'MODERATE: Article [5] (OpenAI''s MentalHealthBench) provides DIRECT evidence toward YES resolution. OpenAI has
+    publicly released "MentalHealthBench," a benchmark specifically designed to evaluate AI''s appropriateness in mental health
+    conversations—directly measuring psychological/behavioral impacts on users. The benchmark includes 1,215 conversations
+    across different user types (adults, teens, caregivers, clinicians) and was developed with 80+ qualified mental health
+    professionals across 22 countries. This satisfies the core resolution criterion: a major lab (OpenAI) has adopted/referenced
+    a benchmark measuring AI''s psychological/behavioral impacts. However, the critical gap is whether this appears in a MODEL
+    CARD or SAFETY REPORT—the article does not confirm OpenAI has formally incorporated MentalHealthBench into official safety
+    documentation yet.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.media.mit.edu/articles/beyond-the-sci-fi-fear-mit-media-lab-launches-ai-nutrition-labels-to-protect-human-well-being/
+  - https://openminds.com/market-intelligence/bulletins/spring-health-opens-vera-mh-harm-from-others-safety-rubric-for-public-comment/
+  - https://theagenttimes.com/articles/scale-ai-benchmark-finds-llms-recognize-crises-but-fail-to-r-99519611
+  - https://www.dailycal.org/news/campus/research-and-ideas/uc-berkeley-researchers-create-platform-to-measure-ai-health-impacts-in-collaboration-with-mit-usc/article_28f22394-9bb6-4876-9641-3dbedc1e3866.html
+  trajectory_signal: 'Articles [0, 1, 3, 4] show strong directional momentum toward YES:'

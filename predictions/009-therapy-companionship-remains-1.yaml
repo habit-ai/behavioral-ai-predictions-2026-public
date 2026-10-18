@@ -596,3 +596,25 @@ evidence:
   - https://www.tipranks.com/news/private-companies/wysa-highlights-global-community-impact-programs-on-tenth-anniversary
   - https://runtimewire.com/article/flagship-iris-labs-20m-personal-ai-wellbeing
   trajectory_signal: 'Two articles signal directional momentum:'
+- date: '2026-10-18'
+  summary: 1 trajectory signal
+  relevance: 'NONE: No articles provide direct evidence toward resolution. The prediction requires an AI therapy/mental health
+    app to reach >10M MAU by end of 2026. Current baseline: Wysa has "more than 5 million" users (as of the baseline context).
+    We are at 2026-10-18—very late in the prediction window with ~2.5 months remaining. Article [0] about Wysa launching a
+    £5.3M trial in rural India is recent (2026-10-14) but describes a *new research project*, not scaling to 10M MAU. No articles
+    provide current MAU data for Wysa or any other therapy app showing progress toward the threshold. Articles [1-4] concern
+    Character.ai (a general chatbot platform, not therapy-focused) filing for bankruptcy—directionally negative for the AI
+    app ecosystem but not directly relevant to therapy apps specifically. Articles [6-8] discuss general AI apps (ChatGPT,
+    Gemini, Meta''s Muse) with large MAU, but these are not therapy/mental health apps. Articles [9-12] discuss Replika (an
+    AI companion app with ~40M cumulative users claimed, but this is lifetime users, not current MAU; also Replika is marketed
+    as companion/relationship-focused, not therapy). None of these establish therapy-specific MAU figures or show Wysa or
+    competitors reaching 10M MAU.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://www.aidatanews.com/wysa-and-imperial-college-launch-5-3-million-trial-of-ai-chatbot-for-anxious-teen-girls-in-rural-india/
+  trajectory_signal: 'Article [0] signals Wysa is pursuing growth through funded international expansion (Imperial College
+    trial in India), suggesting directional momentum in user acquisition. However, moving from "more than 5M" to >10M MAU
+    in ~2.5 months is a steep 2x growth requirement, and a research trial launch does not constitute evidence of imminent
+    mass-market scaling. The Character.ai bankruptcy signals difficulty in the AI chat application space, which is weakly
+    negative for the broader ecosystem. Overall trajectory is ambiguous but time-constrained: the prediction window is nearly
+    closed, and no recent data shows therapy apps approaching the 10M threshold.'

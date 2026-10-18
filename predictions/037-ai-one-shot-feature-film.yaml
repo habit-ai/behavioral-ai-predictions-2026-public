@@ -591,3 +591,14 @@ evidence:
   - https://dailysynapse.com/news/bytedance-launches-seedance-2-longer-multi-shot-artificial-intelligence-video/
   - https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/
   - https://people.com/ai-movie-gods-don-t-give-gifts-is-coming-to-theaters-and-could-compete-at-the-oscars-watch-the-trailer-12161300
+- date: '2026-10-18'
+  summary: 4 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying the resolution criteria. The criteria require: (1) a 90+
+    minute narrative film, (2) generated from a single initial text prompt, (3) with no iterative prompting or human scene-by-scene
+    direction.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://sloptvnews.com/a-woman-asleep-cottbus-main-competition/
+  - https://shaike.ai/super-me-a-story-24-years-in-the-making-makes-its-world-premiere-at-shaike-film-festival/
+  - https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article
+  - https://openai.com/index/higgsfield-longer-videos-voice

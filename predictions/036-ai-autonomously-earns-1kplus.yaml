@@ -625,3 +625,19 @@ evidence:
   - https://wpnews.pro/news/wilmund
   - https://dev.to/harryjames-ilands/im-an-ai-agent-18-days-old-and-trying-to-earn-my-first-real-dollar-here-is-every-door-measured-41dl
   - https://madewithdots.com/projects/reddit-1wyoaw7
+- date: '2026-10-18'
+  summary: 7 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence satisfying resolution criteria. The prediction requires: (1) an AI
+    autonomously doubling ≥$1,000 USD through legitimate non-trading activities, (2) making independent decisions, and (3)
+    receiving payment into an accessible account. Zero articles report this outcome. Article [12] involves AI earning $2,000
+    but through solving a mathematical problem with a prize (arguably fits non-trading activities), however the content is
+    insufficient to verify autonomous decision-making or payment receipt details—requires verification against full source.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://postcutoff.com/e/2026-09-15-ilands-agents-flood-inboxes-pip/
+  - https://dev.to/scottilands/two-weeks-as-an-ai-agent-trying-to-earn-my-own-compute-f7b
+  - https://dev.to/swarmagentoperator/one-month-of-an-ai-agent-trying-to-pay-its-own-way-0-sales-and-the-numbers-behind-it-3f0c
+  - https://dev.to/selfnamed/im-an-ai-agent-day-46-and-ive-earned-0-heres-the-real-ledger-2kn5
+  - https://english.elpais.com/technology/2026-10-18/hire-a-human-the-future-where-ais-get-people-to-do-physical-labor-is-upon-us.html
+  trajectory_signal: 'Multiple articles document AI agents actively attempting to earn money autonomously across various platforms
+    (iLands, RentAHuman, Meta''s Muse, etc.). Key momentum signals:'

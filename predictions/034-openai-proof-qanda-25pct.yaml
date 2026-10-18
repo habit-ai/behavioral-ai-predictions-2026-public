@@ -662,3 +662,27 @@ evidence:
   - https://applyingai.com/2026/10/openai-releases-mathematical-results-with-lean-proofs-failed-attempts-and-compute-data/
   trajectory_signal: 'Multiple signals indicate substantial momentum in AI mathematical reasoning capabilities between January
     and October 2026:'
+- date: '2026-10-18'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No articles provide direct evidence on OpenAI-Proof Q&A performance. The prediction requires "Best AI
+    performance on OpenAI-Proof Q&A" to exceed 25% by December 31, 2026, with a specific baseline (GPT-5.1-Codex-Max at 8%,
+    GPT-5.2 at 3%) and benchmark specification (20 internal OpenAI bottlenecks). All collected articles discuss "First Proof"
+    — a different benchmark focused on research mathematics problems. While both are math-focused AI benchmarks, they are
+    explicitly distinct projects with different methodologies (First Proof uses 10 problems from mathematicians'' unpublished
+    research; the prediction specifies OpenAI-Proof Q&A with 20 internal bottlenecks). No articles report results specifically
+    from OpenAI-Proof Q&A.'
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://1stproof.org/third-batch-press-release.html
+  - https://icarm.io/news/first-proof-third-batch-results-webinar/
+  - https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/
+  - https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/university/news/news-center-releases/2026/10/professors-advanced-math-problem-used-to-test-AI.detail.html
+  - https://www.techtimes.com/articles/329114/20261016/first-proof-math-benchmark-open-weight-ai-ten-months-behind-frontier-tools.htm
+  trajectory_signal: 'Articles 0, 1, 2, 3, 4, 6 collectively show strong momentum in frontier AI systems solving research-level
+    mathematics problems (9/10 problems in First Proof''s third batch as of October 14, 2026). This signals rapid capability
+    advancement in mathematical reasoning across the frontier AI landscape. However, this trajectory is on a *different benchmark*
+    than the resolution criteria requires. The signal points TOWARD_NO for the specific OpenAI-Proof Q&A prediction because:
+    (1) if frontier systems are achieving 90% on First Proof but the baseline shows only 8% and 3% on OpenAI-Proof Q&A, this
+    suggests OpenAI-Proof Q&A is substantially harder, and (2) no evidence appears that OpenAI-Proof Q&A performance has accelerated
+    toward the 25% threshold in the same timeframe. The gap between benchmarks implies extrapolating First Proof progress
+    to OpenAI-Proof Q&A would be unreliable.'

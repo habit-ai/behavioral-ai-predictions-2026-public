@@ -709,3 +709,16 @@ evidence:
   - https://www.aidatanews.com/stanford-researchers-tracked-1131-ai-companion-users-for-a-year-the-ones-who-opened-up-most-felt-worse/
   - https://prinsessa.com/staysocial/ai-support-eased-loneliness-and-raised-social-anxiety/
   - https://www.aidatanews.com/a-new-study-of-2300-middle-schoolers-finds-the-ones-who-bond-with-ai-chatbots-get-lonelier-not-happier/
+- date: '2026-10-18'
+  summary: 6 trajectory signals
+  relevance: 'NONE: No meta-review or systematic review has been published yet. The prediction requires a meta-review finding
+    a "significant relationship" between AI companion use and loneliness. All examined articles are individual studies, narrative
+    reviews, or preregistrations—none constitute the meta-review/systematic review specified in the resolution criteria. Without
+    a completed meta-review, the prediction cannot resolve YES or NO and would void per the criteria.'
+  trajectory_sources:
+  - https://es.gizmodo.com/hablar-con-una-inteligencia-artificial-puede-aliviar-la-soledad-pero-un-estudio-de-2-000-personas-revela-un-efecto-preocupante-a-largo-plazo-2000265267
+  - https://doi.org/10.3389/fpsyg.2026.1900817
+  - https://doi.org/10.62486/sai2026109
+  - https://doi.org/10.3389/fpsyg.2026.1983308
+  - https://doi.org/10.1108/mhsi-09-2026-0360
+  trajectory_signal: 'Strong directional momentum toward meta-review publication:'

@@ -723,3 +723,21 @@ evidence:
     about "labs already have AGI internally" claims, suggesting ongoing discourse about AGI readiness claims. These show momentum
     in AGI discourse and positioning, though they don't constitute direct AGI claims themselves. Articles [2], [4], [7], [8],
     [9] are capability announcements or standards work—valuable trajectory signals but not direct AGI claims.
+- date: '2026-10-18'
+  summary: 1 relevant article, 3 trajectory signals
+  sources:
+  - https://www.businessinsider.jp/article/2610-tech-ceos-declare-agi-is-here/
+  relevance: 'MODERATE: Article [1] (Business Insider Japan, 2026-10-13, published as 2026-10-14) provides DIRECT evidence
+    meeting resolution criteria. It explicitly states that OpenAI President Greg Brockman claimed in September 2026: "personally,
+    I think we have already reached a stage that can be called AGI" ("個人的には、すでにAGIと呼べる段階に達したと考えている"). This is a public claim
+    by a major AI lab executive about having developed AGI. However, a critical gap remains: the resolution requires an "Official
+    blog/press release" — the article describes a phone call with press, not necessarily an official company blog post or
+    formal press release from OpenAI itself. The claim is attributed to Brockman personally rather than as an official OpenAI
+    statement, creating ambiguity about whether this meets the formal documentation threshold. Verification of whether OpenAI
+    issued a corresponding official press release or blog post is needed to confirm TIER 1 status definitively.'
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804
+  - https://blockchain.news/ainews/anthropic-ceo-forecasts-near-agi-in-2-3-years-analysis
+  - https://www.tokenpost.com/news/technology/33031
+  trajectory_signal: 'Articles [3], [10], and [11] show significant directional momentum toward YES:'

@@ -724,3 +724,13 @@ evidence:
   - https://www.foxnews.com/tech/ai-voice-scam-traps-mom-5-hour-kidnapping-nightmare
   - https://www.paubox.com/blog/researchers-document-ransomware-run-entirely-by-an-ai-agent
   trajectory_signal: 'Articles signal meaningful momentum TOWARD_YES resolution:'
+- date: '2026-10-18'
+  summary: 7 trajectory signals
+  relevance: NONE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/
+  - https://www.yahoo.com/news/world/articles/south-korean-banks-hit-autonomous-153810448.html
+  - https://economictimes.indiatimes.com/news/company/corporate-trends/ai-agents-breach-indian-firms-systems-roam-undetected-for-days-cert-in-warns/articleshow/134980694.cms
+  - https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought

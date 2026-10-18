@@ -712,3 +712,16 @@ evidence:
   - https://circuit.news/2026/10/06/uae-funds-may-seek-to-raise-30-billion-ahead-of-openais-ipo/
   - https://clearnewswire.com/1297191.html
   trajectory_signal: 'Articles [1], [2], [5], [6], [7], [9], [11] show strong directional momentum toward YES:'
+- date: '2026-10-18'
+  summary: 2 relevant articles, 8 trajectory signals
+  sources:
+  - https://www.newsquawk.com/headlines/anthropic-plans-to-file-documents-with-the-sec-for-its-blockbuster-ipo-on-october-26th-in-hopes-of-going-public-in-mid-november-according-to-ifr-citing-a-person-familiar-with-the-matter
+  - https://accessipos.com/anthropic-stock-ipo/
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://www.bloomberg.com/news/articles/2026-10-15/anthropic-stands-alone-as-rest-of-us-ipo-market-slows-to-a-crawl
+  - https://www.ifre.com/equities/2499407/anthropic-pushes-ahead-with-mid-november-ipo
+  - https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html
+  - https://www.tradingkey.com/analysis/stocks/us-stocks/261965855-openai-ipo-openai-chatgpt-mu-tradingkey
+  - https://www.mediapost.com/publications/article/415643/openai-files-ipo-eyes-ad-tools-powered-by-general.html

@@ -609,3 +609,14 @@ evidence:
   - https://eigenradar.com/en/ai/briefs/2026-10-05/livebench-us-china-gap/
   - https://tenbrief.com/en/2026/10/06/deepseek-v4-1-flash-us-china-gap-3-percent/
   trajectory_signal: 'Strong directional momentum TOWARD_YES. Multiple corroborated sources (published Oct 4-5, 2026) show:'
+- date: '2026-10-18'
+  summary: 1 relevant article, 4 trajectory signals
+  sources:
+  - https://www.dztan.com/p/2026/10/11/deepseek-v4-1-flash-yi-81-1-fen-cheng-wei-livebench-pai-ming.shtml
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://restofworld.org/2026/china-open-weight-models/
+  - https://neuralwire.co/articles/chinas-open-weight-ai-models-trail-us-closed-models-by-seven-months/
+  - https://www.tokenpost.com/news/technology/33253
+  - https://startupfortune.com/chinas-open-ai-models-now-trail-the-us-frontier-by-just-seven-months/

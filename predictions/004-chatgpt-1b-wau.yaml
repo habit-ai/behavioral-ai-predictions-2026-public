@@ -717,3 +717,14 @@ evidence:
     figure exceeds the prediction threshold by 200 million users (1.2B vs. 1B required). No criteria gaps remain; the resolution
     should be YES based on this evidence.'
   direction: TOWARD_YES
+- date: '2026-10-18'
+  summary: 2 relevant articles, 3 trajectory signals
+  sources:
+  - https://www.thenewsindata.com/stories/chatgpt-reached-a-billion-weekly-users-in-under-four-years-facebook-took-eight-and-a-half
+  - https://yellow.com/news/chatgpt-intelligent-ui-charts-calculators-answers
+  relevance: STRONG
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://actu.allo360.com/ia/openai-utilisateurs-hebdomadaires-un-chiffre-a-decortiquer
+  - https://www.xix.ai/ko/ainews/chatgpt-near-1-billion-weekly-users-reaching-milestone-in-under-four-years.html
+  - https://citationbureau.com/pieces/openai-shipped-an-imperfect-agentic-toggle-to-put-agent-capabilities-in-a13b70

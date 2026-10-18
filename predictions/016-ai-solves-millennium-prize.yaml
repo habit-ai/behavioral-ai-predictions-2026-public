@@ -622,3 +622,13 @@ evidence:
   - https://www.tokenpost.com/news/technology/26880
   - https://www.roche-review.com/p/the-proof-was-announced-in-hours-the-verification-takes-years
   trajectory_signal: 'Clear momentum TOWARD_YES, but not yet at resolution:'
+- date: '2026-10-18'
+  summary: 5 trajectory signals
+  relevance: NONE
+  direction: TOWARD_NO
+  trajectory_sources:
+  - https://plus.maths.org/navier-stokes-millennium-problem-solved-ai
+  - https://tulanehullabaloo.com/76493/data/openais-navier-stokes-proof-sparks-disputes-over-credit-role-of-ai-in-math/
+  - https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/
+  - https://startupfortune.com/a-new-paper-says-openais-navier-stokes-proof-and-its-lean-code-dont-match/
+  - https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/

@@ -682,3 +682,16 @@ evidence:
     with the prediction's theoretical direction. These studies collectively signal growing empirical momentum toward a negative
     AI–critical thinking relationship, increasing the likelihood that a future meta-review will synthesize these findings
     and conclude significant negative association. However, no meta-review has yet consolidated this evidence.
+- date: '2026-10-18'
+  summary: 3 relevant articles, 4 trajectory signals
+  sources:
+  - https://doi.org/10.62282/je.v4i1.1-17
+  - https://doi.org/10.17605/osf.io/r4n9t
+  - https://doi.org/10.1515/humaff-2026-0011
+  relevance: MODERATE
+  direction: TOWARD_YES
+  trajectory_sources:
+  - https://aiweekly.co/alerts/microsoft-paper-warns-ai-use-erodes-critical-thinking-at-work
+  - https://www.dailycal.org/news/campus/research-and-ideas/uc-berkeley-researcher-discovers-just-10-minutes-of-ai-use-impairs-problem-solving-abilities/article_da5824c7-0b2c-4299-9cff-37c3c38d55a1.html
+  - https://www.neotechnews.com/article/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things-50041765
+  - https://doi.org/10.1080/23735082.2026.2742938
